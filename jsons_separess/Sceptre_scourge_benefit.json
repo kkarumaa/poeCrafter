@@ -1,0 +1,1283 @@
+{
+    "HellscapeUpsideChanceToFreeze1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "HellscapeUpsideChanceToFreeze1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "HellscapeUpsideChanceToFreeze1h4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "HellscapeUpsideChanceToIgnite1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "HellscapeUpsideChanceToIgnite1h3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "HellscapeUpsideChanceToIgnite1h4___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "HellscapeUpsideChanceToShock1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "HellscapeUpsideChanceToShock1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "HellscapeUpsideChanceToShock1h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "HellscapeUpsideGlobalIncreaseChaosSpellSkillGemLevel1h": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "dagger",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseChaosSpellSkillGemLevel"
+    },
+    "HellscapeUpsideGlobalIncreaseColdSpellSkillGemLevel1h_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "dagger",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseColdSpellSkillGemLevel"
+    },
+    "HellscapeUpsideGlobalIncreaseFireSpellSkillGemLevel1h": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "dagger",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseFireSpellSkillGemLevel"
+    },
+    "HellscapeUpsideGlobalIncreaseLightningSpellSkillGemLevel1h_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "dagger",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseLightningSpellSkillGemLevel"
+    },
+    "HellscapeUpsideGlobalIncreasePhysicalSpellSkillGemLevel1h__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "physical",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "dagger",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreasePhysicalSpellSkillGemLevel"
+    },
+    "HellscapeUpsideIgniteDamageFaster1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_burn_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "FasterIgniteDamage"
+    },
+    "HellscapeUpsideIgniteDamageFaster1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_burn_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "FasterIgniteDamage"
+    },
+    "HellscapeUpsideIgniteDamageFaster1h4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_burn_%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "FasterIgniteDamage"
+    },
+    "HellscapeUpsideInflictColdExposureOnHit1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_cold_exposure_on_hit_%_chance",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ColdExposureOnHit"
+    },
+    "HellscapeUpsideInflictColdExposureOnHit1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_cold_exposure_on_hit_%_chance",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ColdExposureOnHit"
+    },
+    "HellscapeUpsideInflictColdExposureOnHit1h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_cold_exposure_on_hit_%_chance",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "ColdExposureOnHit"
+    },
+    "HellscapeUpsideInflictFireExposureOnHit1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_fire_exposure_on_hit_%_chance",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "FireExposureOnHit"
+    },
+    "HellscapeUpsideInflictFireExposureOnHit1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_fire_exposure_on_hit_%_chance",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "FireExposureOnHit"
+    },
+    "HellscapeUpsideInflictFireExposureOnHit1h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_fire_exposure_on_hit_%_chance",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "FireExposureOnHit"
+    },
+    "HellscapeUpsideInflictLightningExposureOnHit1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_lightning_exposure_on_hit_%_chance",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "LightningExposureOnHit"
+    },
+    "HellscapeUpsideInflictLightningExposureOnHit1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_lightning_exposure_on_hit_%_chance",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "LightningExposureOnHit"
+    },
+    "HellscapeUpsideInflictLightningExposureOnHit1h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_lightning_exposure_on_hit_%_chance",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "LightningExposureOnHit"
+    },
+    "HellscapeUpsideStunThreshold2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunThresholdReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_threshold_reduction_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "StunThresholdReduction"
+    },
+    "HellscapeUpsideStunThreshold3____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunThresholdReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_threshold_reduction_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "StunThresholdReduction"
+    },
+    "HellscapeUpsideStunThreshold4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunThresholdReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_threshold_reduction_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "StunThresholdReduction"
+    }
+}

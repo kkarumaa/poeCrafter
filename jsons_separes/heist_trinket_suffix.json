@@ -1,0 +1,1458 @@
+{
+    "HeistTrinketAdditionalAbyssRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalAbyssRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_abyss_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalAbyssRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalAbyssRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalAbyssRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_abyss_rewards_from_reward_chests_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketAdditionalAbyssRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalAbyssRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalAbyssRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_abyss_rewards_from_reward_chests_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalAbyssRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalArmourRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalArmourRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_armour_rewards_from_reward_chests_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalArmourRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalArmourRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalArmourRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_armour_rewards_from_reward_chests_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "HeistTrinketAdditionalArmourRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalArmourRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalArmourRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_armour_rewards_from_reward_chests_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "HeistTrinketAdditionalArmourRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalBlightRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalBlightRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_blight_rewards_from_reward_chests_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketAdditionalBlightRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalBlightRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalBlightRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_blight_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalBlightRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalBlightRewardsFromRewardChests3__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalBlightRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_blight_rewards_from_reward_chests_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketAdditionalBlightRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalBreachRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalBreachRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_breach_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalBreachRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalBreachRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalBreachRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_breach_rewards_from_reward_chests_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketAdditionalBreachRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalBreachRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalBreachRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_breach_rewards_from_reward_chests_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalBreachRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalDeliriumRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalDeliriumRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_delirium_rewards_from_reward_chests_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketAdditionalDeliriumRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalDeliriumRewardsFromRewardChests2_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalDeliriumRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 25
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_delirium_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalDeliriumRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalDelveRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalDelveRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_delve_rewards_from_reward_chests_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketAdditionalDelveRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalDelveRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalDelveRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_delve_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalDelveRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalDelveRewardsFromRewardChests3_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalDelveRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_delve_rewards_from_reward_chests_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketAdditionalDelveRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalDivinationRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalDivinationRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_divination_rewards_from_reward_chests_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalDivinationRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalDivinationRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalDivinationRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_divination_rewards_from_reward_chests_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketAdditionalDivinationRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalDivinationRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalDivinationRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_divination_rewards_from_reward_chests_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistTrinketAdditionalDivinationRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalEssencesRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalEssencesRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_essences_rewards_from_reward_chests_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketAdditionalEssencesRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalEssencesRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalEssencesRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_essences_rewards_from_reward_chests_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalEssencesRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalEssencesRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalEssencesRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_essences_rewards_from_reward_chests_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketAdditionalEssencesRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalGemsRewardsFromRewardChests1__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalGemsRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_gems_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalGemsRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalGemsRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalGemsRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_gems_rewards_from_reward_chests_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketAdditionalGemsRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalGemsRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalGemsRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_gems_rewards_from_reward_chests_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalGemsRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalHarbingerRewardsFromRewardChests1___": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalHarbingerRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_harbinger_rewards_from_reward_chests_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketAdditionalHarbingerRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalHarbingerRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalHarbingerRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_harbinger_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalHarbingerRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalHarbingerRewardsFromRewardChests3__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalHarbingerRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_harbinger_rewards_from_reward_chests_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketAdditionalHarbingerRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalJewelleryRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalJewelleryRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_jewellery_rewards_from_reward_chests_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalJewelleryRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalJewelleryRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalJewelleryRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_jewellery_rewards_from_reward_chests_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketAdditionalJewelleryRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalJewelleryRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalJewelleryRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_jewellery_rewards_from_reward_chests_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistTrinketAdditionalJewelleryRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalLegionRewardsFromRewardChests1__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalLegionRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_legion_rewards_from_reward_chests_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketAdditionalLegionRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalLegionRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalLegionRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_legion_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalLegionRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalLegionRewardsFromRewardChests3_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalLegionRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_legion_rewards_from_reward_chests_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketAdditionalLegionRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalMetamorphRewardsFromRewardChests1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalMetamorphRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_metamorph_rewards_from_reward_chests_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketAdditionalMetamorphRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalMetamorphRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalMetamorphRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 25
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_metamorph_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalMetamorphRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalTalismanRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalTalismanRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_talisman_rewards_from_reward_chests_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalTalismanRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalTalismanRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalTalismanRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_talisman_rewards_from_reward_chests_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketAdditionalTalismanRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalTalismanRewardsFromRewardChests3_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalTalismanRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_talisman_rewards_from_reward_chests_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistTrinketAdditionalTalismanRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalUniquesRewardsFromRewardChests1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalUniquesRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_uniques_rewards_from_reward_chests_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketAdditionalUniquesRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalUniquesRewardsFromRewardChests2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalUniquesRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 25
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_uniques_rewards_from_reward_chests_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketAdditionalUniquesRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalUniquesRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalUniquesRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_uniques_rewards_from_reward_chests_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistTrinketAdditionalUniquesRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalWeaponsRewardsFromRewardChests1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalWeaponsRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_weapons_rewards_from_reward_chests_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketAdditionalWeaponsRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalWeaponsRewardsFromRewardChests2_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalWeaponsRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_weapons_rewards_from_reward_chests_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "HeistTrinketAdditionalWeaponsRewardsFromRewardChests"
+    },
+    "HeistTrinketAdditionalWeaponsRewardsFromRewardChests3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketAdditionalWeaponsRewardsFromRewardChests"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_additional_weapons_rewards_from_reward_chests_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "HeistTrinketAdditionalWeaponsRewardsFromRewardChests"
+    },
+    "HeistTrinketChestsDoubleCurrency1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketChestsDoubleCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_chests_double_currency_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketChestsDoubleCurrency"
+    },
+    "HeistTrinketChestsDoubleCurrency2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketChestsDoubleCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 25
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_chests_double_currency_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketChestsDoubleCurrency"
+    },
+    "HeistTrinketChestsDoubleCurrency3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketChestsDoubleCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 10
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_chests_double_currency_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketChestsDoubleCurrency"
+    },
+    "HeistTrinketChestsUniqueRarity1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketChestsUniqueRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_chests_unique_rarity_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketChestsUniqueRarity"
+    },
+    "HeistTrinketChestsUniqueRarity2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketChestsUniqueRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_chests_unique_rarity_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "HeistTrinketChestsUniqueRarity"
+    },
+    "HeistTrinketChestsUniqueRarity3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketChestsUniqueRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Superstition",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_chests_unique_rarity_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "HeistTrinketChestsUniqueRarity"
+    }
+}

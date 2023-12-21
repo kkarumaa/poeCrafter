@@ -1,0 +1,2480 @@
+{
+    "HellscapeUpsideAreaDamage1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "area_damage_+%",
+                "max": 15,
+                "min": 11
+            }
+        ],
+        "type": "AreaDamage"
+    },
+    "HellscapeUpsideAreaDamage2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "area_damage_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "AreaDamage"
+    },
+    "HellscapeUpsideAreaDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "area_damage_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "AreaDamage"
+    },
+    "HellscapeUpsideAreaDamage4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "area_damage_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "AreaDamage"
+    },
+    "HellscapeUpsideAreaOfEffect1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "AreaOfEffect"
+    },
+    "HellscapeUpsideAreaOfEffect2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 11,
+                "min": 11
+            }
+        ],
+        "type": "AreaOfEffect"
+    },
+    "HellscapeUpsideAreaOfEffect3____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "AreaOfEffect"
+    },
+    "HellscapeUpsideAreaOfEffect4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 13,
+                "min": 13
+            }
+        ],
+        "type": "AreaOfEffect"
+    },
+    "HellscapeUpsideBasePenetrateElementalResistances2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BasePenetrateElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_penetrate_elemental_resistances_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "BasePenetrateElementalResistances"
+    },
+    "HellscapeUpsideBasePenetrateElementalResistances3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BasePenetrateElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_penetrate_elemental_resistances_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "BasePenetrateElementalResistances"
+    },
+    "HellscapeUpsideBasePenetrateElementalResistances4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BasePenetrateElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_penetrate_elemental_resistances_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "BasePenetrateElementalResistances"
+    },
+    "HellscapeUpsideCannotGainCorruptedBloodWhileYouHaveAtLeast5Stacks1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotGainCorruptedBloodWhileYouHaveAtLeast5Stacks"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_gain_corrupted_blood_while_you_have_at_least_5_stacks",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotGainCorruptedBloodWhileYouHaveAtLeast5Stacks"
+    },
+    "HellscapeUpsideChaosDamageLeechedAsLife2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_chaos_damage_permyriad",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "ChaosDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideChaosDamageLeechedAsLife3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_chaos_damage_permyriad",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "ChaosDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideChaosDamageLeechedAsLife4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_chaos_damage_permyriad",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "ChaosDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideChaosPenetration1h2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistancePenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 50
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_chaos_resistance_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "ChaosResistancePenetration"
+    },
+    "HellscapeUpsideChaosPenetration1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistancePenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 50
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_chaos_resistance_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "ChaosResistancePenetration"
+    },
+    "HellscapeUpsideChaosPenetration1h4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistancePenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 50
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_chaos_resistance_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "ChaosResistancePenetration"
+    },
+    "HellscapeUpsideChillEnemiesWhenHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChillEnemiesWhenHit"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_enemy_when_hit_duration_ms",
+                "max": 4000,
+                "min": 4000
+            }
+        ],
+        "type": "ChillEnemiesWhenHit"
+    },
+    "HellscapeUpsideChillEnemiesWhenHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChillEnemiesWhenHit"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_enemy_when_hit_duration_ms",
+                "max": 5000,
+                "min": 5000
+            }
+        ],
+        "type": "ChillEnemiesWhenHit"
+    },
+    "HellscapeUpsideColdDamageLeechedAsLife2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_cold_damage_permyriad",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "ColdDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideColdDamageLeechedAsLife3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_cold_damage_permyriad",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "ColdDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideColdDamageLeechedAsLife4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_cold_damage_permyriad",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "ColdDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideColdPenetration1h2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "HellscapeUpsideColdPenetration1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "HellscapeUpsideColdPenetration1h4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "HellscapeUpsideCriticalStrikeChance2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "HellscapeUpsideCriticalStrikeChance3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "HellscapeUpsideCriticalStrikeChance4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "HellscapeUpsideCriticalStrikeMultiplier2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "HellscapeUpsideCriticalStrikeMultiplier3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "HellscapeUpsideCriticalStrikeMultiplier4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "HellscapeUpsideDamageOverTimeMultiplier2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideDamageOverTimeMultiplier3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideDamageOverTimeMultiplier4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideDexterityPercent3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentageDexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dexterity_+%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "PercentageDexterity"
+    },
+    "HellscapeUpsideDexterityPercent4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentageDexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dexterity_+%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "PercentageDexterity"
+    },
+    "HellscapeUpsideFireDamageLeechedAsLife2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_fire_damage_permyriad",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "FireDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideFireDamageLeechedAsLife3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_fire_damage_permyriad",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "FireDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideFireDamageLeechedAsLife4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_fire_damage_permyriad",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "FireDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideFirePenetration1h2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "HellscapeUpsideFirePenetration1h3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "HellscapeUpsideFirePenetration1h4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "HellscapeUpsideIncreasedCastSpeed1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "HellscapeUpsideIncreasedCastSpeed2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "HellscapeUpsideIncreasedCastSpeed3_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 7,
+                "min": 7
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "HellscapeUpsideIncreasedCastSpeed4_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "HellscapeUpsideIntelligencePercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentageIntelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "intelligence_+%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "PercentageIntelligence"
+    },
+    "HellscapeUpsideIntelligencePercent4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentageIntelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "intelligence_+%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "PercentageIntelligence"
+    },
+    "HellscapeUpsideLightningDamageLeechedAsLife2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_lightning_damage_permyriad",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "LightningDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideLightningDamageLeechedAsLife3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_lightning_damage_permyriad",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "LightningDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideLightningDamageLeechedAsLife4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_lightning_damage_permyriad",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "LightningDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideLightningPenetration1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "HellscapeUpsideLightningPenetration1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "HellscapeUpsideLightningPenetration1h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "HellscapeUpsidePhysicalDamageLeechedAsLife2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_physical_damage_permyriad",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "PhysicalDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsidePhysicalDamageLeechedAsLife3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_physical_damage_permyriad",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "PhysicalDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsidePhysicalDamageLeechedAsLife4____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_physical_damage_permyriad",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "PhysicalDamageLifeLeechPermyriad"
+    },
+    "HellscapeUpsideReservationEfficiency3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedManaReservationsCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_reservation_efficiency_-2%_per_1",
+                "max": -3,
+                "min": -4
+            }
+        ],
+        "type": "ReducedReservation"
+    },
+    "HellscapeUpsideReservationEfficiency4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedManaReservationsCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_reservation_efficiency_-2%_per_1",
+                "max": -5,
+                "min": -6
+            }
+        ],
+        "type": "ReducedReservation"
+    },
+    "HellscapeUpsideStrengthPercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentageStrength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "strength_+%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "PercentageStrength"
+    },
+    "HellscapeUpsideStrengthPercent4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentageStrength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "strength_+%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "PercentageStrength"
+    },
+    "HellscapeUpsideWarcrySpeed2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WarcrySpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "warcry_speed_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "WarcrySpeed"
+    },
+    "HellscapeUpsideWarcrySpeed3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WarcrySpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "warcry_speed_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "WarcrySpeed"
+    },
+    "HellscapeUpsideWarcrySpeed4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WarcrySpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "warcry_speed_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "WarcrySpeed"
+    }
+}

@@ -1,0 +1,3142 @@
+{
+    "AdditionalArrowQuiver1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalArrows"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Splintering",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_additional_arrows",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalArrows"
+    },
+    "AdditionalPhysicalDamageReduction1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Watchman",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_additional_physical_damage_reduction_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "ReducedPhysicalDamageTaken"
+    },
+    "AdditionalPhysicalDamageReduction2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sentry",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_additional_physical_damage_reduction_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "ReducedPhysicalDamageTaken"
+    },
+    "AdditionalPhysicalDamageReduction3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Keeper",
+        "required_level": 67,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_additional_physical_damage_reduction_%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "ReducedPhysicalDamageTaken"
+    },
+    "AdditionalPhysicalDamageReduction4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Protector",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_additional_physical_damage_reduction_%",
+                "max": 7,
+                "min": 7
+            }
+        ],
+        "type": "ReducedPhysicalDamageTaken"
+    },
+    "AdditionalPhysicalDamageReduction5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Conservator",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_additional_physical_damage_reduction_%",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "ReducedPhysicalDamageTaken"
+    },
+    "ChanceToSuppressSpells1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Rebuttal",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpells2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Snuffing",
+        "required_level": 57,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpells3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Revoking",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpells4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abjuration",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpells5__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Nullification",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 14,
+                "min": 13
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpellsHigh1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Rebuttal",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpellsHigh2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Snuffing",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpellsHigh3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Revoking",
+        "required_level": 67,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpellsHigh4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abjuration",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "ChanceToSuppressSpellsHigh5___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Nullification",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "CriticalMultiplierWithBows1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Ire",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "CriticalMultiplierWithBows2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Anger",
+        "required_level": 21,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 19,
+                "min": 13
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "CriticalMultiplierWithBows3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Rage",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 24,
+                "min": 20
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "CriticalMultiplierWithBows4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Fury",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 29,
+                "min": 25
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "CriticalMultiplierWithBows5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Ferocity",
+        "required_level": 59,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 34,
+                "min": 30
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "CriticalMultiplierWithBows6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Destruction",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 38,
+                "min": 35
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "CriticalStrikeChanceWithBows1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Needling",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "CriticalStrikeChanceWithBows2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Stinging",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 19,
+                "min": 15
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "CriticalStrikeChanceWithBows3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Piercing",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 24,
+                "min": 20
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "CriticalStrikeChanceWithBows4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Rupturing",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 29,
+                "min": 25
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "CriticalStrikeChanceWithBows5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Penetrating",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 34,
+                "min": 30
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "CriticalStrikeChanceWithBows6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Incision",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 38,
+                "min": 35
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "CriticalStrikeChanceWithBows7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Rending",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 44,
+                "min": 39
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "EnergyShieldRechargeRate1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Allaying",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 26,
+                "min": 24
+            }
+        ],
+        "type": "EnergyShieldRegeneration"
+    },
+    "EnergyShieldRechargeRate2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Diffusion",
+        "required_level": 57,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 29,
+                "min": 27
+            }
+        ],
+        "type": "EnergyShieldRegeneration"
+    },
+    "EnergyShieldRechargeRate3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Dispersal",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 32,
+                "min": 30
+            }
+        ],
+        "type": "EnergyShieldRegeneration"
+    },
+    "EnergyShieldRechargeRate4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Buffering",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "EnergyShieldRegeneration"
+    },
+    "EnergyShieldRechargeRate5______": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Ardour",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 38,
+                "min": 36
+            }
+        ],
+        "type": "EnergyShieldRegeneration"
+    },
+    "FasterStartEnergyShieldRecharge1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldDelay"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Enlivening",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_delay_-%",
+                "max": 34,
+                "min": 27
+            }
+        ],
+        "type": "EnergyShieldDelay"
+    },
+    "FasterStartEnergyShieldRecharge2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldDelay"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Zest",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_delay_-%",
+                "max": 42,
+                "min": 35
+            }
+        ],
+        "type": "EnergyShieldDelay"
+    },
+    "FasterStartEnergyShieldRecharge3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldDelay"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Galvanising",
+        "required_level": 67,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_delay_-%",
+                "max": 50,
+                "min": 43
+            }
+        ],
+        "type": "EnergyShieldDelay"
+    },
+    "FasterStartEnergyShieldRecharge4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldDelay"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Vigour",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_delay_-%",
+                "max": 58,
+                "min": 51
+            }
+        ],
+        "type": "EnergyShieldDelay"
+    },
+    "FasterStartEnergyShieldRecharge5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldDelay"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Second Wind",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_delay_-%",
+                "max": 66,
+                "min": 59
+            }
+        ],
+        "type": "EnergyShieldDelay"
+    },
+    "GlobalDamageOverTimeMultiplierWithAttacks1h1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Acrimony",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_over_time_multiplier_+_with_attacks",
+                "max": 11,
+                "min": 7
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplierWithAttacks"
+    },
+    "GlobalDamageOverTimeMultiplierWithAttacks1h2___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Dispersion",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_over_time_multiplier_+_with_attacks",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplierWithAttacks"
+    },
+    "GlobalDamageOverTimeMultiplierWithAttacks1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Liquefaction",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_over_time_multiplier_+_with_attacks",
+                "max": 19,
+                "min": 16
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplierWithAttacks"
+    },
+    "GlobalDamageOverTimeMultiplierWithAttacks1h4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Melting",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_over_time_multiplier_+_with_attacks",
+                "max": 23,
+                "min": 20
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplierWithAttacks"
+    },
+    "GlobalDamageOverTimeMultiplierWithAttacks1h5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Dissolution",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_over_time_multiplier_+_with_attacks",
+                "max": 26,
+                "min": 24
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplierWithAttacks"
+    },
+    "LifeRegenerationRate1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Esprit",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "LifeRegenerationRate2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Perpetuity",
+        "required_level": 57,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "LifeRegenerationRate3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Vivification",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "LifeRegenerationRate4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Youth",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": 19,
+                "min": 18
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "LifeRegenerationRate5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Everlasting",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": 21,
+                "min": 20
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "ProjectileSpeed1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Darting",
+        "required_level": 14,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 17,
+                "min": 10
+            }
+        ],
+        "type": "ProjectileSpeed"
+    },
+    "ProjectileSpeed2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Flight",
+        "required_level": 27,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 25,
+                "min": 18
+            }
+        ],
+        "type": "ProjectileSpeed"
+    },
+    "ProjectileSpeed3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Propulsion",
+        "required_level": 41,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 33,
+                "min": 26
+            }
+        ],
+        "type": "ProjectileSpeed"
+    },
+    "ProjectileSpeed4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Zephyr",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 41,
+                "min": 34
+            }
+        ],
+        "type": "ProjectileSpeed"
+    },
+    "ProjectileSpeed5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Gale",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 46,
+                "min": 42
+            }
+        ],
+        "type": "ProjectileSpeed"
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "HellscapeDownsideDexterityRequirement0__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeDownsideDexterityRequirement"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_dexterity_requirement_+",
+                "max": 30,
+                "min": 21
+            }
+        ],
+        "type": "HellscapeDownsideDexterityRequirement"
+    },
+    "HellscapeDownsideDexterityRequirement1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeDownsideDexterityRequirement"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_dexterity_requirement_+",
+                "max": 50,
+                "min": 36
+            }
+        ],
+        "type": "HellscapeDownsideDexterityRequirement"
+    },
+    "HellscapeDownsideDexterityRequirement2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeDownsideDexterityRequirement"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_dexterity_requirement_+",
+                "max": 125,
+                "min": 75
+            }
+        ],
+        "type": "HellscapeDownsideDexterityRequirement"
+    },
+    "HellscapeDownsideDexterityRequirement3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeDownsideDexterityRequirement"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_dexterity_requirement_+",
+                "max": 200,
+                "min": 150
+            }
+        ],
+        "type": "HellscapeDownsideDexterityRequirement"
+    }
+}

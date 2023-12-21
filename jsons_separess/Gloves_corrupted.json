@@ -1,0 +1,599 @@
+{
+    "CriticalWeaknessSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "AssassinsMark",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_critical_weakness_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "CriticalWeaknessSkill"
+    },
+    "CurseOnHitElementalWeaknessCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitLevelElementalWeakness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_elemental_weakness",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitLevelElementalWeakness"
+    },
+    "CurseOnHitTemporalChainsCurruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitLevelTemporalChains"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_temporal_chains",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitLevelTemporalChains"
+    },
+    "CurseOnHitVulnerabilityCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitLevelVulnerability"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_vulnerability",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitLevelVulnerability"
+    },
+    "SupportedByCastOnCritCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportCastOnCrit",
+                "level": 12
+            },
+            {
+                "granted_effect_id": "SupportCastOnCritTriggered",
+                "level": 12
+            }
+        ],
+        "groups": [
+            "SupportedByTrigger"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_cast_on_crit_level",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "SupportedByCastOnCrit"
+    },
+    "SupportedByCastOnStunCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportCastOnStunned",
+                "level": 12
+            }
+        ],
+        "groups": [
+            "SupportedByTrigger"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_cast_when_stunned_level",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "SupportedByCastOnStun"
+    },
+    "V2CurseOnHitDespair": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitDespair"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_despair",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitDespair"
+    },
+    "V2CurseOnHitElementalWeaknessCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitLevelElementalWeakness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_elemental_weakness",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitLevelElementalWeakness"
+    },
+    "V2CurseOnHitEnfeeble": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitEnfeeble"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_enfeeble",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitEnfeeble"
+    },
+    "V2CurseOnHitTemporalChainsCurrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitLevelTemporalChains"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_temporal_chains",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitLevelTemporalChains"
+    },
+    "V2CurseOnHitVulnerabilityCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitLevelVulnerability"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_vulnerability",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitLevelVulnerability"
+    },
+    "V2IncreasedAtackCriticalStrikeCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalCriticalStrikeChanceWithAttacks"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_additional_critical_strike_chance_permyriad",
+                "max": 80,
+                "min": 50
+            }
+        ],
+        "type": "AdditionalCriticalStrikeChanceWithAttacks"
+    },
+    "V2IncreasedAttackSpeedCorrupted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "V2IncreasedCastSpeedCorrupted_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "V2IncreasedSpellCriticalStrikeCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalCriticalStrikeChanceWithSpells"
+        ],
+        "implicit_tags": [
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_additional_critical_strike_chance_permyriad",
+                "max": 80,
+                "min": 50
+            }
+        ],
+        "type": "AdditionalCriticalStrikeChanceWithSpells"
+    },
+    "V2MaxFrenzyChargesCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumFrenzyCharges"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "max_frenzy_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumFrenzyCharges"
+    }
+}

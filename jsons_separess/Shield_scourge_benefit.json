@@ -1,0 +1,1330 @@
+{
+    "HellscapeUpsideAttackerTakesDamageNoRange1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackerTakesDamageNoRange"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_to_return_to_melee_attacker",
+                "max": 40,
+                "min": 20
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "AttackerTakesDamageNoRange"
+    },
+    "HellscapeUpsideAttackerTakesDamageNoRange2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackerTakesDamageNoRange"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_to_return_to_melee_attacker",
+                "max": 60,
+                "min": 41
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "AttackerTakesDamageNoRange"
+    },
+    "HellscapeUpsideAttackerTakesDamageNoRange3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackerTakesDamageNoRange"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_to_return_to_melee_attacker",
+                "max": 80,
+                "min": 61
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "AttackerTakesDamageNoRange"
+    },
+    "HellscapeUpsideAttackerTakesDamageNoRange4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackerTakesDamageNoRange"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_to_return_to_melee_attacker",
+                "max": 100,
+                "min": 81
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "AttackerTakesDamageNoRange"
+    },
+    "HellscapeUpsideAvoidElementalStatusAilments2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "AvoidElementalStatusAilments"
+    },
+    "HellscapeUpsideAvoidElementalStatusAilments3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "AvoidElementalStatusAilments"
+    },
+    "HellscapeUpsideAvoidElementalStatusAilments4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "AvoidElementalStatusAilments"
+    },
+    "HellscapeUpsideBlockAttacks1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_block_%",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "AdditionalBlock"
+    },
+    "HellscapeUpsideBlockAttacks2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_block_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "AdditionalBlock"
+    },
+    "HellscapeUpsideBlockAttacks3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_block_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "AdditionalBlock"
+    },
+    "HellscapeUpsideBlockAttacks4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_block_%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "AdditionalBlock"
+    },
+    "HellscapeUpsideChillOnBlock1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToChillAttackersOnBlock"
+        ],
+        "implicit_tags": [
+            "block",
+            "red_herring",
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_attackers_for_4_seconds_on_block_%_chance",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "ChanceToChillAttackersOnBlock"
+    },
+    "HellscapeUpsideChillOnBlock2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToChillAttackersOnBlock"
+        ],
+        "implicit_tags": [
+            "block",
+            "red_herring",
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_attackers_for_4_seconds_on_block_%_chance",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "ChanceToChillAttackersOnBlock"
+    },
+    "HellscapeUpsideChillOnBlock3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToChillAttackersOnBlock"
+        ],
+        "implicit_tags": [
+            "block",
+            "red_herring",
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_attackers_for_4_seconds_on_block_%_chance",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToChillAttackersOnBlock"
+    },
+    "HellscapeUpsideChillOnBlock4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToChillAttackersOnBlock"
+        ],
+        "implicit_tags": [
+            "block",
+            "red_herring",
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_attackers_for_4_seconds_on_block_%_chance",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "ChanceToChillAttackersOnBlock"
+    },
+    "HellscapeUpsideCurseEffect3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "HellscapeUpsideCurseEffect4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "HellscapeUpsideElementalResistance1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "HellscapeUpsideElementalResistance2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "HellscapeUpsideElementalResistance3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "HellscapeUpsideElementalResistance4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "HellscapeUpsideGainManaAsExtraEnergyShield3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GainManaAsExtraEnergyShield"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_%_to_add_as_energy_shield",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "GainManaAsExtraEnergyShield"
+    },
+    "HellscapeUpsideGainManaAsExtraEnergyShield4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GainManaAsExtraEnergyShield"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_%_to_add_as_energy_shield",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "GainManaAsExtraEnergyShield"
+    },
+    "HellscapeUpsideIncreaseSocketedSupportGemQuality3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SupportGemQuality"
+        ],
+        "implicit_tags": [
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_support_gem_quality_+",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "IncreaseSocketedSupportGemQuality"
+    },
+    "HellscapeUpsideIncreaseSocketedSupportGemQuality4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SupportGemQuality"
+        ],
+        "implicit_tags": [
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_support_gem_quality_+",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "IncreaseSocketedSupportGemQuality"
+    },
+    "HellscapeUpsideMaximumChaosResistance1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_chaos_damage_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumChaosResistance"
+    },
+    "HellscapeUpsideMaximumColdResistance1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumColdResist"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_cold_damage_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumColdResist"
+    },
+    "HellscapeUpsideMaximumElementalResistance1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_elemental_resistances_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumElementalResistance"
+    },
+    "HellscapeUpsideMaximumFireResistance1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumFireResist"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_fire_damage_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumFireResist"
+    },
+    "HellscapeUpsideMaximumLightningResistance1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_lightning_damage_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumLightningResistance"
+    },
+    "HellscapeUpsideShockOnBlock1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShockAttackersOnBlock"
+        ],
+        "implicit_tags": [
+            "block",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shock_attackers_for_4_seconds_on_block_%_chance",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "ChanceToShockAttackersOnBlock"
+    },
+    "HellscapeUpsideShockOnBlock2___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShockAttackersOnBlock"
+        ],
+        "implicit_tags": [
+            "block",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shock_attackers_for_4_seconds_on_block_%_chance",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "ChanceToShockAttackersOnBlock"
+    },
+    "HellscapeUpsideShockOnBlock3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShockAttackersOnBlock"
+        ],
+        "implicit_tags": [
+            "block",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shock_attackers_for_4_seconds_on_block_%_chance",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToShockAttackersOnBlock"
+    },
+    "HellscapeUpsideShockOnBlock4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShockAttackersOnBlock"
+        ],
+        "implicit_tags": [
+            "block",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shock_attackers_for_4_seconds_on_block_%_chance",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "ChanceToShockAttackersOnBlock"
+    }
+}

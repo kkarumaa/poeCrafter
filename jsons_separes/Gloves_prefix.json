@@ -1,0 +1,185 @@
+{
+    "LocalIncreasedEnergyShield8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Blazing",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 61,
+                "min": 50
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "LocalIncreasedEvasionRating8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Elusory",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 200,
+                "min": 151
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "LocalIncreasedPhysicalDamageReductionRating8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Enveloped",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 200,
+                "min": 151
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "LocalIncreasedWard8__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Engraver's",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "ward_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_ward",
+                "max": 99,
+                "min": 85
+            }
+        ],
+        "type": "LocalWard"
+    }
+}

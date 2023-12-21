@@ -1,0 +1,162 @@
+{
+    "HellscapeDownsideCannotFishFromWater_______": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotFishFromWater"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_fish_from_water",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotFishFromWater"
+    },
+    "HellscapeDownsideFishRotWhenCaught": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishRotWhenCaught"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fish_rot_when_caught",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FishRotWhenCaught"
+    },
+    "HellscapeDownsideFishingLineStrength": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingLineStrength"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_line_strength_+%",
+                "max": -30,
+                "min": -40
+            }
+        ],
+        "type": "FishingLineStrength"
+    },
+    "HellscapeDownsideFishingPoolConsumption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingPoolConsumption"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_pool_consumption_+%",
+                "max": 100,
+                "min": 50
+            }
+        ],
+        "type": "FishingPoolConsumption"
+    },
+    "HellscapeDownsideFishingReelStability": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingReelStability"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_reeling_stability_+%",
+                "max": -30,
+                "min": -60
+            }
+        ],
+        "type": "FishingReelStability"
+    }
+}

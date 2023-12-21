@@ -1,0 +1,382 @@
+{
+    "HellscapeDownsideChanceToBlockAttacks2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_block_%",
+                "max": -8,
+                "min": -10
+            }
+        ],
+        "type": "AdditionalBlock"
+    },
+    "HellscapeDownsideChanceToBlockAttacks3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_block_%",
+                "max": -12,
+                "min": -14
+            }
+        ],
+        "type": "AdditionalBlock"
+    },
+    "HellscapeDownsideCurseEffect2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": -21,
+                "min": -24
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "HellscapeDownsideCurseEffect3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": -27,
+                "min": -30
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "HellscapeDownsideMaximumChaosResistance1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_chaos_damage_resistance_%",
+                "max": -1,
+                "min": -1
+            }
+        ],
+        "type": "MaximumChaosResistance"
+    },
+    "HellscapeDownsideMaximumElementalResistance1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_elemental_resistances_%",
+                "max": -1,
+                "min": -1
+            }
+        ],
+        "type": "MaximumElementalResistance"
+    },
+    "HellscapeDownsideReducedElementalResistances0_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": -5,
+                "min": -5
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "HellscapeDownsideReducedElementalResistances1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": -6,
+                "min": -7
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "HellscapeDownsideReducedElementalResistances2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 750
+            },
+            {
+                "tag": "ring",
+                "weight": 750
+            },
+            {
+                "tag": "amulet",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": -8,
+                "min": -9
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "HellscapeDownsideReducedElementalResistances3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": -10,
+                "min": -11
+            }
+        ],
+        "type": "AllResistances"
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "HellscapeUpsideInflictColdExposureOnHit2h2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_cold_exposure_on_hit_%_chance",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "ColdExposureOnHit"
+    },
+    "HellscapeUpsideInflictColdExposureOnHit2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_cold_exposure_on_hit_%_chance",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "ColdExposureOnHit"
+    },
+    "HellscapeUpsideInflictColdExposureOnHit2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_cold_exposure_on_hit_%_chance",
+                "max": 18,
+                "min": 16
+            }
+        ],
+        "type": "ColdExposureOnHit"
+    },
+    "HellscapeUpsideInflictFireExposureOnHit2h2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_fire_exposure_on_hit_%_chance",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "FireExposureOnHit"
+    },
+    "HellscapeUpsideInflictFireExposureOnHit2h3_____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_fire_exposure_on_hit_%_chance",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "FireExposureOnHit"
+    },
+    "HellscapeUpsideInflictFireExposureOnHit2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_fire_exposure_on_hit_%_chance",
+                "max": 18,
+                "min": 16
+            }
+        ],
+        "type": "FireExposureOnHit"
+    },
+    "HellscapeUpsideInflictLightningExposureOnHit2h2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_lightning_exposure_on_hit_%_chance",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "LightningExposureOnHit"
+    },
+    "HellscapeUpsideInflictLightningExposureOnHit2h3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_lightning_exposure_on_hit_%_chance",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "LightningExposureOnHit"
+    },
+    "HellscapeUpsideInflictLightningExposureOnHit2h4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExposureOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_lightning_exposure_on_hit_%_chance",
+                "max": 18,
+                "min": 16
+            }
+        ],
+        "type": "LightningExposureOnHit"
+    }
+}

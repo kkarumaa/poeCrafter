@@ -1,0 +1,6486 @@
+{
+    "MapAtlasAdditionalAbysses2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasAdditionalAbysses"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_spawn_abysses",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_num_extra_abysses",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasAdditionalAbysses"
+    },
+    "MapAtlasAdditionalAbyssesMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasAdditionalAbysses"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_spawn_abysses",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_num_extra_abysses",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasAdditionalAbysses"
+    },
+    "MapAtlasAdditionalBreaches2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasAdditionalBreaches"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_breaches",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_breach_rules",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasAdditionalBreaches"
+    },
+    "MapAtlasAdditionalBreachesMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasAdditionalBreaches"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_breaches",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_breach_rules",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasAdditionalBreaches"
+    },
+    "MapAtlasAdditionalEssencesAndRemnantChanceMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasAdditionalEssences"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_extra_monoliths",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_essence_monolith_contains_essence_of_corruption_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasAdditionalEssencesAndRemnantChance"
+    },
+    "MapAtlasAdditionalEssencesAndRemnantChance_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasAdditionalEssences"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_extra_monoliths",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_essence_monolith_contains_essence_of_corruption_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasAdditionalEssencesAndRemnantChance"
+    },
+    "MapAtlasBetrayalIntelligence": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBetrayalIntelligence"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_betrayal_intelligence_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBetrayalIntelligence"
+    },
+    "MapAtlasBetrayalIntelligenceMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBetrayalIntelligence"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_betrayal_intelligence_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBetrayalIntelligence"
+    },
+    "MapAtlasBeyondAndExtraBeyondDemonChance": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBeyond"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_beyond_rules",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_beyond_demon_pack_size_+%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasBeyondAndExtraBeyondDemon"
+    },
+    "MapAtlasBeyondAndExtraBeyondDemonChanceMaven_____": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBeyond"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_beyond_rules",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_beyond_demon_pack_size_+%",
+                "max": 35,
+                "min": 35
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasBeyondAndExtraBeyondDemon"
+    },
+    "MapAtlasBlight": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBlight"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "map_has_blight_encounter",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_blight_league",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_num_extra_blights_",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasBlight"
+    },
+    "MapAtlasBlightMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBlight"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "map_has_blight_encounter",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_blight_league",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_num_extra_blights_",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasBlight"
+    },
+    "MapAtlasBlightOilsChanceToDropOneTierHigher": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBlightOilsChanceToDropOneTierHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_blight_oils_chance_to_drop_a_tier_higher_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_blight_tower_cost_doubled",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBlightOilsChanceToDropOneTierHigher"
+    },
+    "MapAtlasBlightOilsChanceToDropOneTierHigherMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBlightOilsChanceToDropOneTierHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_blight_oils_chance_to_drop_a_tier_higher_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_blight_tower_cost_doubled",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBlightOilsChanceToDropOneTierHigher"
+    },
+    "MapAtlasBodyguardsAndBossMapDrops2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBodyguardsAndBossMapDrops"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_boss_accompanied_by_bodyguards",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_on_complete_drop_x_additional_maps",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasBodyguardsAndBossMapDrops"
+    },
+    "MapAtlasBodyguardsAndBossMapDropsMaven__": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBodyguardsAndBossMapDrops"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_boss_accompanied_by_bodyguards",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_on_complete_drop_x_additional_maps",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapAtlasBodyguardsAndBossMapDrops"
+    },
+    "MapAtlasBossAdditionalUnique": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBossAdditionalUnique"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_boss_dropped_unique_items_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasBossAdditionalUnique"
+    },
+    "MapAtlasBossDropsConquerorMap": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBossDropsGuardianMap"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_boss_drops_additional_conqueror_map",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_boss_life_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 200,
+                "min": 200
+            },
+            {
+                "id": "map_boss_damage_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBossDropsConquerorMap"
+    },
+    "MapAtlasBossDropsConquerorMapMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBossDropsGuardianMap"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_boss_drops_additional_conqueror_map",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_boss_life_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 200,
+                "min": 200
+            },
+            {
+                "id": "map_boss_damage_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBossDropsConquerorMap"
+    },
+    "MapAtlasBossDropsElderGuardianMap": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBossDropsGuardianMap"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_boss_drops_additional_elder_guardian_map",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_boss_life_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 200,
+                "min": 200
+            },
+            {
+                "id": "map_boss_damage_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBossDropsElderGuardianMap"
+    },
+    "MapAtlasBossDropsElderGuardianMapMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBossDropsGuardianMap"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_boss_drops_additional_elder_guardian_map",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_boss_life_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 200,
+                "min": 200
+            },
+            {
+                "id": "map_boss_damage_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBossDropsElderGuardianMap"
+    },
+    "MapAtlasBossDropsShaperGuardianMap": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBossDropsGuardianMap"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_boss_drops_additional_shaper_guardian_map",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_boss_life_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 200,
+                "min": 200
+            },
+            {
+                "id": "map_boss_damage_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBossDropsShaperGuardianMap"
+    },
+    "MapAtlasBossDropsShaperGuardianMapMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBossDropsGuardianMap"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_boss_drops_additional_shaper_guardian_map",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_boss_life_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 200,
+                "min": 200
+            },
+            {
+                "id": "map_boss_damage_+%_final_from_boss_drops_guardian_map_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasBossDropsShaperGuardianMap"
+    },
+    "MapAtlasBreachIsChaos": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsChaosMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsCold": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsColdMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsFire": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsFireMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsLightning": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsLightningMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsPhysical": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasBreachIsPhysicalMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasBreachIsSpecificType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_breach_type_override",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_breaches_num_additional_chests_to_spawn",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAtlasBreachIsSpecificType"
+    },
+    "MapAtlasCapturedBeastsDuplicateChance": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasCapturedBeastsDuplicateChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_duplicate_captured_beasts_chance_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasCapturedBeastsDuplicateChance"
+    },
+    "MapAtlasCapturedBeastsDuplicateChanceMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasCapturedBeastsDuplicateChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_duplicate_captured_beasts_chance_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasCapturedBeastsDuplicateChance"
+    },
+    "MapAtlasChaosDamageAndPacks3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasChaosDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_chaos_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_players_and_monsters_chaos_damage_taken_+%",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "MapAtlasChaosDamageAndPacks"
+    },
+    "MapAtlasChaosDamageAndPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasChaosDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_chaos_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_players_and_monsters_chaos_damage_taken_+%",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "MapAtlasChaosDamageAndPacks"
+    },
+    "MapAtlasClustersOfBeaconBarrels3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_beacon_barrels",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfBeaconBarrels"
+    },
+    "MapAtlasClustersOfBeaconBarrelsMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_beacon_barrels",
+                "max": 35,
+                "min": 35
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfBeaconBarrels"
+    },
+    "MapAtlasClustersOfBloodwormBarrels3__": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_bloodworm_barrels",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfBloodwormBarrels"
+    },
+    "MapAtlasClustersOfBloodwormBarrelsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_bloodworm_barrels",
+                "max": 35,
+                "min": 35
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfBloodwormBarrels"
+    },
+    "MapAtlasClustersOfParasiteBarrels3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_parasite_barrels",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfParasiteBarrels"
+    },
+    "MapAtlasClustersOfParasiteBarrelsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_parasite_barrels",
+                "max": 35,
+                "min": 35
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfParasiteBarrels"
+    },
+    "MapAtlasClustersOfVolatileBarrels3__": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_volatile_barrels",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfVolatileBarrels"
+    },
+    "MapAtlasClustersOfVolatileBarrelsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_volatile_barrels",
+                "max": 35,
+                "min": 35
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfVolatileBarrels"
+    },
+    "MapAtlasClustersOfWealthyBarrels3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_wealthy_barrels",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfWealthyBarrels"
+    },
+    "MapAtlasClustersOfWealthyBarrelsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasClustersOfBarrels"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_area_contains_x_additional_clusters_of_wealthy_barrels",
+                "max": 35,
+                "min": 35
+            },
+            {
+                "id": "map_bonus_barrel_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MapAtlasClustersOfWealthyBarrels"
+    },
+    "MapAtlasColdDamageAndPacks3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasColdDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_cold_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_players_and_monsters_cold_damage_taken_+%",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "MapAtlasColdDamageAndPacks"
+    },
+    "MapAtlasColdDamageAndPacksMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasColdDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_cold_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_players_and_monsters_cold_damage_taken_+%",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "MapAtlasColdDamageAndPacks"
+    },
+    "MapAtlasContainsAdditionalRandomBoss": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsAdditionalInvasionBoss"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "hall_of_grandmasters",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_num_extra_invasion_bosses",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsAdditionalInvasionBoss"
+    },
+    "MapAtlasContainsAlvaMission2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsMaster",
+            "MapMission"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "elder_occupied_map",
+                "weight": 0
+            },
+            {
+                "tag": "has_atlas_mission",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_mission_id",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "display_map_mission_id",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsMission"
+    },
+    "MapAtlasContainsAlvaMissionMaven__": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsMaster",
+            "MapMission"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "elder_occupied_map",
+                "weight": 0
+            },
+            {
+                "tag": "has_atlas_mission",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_mission_id",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "display_map_mission_id",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsMission"
+    },
+    "MapAtlasContainsEinharMission2_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsMaster",
+            "MapMission"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "elder_occupied_map",
+                "weight": 0
+            },
+            {
+                "tag": "has_atlas_mission",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_mission_id",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "display_map_mission_id",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsMission"
+    },
+    "MapAtlasContainsEinharMissionMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsMaster",
+            "MapMission"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "elder_occupied_map",
+                "weight": 0
+            },
+            {
+                "tag": "has_atlas_mission",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_mission_id",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "display_map_mission_id",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsMission"
+    },
+    "MapAtlasContainsJunMission2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsMaster",
+            "MapMission"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "elder_occupied_map",
+                "weight": 0
+            },
+            {
+                "tag": "has_atlas_mission",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_mission_id",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "display_map_mission_id",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsMission"
+    },
+    "MapAtlasContainsJunMissionMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsMaster",
+            "MapMission"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "elder_occupied_map",
+                "weight": 0
+            },
+            {
+                "tag": "has_atlas_mission",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_mission_id",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "display_map_mission_id",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsMission"
+    },
+    "MapAtlasContainsNikoMission2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsMaster",
+            "MapMission"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "elder_occupied_map",
+                "weight": 0
+            },
+            {
+                "tag": "has_atlas_mission",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_mission_id",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "display_map_mission_id",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsMission"
+    },
+    "MapAtlasContainsNikoMissionMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasContainsMaster",
+            "MapMission"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "elder_occupied_map",
+                "weight": 0
+            },
+            {
+                "tag": "has_atlas_mission",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_mission_id",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "display_map_mission_id",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasContainsMission"
+    },
+    "MapAtlasCorruptedDropWithExtraVaalPacks3____": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasVaalPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_vaal_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_vaal_monster_items_drop_corrupted_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "MapAtlasCorruptedDropsWithExtraVaalPacks"
+    },
+    "MapAtlasCorruptedDropWithExtraVaalPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasVaalPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_vaal_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_vaal_monster_items_drop_corrupted_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "MapAtlasCorruptedDropsWithExtraVaalPacks"
+    },
+    "MapAtlasCorruptedMapBossesDropAdditionalVaalItems2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasCorruptedMapBossesDropAdditionalVaalItems"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_corrupted_bosses_drop_x_additional_vaal_items",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_items_drop_corrupted_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "MapAtlasCorruptedMapBossesDropAdditionalVaalItems"
+    },
+    "MapAtlasCorruptedMapBossesDropAdditionalVaalItemsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasCorruptedMapBossesDropAdditionalVaalItems"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_corrupted_bosses_drop_x_additional_vaal_items",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_items_drop_corrupted_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "MapAtlasCorruptedMapBossesDropAdditionalVaalItems"
+    },
+    "MapAtlasDelirium": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasDelirium"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_affliction_league",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_spawn_affliction_mirror",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasDelirium"
+    },
+    "MapAtlasDeliriumMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasDelirium"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_affliction_league",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_spawn_affliction_mirror",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasDelirium"
+    },
+    "MapAtlasDeliriumRewardsFillFaster": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasDeliriumRewardsFillFaster"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_affliction_reward_kills_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasDeliriumRewardsFillFaster"
+    },
+    "MapAtlasDeliriumRewardsFillFasterMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasDeliriumRewardsFillFaster"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_affliction_reward_kills_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasDeliriumRewardsFillFaster"
+    },
+    "MapAtlasExpeditionAdditionalRunicMonsterMarkers": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasExpeditionAdditionalRunicMonsterMarkers"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_expedition_elite_marker_count_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasExpeditionAdditionalRunicMonsterMarkers"
+    },
+    "MapAtlasExpeditionAdditionalRunicMonsterMarkersMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasExpeditionAdditionalRunicMonsterMarkers"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_expedition_elite_marker_count_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasExpeditionAdditionalRunicMonsterMarkers"
+    },
+    "MapAtlasFireDamageAndPacks3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasFireDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_fire_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_players_and_monsters_fire_damage_taken_+%",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "MapAtlasFireDamageAndPacks"
+    },
+    "MapAtlasFireDamageAndPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasFireDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_fire_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_players_and_monsters_fire_damage_taken_+%",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "MapAtlasFireDamageAndPacks"
+    },
+    "MapAtlasFishy": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasFishy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 10
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_fishy_effect_0",
+                "max": 100,
+                "min": 0
+            },
+            {
+                "id": "map_fishy_effect_1",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "map_fishy_effect_2",
+                "max": 10,
+                "min": 0
+            },
+            {
+                "id": "map_fishy_effect_3",
+                "max": 32767,
+                "min": 32767
+            }
+        ],
+        "type": "MapAtlasFishy"
+    },
+    "MapAtlasGloomShrineEffectAndDuration2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasDomination"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_player_shrine_effect_duration_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_num_extra_shrines",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_num_extra_gloom_shrines",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasGloomShrineEffectAndDuration"
+    },
+    "MapAtlasGloomShrineEffectAndDurationMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasDomination"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_player_shrine_effect_duration_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_num_extra_shrines",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_num_extra_gloom_shrines",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasGloomShrineEffectAndDuration"
+    },
+    "MapAtlasHarbingerAndBossAdditionalCurrencyShards": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarbinger"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_boss_drops_additional_currency_shards",
+                "max": 76,
+                "min": 76
+            },
+            {
+                "id": "map_harbingers_drops_additional_currency_shards",
+                "max": 38,
+                "min": 38
+            },
+            {
+                "id": "map_boss_accompanied_by_harbinger",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasHarbingerAndBossAdditionalCurrencyShards"
+    },
+    "MapAtlasHarbingerAndBossAdditionalCurrencyShardsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarbinger"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_boss",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_boss_drops_additional_currency_shards",
+                "max": 76,
+                "min": 76
+            },
+            {
+                "id": "map_harbingers_drops_additional_currency_shards",
+                "max": 38,
+                "min": 38
+            },
+            {
+                "id": "map_boss_accompanied_by_harbinger",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasHarbingerAndBossAdditionalCurrencyShards"
+    },
+    "MapAtlasHarvest": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarvest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_harvest_league",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_chance_for_area_%_to_contain_harvest",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasHarvest"
+    },
+    "MapAtlasHarvestMaven__": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarvest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_harvest_league",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_chance_for_area_%_to_contain_harvest",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasHarvest"
+    },
+    "MapAtlasHarvestPlotSeedsContainBlueSeeds": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarvestSeedsOneTierHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_harvest_seeds_1_of_every_2_plot_type_override",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_harvest_double_lifeforce_dropped",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_harvest_monster_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasHarvestSeedsOneTierHigher"
+    },
+    "MapAtlasHarvestPlotSeedsContainBlueSeedsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarvestSeedsOneTierHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_harvest_seeds_1_of_every_2_plot_type_override",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_harvest_double_lifeforce_dropped",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_harvest_monster_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasHarvestSeedsOneTierHigher"
+    },
+    "MapAtlasHarvestPlotSeedsContainPurpleSeeds": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarvestSeedsOneTierHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_harvest_seeds_1_of_every_2_plot_type_override",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_harvest_double_lifeforce_dropped",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_harvest_monster_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasHarvestSeedsOneTierHigher"
+    },
+    "MapAtlasHarvestPlotSeedsContainPurpleSeedsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarvestSeedsOneTierHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_harvest_seeds_1_of_every_2_plot_type_override",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_harvest_double_lifeforce_dropped",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_harvest_monster_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasHarvestSeedsOneTierHigher"
+    },
+    "MapAtlasHarvestPlotSeedsContainYellowSeeds": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarvestSeedsOneTierHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_harvest_seeds_1_of_every_2_plot_type_override",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_harvest_double_lifeforce_dropped",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_harvest_monster_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasHarvestSeedsOneTierHigher"
+    },
+    "MapAtlasHarvestPlotSeedsContainYellowSeedsMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHarvestSeedsOneTierHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_harvest_seeds_1_of_every_2_plot_type_override",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_harvest_double_lifeforce_dropped",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_harvest_monster_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasHarvestSeedsOneTierHigher"
+    },
+    "MapAtlasHeist": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHeist"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_spawn_heist_smugglers_cache",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasHeist"
+    },
+    "MapAtlasHeistContractsHaveImplicitModifier": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHeistContractsHaveImplicitModifier"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contracts_drop_with_additional_special_implicit_%_chance",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasHeistContractsHaveImplicitModifier"
+    },
+    "MapAtlasHeistContractsHaveImplicitModifierMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHeistContractsHaveImplicitModifier"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contracts_drop_with_additional_special_implicit_%_chance",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasHeistContractsHaveImplicitModifier"
+    },
+    "MapAtlasHeistMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHeist"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_spawn_heist_smugglers_cache",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasHeist"
+    },
+    "MapAtlasHighValueEnemiesOnOwnTeam": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHighValueEnemiesOnOwnTeam"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_x_additional_packs_on_their_own_team",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "MapAtlasHighValueEnemiesOnOwnTeam"
+    },
+    "MapAtlasHighValueEnemiesOnOwnTeamMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasHighValueEnemiesOnOwnTeam"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_x_additional_packs_on_their_own_team",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "MapAtlasHighValueEnemiesOnOwnTeam"
+    },
+    "MapAtlasInstantFlasksAndHealingMonsters3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasInstantFlasksAndHealingMonsters"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_player_flask_recovery_is_instant",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_contains_x_additional_healing_packs",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "MapAtlasInstantFlasksAndHealingMonsters"
+    },
+    "MapAtlasInstantFlasksAndHealingMonstersMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasInstantFlasksAndHealingMonsters"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_player_flask_recovery_is_instant",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_contains_x_additional_healing_packs",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "MapAtlasInstantFlasksAndHealingMonsters"
+    },
+    "MapAtlasLegion": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasLegion"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_legion_league",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_legion_league_extra_spawns",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasLegion"
+    },
+    "MapAtlasLegionMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasLegion"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_legion_league",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_legion_league_extra_spawns",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasLegion"
+    },
+    "MapAtlasLegionSplintersEmblemsDuplicated": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasLegionSplintersEmblemsDuplicated"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_legion_monster_splinter_emblem_drops_duplicated",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_legion_monster_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasLegionSplintersEmblemsDuplicated"
+    },
+    "MapAtlasLegionSplintersEmblemsDuplicatedMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasLegionSplintersEmblemsDuplicated"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_legion_monster_splinter_emblem_drops_duplicated",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_legion_monster_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasLegionSplintersEmblemsDuplicated"
+    },
+    "MapAtlasLightningDamageAndPacks3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasLightningDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_lightning_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_players_and_monsters_lightning_damage_taken_+%",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "MapAtlasLightningDamageAndPacks"
+    },
+    "MapAtlasLightningDamageAndPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasLightningDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_lightning_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_players_and_monsters_lightning_damage_taken_+%",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "MapAtlasLightningDamageAndPacks"
+    },
+    "MapAtlasMagicAndRareMapsHaveAdditionalPacks3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMagicAndRareMapsHaveAdditionalPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_x_additional_magic_packs_if_magic",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "map_contains_x_additional_rare_packs_if_rare",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "map_contains_x_additional_normal_packs_if_normal",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "MapAtlasMagicAndRareMapsHaveAdditionalPacks"
+    },
+    "MapAtlasMagicAndRareMapsHaveAdditionalPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMagicAndRareMapsHaveAdditionalPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_x_additional_magic_packs_if_magic",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "map_contains_x_additional_rare_packs_if_rare",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "map_contains_x_additional_normal_packs_if_normal",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "MapAtlasMagicAndRareMapsHaveAdditionalPacks"
+    },
+    "MapAtlasMagicPackSize3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMagicPackSize"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_magic_pack_size_+%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "MapAtlasMagicPackSize"
+    },
+    "MapAtlasMagicPackSizeMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMagicPackSize"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_magic_pack_size_+%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "MapAtlasMagicPackSize"
+    },
+    "MapAtlasMapDropsAreCorruptedAndHave8Modifiers": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMapDropsAreCorruptedAndHave8Modifiers"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_dropped_maps_are_corrupted_with_8_mods",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasMapDropsAreCorruptedAndHave8Modifiers"
+    },
+    "MapAtlasMapDropsAreCorruptedAndHave8ModifiersMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMapDropsAreCorruptedAndHave8Modifiers"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_dropped_maps_are_corrupted_with_8_mods",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasMapDropsAreCorruptedAndHave8Modifiers"
+    },
+    "MapAtlasMapQualityBonusAlsoAppliesToRarity": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMapQualityBonusAlsoAppliesToRarity"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_item_drop_quality_also_applies_to_map_item_drop_rarity",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_boss_maximum_life_+%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MapAtlasMapQualityBonusAlsoAppliesToRarity"
+    },
+    "MapAtlasMapsHave20PercentQuality": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMapsHave20PercentQuality"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_has_x%_quality",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "map_boss_damage_+%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MapAtlasMapsHave20PercentQuality"
+    },
+    "MapAtlasMetamorph": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMetamorph"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_area_contains_metamorphs",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasMetamorph"
+    },
+    "MapAtlasMetamorphCatalystsDuplicated": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMetamorphCatalystsDuplicated"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_metamorph_catalyst_drops_duplicated",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_metamorph_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasMetamorphCatalystsDuplicated"
+    },
+    "MapAtlasMetamorphCatalystsDuplicatedMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMetamorphCatalystsDuplicated"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_metamorph_catalyst_drops_duplicated",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_metamorph_life_+%_final_from_sextant",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasMetamorphCatalystsDuplicated"
+    },
+    "MapAtlasMetamorphMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMetamorph"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_area_contains_metamorphs",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasMetamorph"
+    },
+    "MapAtlasMontersThatConvertOnDeath3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMontersThatConvertOnDeath"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_x_additional_packs_that_convert_on_death",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "MapAtlasMontersThatConvertOnDeath"
+    },
+    "MapAtlasMontersThatConvertOnDeathMaven__": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasMontersThatConvertOnDeath"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_x_additional_packs_that_convert_on_death",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "MapAtlasMontersThatConvertOnDeath"
+    },
+    "MapAtlasNoSoulGainPreventionWithExtraVaalPacks3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasVaalPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_vaal_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_player_disable_soul_gain_prevention",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasNoSoulGainPreventionWithExtraVaalPacks"
+    },
+    "MapAtlasNoSoulGainPreventionWithExtraVaalPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasVaalPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_vaal_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_player_disable_soul_gain_prevention",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasNoSoulGainPreventionWithExtraVaalPacks"
+    },
+    "MapAtlasPhysicalDamageAndPacks3_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasPhysicalDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_physical_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_players_and_monsters_physical_damage_taken_+%",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "MapAtlasPhysicalDamageAndPacks"
+    },
+    "MapAtlasPhysicalDamageAndPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasPhysicalDamageAndPacks"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_physical_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_players_and_monsters_physical_damage_taken_+%",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "MapAtlasPhysicalDamageAndPacks"
+    },
+    "MapAtlasReducedReflectedDamageTakenMirroredRares3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasReducedReflectedDamageTakenMirroredRares"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_players_cannot_take_reflected_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_contains_x_additional_packs_with_mirrored_rare_monsters",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "MapAtlasReducedReflectedDamageTakenMirroredRares"
+    },
+    "MapAtlasReducedReflectedDamageTakenMirroredRaresMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasReducedReflectedDamageTakenMirroredRares"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_players_cannot_take_reflected_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_contains_x_additional_packs_with_mirrored_rare_monsters",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "MapAtlasReducedReflectedDamageTakenMirroredRares"
+    },
+    "MapAtlasResonatingShrineEffectAndDuration2": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasDomination"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_player_shrine_effect_duration_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_num_extra_shrines",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_num_extra_resonating_shrines",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasResonatingShrineEffectAndDuration"
+    },
+    "MapAtlasResonatingShrineEffectAndDurationMaven_____": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasDomination"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_player_shrine_effect_duration_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_num_extra_shrines",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_num_extra_resonating_shrines",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasResonatingShrineEffectAndDuration"
+    },
+    "MapAtlasRitual": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasRitual"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_area_contains_rituals",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasRitual"
+    },
+    "MapAtlasRitualMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasRitual"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_area_contains_rituals",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasRitual"
+    },
+    "MapAtlasRitualsInAreasCanBeRerolledOnceAtNoCost": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasRitualsInAreasCanBeRerolledOnceAtNoCost"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_ritual_number_of_free_rerolls",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasRitualsInAreasCanBeRerolledOnceAtNoCost"
+    },
+    "MapAtlasRitualsInAreasCanBeRerolledOnceAtNoCostMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasRitualsInAreasCanBeRerolledOnceAtNoCost"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_ritual_number_of_free_rerolls",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasRitualsInAreasCanBeRerolledOnceAtNoCost"
+    },
+    "MapAtlasRogueExilesDamageAndDropAdditionalJewels": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasRogueExilesDamageAndDropAdditionalJewels"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_rogue_exiles_damage_+%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "map_rogue_exiles_maximum_life_+%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "map_rogue_exiles_drop_x_additional_jewels",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_spawn_extra_exiles",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasRogueExilesDamageAndDropAdditionalJewels"
+    },
+    "MapAtlasStrongboxMonstersEnrageAndDrops": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasStrongboxMonstersEnrageAndDrops"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "hall_of_grandmasters",
+                "weight": 0
+            },
+            {
+                "tag": "no_strongboxes",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_strongbox_monsters_item_quantity_+%",
+                "max": 500,
+                "min": 500
+            },
+            {
+                "id": "map_strongbox_monsters_attack_speed_+%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "map_strongbox_monsters_movement_velocity_+%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "map_num_extra_strongboxes",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasStrongboxMonstersEnrageAndDrops"
+    },
+    "MapAtlasStrongboxMonstersEnrageAndDropsMaven___": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasStrongboxMonstersEnrageAndDrops"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "hall_of_grandmasters",
+                "weight": 0
+            },
+            {
+                "tag": "no_strongboxes",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_strongbox_monsters_item_quantity_+%",
+                "max": 600,
+                "min": 600
+            },
+            {
+                "id": "map_strongbox_monsters_attack_speed_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "map_strongbox_monsters_movement_velocity_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "map_num_extra_strongboxes",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasStrongboxMonstersEnrageAndDrops"
+    },
+    "MapAtlasStrongboxesAreCorruptedAndUnided2_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasStrongboxesAreCorruptedAndUnided"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_strongboxes",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_strongboxes_are_corrupted",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_num_extra_strongboxes",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_strongboxes_minimum_rarity",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasStrongboxesAreCorruptedAndUnided"
+    },
+    "MapAtlasStrongboxesAreCorruptedAndUnidedMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasStrongboxesAreCorruptedAndUnided"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_strongboxes",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_strongboxes_are_corrupted",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_num_extra_strongboxes",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_strongboxes_minimum_rarity",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasStrongboxesAreCorruptedAndUnided"
+    },
+    "MapAtlasTormentedBetrayerAndGildedScarabDropChance": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasTorment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_tormented_betrayers",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_possessed_monsters_drop_gilded_scarab_chance_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasTormentedBetrayerAndGildedScarabDropChance"
+    },
+    "MapAtlasTormentedBetrayerAndPolishedScarabDropChance": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasTorment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_tormented_betrayers",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_possessed_monsters_drop_polished_scarab_chance_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasTormentedBetrayerAndPolishedScarabDropChance"
+    },
+    "MapAtlasTormentedBetrayerAndScarabDropChance": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasTorment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_tormented_betrayers",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_possessed_monsters_drop_rusted_scarab_chance_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasTormentedBetrayerAndRustedScarabDropChance"
+    },
+    "MapAtlasTormentedBetrayerAndWingedScarabDropChanceMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasTorment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_tormented_betrayers",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_possessed_monsters_drop_winged_scarab_chance_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasTormentedBetrayerAndWingedScarabDropChance"
+    },
+    "MapAtlasTormentedGraverobberAndUniqueDropChance": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasTorment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_tormented_graverobbers",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_possessed_monsters_drop_unique_chance_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasTormentedGraverobberAndUniqueDropChance"
+    },
+    "MapAtlasTormentedHereticAndMapDropChance": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasTorment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_tormented_heretics",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_possessed_monsters_drop_map_chance_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasTormentedHereticAndMapDropChance"
+    },
+    "MapAtlasTormentedHereticAndMapDropChanceMaven__": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasTorment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_tormented_heretics",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_possessed_monsters_drop_map_chance_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasTormentedHereticAndMapDropChance"
+    },
+    "MapAtlasUnIDedMapsGrantQuantity3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasUnIDedMapsGrantQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_unidentified_maps_item_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_equipment_drops_identified_in_identified_areas",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_pack_size_+%_in_unidentified_areas",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MapAtlasUnIDedMapsGrantQuantity"
+    },
+    "MapAtlasUnIDedMapsGrantQuantityMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasUnIDedMapsGrantQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_unidentified_maps_item_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_equipment_drops_identified_in_identified_areas",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_pack_size_+%_in_unidentified_areas",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "MapAtlasUnIDedMapsGrantQuantity"
+    },
+    "MapAtlasUniqueMonstersDropCorruptedItems2_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasUniqueMonstersDropCorruptedItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "vaults_of_atziri",
+                "weight": 0
+            },
+            {
+                "tag": "hall_of_grandmasters",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_unique_monsters_drop_corrupted_items",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasUniqueMonstersDropCorruptedItems"
+    },
+    "MapAtlasUniqueMonstersDropCorruptedItemsMaven_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasUniqueMonstersDropCorruptedItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "vaults_of_atziri",
+                "weight": 0
+            },
+            {
+                "tag": "hall_of_grandmasters",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_unique_monsters_drop_corrupted_items",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasUniqueMonstersDropCorruptedItems"
+    },
+    "MapAtlasUniqueStrongboxChanceWithExtraVaalPacks3_": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasVaalPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_vaal_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_vaal_sacrifice_strongbox_chance_per_fragment_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_vaal_mortal_strongbox_chance_per_fragment_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasUniqueStrongboxChanceWithExtraVaalPacks"
+    },
+    "MapAtlasUniqueStrongboxChanceWithExtraVaalPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasVaalPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_vaal_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_vaal_sacrifice_strongbox_chance_per_fragment_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_vaal_mortal_strongbox_chance_per_fragment_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "map_extra_content_weighting",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAtlasUniqueStrongboxChanceWithExtraVaalPacks"
+    },
+    "MapAtlasVaalSoulsOnKillAndExtraVaalPacks3": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasVaalPacks"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_contains_additional_packs_of_vaal_monsters",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "map_player_chance_to_gain_vaal_soul_on_kill_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasVaalSoulsOnKillAndExtraVaalPacks"
+    },
+    "MapAtlasVaalSoulsOnKillAndExtraVaalPacksMaven": {
+        "adds_tags": [],
+        "domain": "atlas",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAtlasVaalPacks"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sextant_uses_remaining",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "map_contains_additional_packs_of_vaal_monsters",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "map_player_chance_to_gain_vaal_soul_on_kill_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapAtlasVaalSoulsOnKillAndExtraVaalPacks"
+    }
+}

@@ -1,0 +1,3874 @@
+{
+    "HellscapeUpsideBaseFreezeDurationOnSelf3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedFreezeDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_self_freeze_duration_-%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "ReducedFreezeDuration"
+    },
+    "HellscapeUpsideBaseFreezeDurationOnSelf4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedFreezeDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_self_freeze_duration_-%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "ReducedFreezeDuration"
+    },
+    "HellscapeUpsideChanceToAvoidStun2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidStun"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_stun_%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "AvoidStun"
+    },
+    "HellscapeUpsideChanceToAvoidStun3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidStun"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_stun_%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "AvoidStun"
+    },
+    "HellscapeUpsideChanceToAvoidStun4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidStun"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_stun_%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "AvoidStun"
+    },
+    "HellscapeUpsideChanceToUnnerveOnHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToUnnerveOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_unnerve_on_hit_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToUnnerveOnHit"
+    },
+    "HellscapeUpsideChanceToUnnerveOnHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToUnnerveOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_unnerve_on_hit_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChanceToUnnerveOnHit"
+    },
+    "HellscapeUpsideChanceToUnnerveOnHit4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToUnnerveOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_unnerve_on_hit_%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "ChanceToUnnerveOnHit"
+    },
+    "HellscapeUpsideDamageTakenGainedAsLife2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenGainedAsLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_life_over_4_seconds_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "DamageTakenGainedAsLife"
+    },
+    "HellscapeUpsideDamageTakenGainedAsLife3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenGainedAsLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_life_over_4_seconds_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "DamageTakenGainedAsLife"
+    },
+    "HellscapeUpsideDamageTakenGainedAsLife4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenGainedAsLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_life_over_4_seconds_%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "DamageTakenGainedAsLife"
+    },
+    "HellscapeUpsideEnergyShieldBodyArmour1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "HellscapeUpsideEnergyShieldBodyArmour2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "HellscapeUpsideEnergyShieldBodyArmour3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "HellscapeUpsideEnergyShieldBodyArmour4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 30,
+                "min": 27
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "HellscapeUpsideEnergyShieldGlovesBoots1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "HellscapeUpsideEnergyShieldGlovesBoots2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "HellscapeUpsideEnergyShieldGlovesBoots3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 13,
+                "min": 12
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "HellscapeUpsideEnergyShieldGlovesBoots4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 15,
+                "min": 14
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "HellscapeUpsideLightRadius1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadius"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "LightRadius"
+    },
+    "HellscapeUpsideLightRadius2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadius"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "LightRadius"
+    },
+    "HellscapeUpsideLightRadius3______": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadius"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "LightRadius"
+    },
+    "HellscapeUpsideLightRadius4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadius"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "LightRadius"
+    },
+    "HellscapeUpsideLocalEvasionRatingBodyArmour1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 60,
+                "min": 31
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "HellscapeUpsideLocalEvasionRatingBodyArmour2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 90,
+                "min": 61
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "HellscapeUpsideLocalEvasionRatingBodyArmour3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 120,
+                "min": 91
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "HellscapeUpsideLocalEvasionRatingBodyArmour4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 150,
+                "min": 121
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "HellscapeUpsideLocalEvasionRatingGlovesBoots1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 33,
+                "min": 30
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "HellscapeUpsideLocalEvasionRatingGlovesBoots2___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 37,
+                "min": 34
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "HellscapeUpsideLocalEvasionRatingGlovesBoots3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 41,
+                "min": 38
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "HellscapeUpsideLocalEvasionRatingGlovesBoots4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 45,
+                "min": 42
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "HellscapeUpsideLocalPhysicalDamageReductionRatingBodyArmour1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 60,
+                "min": 31
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "HellscapeUpsideLocalPhysicalDamageReductionRatingBodyArmour2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 90,
+                "min": 61
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "HellscapeUpsideLocalPhysicalDamageReductionRatingBodyArmour3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 120,
+                "min": 91
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "HellscapeUpsideLocalPhysicalDamageReductionRatingBodyArmour4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 150,
+                "min": 121
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "HellscapeUpsideLocalPhysicalDamageReductionRatingGlovesBoots1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 33,
+                "min": 30
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "HellscapeUpsideLocalPhysicalDamageReductionRatingGlovesBoots2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 37,
+                "min": 34
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "HellscapeUpsideLocalPhysicalDamageReductionRatingGlovesBoots3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 41,
+                "min": 38
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "HellscapeUpsideLocalPhysicalDamageReductionRatingGlovesBoots4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 45,
+                "min": 42
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "HellscapeUpsideManaPercentage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumManaIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_mana_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "MaximumManaIncreasePercent"
+    },
+    "HellscapeUpsideManaPercentage4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumManaIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_mana_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "MaximumManaIncreasePercent"
+    },
+    "HellscapeUpsideManaRegenFlat1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 50,
+                "min": 45
+            }
+        ],
+        "type": "AddedManaRegeneration"
+    },
+    "HellscapeUpsideManaRegenFlat1b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 100,
+                "min": 90
+            }
+        ],
+        "type": "AddedManaRegeneration"
+    },
+    "HellscapeUpsideManaRegenFlat1c": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 170,
+                "min": 155
+            }
+        ],
+        "type": "AddedManaRegeneration"
+    },
+    "HellscapeUpsideManaRegenFlat1d__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 260,
+                "min": 240
+            }
+        ],
+        "type": "AddedManaRegeneration"
+    },
+    "HellscapeUpsideManaRegenFlat2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 340,
+                "min": 305
+            }
+        ],
+        "type": "AddedManaRegeneration"
+    },
+    "HellscapeUpsideManaRegenFlat2b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 400,
+                "min": 375
+            }
+        ],
+        "type": "AddedManaRegeneration"
+    },
+    "HellscapeUpsideManaRegenFlat3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 500,
+                "min": 480
+            }
+        ],
+        "type": "AddedManaRegeneration"
+    },
+    "HellscapeUpsideManaRegenFlat4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 550,
+                "min": 525
+            }
+        ],
+        "type": "AddedManaRegeneration"
+    },
+    "HellscapeUpsideMinionBlockAttacks2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionBlockChance"
+        ],
+        "implicit_tags": [
+            "block",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_block_%",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "MinionBlockChance"
+    },
+    "HellscapeUpsideMinionBlockAttacks3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionBlockChance"
+        ],
+        "implicit_tags": [
+            "block",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_block_%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "MinionBlockChance"
+    },
+    "HellscapeUpsideMinionBlockAttacks4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionBlockChance"
+        ],
+        "implicit_tags": [
+            "block",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_block_%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "MinionBlockChance"
+    },
+    "HellscapeUpsideMinionBlockSpells2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionBlockChance"
+        ],
+        "implicit_tags": [
+            "block",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_additional_spell_block_%",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "MinionSpellBlockChance"
+    },
+    "HellscapeUpsideMinionBlockSpells3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionBlockChance"
+        ],
+        "implicit_tags": [
+            "block",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_additional_spell_block_%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "MinionSpellBlockChance"
+    },
+    "HellscapeUpsideMinionBlockSpells4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionBlockChance"
+        ],
+        "implicit_tags": [
+            "block",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_additional_spell_block_%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "MinionSpellBlockChance"
+    },
+    "HellscapeUpsideMinionLife2___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_maximum_life_+%",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "MinionLife"
+    },
+    "HellscapeUpsideMinionLife3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_maximum_life_+%",
+                "max": 13,
+                "min": 12
+            }
+        ],
+        "type": "MinionLife"
+    },
+    "HellscapeUpsideMinionLife4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_maximum_life_+%",
+                "max": 15,
+                "min": 14
+            }
+        ],
+        "type": "MinionLife"
+    },
+    "HellscapeUpsideMinionLifeLeech2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_life_leech_from_any_damage_permyriad",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "MinionLifeLeech"
+    },
+    "HellscapeUpsideMinionLifeLeech3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_life_leech_from_any_damage_permyriad",
+                "max": 50,
+                "min": 40
+            }
+        ],
+        "type": "MinionLifeLeech"
+    },
+    "HellscapeUpsideMinionLifeLeech4___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_life_leech_from_any_damage_permyriad",
+                "max": 70,
+                "min": 60
+            }
+        ],
+        "type": "MinionLifeLeech"
+    },
+    "HellscapeUpsideMinionLifeRegenPercentage2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLifeRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_life_regeneration_rate_per_minute_%",
+                "max": 120,
+                "min": 120
+            }
+        ],
+        "type": "MinionLifeRegeneration"
+    },
+    "HellscapeUpsideMinionLifeRegenPercentage2b_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLifeRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_life_regeneration_rate_per_minute_%",
+                "max": 150,
+                "min": 150
+            }
+        ],
+        "type": "MinionLifeRegeneration"
+    },
+    "HellscapeUpsideMinionLifeRegenPercentage3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLifeRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_life_regeneration_rate_per_minute_%",
+                "max": 180,
+                "min": 180
+            }
+        ],
+        "type": "MinionLifeRegeneration"
+    },
+    "HellscapeUpsideMinionLifeRegenPercentage4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLifeRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_life_regeneration_rate_per_minute_%",
+                "max": 210,
+                "min": 210
+            }
+        ],
+        "type": "MinionLifeRegeneration"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedChaosDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyChaosDamageResistance"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_chaos_damage_resistance_%",
+                "max": -3,
+                "min": -3
+            },
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": -3,
+                "min": -3
+            }
+        ],
+        "type": "NearbyEnemyChaosDamageResistance"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedChaosDamage4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyChaosDamageResistance"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_chaos_damage_resistance_%",
+                "max": -4,
+                "min": -4
+            },
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": -4,
+                "min": -4
+            }
+        ],
+        "type": "NearbyEnemyChaosDamageResistance"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedColdDamage3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyColdDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_cold_damage_resistance_%",
+                "max": -3,
+                "min": -3
+            },
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": -3,
+                "min": -3
+            }
+        ],
+        "type": "NearbyEnemyColdDamageResistance"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedColdDamage4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyColdDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_cold_damage_resistance_%",
+                "max": -4,
+                "min": -4
+            },
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": -4,
+                "min": -4
+            }
+        ],
+        "type": "NearbyEnemyColdDamageResistance"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedFireDamage3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyFireDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_fire_damage_resistance_%",
+                "max": -3,
+                "min": -3
+            },
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": -3,
+                "min": -3
+            }
+        ],
+        "type": "NearbyEnemyFireDamageResistance"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedFireDamage4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyFireDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_fire_damage_resistance_%",
+                "max": -4,
+                "min": -4
+            },
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": -4,
+                "min": -4
+            }
+        ],
+        "type": "NearbyEnemyFireDamageResistance"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedLightningDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyLightningDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_lightning_damage_resistance_%",
+                "max": -3,
+                "min": -3
+            },
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": -3,
+                "min": -3
+            }
+        ],
+        "type": "NearbyEnemyLightningDamageResistance"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedLightningDamage4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyLightningDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_lightning_damage_resistance_%",
+                "max": -4,
+                "min": -4
+            },
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": -4,
+                "min": -4
+            }
+        ],
+        "type": "NearbyEnemyLightningDamageResistance"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedPhysicalDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_physical_damage_taken_+%",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "physical_damage_taken_+%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "NearbyEnemyPhysicalDamageTaken"
+    },
+    "HellscapeUpsideNearbyEnemiesTakeIncreasedPhysicalDamage4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_physical_damage_taken_+%",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "physical_damage_taken_+%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "NearbyEnemyPhysicalDamageTaken"
+    },
+    "HellscapeUpsidePhysicalDamageTakenAsChaos3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsChaos"
+        ],
+        "implicit_tags": [
+            "physical",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_chaos",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "PhysicalDamageTakenAsChaos"
+    },
+    "HellscapeUpsidePhysicalDamageTakenAsChaos4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsChaos"
+        ],
+        "implicit_tags": [
+            "physical",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_chaos",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "PhysicalDamageTakenAsChaos"
+    },
+    "HellscapeUpsidePhysicalDamageTakenAsCold3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_cold",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "PhysicalDamageTakenAsCold"
+    },
+    "HellscapeUpsidePhysicalDamageTakenAsCold4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_cold",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "PhysicalDamageTakenAsCold"
+    },
+    "HellscapeUpsidePhysicalDamageTakenAsFirePercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_fire",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "PhysicalDamageTakenAsFirePercent"
+    },
+    "HellscapeUpsidePhysicalDamageTakenAsFirePercent4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_fire",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "PhysicalDamageTakenAsFirePercent"
+    },
+    "HellscapeUpsidePhysicalDamageTakenAsLightningPercent3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_lightning",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "PhysicalDamageTakenAsLightningPercent"
+    },
+    "HellscapeUpsidePhysicalDamageTakenAsLightningPercent4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_lightning",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "PhysicalDamageTakenAsLightningPercent"
+    },
+    "HellscapeUpsideReducedAttributeRequirement2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalAttributeRequirements"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attribute_requirements_+%",
+                "max": -12,
+                "min": -14
+            }
+        ],
+        "type": "LocalAttributeRequirements"
+    },
+    "HellscapeUpsideReducedAttributeRequirement3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalAttributeRequirements"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attribute_requirements_+%",
+                "max": -15,
+                "min": -17
+            }
+        ],
+        "type": "LocalAttributeRequirements"
+    },
+    "HellscapeUpsideReducedAttributeRequirement4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalAttributeRequirements"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attribute_requirements_+%",
+                "max": -18,
+                "min": -20
+            }
+        ],
+        "type": "LocalAttributeRequirements"
+    },
+    "HellscapeUpsideSocketedDexterityGems": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "attribute",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_dexterity_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LocalIncreaseSocketedDexterityGemLevel"
+    },
+    "HellscapeUpsideSocketedIntelligenceGems__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "attribute",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_intelligence_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LocalIncreaseSocketedIntelligenceGemLevel"
+    },
+    "HellscapeUpsideSocketedStrengthGems___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "attribute",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_strength_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LocalIncreaseSocketedStrengthGemLevel"
+    }
+}

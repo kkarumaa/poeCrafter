@@ -1,0 +1,5390 @@
+{
+    "SentinelCurrencyRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneCurrencyRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Luxury",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 833
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_currency_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneCurrencyRewardChance"
+    },
+    "SentinelCurrencyRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneCurrencyRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Luxury",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 833
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_currency_reward_chance_permillage",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneCurrencyRewardChance"
+    },
+    "SentinelCurrencyRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneCurrencyRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Luxury",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 278
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_currency_reward_chance_permillage",
+                "max": 50,
+                "min": 36
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneCurrencyRewardChance"
+    },
+    "SentinelDroneAbyssRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAbyssRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Depths",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_abyss_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneAbyssRewardChance"
+    },
+    "SentinelDroneAbyssRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAbyssRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Depths",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_abyss_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneAbyssRewardChance"
+    },
+    "SentinelDroneAbyssRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAbyssRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Depths",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_abyss_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneAbyssRewardChance"
+    },
+    "SentinelDroneAngerAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Anger",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_anger_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneAngerAura"
+    },
+    "SentinelDroneArmourRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneArmourRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Armour",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 833
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_armour_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneArmourRewardChance"
+    },
+    "SentinelDroneArmourRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneArmourRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Armour",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 833
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_armour_reward_chance_permillage",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneArmourRewardChance"
+    },
+    "SentinelDroneArmourRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneArmourRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Armour",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 278
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_armour_reward_chance_permillage",
+                "max": 50,
+                "min": 36
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneArmourRewardChance"
+    },
+    "SentinelDroneBlightRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBlightRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Blight",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_blight_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneBlightRewardChance"
+    },
+    "SentinelDroneBlightRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBlightRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Blight",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_blight_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneBlightRewardChance"
+    },
+    "SentinelDroneBlightRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBlightRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Blight",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_blight_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneBlightRewardChance"
+    },
+    "SentinelDroneBreachRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBreachRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Grasping",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_breach_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneBreachRewardChance"
+    },
+    "SentinelDroneBreachRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBreachRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Grasping",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_breach_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneBreachRewardChance"
+    },
+    "SentinelDroneBreachRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBreachRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Grasping",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_breach_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneBreachRewardChance"
+    },
+    "SentinelDroneColdReistAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Ice",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_cold_resist_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneColdReistAura"
+    },
+    "SentinelDroneDeliriumRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDeliriumRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Insanity",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_delirium_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneDeliriumRewardChance"
+    },
+    "SentinelDroneDeliriumRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDeliriumRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Insanity",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_delirium_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneDeliriumRewardChance"
+    },
+    "SentinelDroneDeliriumRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDeliriumRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Insanity",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_delirium_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneDeliriumRewardChance"
+    },
+    "SentinelDroneDeterminationAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Determination",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_determination_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneDeterminationAura"
+    },
+    "SentinelDroneDisciplineAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Discipline",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_discipline_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneDisciplineAura"
+    },
+    "SentinelDroneDivinationCardsRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDivinationCardsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Divination",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_divinationcards_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneDivinationCardsRewardChance"
+    },
+    "SentinelDroneDivinationCardsRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDivinationCardsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Divination",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_divinationcards_reward_chance_permillage",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneDivinationCardsRewardChance"
+    },
+    "SentinelDroneDivinationCardsRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDivinationCardsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Divination",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 67
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_divinationcards_reward_chance_permillage",
+                "max": 50,
+                "min": 36
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneDivinationCardsRewardChance"
+    },
+    "SentinelDroneDuplicateRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDuplicateRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Copying",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_duplicate_reward_chance_%",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SentinelDroneDuplicateRewardChance"
+    },
+    "SentinelDroneExpeditionRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExpeditionRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Archaeology",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_expedition_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneExpeditionRewardChance"
+    },
+    "SentinelDroneExpeditionRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExpeditionRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Archaeology",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_expedition_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneExpeditionRewardChance"
+    },
+    "SentinelDroneExpeditionRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExpeditionRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Archaeology",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_expedition_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneExpeditionRewardChance"
+    },
+    "SentinelDroneFireResistAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Flames",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_fire_resist_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneFireResistAura"
+    },
+    "SentinelDroneFossilsRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneFossilsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 60
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_fossils_reward_chance_permillage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneFossilsRewardChance"
+    },
+    "SentinelDroneFossilsRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneFossilsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 60
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_fossils_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneFossilsRewardChance"
+    },
+    "SentinelDroneFossilsRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneFossilsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_fossils_reward_chance_permillage",
+                "max": 40,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneFossilsRewardChance"
+    },
+    "SentinelDroneFragmentsRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneFragmentsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Emblems",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_fragments_reward_chance_permillage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneFragmentsRewardChance"
+    },
+    "SentinelDroneFragmentsRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneFragmentsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Emblems",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_fragments_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneFragmentsRewardChance"
+    },
+    "SentinelDroneFragmentsRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneFragmentsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Emblems",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 33
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_fragments_reward_chance_permillage",
+                "max": 40,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneFragmentsRewardChance"
+    },
+    "SentinelDroneGemsRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneGemsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Thaumaturgy",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_gems_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneGemsRewardChance"
+    },
+    "SentinelDroneGemsRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneGemsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Thaumaturgy",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_gems_reward_chance_permillage",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneGemsRewardChance"
+    },
+    "SentinelDroneGemsRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneGemsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Thaumaturgy",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 67
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_gems_reward_chance_permillage",
+                "max": 50,
+                "min": 36
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneGemsRewardChance"
+    },
+    "SentinelDroneGraceAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Grace",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_grace_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneGraceAura"
+    },
+    "SentinelDroneHarbingerRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneHarbingerRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Harbinger",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 60
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_harbinger_reward_chance_permillage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneHarbingerRewardChance"
+    },
+    "SentinelDroneHarbingerRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneHarbingerRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Harbinger",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 60
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_harbinger_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneHarbingerRewardChance"
+    },
+    "SentinelDroneHarbingerRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneHarbingerRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Harbinger",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_harbinger_reward_chance_permillage",
+                "max": 40,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneHarbingerRewardChance"
+    },
+    "SentinelDroneHasteAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Haste",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_haste_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneHasteAura"
+    },
+    "SentinelDroneHatredAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Hatred",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_hatred_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneHatredAura"
+    },
+    "SentinelDroneHeistRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneHeistRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Smuggling",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_heist_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneHeistRewardChance"
+    },
+    "SentinelDroneHeistRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneHeistRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Smuggling",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_heist_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneHeistRewardChance"
+    },
+    "SentinelDroneHeistRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneHeistRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Smuggling",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_heist_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneHeistRewardChance"
+    },
+    "SentinelDroneLegionRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneLegionRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Legion",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_legion_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneLegionRewardChance"
+    },
+    "SentinelDroneLegionRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneLegionRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Legion",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_legion_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneLegionRewardChance"
+    },
+    "SentinelDroneLegionRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneLegionRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Legion",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_legion_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneLegionRewardChance"
+    },
+    "SentinelDroneLightningResistAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Lightning",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_lightning_resist_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneLightningResistAura"
+    },
+    "SentinelDroneMalevolenceAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Malevolence",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_malevolence_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneMalevolenceAura"
+    },
+    "SentinelDroneMapsRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneMapsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Worlds",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 60
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_maps_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneMapsRewardChance"
+    },
+    "SentinelDroneMapsRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneMapsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Worlds",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 60
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_maps_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneMapsRewardChance"
+    },
+    "SentinelDroneMapsRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneMapsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Worlds",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_maps_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneMapsRewardChance"
+    },
+    "SentinelDroneMetamorphosisRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneMetamorphosisRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Metamorphosis",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_metamorphosis_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneMetamorphosisRewardChance"
+    },
+    "SentinelDroneMetamorphosisRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneMetamorphosisRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Metamorphosis",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_metamorphosis_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneMetamorphosisRewardChance"
+    },
+    "SentinelDroneMetamorphosisRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneMetamorphosisRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Metamorphosis",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_metamorphosis_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneMetamorphosisRewardChance"
+    },
+    "SentinelDronePurityAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Purity",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_purity_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDronePurityAura"
+    },
+    "SentinelDroneRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Prize",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_chance_for_reward_+%",
+                "max": 14,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneRewardChance"
+    },
+    "SentinelDroneRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Trophy",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_chance_for_reward_+%",
+                "max": 19,
+                "min": 15
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneRewardChance"
+    },
+    "SentinelDroneRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Bounty",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_chance_for_reward_+%",
+                "max": 30,
+                "min": 20
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneRewardChance"
+    },
+    "SentinelDroneRewardCount1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneRewardCount"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Success",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_reward_count_+%",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SentinelDroneRewardCount"
+    },
+    "SentinelDroneRitualRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneRitualRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Ritual",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_ritual_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneRitualRewardChance"
+    },
+    "SentinelDroneRitualRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneRitualRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Ritual",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 45
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_ritual_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneRitualRewardChance"
+    },
+    "SentinelDroneRitualRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneRitualRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Ritual",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_ritual_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneRitualRewardChance"
+    },
+    "SentinelDroneScarabsRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneScarabsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Skittering",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_scarabs_reward_chance_permillage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneScarabsRewardChance"
+    },
+    "SentinelDroneScarabsRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneScarabsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Skittering",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_scarabs_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneScarabsRewardChance"
+    },
+    "SentinelDroneScarabsRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneScarabsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Skittering",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 33
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_scarabs_reward_chance_permillage",
+                "max": 40,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneScarabsRewardChance"
+    },
+    "SentinelDroneSentinelRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneSentinelRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Mystery",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_sentinel_reward_chance_permillage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneSentinelRewardChance"
+    },
+    "SentinelDroneSentinelRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneSentinelRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Mystery",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_sentinel_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneSentinelRewardChance"
+    },
+    "SentinelDroneSentinelRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneSentinelRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Mystery",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 67
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_sentinel_reward_chance_permillage",
+                "max": 40,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneSentinelRewardChance"
+    },
+    "SentinelDroneTaggedMonsterExperience1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Invigoration",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_sentinel_experience_+%",
+                "max": 60,
+                "min": 30
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterExperience"
+    },
+    "SentinelDroneTaggedMonsterExperience2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Energy",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_sentinel_experience_+%",
+                "max": 100,
+                "min": 70
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterExperience"
+    },
+    "SentinelDroneTaggedMonsterExperience3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Power",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_sentinel_experience_+%",
+                "max": 150,
+                "min": 110
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterExperience"
+    },
+    "SentinelDroneTaggedMonsterExperienceApex1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Invigoration",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_sentinel_experience_+%",
+                "max": 120,
+                "min": 60
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterExperience"
+    },
+    "SentinelDroneTaggedMonsterExperienceApex2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Energy",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_sentinel_experience_+%",
+                "max": 200,
+                "min": 140
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterExperience"
+    },
+    "SentinelDroneTaggedMonsterExperienceApex3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Power",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_sentinel_experience_+%",
+                "max": 300,
+                "min": 220
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterExperience"
+    },
+    "SentinelDroneTaggedMonsterItemQuantity1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_quantity_+%",
+                "max": 100,
+                "min": 50
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemQuantity"
+    },
+    "SentinelDroneTaggedMonsterItemQuantity2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Opulence",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_quantity_+%",
+                "max": 150,
+                "min": 110
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemQuantity"
+    },
+    "SentinelDroneTaggedMonsterItemQuantity3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Prosperity",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_quantity_+%",
+                "max": 250,
+                "min": 160
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemQuantity"
+    },
+    "SentinelDroneTaggedMonsterItemQuantityApex1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_quantity_+%",
+                "max": 400,
+                "min": 300
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemQuantity"
+    },
+    "SentinelDroneTaggedMonsterItemQuantityApex2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Opulence",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_quantity_+%",
+                "max": 500,
+                "min": 420
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemQuantity"
+    },
+    "SentinelDroneTaggedMonsterItemQuantityApex3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Prosperity",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_quantity_+%",
+                "max": 650,
+                "min": 520
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemQuantity"
+    },
+    "SentinelDroneTaggedMonsterItemRarity1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Plunder",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_rarity_+%",
+                "max": 100,
+                "min": 50
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemRarity"
+    },
+    "SentinelDroneTaggedMonsterItemRarity2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Raiding",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_rarity_+%",
+                "max": 150,
+                "min": 110
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemRarity"
+    },
+    "SentinelDroneTaggedMonsterItemRarity3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Greed",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_rarity_+%",
+                "max": 250,
+                "min": 160
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemRarity"
+    },
+    "SentinelDroneTaggedMonsterItemRarityApex1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Plunder",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_rarity_+%",
+                "max": 400,
+                "min": 300
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemRarity"
+    },
+    "SentinelDroneTaggedMonsterItemRarityApex2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Raiding",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_rarity_+%",
+                "max": 500,
+                "min": 420
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemRarity"
+    },
+    "SentinelDroneTaggedMonsterItemRarityApex3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTaggedMonsterItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Greed",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tagged_item_rarity_+%",
+                "max": 650,
+                "min": 520
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneTaggedMonsterItemRarity"
+    },
+    "SentinelDroneTrinketsRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTrinketsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Trinkets",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 833
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_trinkets_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneTrinketsRewardChance"
+    },
+    "SentinelDroneTrinketsRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTrinketsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Trinkets",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 833
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_trinkets_reward_chance_permillage",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneTrinketsRewardChance"
+    },
+    "SentinelDroneTrinketsRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTrinketsRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Trinkets",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 278
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_trinkets_reward_chance_permillage",
+                "max": 50,
+                "min": 36
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneTrinketsRewardChance"
+    },
+    "SentinelDroneWeaponRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneWeaponRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Armaments",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 833
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_weapon_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneWeaponRewardChance"
+    },
+    "SentinelDroneWeaponRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneWeaponRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Armaments",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 833
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_weapon_reward_chance_permillage",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneWeaponRewardChance"
+    },
+    "SentinelDroneWeaponRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneWeaponRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Armaments",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 278
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_weapon_reward_chance_permillage",
+                "max": 50,
+                "min": 36
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "SentinelDroneWeaponRewardChance"
+    },
+    "SentinelDroneWrathAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wrath",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_wrath_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneWrathAura"
+    },
+    "SentinelDroneZealotryAura": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAura"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Zealotry",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_sentinel_uses_level_x_zealotry_aura",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneZealotryAura"
+    },
+    "SentinelEssenceRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneEssenceRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Deafening",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_essence_reward_chance_permillage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneEssenceRewardChance"
+    },
+    "SentinelEssenceRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneEssenceRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Deafening",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_essence_reward_chance_permillage",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneEssenceRewardChance"
+    },
+    "SentinelEssenceRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneEssenceRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Deafening",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 67
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_essence_reward_chance_permillage",
+                "max": 50,
+                "min": 36
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneEssenceRewardChance"
+    },
+    "SentinelIncreasedDifficulty1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDifficulty"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Hazard",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_difficulty_+%",
+                "max": 19,
+                "min": 14
+            }
+        ],
+        "type": "SentinelDroneIncreasedDifficulty"
+    },
+    "SentinelIncreasedDifficulty2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDifficulty"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Danger",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_difficulty_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneIncreasedDifficulty"
+    },
+    "SentinelIncreasedDifficulty3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDifficulty"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Jeopardy",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_difficulty_+%",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "SentinelDroneIncreasedDifficulty"
+    },
+    "SentinelReducedDifficulty1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDifficulty"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Reprieve",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_difficulty_+%",
+                "max": -10,
+                "min": -19
+            }
+        ],
+        "type": "SentinelDroneReducedDifficulty"
+    },
+    "SentinelReducedDifficulty2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDifficulty"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Solace",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_difficulty_+%",
+                "max": -20,
+                "min": -29
+            }
+        ],
+        "type": "SentinelDroneReducedDifficulty"
+    },
+    "SentinelReducedDifficulty3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDifficulty"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Serenity",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_difficulty_+%",
+                "max": -30,
+                "min": -40
+            }
+        ],
+        "type": "SentinelDroneReducedDifficulty"
+    },
+    "SentinelSentinelAcceleratingOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelAcceleratingOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Acceleration",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_accelerating_shrine_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelAcceleratingOnUse"
+    },
+    "SentinelSentinelAdrenalineOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelAdrenalineOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Adrenaline",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_adrenaline_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelAdrenalineOnUse"
+    },
+    "SentinelSentinelDiamondOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDiamondOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Diamonds",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_diamond_shrine_on_summon_ms",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "SentinelDiamondOnUse"
+    },
+    "SentinelSentinelDiamondOnUse2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDiamondOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Diamonds",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_diamond_shrine_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelDiamondOnUse"
+    },
+    "SentinelSentinelDiamondOnUse3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDiamondOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Diamonds",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_diamond_shrine_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelDiamondOnUse"
+    },
+    "SentinelSentinelEchoingOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelEchoingOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Echoing",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_echoing_shrine_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelEchoingOnUse"
+    },
+    "SentinelSentinelEnduranceChargeOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelChargeOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Juggernaut",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_endurance_charge_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelEnduranceChargeOnUse"
+    },
+    "SentinelSentinelFrenzyChargeOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelChargeOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Raider",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_frenzy_charge_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelFrenzyChargeOnUse"
+    },
+    "SentinelSentinelGloomOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelGloomOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Gloom",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_gloom_shrine_on_summon_ms",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "SentinelGloomOnUse"
+    },
+    "SentinelSentinelGloomOnUse2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelGloomOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Gloom",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_gloom_shrine_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelGloomOnUse"
+    },
+    "SentinelSentinelGloomOnUse3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelGloomOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Gloom",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_gloom_shrine_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelGloomOnUse"
+    },
+    "SentinelSentinelImpenetrableOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelImpenetrableOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Resolve",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_impenetrable_shrine_on_summon_ms",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "SentinelImpenetrableOnUse"
+    },
+    "SentinelSentinelImpenetrableOnUse2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelImpenetrableOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Resolve",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_impenetrable_shrine_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelImpenetrableOnUse"
+    },
+    "SentinelSentinelImpenetrableOnUse3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelImpenetrableOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Resolve",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_impenetrable_shrine_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelImpenetrableOnUse"
+    },
+    "SentinelSentinelMassiveOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelMassiveOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Bulk",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_massive_shrine_on_summon_ms",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "SentinelMassiveOnUse"
+    },
+    "SentinelSentinelMassiveOnUse2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelMassiveOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Bulk",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_massive_shrine_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelMassiveOnUse"
+    },
+    "SentinelSentinelMassiveOnUse3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelMassiveOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Bulk",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_massive_shrine_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelMassiveOnUse"
+    },
+    "SentinelSentinelPowerChargeOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelChargeOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Assassin",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_power_charge_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelPowerChargeOnUse"
+    },
+    "SentinelSentinelResistanceOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelResistanceOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Resistance",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_resistance_shrine_on_summon_ms",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "SentinelResistanceOnUse"
+    },
+    "SentinelSentinelResistanceOnUse2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelResistanceOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Resistance",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_resistance_shrine_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelResistanceOnUse"
+    },
+    "SentinelSentinelResistanceOnUse3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelResistanceOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Resistance",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_resistance_shrine_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelResistanceOnUse"
+    },
+    "SentinelSentinelResonatingOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelResonatingOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Charge",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_resonating_shrine_on_summon_ms",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "SentinelResonatingOnUse"
+    },
+    "SentinelSentinelResonatingOnUse2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelResonatingOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Charge",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_resonating_shrine_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelResonatingOnUse"
+    },
+    "SentinelSentinelResonatingOnUse3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelResonatingOnUse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Charge",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_resonating_shrine_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelResonatingOnUse"
+    },
+    "SentinelTailwindOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDronePlayerTailwindOnSummon"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Tailwind",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_tailwind_on_summon_ms",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "SentinelDronePlayerTailwindOnSummon"
+    },
+    "SentinelTailwindOnUse2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDronePlayerTailwindOnSummon"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Tailwind",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_tailwind_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelDronePlayerTailwindOnSummon"
+    },
+    "SentinelTailwindOnUse3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDronePlayerTailwindOnSummon"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Tailwind",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_tailwind_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelDronePlayerTailwindOnSummon"
+    },
+    "SentinelUnholyMightOnUse1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDronePlayerUnholyMightOnSummon"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Unholy Might",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_unholy_might_on_summon_ms",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "SentinelDronePlayerUnholyMightOnSummon"
+    },
+    "SentinelUnholyMightOnUse2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDronePlayerUnholyMightOnSummon"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Unholy Might",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_unholy_might_on_summon_ms",
+                "max": 15000,
+                "min": 15000
+            }
+        ],
+        "type": "SentinelDronePlayerUnholyMightOnSummon"
+    },
+    "SentinelUnholyMightOnUse3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDronePlayerUnholyMightOnSummon"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Unholy Might",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_drone_player_gains_unholy_might_on_summon_ms",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "SentinelDronePlayerUnholyMightOnSummon"
+    },
+    "SentinelUniqueRewardChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneUniqueRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Singularity",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_unique_reward_chance_permillage",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneUniqueRewardChance"
+    },
+    "SentinelUniqueRewardChance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneUniqueRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Singularity",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_unique_reward_chance_permillage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "SentinelDroneUniqueRewardChance"
+    },
+    "SentinelUniqueRewardChance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneUniqueRewardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Singularity",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 33
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_unique_reward_chance_permillage",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_sentinel_drone_difficulty_+",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "SentinelDroneUniqueRewardChance"
+    }
+}

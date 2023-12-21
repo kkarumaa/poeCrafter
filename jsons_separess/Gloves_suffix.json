@@ -1,0 +1,1400 @@
+{
+    "Dexterity10": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Blur",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 60,
+                "min": 56
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "IncreasedAccuracy1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Calm",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 15,
+                "min": 5
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy10": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Lioneye",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 500,
+                "min": 401
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Steadiness",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 60,
+                "min": 16
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Accuracy",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 100,
+                "min": 61
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Precision",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 130,
+                "min": 101
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy5": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sniper",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 165,
+                "min": 131
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Marksman",
+        "required_level": 41,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 200,
+                "min": 166
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy7": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Deadeye",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 250,
+                "min": 201
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy8": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Ranger",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 320,
+                "min": 251
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracy9": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Assassin",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 400,
+                "min": 321
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracyNew1_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Steadiness",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 600
+            },
+            {
+                "tag": "helmet",
+                "weight": 600
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "quiver",
+                "weight": 600
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 600
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 600
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 100,
+                "min": 50
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracyNew2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Precision",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 165,
+                "min": 100
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracyNew3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sniper",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 250,
+                "min": 166
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracyNew4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Marksman",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 350,
+                "min": 251
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracyNew5_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Ranger",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 480,
+                "min": 351
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAccuracyNew6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Lioneye",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 600,
+                "min": 481
+            }
+        ],
+        "type": "IncreasedAccuracy"
+    },
+    "IncreasedAttackSpeed2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Ease",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "IncreasedAttackSpeed2Royale": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Ease",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 15,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "IncreasedAttackSpeed3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Mastery",
+        "required_level": 22,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "IncreasedAttackSpeed4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Grandmastery",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "StunRecovery1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Thick Skin",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_recovery_+%",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "StunRecovery"
+    },
+    "StunRecovery2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Stone Skin",
+        "required_level": 17,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_recovery_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "StunRecovery"
+    },
+    "StunRecovery3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Iron Skin",
+        "required_level": 28,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_recovery_+%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "StunRecovery"
+    },
+    "StunRecovery4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Steel Skin",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_recovery_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "StunRecovery"
+    },
+    "StunRecovery5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Adamantite Skin",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_recovery_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "StunRecovery"
+    },
+    "StunRecovery6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Corundum Skin",
+        "required_level": 79,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_recovery_+%",
+                "max": 28,
+                "min": 26
+            }
+        ],
+        "type": "StunRecovery"
+    }
+}

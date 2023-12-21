@@ -1,0 +1,6422 @@
+{
+    "AuraEffectEldritchImplicit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "AuraEffect"
+    },
+    "AuraEffectEldritchImplicit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "AuraEffect"
+    },
+    "AuraEffectEldritchImplicit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 14,
+                "min": 13
+            }
+        ],
+        "type": "AuraEffect"
+    },
+    "AuraEffectEldritchImplicit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 16,
+                "min": 15
+            }
+        ],
+        "type": "AuraEffect"
+    },
+    "AuraEffectEldritchImplicit5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 18,
+                "min": 17
+            }
+        ],
+        "type": "AuraEffect"
+    },
+    "AuraEffectEldritchImplicit6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 20,
+                "min": 19
+            }
+        ],
+        "type": "AuraEffect"
+    },
+    "AuraEffectEldritchImplicitPinnaclePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 26,
+                "min": 25
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectPinnaclePresence"
+    },
+    "AuraEffectEldritchImplicitPinnaclePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 28,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectPinnaclePresence"
+    },
+    "AuraEffectEldritchImplicitPinnaclePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 100
+            },
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 30,
+                "min": 29
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectPinnaclePresence"
+    },
+    "AuraEffectEldritchImplicitPinnaclePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 100
+            },
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 32,
+                "min": 31
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectPinnaclePresence"
+    },
+    "AuraEffectEldritchImplicitPinnaclePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 100
+            },
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 34,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectPinnaclePresence"
+    },
+    "AuraEffectEldritchImplicitPinnaclePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 100
+            },
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 36,
+                "min": 35
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectPinnaclePresence"
+    },
+    "AuraEffectEldritchImplicitUniquePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 18,
+                "min": 17
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectUniquePresence"
+    },
+    "AuraEffectEldritchImplicitUniquePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 20,
+                "min": 19
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectUniquePresence"
+    },
+    "AuraEffectEldritchImplicitUniquePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 22,
+                "min": 21
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectUniquePresence"
+    },
+    "AuraEffectEldritchImplicitUniquePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 24,
+                "min": 23
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectUniquePresence"
+    },
+    "AuraEffectEldritchImplicitUniquePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 26,
+                "min": 25
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectUniquePresence"
+    },
+    "AuraEffectEldritchImplicitUniquePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 28,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AuraEffectUniquePresence"
+    },
+    "ColdDamagePercentageEldritchImplicit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercentageEldritchImplicit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercentageEldritchImplicit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 23,
+                "min": 21
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercentageEldritchImplicit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 26,
+                "min": 24
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercentageEldritchImplicit5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 28,
+                "min": 27
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercentageEldritchImplicit6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 30,
+                "min": 29
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercentageEldritchImplicitPinnaclePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentagePinnaclePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitPinnaclePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentagePinnaclePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitPinnaclePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 35,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentagePinnaclePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitPinnaclePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 38,
+                "min": 36
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentagePinnaclePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitPinnaclePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 40,
+                "min": 39
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentagePinnaclePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitPinnaclePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 42,
+                "min": 41
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentagePinnaclePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitUniquePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 23,
+                "min": 21
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentageUniquePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitUniquePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 26,
+                "min": 24
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentageUniquePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitUniquePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentageUniquePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitUniquePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentageUniquePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitUniquePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 34,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentageUniquePresence"
+    },
+    "ColdDamagePercentageEldritchImplicitUniquePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 36,
+                "min": 35
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdDamagePercentageUniquePresence"
+    },
+    "CurseEffectivenessEldritchImplicit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "CurseEffectivenessEldritchImplicit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "CurseEffectivenessEldritchImplicit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 14,
+                "min": 13
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "CurseEffectivenessEldritchImplicit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 16,
+                "min": 15
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "CurseEffectivenessEldritchImplicit5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 18,
+                "min": 17
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "CurseEffectivenessEldritchImplicit6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 20,
+                "min": 19
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "CurseEffectivenessEldritchImplicitPinnaclePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 26,
+                "min": 25
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessPinnaclePresence"
+    },
+    "CurseEffectivenessEldritchImplicitPinnaclePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 28,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessPinnaclePresence"
+    },
+    "CurseEffectivenessEldritchImplicitPinnaclePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 100
+            },
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 30,
+                "min": 29
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessPinnaclePresence"
+    },
+    "CurseEffectivenessEldritchImplicitPinnaclePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 100
+            },
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 32,
+                "min": 31
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessPinnaclePresence"
+    },
+    "CurseEffectivenessEldritchImplicitPinnaclePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 100
+            },
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 34,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessPinnaclePresence"
+    },
+    "CurseEffectivenessEldritchImplicitPinnaclePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 100
+            },
+            {
+                "tag": "amulet",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 36,
+                "min": 35
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessPinnaclePresence"
+    },
+    "CurseEffectivenessEldritchImplicitUniquePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 18,
+                "min": 17
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessUniquePresence"
+    },
+    "CurseEffectivenessEldritchImplicitUniquePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 20,
+                "min": 19
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessUniquePresence"
+    },
+    "CurseEffectivenessEldritchImplicitUniquePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 22,
+                "min": 21
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessUniquePresence"
+    },
+    "CurseEffectivenessEldritchImplicitUniquePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 24,
+                "min": 23
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessUniquePresence"
+    },
+    "CurseEffectivenessEldritchImplicitUniquePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 26,
+                "min": 25
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessUniquePresence"
+    },
+    "CurseEffectivenessEldritchImplicitUniquePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 28,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CurseEffectivenessUniquePresence"
+    },
+    "FireDamagePercentageEldritchImplicit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercentageEldritchImplicit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercentageEldritchImplicit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 23,
+                "min": 21
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercentageEldritchImplicit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 26,
+                "min": 24
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercentageEldritchImplicit5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 28,
+                "min": 27
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercentageEldritchImplicit6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 30,
+                "min": 29
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercentageEldritchImplicitPinnaclePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentagePinnaclePresence"
+    },
+    "FireDamagePercentageEldritchImplicitPinnaclePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentagePinnaclePresence"
+    },
+    "FireDamagePercentageEldritchImplicitPinnaclePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 35,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentagePinnaclePresence"
+    },
+    "FireDamagePercentageEldritchImplicitPinnaclePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 38,
+                "min": 36
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentagePinnaclePresence"
+    },
+    "FireDamagePercentageEldritchImplicitPinnaclePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 40,
+                "min": 39
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentagePinnaclePresence"
+    },
+    "FireDamagePercentageEldritchImplicitPinnaclePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 42,
+                "min": 41
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentagePinnaclePresence"
+    },
+    "FireDamagePercentageEldritchImplicitUniquePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 23,
+                "min": 21
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentageUniquePresence"
+    },
+    "FireDamagePercentageEldritchImplicitUniquePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 26,
+                "min": 24
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentageUniquePresence"
+    },
+    "FireDamagePercentageEldritchImplicitUniquePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentageUniquePresence"
+    },
+    "FireDamagePercentageEldritchImplicitUniquePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentageUniquePresence"
+    },
+    "FireDamagePercentageEldritchImplicitUniquePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 34,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentageUniquePresence"
+    },
+    "FireDamagePercentageEldritchImplicitUniquePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 36,
+                "min": 35
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireDamagePercentageUniquePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "IncreasedChaosDamageEldritchImplicit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "IncreasedChaosDamageEldritchImplicit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 23,
+                "min": 21
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "IncreasedChaosDamageEldritchImplicit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 26,
+                "min": 24
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "IncreasedChaosDamageEldritchImplicit5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 28,
+                "min": 27
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "IncreasedChaosDamageEldritchImplicit6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 30,
+                "min": 29
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "IncreasedChaosDamageEldritchImplicitPinnaclePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamagePinnaclePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitPinnaclePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamagePinnaclePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitPinnaclePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 35,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamagePinnaclePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitPinnaclePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 38,
+                "min": 36
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamagePinnaclePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitPinnaclePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 40,
+                "min": 39
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamagePinnaclePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitPinnaclePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 42,
+                "min": 41
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamagePinnaclePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitUniquePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 23,
+                "min": 21
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamageUniquePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitUniquePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 26,
+                "min": 24
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamageUniquePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitUniquePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamageUniquePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitUniquePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamageUniquePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitUniquePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 34,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamageUniquePresence"
+    },
+    "IncreasedChaosDamageEldritchImplicitUniquePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 36,
+                "min": 35
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedChaosDamageUniquePresence"
+    },
+    "LightningDamagePercentageEldritchImplicit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercentageEldritchImplicit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercentageEldritchImplicit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 23,
+                "min": 21
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercentageEldritchImplicit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 26,
+                "min": 24
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercentageEldritchImplicit5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 28,
+                "min": 27
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercentageEldritchImplicit6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 30,
+                "min": 29
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercentageEldritchImplicitPinnaclePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentagePinnaclePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitPinnaclePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentagePinnaclePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitPinnaclePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 35,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentagePinnaclePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitPinnaclePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 38,
+                "min": 36
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentagePinnaclePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitPinnaclePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 40,
+                "min": 39
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentagePinnaclePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitPinnaclePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 42,
+                "min": 41
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentagePinnaclePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitUniquePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 23,
+                "min": 21
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentageUniquePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitUniquePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 26,
+                "min": 24
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentageUniquePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitUniquePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentageUniquePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitUniquePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentageUniquePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitUniquePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 34,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentageUniquePresence"
+    },
+    "LightningDamagePercentageEldritchImplicitUniquePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 36,
+                "min": 35
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningDamagePercentageUniquePresence"
+    },
+    "MaximumResistancesEldritchImplicit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 400
+            },
+            {
+                "tag": "amulet",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MaximumResistancesEldritchImplicit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 400
+            },
+            {
+                "tag": "amulet",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MaximumResistancesEldritchImplicit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 400
+            },
+            {
+                "tag": "amulet",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MaximumResistancesEldritchImplicit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 400
+            },
+            {
+                "tag": "amulet",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MaximumResistancesEldritchImplicit5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 400
+            },
+            {
+                "tag": "amulet",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MaximumResistancesEldritchImplicit6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 400
+            },
+            {
+                "tag": "amulet",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MaximumResistancesEldritchImplicitPinnaclePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesPinnaclePresence"
+    },
+    "MaximumResistancesEldritchImplicitPinnaclePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesPinnaclePresence"
+    },
+    "MaximumResistancesEldritchImplicitPinnaclePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 80
+            },
+            {
+                "tag": "amulet",
+                "weight": 80
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesPinnaclePresence"
+    },
+    "MaximumResistancesEldritchImplicitPinnaclePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 80
+            },
+            {
+                "tag": "amulet",
+                "weight": 80
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesPinnaclePresence"
+    },
+    "MaximumResistancesEldritchImplicitPinnaclePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 80
+            },
+            {
+                "tag": "amulet",
+                "weight": 80
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesPinnaclePresence"
+    },
+    "MaximumResistancesEldritchImplicitPinnaclePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 80
+            },
+            {
+                "tag": "amulet",
+                "weight": 80
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesPinnaclePresence"
+    },
+    "MaximumResistancesEldritchImplicitUniquePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesUniquePresence"
+    },
+    "MaximumResistancesEldritchImplicitUniquePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesUniquePresence"
+    },
+    "MaximumResistancesEldritchImplicitUniquePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesUniquePresence"
+    },
+    "MaximumResistancesEldritchImplicitUniquePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesUniquePresence"
+    },
+    "MaximumResistancesEldritchImplicitUniquePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesUniquePresence"
+    },
+    "MaximumResistancesEldritchImplicitUniquePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistancesUniquePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "PhysicalDamagePercentEldritchImplicit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "PhysicalDamagePercentEldritchImplicit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 23,
+                "min": 21
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "PhysicalDamagePercentEldritchImplicit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 26,
+                "min": 24
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "PhysicalDamagePercentEldritchImplicit5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 28,
+                "min": 27
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "PhysicalDamagePercentEldritchImplicit6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 30,
+                "min": 29
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "PhysicalDamagePercentEldritchImplicitPinnaclePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentPinnaclePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitPinnaclePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentPinnaclePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitPinnaclePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 35,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentPinnaclePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitPinnaclePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 38,
+                "min": 36
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentPinnaclePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitPinnaclePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 40,
+                "min": 39
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentPinnaclePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitPinnaclePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 200
+            },
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 42,
+                "min": 41
+            },
+            {
+                "id": "local_influence_mod_requires_celestial_boss_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentPinnaclePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitUniquePresence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_6_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 23,
+                "min": 21
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentUniquePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitUniquePresence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_5_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 26,
+                "min": 24
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentUniquePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitUniquePresence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_4_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 29,
+                "min": 27
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentUniquePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitUniquePresence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_3_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentUniquePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitUniquePresence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_2_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 34,
+                "min": 33
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentUniquePresence"
+    },
+    "PhysicalDamagePercentEldritchImplicitUniquePresence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "exarch_implicit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "no_tier_1_eldritch_implicit",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 36,
+                "min": 35
+            },
+            {
+                "id": "local_influence_mod_requires_unique_monster_presence",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamagePercentUniquePresence"
+    }
+}

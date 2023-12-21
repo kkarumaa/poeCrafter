@@ -1,0 +1,1196 @@
+{
+    "ChestAllScarabsSameType": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestAllScarabsSameType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Focus",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_all_dropped_scarabs_are_same_content_type",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestAllScarabsSameType"
+    },
+    "ChestDropUnique": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropUnique"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Singularity",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 50
+            },
+            {
+                "tag": "drops_no_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_unqiue_items",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestDropUnique"
+    },
+    "ChestDropsAddedCardsFromTheSameSet": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAddedCardsFromTheSameSet"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Collection",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "divination_card",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_divination_cards_from_same_set",
+                "max": 6,
+                "min": 2
+            }
+        ],
+        "type": "ChestDropsAddedCardsFromTheSameSet"
+    },
+    "ChestDropsAddedCardsThatGiveCurrency": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAddedCardsThatGiveCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Reward",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "divination_card",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_currency_item_divination_cards",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "ChestDropsAddedCardsThatGiveCurrency"
+    },
+    "ChestDropsAddedCardsThatGiveUniques": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsCardsThatGiveUniques"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Renown",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "divination_card",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_unique_item_divination_cards",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "ChestDropsAddedCardsThatGiveUniques"
+    },
+    "ChestDropsAddedCardsThatGivesCorruptedItems": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAddedCardsThatGivesCorruptedItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Vaal",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "divination_card",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_corrupted_item_divination_cards",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "ChestDropsAddedCardsThatGivesCorruptedItems"
+    },
+    "ChestDropsAdditionalFragments": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAdditionalFragments"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Fragmentation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_map_fragments",
+                "max": 5,
+                "min": 2
+            }
+        ],
+        "type": "ChestDropsAdditionalFragments"
+    },
+    "ChestDropsAdditionalGildedScarabs": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAdditionalGildedScarabs"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Ostentation",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_gilded_scarabs",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "ChestDropsAdditionalGildedScarabs"
+    },
+    "ChestDropsAdditionalMapCurrency": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAdditionalMapCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Cartography",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 400
+            },
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_map_currency",
+                "max": 9,
+                "min": 3
+            }
+        ],
+        "type": "ChestDropsAdditionalMapCurrency"
+    },
+    "ChestDropsAdditionalPolishedScarab": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAdditionalPolishedScarab"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Sheen",
+        "required_level": 73,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_polished_scarabs",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "ChestDropsAdditionalPolishedScarab"
+    },
+    "ChestDropsAdditionalRustedScarabs": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAdditionalRustedScarabs"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Oxidation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_rusted_scarabs",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "ChestDropsAdditionalRustedScarabs"
+    },
+    "ChestDropsAdditionalWingedScarabs": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsAdditionalWingedScarabs"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Ascent",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_winged_scarabs",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestDropsAdditionalWingedScarabs"
+    },
+    "ChestDropsCardsFromCurrentWorldArea": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsItemsFromCurrentWorldArea"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Fetching",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "divination_card",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_divination_cards_from_current_world_area",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "ChestDropsCardsFromCurrentWorldArea"
+    },
+    "ChestDropsIdentified": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsIdentified"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wisdom",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "drops_no_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_items_drop_identified",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestDropsIdentified"
+    },
+    "ChestDropsOnlyHybridFlasks": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsOnlyX"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Infusion",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drops_only_hybrid_flasks",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestDropsOnlyHybridFlasks"
+    },
+    "ChestDropsOnlySupportGems": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDropsOnlyX"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Augmentation",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "gem",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drops_only_support_gems",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestDropsOnlySupportGems"
+    },
+    "ChestDropsSilverCoins": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestSilverCoins"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Prophecy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "divination_card",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_prophecy_coins",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "SilverCoinsStrongbox"
+    },
+    "ChestExtraMagicItems": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestExtraMagicItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Curiosities",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "drops_no_mods",
+                "weight": 0
+            },
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_magic_items_up_to",
+                "max": 5,
+                "min": 1
+            }
+        ],
+        "type": "ChestExtraMagicItems"
+    },
+    "ChestExtraMagicItemsCartographer": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestExtraMagicItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Curiosities",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_magic_items_up_to",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestExtraMagicItems"
+    },
+    "ChestExtraNormalItems": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestExtraNormalItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 0
+            },
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_normal_items_up_to",
+                "max": 8,
+                "min": 3
+            }
+        ],
+        "type": "ChestExtraNormalItems"
+    },
+    "ChestExtraNormalItemsCartographer": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestExtraNormalItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_normal_items_up_to",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "ChestExtraNormalItems"
+    },
+    "ChestExtraRareItems": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestExtraRareItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Affluence",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "drops_no_rares",
+                "weight": 0
+            },
+            {
+                "tag": "drops_no_mods",
+                "weight": 0
+            },
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_rare_items_up_to",
+                "max": 3,
+                "min": 1
+            }
+        ],
+        "type": "ChestExtraRareItems"
+    },
+    "ChestExtraRareItemsCartographer": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestExtraRareItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Affluence",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drop_additional_rare_items_up_to",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestExtraRareItems"
+    },
+    "ChestExtraUtilityFlasks": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestExtraUtilityFlasks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Waters",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drops_additional_utility_flasks",
+                "max": 3,
+                "min": 1
+            }
+        ],
+        "type": "ChestExtraUtilityFlasks"
+    },
+    "ChestExtraVaalGems": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestExtraVaalGems"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "of Corruption",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gem",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_drops_extra_vaal_gems",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestExtraVaalGems"
+    },
+    "ChestGemsExperience": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestGemsExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Facets",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "gem",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_gems_drop_with_experience",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestGemsExperience"
+    },
+    "ChestItemDuplicated": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemDuplicated"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Kalandra",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 0
+            },
+            {
+                "tag": "drops_not_dupeable",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "dropped_items_are_duplicated",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestItemDuplicated"
+    },
+    "ChestItemLevel": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Ascendance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 300
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_dropped_item_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestItemLevel"
+    },
+    "ChestItemLevel2": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Ascendance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 0
+            },
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 300
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_dropped_item_level_+",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "ChestItemLevel"
+    },
+    "ChestItemLevel3": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Ascendance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "scarab",
+                "weight": 0
+            },
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 300
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_dropped_item_level_+",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "ChestItemLevel"
+    },
+    "ChestItemLinks": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemSockets"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Unity",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "drops_no_sockets",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "dropped_items_are_fully_linked",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestItemLinks"
+    },
+    "ChestItemQuality": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemQuality"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Quality",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "drops_no_quality",
+                "weight": 0
+            },
+            {
+                "tag": "gem",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_dropped_items_have_quality_%",
+                "max": 20,
+                "min": 1
+            }
+        ],
+        "type": "ChestItemQuality"
+    },
+    "ChestItemQuantity": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Bounty",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_item_quantity_+%",
+                "max": 60,
+                "min": 30
+            }
+        ],
+        "type": "ChestItemQuantity"
+    },
+    "ChestItemQuantityCartographers": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Bounty",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "limited_strongbox_benefits",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_item_quantity_+%",
+                "max": 40,
+                "min": 30
+            }
+        ],
+        "type": "ChestItemQuantity"
+    },
+    "ChestItemRarity": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Treasures",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "drops_no_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_item_rarity_+%_final_from_mod",
+                "max": 250,
+                "min": 100
+            }
+        ],
+        "type": "ChestItemRarityMultiplicative"
+    },
+    "ChestItemSockets": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestItemSockets"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Complexity",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "drops_no_sockets",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "dropped_items_have_additional_sockets",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "ChestItemSockets"
+    }
+}

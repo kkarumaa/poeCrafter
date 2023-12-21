@@ -1,0 +1,488 @@
+{
+    "HellscapeUpsideImpaleEffect1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImpaleEffect"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "impale_debuff_effect_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ImpaleEffect"
+    },
+    "HellscapeUpsideImpaleEffect1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImpaleEffect"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "impale_debuff_effect_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ImpaleEffect"
+    },
+    "HellscapeUpsideImpaleEffect1h4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImpaleEffect"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "impale_debuff_effect_+%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "ImpaleEffect"
+    },
+    "HellscapeUpsideImpaleEffect2h2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImpaleEffect"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "impale_debuff_effect_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "ImpaleEffect"
+    },
+    "HellscapeUpsideImpaleEffect2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImpaleEffect"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "impale_debuff_effect_+%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "ImpaleEffect"
+    },
+    "HellscapeUpsideImpaleEffect2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImpaleEffect"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "impale_debuff_effect_+%",
+                "max": 18,
+                "min": 16
+            }
+        ],
+        "type": "ImpaleEffect"
+    },
+    "HellscapeUpsidePoisonDamageFaster1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "poison",
+            "damage",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_poison_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "FasterPoisonDamage"
+    },
+    "HellscapeUpsidePoisonDamageFaster1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "poison",
+            "damage",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_poison_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "FasterPoisonDamage"
+    },
+    "HellscapeUpsidePoisonDamageFaster1h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "poison",
+            "damage",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_poison_%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "FasterPoisonDamage"
+    }
+}

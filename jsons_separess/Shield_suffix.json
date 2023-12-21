@@ -1,0 +1,1183 @@
+{
+    "AdditionalBlockChance1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedShieldBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of Intercepting",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_additional_block_chance_%",
+                "max": 3,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedShieldBlockPercentage"
+    },
+    "AdditionalBlockChance2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedShieldBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of Walling",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_additional_block_chance_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedShieldBlockPercentage"
+    },
+    "AdditionalBlockChance3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedShieldBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of Blocking",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_additional_block_chance_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "IncreasedShieldBlockPercentage"
+    },
+    "AdditionalBlockChance4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedShieldBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of the Stalwart",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_additional_block_chance_%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedShieldBlockPercentage"
+    },
+    "AdditionalBlockChance5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedShieldBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of the Buttress",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_additional_block_chance_%",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "IncreasedShieldBlockPercentage"
+    },
+    "AdditionalBlockChance6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedShieldBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sentinel",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_additional_block_chance_%",
+                "max": 13,
+                "min": 12
+            }
+        ],
+        "type": "IncreasedShieldBlockPercentage"
+    },
+    "AdditionalBlockChance7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedShieldBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of the Citadel",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_additional_block_chance_%",
+                "max": 15,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedShieldBlockPercentage"
+    },
+    "AllResistances1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Crystal",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "AllResistances2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Prism",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "AllResistances3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Kaleidoscope",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "AllResistances4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Variegation",
+        "required_level": 48,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "AllResistances5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Rainbow",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 16,
+                "min": 15
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "AllResistances6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Span",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 18,
+                "min": 17
+            }
+        ],
+        "type": "AllResistances"
+    },
+    "ChanceToAvoidElementalStatusAilments1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Stoicism",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "AvoidElementalStatusAilments"
+    },
+    "ChanceToAvoidElementalStatusAilments2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Resolve",
+        "required_level": 41,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "AvoidElementalStatusAilments"
+    },
+    "ChanceToAvoidElementalStatusAilments3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Fortitude",
+        "required_level": 57,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "AvoidElementalStatusAilments"
+    },
+    "ChanceToAvoidElementalStatusAilments4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Will",
+        "required_level": 73,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "AvoidElementalStatusAilments"
+    },
+    "LifeRegeneration10__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Life-giving",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 9120,
+                "min": 7686
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "MaximumAllResist1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sempiternal",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 125
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MaximumAllResist2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Deathless",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 125
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MaximumChaosResist1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Regularity",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 125
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_chaos_damage_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumChaosResistance"
+    },
+    "MaximumChaosResist2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Concord",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 125
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_chaos_damage_resistance_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MaximumChaosResistance"
+    },
+    "MaximumChaosResist3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Harmony",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 125
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_chaos_damage_resistance_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MaximumChaosResistance"
+    },
+    "MaximumColdResist1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumColdResist"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Furs",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_cold_damage_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumColdResist"
+    },
+    "MaximumColdResist2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumColdResist"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Tundra",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_cold_damage_resistance_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MaximumColdResist"
+    },
+    "MaximumColdResist3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumColdResist"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Mammoth",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_cold_damage_resistance_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MaximumColdResist"
+    },
+    "MaximumFireResist1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumFireResist"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Bushfire",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_fire_damage_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumFireResist"
+    },
+    "MaximumFireResist2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumFireResist"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Molten Core",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_fire_damage_resistance_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MaximumFireResist"
+    },
+    "MaximumFireResist3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumFireResist"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Solar Storm",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_fire_damage_resistance_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MaximumFireResist"
+    },
+    "MaximumLightningResist1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Impedance",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_lightning_damage_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumLightningResistance"
+    },
+    "MaximumLightningResist2___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Shockproofing",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_lightning_damage_resistance_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MaximumLightningResistance"
+    },
+    "MaximumLightningResist3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Lightning Rod",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_lightning_damage_resistance_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MaximumLightningResistance"
+    }
+}

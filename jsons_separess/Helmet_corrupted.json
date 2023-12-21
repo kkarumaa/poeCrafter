@@ -1,0 +1,771 @@
+{
+    "AngerSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Anger",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_anger_level",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "AngerSkill"
+    },
+    "CannotBeLeechedFromCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnemiesCantLifeLeech"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_have_life_leeched_from",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "EnemiesCantLifeLeech"
+    },
+    "DamageTakenFromManaBeforeLifeCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageRemovedFromManaBeforeLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_damage_removed_from_mana_before_life_%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "DamageRemovedFromManaBeforeLife"
+    },
+    "HatredSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Hatred",
+                "level": 11
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_hatred_level",
+                "max": 11,
+                "min": 11
+            }
+        ],
+        "type": "HatredSkill"
+    },
+    "MinionDamageCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "MinionDamage"
+    },
+    "SocketedVaalGemsIncreaseCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "vaal",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_vaal_gem_level_+",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "LocalIncreaseSocketedVaalGemLevel"
+    },
+    "V2BlindImmunityCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImmunityToBlind"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_be_blinded",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ImmunityToBlind"
+    },
+    "V2ColdDamageLifeLeechPermyriadCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_cold_damage_permyriad",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ColdDamageLifeLeechPermyriad"
+    },
+    "V2FireDamageLifeLeechPermyriadCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_fire_damage_permyriad",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "FireDamageLifeLeechPermyriad"
+    },
+    "V2IncreasedBurningDamageCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "burn_damage_+%",
+                "max": 40,
+                "min": 30
+            }
+        ],
+        "type": "BurnDamage"
+    },
+    "V2IncreasedChillEffectCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChillEffect"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_ailment_effect_+%",
+                "max": 30,
+                "min": 25
+            }
+        ],
+        "type": "ChillEffect"
+    },
+    "V2IncreasedLifeRegenerationPerSecondCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRatePercentage"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_per_minute_%",
+                "max": 120,
+                "min": 96
+            }
+        ],
+        "type": "LifeRegenerationRatePercentage"
+    },
+    "V2IncreasedShockEffectCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ShockEffect"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shock_effect_+%",
+                "max": 30,
+                "min": 25
+            }
+        ],
+        "type": "ShockEffect"
+    },
+    "V2LevelOfSocketedColdGemsCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSocketedColdGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_cold_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedColdGemLevelCorrupted"
+    },
+    "V2LevelOfSocketedFireGemsCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSocketedFireGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_fire_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedFireGemLevelCorrupted"
+    },
+    "V2LevelOfSocketedLightningGemsCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSocketedLightningGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_lightning_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedLightningGemLevelCorrupted"
+    },
+    "V2LightningDamageLifeLeechPermyriadCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_lightning_damage_permyriad",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "LightningDamageLifeLeechPermyriad"
+    },
+    "V2MaxPowerChargesCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMaximumPowerCharges"
+        ],
+        "implicit_tags": [
+            "power_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "max_power_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IncreasedMaximumPowerCharges"
+    },
+    "V2SocketedSkillsManaMultiplierCorrupted__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "ReducedManaCorruptedV2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedGemsHaveReducedManaCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_mana_multplier_%",
+                "max": 90,
+                "min": 90
+            }
+        ],
+        "type": "SocketedSkillsManaMultiplier"
+    },
+    "WrathSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Wrath",
+                "level": 7
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 28,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_wrath_level",
+                "max": 7,
+                "min": 7
+            }
+        ],
+        "type": "WrathSkill"
+    }
+}

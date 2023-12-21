@@ -1,0 +1,3310 @@
+{
+    "WatchstoneArmourQualityChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Armoursmith",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_armours_drop_20%_quality_%_chance",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "WatchstoneArmourQualityChance"
+    },
+    "WatchstoneArmourQualityChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Armoursmith",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_armours_drop_20%_quality_%_chance",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "WatchstoneArmourQualityChance"
+    },
+    "WatchstoneArmourQualityChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Armoursmith",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_armours_drop_20%_quality_%_chance",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "WatchstoneArmourQualityChance"
+    },
+    "WatchstoneAtlasBaseChance1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneAtlasBaseChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Remarkable",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_atlas_base_type_permyriad",
+                "max": 300,
+                "min": 200
+            }
+        ],
+        "type": "WatchstoneMapBossAtlasBaseChance"
+    },
+    "WatchstoneAtlasBaseChance2_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneAtlasBaseChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Remarkable",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_atlas_base_type_permyriad",
+                "max": 450,
+                "min": 350
+            }
+        ],
+        "type": "WatchstoneMapBossAtlasBaseChance"
+    },
+    "WatchstoneAtlasBaseChance3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneAtlasBaseChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Remarkable",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_atlas_base_type_permyriad",
+                "max": 600,
+                "min": 500
+            }
+        ],
+        "type": "WatchstoneMapBossAtlasBaseChance"
+    },
+    "WatchstoneBossCurrencyDrops1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneBossCurrencyDrops"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Riches",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_drops_additional_currency_items",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneBossCurrencyDrops"
+    },
+    "WatchstoneExperience1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Elevation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 10
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_experience_gain_+%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneExperience"
+    },
+    "WatchstoneExperience2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Elevation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_experience_gain_+%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "WatchstoneExperience"
+    },
+    "WatchstoneFlaskQualityChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Glassblowing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_flasks_drop_with_max_quality_chance_%",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "WatchstoneFlaskQualityChance"
+    },
+    "WatchstoneFlaskQualityChance2__": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Glassblowing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_flasks_drop_with_max_quality_chance_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "WatchstoneFlaskQualityChance"
+    },
+    "WatchstoneFlaskQualityChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Glassblowing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_flasks_drop_with_max_quality_chance_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "WatchstoneFlaskQualityChance"
+    },
+    "WatchstoneFullyLinkedChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Connections",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_items_drop_fully_linked_chance_permillage",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneFullyLinkedChance"
+    },
+    "WatchstoneFullyLinkedChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Connections",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_items_drop_fully_linked_chance_permillage",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "WatchstoneFullyLinkedChance"
+    },
+    "WatchstoneFullyLinkedChance3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Connections",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_items_drop_fully_linked_chance_permillage",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "WatchstoneFullyLinkedChance"
+    },
+    "WatchstoneGemQualityChance1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Gemcutter",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_gems_drop_20%_quality_%_chance",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneGemQualityChance"
+    },
+    "WatchstoneInfluenceItemChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneInfluenceItemChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Anarchic Influence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_influenced_item_drop_chance_+%",
+                "max": 15,
+                "min": 5
+            }
+        ],
+        "type": "WatchstoneInfluenceItemChance"
+    },
+    "WatchstoneInfluenceItemChance2_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneInfluenceItemChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Anarchic Influence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_influenced_item_drop_chance_+%",
+                "max": 30,
+                "min": 16
+            }
+        ],
+        "type": "WatchstoneInfluenceItemChance"
+    },
+    "WatchstoneInfluenceItemChance3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneInfluenceItemChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Anarchic Influence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_influenced_item_drop_chance_+%",
+                "max": 50,
+                "min": 31
+            }
+        ],
+        "type": "WatchstoneInfluenceItemChance"
+    },
+    "WatchstoneItemQuantity1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Surplus",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneItemQuantity"
+    },
+    "WatchstoneItemQuantity2___": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Surplus",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "WatchstoneItemQuantity"
+    },
+    "WatchstoneItemQuantity3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Surplus",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 10
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "WatchstoneItemQuantity"
+    },
+    "WatchstoneItemRarity1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 7,
+                "min": 4
+            }
+        ],
+        "type": "WatchstoneItemRarity"
+    },
+    "WatchstoneItemRarity2__": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 11,
+                "min": 8
+            }
+        ],
+        "type": "WatchstoneItemRarity"
+    },
+    "WatchstoneItemRarity3__": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "WatchstoneItemRarity"
+    },
+    "WatchstoneLuckyLinks1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Lucky Connections",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_lucky_links",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneLuckyLinks"
+    },
+    "WatchstoneMagicMonstersPercent1__": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMagicMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Emboldening",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_number_of_magic_packs_+%",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneMagicMonstersPercent"
+    },
+    "WatchstoneMagicMonstersPercent2_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMagicMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Emboldening",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_number_of_magic_packs_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "WatchstoneMagicMonstersPercent"
+    },
+    "WatchstoneMagicMonstersPercent3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMagicMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Emboldening",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_number_of_magic_packs_+%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "WatchstoneMagicMonstersPercent"
+    },
+    "WatchstoneMapBossDivinationCardChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossDivinationCardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Divination",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_divination_card_permillage",
+                "max": 150,
+                "min": 100
+            }
+        ],
+        "type": "WatchstoneMapBossDivinationCardChance"
+    },
+    "WatchstoneMapBossDivinationCardChance2_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossDivinationCardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Divination",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_divination_card_permillage",
+                "max": 200,
+                "min": 160
+            }
+        ],
+        "type": "WatchstoneMapBossDivinationCardChance"
+    },
+    "WatchstoneMapBossDivinationCardChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossDivinationCardChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Divination",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_divination_card_permillage",
+                "max": 250,
+                "min": 210
+            }
+        ],
+        "type": "WatchstoneMapBossDivinationCardChance"
+    },
+    "WatchstoneMapBossEssenceChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossEssenceChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Voices",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_essence_permillage",
+                "max": 150,
+                "min": 100
+            }
+        ],
+        "type": "WatchstoneMapBossEssenceChance"
+    },
+    "WatchstoneMapBossEssenceChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossEssenceChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Voices",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_essence_permillage",
+                "max": 200,
+                "min": 160
+            }
+        ],
+        "type": "WatchstoneMapBossEssenceChance"
+    },
+    "WatchstoneMapBossEssenceChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossEssenceChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Voices",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_essence_permillage",
+                "max": 250,
+                "min": 210
+            }
+        ],
+        "type": "WatchstoneMapBossEssenceChance"
+    },
+    "WatchstoneMapBossFragmentChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossFragmentChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Forbidden",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_fragment_permillage",
+                "max": 150,
+                "min": 100
+            }
+        ],
+        "type": "WatchstoneMapBossFragmentChance"
+    },
+    "WatchstoneMapBossFragmentChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossFragmentChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Forbidden",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_fragment_permillage",
+                "max": 200,
+                "min": 160
+            }
+        ],
+        "type": "WatchstoneMapBossFragmentChance"
+    },
+    "WatchstoneMapBossFragmentChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossFragmentChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Forbidden",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_fragment_permillage",
+                "max": 250,
+                "min": 210
+            }
+        ],
+        "type": "WatchstoneMapBossFragmentChance"
+    },
+    "WatchstoneMapBossInfluencedItemDropChance1___": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossInfluencedItemDropChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Influence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_random_influenced_item_%",
+                "max": 15,
+                "min": 10
+            }
+        ],
+        "type": "WatchstoneMapBossInfluencedItemDropChance"
+    },
+    "WatchstoneMapBossInfluencedItemDropChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossInfluencedItemDropChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Influence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_random_influenced_item_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "WatchstoneMapBossInfluencedItemDropChance"
+    },
+    "WatchstoneMapBossInfluencedItemDropChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossInfluencedItemDropChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Influence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_random_influenced_item_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "WatchstoneMapBossInfluencedItemDropChance"
+    },
+    "WatchstoneMapBossItemRarity1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Affluence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_item_rarity_+%",
+                "max": 1500,
+                "min": 1000
+            }
+        ],
+        "type": "WatchstoneMapBossItemRarity"
+    },
+    "WatchstoneMapBossItemRarity2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Affluence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_item_rarity_+%",
+                "max": 2000,
+                "min": 1501
+            }
+        ],
+        "type": "WatchstoneMapBossItemRarity"
+    },
+    "WatchstoneMapBossItemRarity3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Affluence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_item_rarity_+%",
+                "max": 2500,
+                "min": 2001
+            }
+        ],
+        "type": "WatchstoneMapBossItemRarity"
+    },
+    "WatchstoneMapBossMapChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossMapChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Gatekeeper",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_map_permillage",
+                "max": 40,
+                "min": 30
+            }
+        ],
+        "type": "WatchstoneMapBossMapChance"
+    },
+    "WatchstoneMapBossMapChance2_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossMapChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Gatekeeper",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_map_permillage",
+                "max": 60,
+                "min": 50
+            }
+        ],
+        "type": "WatchstoneMapBossMapChance"
+    },
+    "WatchstoneMapBossMapChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossMapChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Gatekeeper",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_map_permillage",
+                "max": 100,
+                "min": 70
+            }
+        ],
+        "type": "WatchstoneMapBossMapChance"
+    },
+    "WatchstoneMapBossMapCurrencyChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossMapCurrencyChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Miser",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_map_currency_permyriad",
+                "max": 700,
+                "min": 500
+            }
+        ],
+        "type": "WatchstoneMapBossMapCurrencyChance"
+    },
+    "WatchstoneMapBossMapCurrencyChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossMapCurrencyChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Miser",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_map_currency_permyriad",
+                "max": 1000,
+                "min": 750
+            }
+        ],
+        "type": "WatchstoneMapBossMapCurrencyChance"
+    },
+    "WatchstoneMapBossMapCurrencyChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossMapCurrencyChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Miser",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_map_currency_permyriad",
+                "max": 1500,
+                "min": 1100
+            }
+        ],
+        "type": "WatchstoneMapBossMapCurrencyChance"
+    },
+    "WatchstoneMapBossScarabChance1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossScarabChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Skittering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_scarab_permillage",
+                "max": 45,
+                "min": 30
+            }
+        ],
+        "type": "WatchstoneMapBossScarabChance"
+    },
+    "WatchstoneMapBossScarabChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossScarabChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Skittering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_scarab_permillage",
+                "max": 65,
+                "min": 50
+            }
+        ],
+        "type": "WatchstoneMapBossScarabChance"
+    },
+    "WatchstoneMapBossScarabChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossScarabChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Skittering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_scarab_permillage",
+                "max": 90,
+                "min": 70
+            }
+        ],
+        "type": "WatchstoneMapBossScarabChance"
+    },
+    "WatchstoneMapBossSilverCoinChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossSilverCoinChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Prophet",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_silver_coin_permillage",
+                "max": 150,
+                "min": 100
+            }
+        ],
+        "type": "WatchstoneMapBossSilverCoinChance"
+    },
+    "WatchstoneMapBossSilverCoinChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossSilverCoinChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Prophet",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_silver_coin_permillage",
+                "max": 200,
+                "min": 160
+            }
+        ],
+        "type": "WatchstoneMapBossSilverCoinChance"
+    },
+    "WatchstoneMapBossSilverCoinChance3___": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossSilverCoinChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Prophet",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_silver_coin_permillage",
+                "max": 250,
+                "min": 210
+            }
+        ],
+        "type": "WatchstoneMapBossSilverCoinChance"
+    },
+    "WatchstoneMapBossTalismanChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossTalismanChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the First Ones",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_talisman_permillage",
+                "max": 70,
+                "min": 50
+            }
+        ],
+        "type": "WatchstoneMapBossTalismanChance"
+    },
+    "WatchstoneMapBossTalismanChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossTalismanChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the First Ones",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_talisman_permillage",
+                "max": 100,
+                "min": 75
+            }
+        ],
+        "type": "WatchstoneMapBossTalismanChance"
+    },
+    "WatchstoneMapBossTalismanChance3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossTalismanChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the First Ones",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_talisman_permillage",
+                "max": 150,
+                "min": 110
+            }
+        ],
+        "type": "WatchstoneMapBossTalismanChance"
+    },
+    "WatchstoneMapBossUniqueChance1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossUniqueChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Hoarder",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_unique_item_permyriad",
+                "max": 700,
+                "min": 500
+            }
+        ],
+        "type": "WatchstoneMapBossUniqueChance"
+    },
+    "WatchstoneMapBossUniqueChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossUniqueChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Hoarder",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_unique_item_permyriad",
+                "max": 1000,
+                "min": 750
+            }
+        ],
+        "type": "WatchstoneMapBossUniqueChance"
+    },
+    "WatchstoneMapBossUniqueChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapBossUniqueChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Hoarder",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_boss_chance_to_drop_additional_unique_item_permyriad",
+                "max": 1500,
+                "min": 1100
+            }
+        ],
+        "type": "WatchstoneMapBossUniqueChance"
+    },
+    "WatchstoneMapModEffect1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapModEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Treacherous Realms",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_mod_effect_+%_for_non_unique_maps",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "WatchstoneMapModEffect"
+    },
+    "WatchstoneMapModEffect2__": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapModEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Treacherous Realms",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_mod_effect_+%_for_non_unique_maps",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "WatchstoneMapModEffect"
+    },
+    "WatchstoneMapModEffect3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneMapModEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Treacherous Realms",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 5
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_mod_effect_+%_for_non_unique_maps",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "WatchstoneMapModEffect"
+    },
+    "WatchstoneMaximumSocketsChance1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Geomancy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_maximum_sockets_permillage_chance",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneMaximumSocketsChance"
+    },
+    "WatchstoneMaximumSocketsChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Geomancy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_maximum_sockets_permillage_chance",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "WatchstoneMaximumSocketsChance"
+    },
+    "WatchstoneMaximumSocketsChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Geomancy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_maximum_sockets_permillage_chance",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "WatchstoneMaximumSocketsChance"
+    },
+    "WatchstonePackSize1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstonePackSize"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Masses",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_pack_size_+%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "WatchstonePackSize"
+    },
+    "WatchstonePackSize2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstonePackSize"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Masses",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_pack_size_+%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "WatchstonePackSize"
+    },
+    "WatchstonePackSize3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstonePackSize"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Masses",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 5
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_pack_size_+%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "WatchstonePackSize"
+    },
+    "WatchstonePlusOneDropLevelChance1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstonePlusOneDropLevelChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Progress",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_+1_item_level_drops_%_chance",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "WatchstonePlusOneDropLevelChance"
+    },
+    "WatchstonePlusOneDropLevelChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstonePlusOneDropLevelChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Progress",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_+1_item_level_drops_%_chance",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "WatchstonePlusOneDropLevelChance"
+    },
+    "WatchstonePlusOneDropLevelChance3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstonePlusOneDropLevelChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Progress",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_+1_item_level_drops_%_chance",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "WatchstonePlusOneDropLevelChance"
+    },
+    "WatchstonePlusTwoSocketsChance1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Hollows",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_+2_sockets_permillage_chance",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "WatchstonePlusTwoSocketsChance"
+    },
+    "WatchstonePlusTwoSocketsChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Hollows",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_+2_sockets_permillage_chance",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "WatchstonePlusTwoSocketsChance"
+    },
+    "WatchstonePlusTwoSocketsChance3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Hollows",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_+2_sockets_permillage_chance",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "WatchstonePlusTwoSocketsChance"
+    },
+    "WatchstoneRareMonstersPercent1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneRareMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Unfettered",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_number_of_rare_packs_+%",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneRareMonstersPercent"
+    },
+    "WatchstoneRareMonstersPercent2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneRareMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Unfettered",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_number_of_rare_packs_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "WatchstoneRareMonstersPercent"
+    },
+    "WatchstoneRareMonstersPercent3___": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneRareMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Unfettered",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_number_of_rare_packs_+%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "WatchstoneRareMonstersPercent"
+    },
+    "WatchstoneTwinnedBossChance1__": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneTwinnedBossChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Twinned",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_twinned_boss_chance_%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "WatchstoneTwinnedBossChance"
+    },
+    "WatchstoneTwinnedBossChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneTwinnedBossChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Twinned",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_twinned_boss_chance_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "WatchstoneTwinnedBossChance"
+    },
+    "WatchstoneUniqueMapAreaLevel1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneUniqueMapAreaLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of New Challenges",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_unique_area_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneUniqueMapAreaLevel"
+    },
+    "WatchstoneUniqueMapReplacementChance1": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneUniqueMapReplacementChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Strange Horizons",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_dropped_map_as_random_unique_map_permilliage",
+                "max": 3,
+                "min": 1
+            }
+        ],
+        "type": "WatchstoneUniqueMapReplacementChance"
+    },
+    "WatchstoneUniqueMapReplacementChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneUniqueMapReplacementChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Strange Horizons",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_dropped_map_as_random_unique_map_permilliage",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "WatchstoneUniqueMapReplacementChance"
+    },
+    "WatchstoneUniqueMapReplacementChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneUniqueMapReplacementChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Strange Horizons",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_dropped_map_as_random_unique_map_permilliage",
+                "max": 10,
+                "min": 7
+            }
+        ],
+        "type": "WatchstoneUniqueMapReplacementChance"
+    },
+    "WatchstoneWeaponQualityChance1_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Weaponsmith",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_weapons_drop_20%_quality_%_chance",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "WatchstoneWeaponQualityChance"
+    },
+    "WatchstoneWeaponQualityChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Weaponsmith",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_weapons_drop_20%_quality_%_chance",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "WatchstoneWeaponQualityChance"
+    },
+    "WatchstoneWeaponQualityChance3_": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneQualityChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Weaponsmith",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_weapons_drop_20%_quality_%_chance",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "WatchstoneWeaponQualityChance"
+    },
+    "WatchstoneWhiteSocketChance1__": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Versatility",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_1_white_socket_permyriad_chance",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "WatchstoneWhiteSocketChance"
+    },
+    "WatchstoneWhiteSocketChance2": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Versatility",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_1_white_socket_permyriad_chance",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "WatchstoneWhiteSocketChance"
+    },
+    "WatchstoneWhiteSocketChance3": {
+        "adds_tags": [],
+        "domain": "watchstone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WatchstoneSocketModification"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Versatility",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "unique_map",
+                "weight": 0
+            },
+            {
+                "tag": "no_monster_packs",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_equipment_drops_with_1_white_socket_permyriad_chance",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "WatchstoneWhiteSocketChance"
+    }
+}

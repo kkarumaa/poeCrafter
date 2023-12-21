@@ -1,0 +1,601 @@
+{
+    "AdditionalAOERangeCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "AreaOfEffect"
+    },
+    "AdditionalTrapsCorruption_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TrapsAllowed"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "number_of_additional_traps_allowed",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "TrapsAllowed"
+    },
+    "AvoidShockCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedShockChance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_shock_%",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "ReducedShockChance"
+    },
+    "ClaritySkillCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Clarity",
+                "level": 12
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 47,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_clarity_level",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "ClaritySkill"
+    },
+    "ClaritySkillCorrupted4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Clarity",
+                "level": 16
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 59,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_clarity_level",
+                "max": 16,
+                "min": 16
+            }
+        ],
+        "type": "ClaritySkill"
+    },
+    "IncreasedDurationCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SkillEffectDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "skill_effect_duration_+%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "SkillEffectDuration"
+    },
+    "MaximumEnduranceChargesCorruption_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumEnduranceCharges"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "max_endurance_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumEnduranceCharges"
+    },
+    "V2AdditionalAOERangeCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "AreaOfEffect"
+    },
+    "V2AdditionalCriticalStrikeMultiplierUnderFlaskEffectCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalCriticalStrikeMultiplierUnderFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_multiplier_+_during_any_flask_effect",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "AdditionalCriticalStrikeMultiplierUnderFlaskEffect"
+    },
+    "V2IncreasedAttackSpeedUnderFlaskEffectCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpeedDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%_during_flask_effect",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "AttackSpeedDuringFlaskEffect"
+    },
+    "V2IncreasedCastSpeedUnderFlaskEffectCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpeedDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cast_speed_+%_during_flask_effect",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "CastSpeedDuringFlaskEffect"
+    },
+    "V2IncreasedCriticalStrikeUnderFlaskEffectCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCriticalStrikeUnderFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%_during_any_flask_effect",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "IncreasedCriticalStrikeUnderFlaskEffect"
+    },
+    "V2IncreasedDurationCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SkillEffectDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "skill_effect_duration_+%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "SkillEffectDuration"
+    },
+    "V2IncreasedEnergyShieldCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "GlobalEnergyShieldPercent"
+    },
+    "V2IncreasedLifeCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLifeIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "MaximumLifeIncreasePercent"
+    },
+    "V2IncreasedMovementVelocityUnderFlaskEffectCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementSpeedDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "movement_speed_+%_during_flask_effect",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "MovementSpeedDuringFlaskEffect"
+    },
+    "VitalitySkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Vitality",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_vitality_level",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "VitalitySkill"
+    }
+}

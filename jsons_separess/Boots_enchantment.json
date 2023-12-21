@@ -1,0 +1,1760 @@
+{
+    "EnchantmentAddedChaosDamageWhenCrit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Chaos Damage 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_chaos_damage_for_4_seconds_when_crit_4s",
+                "max": 44,
+                "min": 44
+            },
+            {
+                "id": "enchantment_boots_maximum_added_chaos_damage_for_4_seconds_when_crit_4s",
+                "max": 64,
+                "min": 64
+            }
+        ],
+        "type": "EnchantmentAddedChaosDamageWhenCrit"
+    },
+    "EnchantmentAddedChaosDamageWhenCrit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Chaos Damage 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_chaos_damage_for_4_seconds_when_crit_4s",
+                "max": 88,
+                "min": 88
+            },
+            {
+                "id": "enchantment_boots_maximum_added_chaos_damage_for_4_seconds_when_crit_4s",
+                "max": 132,
+                "min": 132
+            }
+        ],
+        "type": "EnchantmentAddedChaosDamageWhenCrit"
+    },
+    "EnchantmentAddedChaosDamageWhenCrit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Chaos Damage 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_chaos_damage_for_4_seconds_when_crit_4s",
+                "max": 120,
+                "min": 120
+            },
+            {
+                "id": "enchantment_boots_maximum_added_chaos_damage_for_4_seconds_when_crit_4s",
+                "max": 180,
+                "min": 180
+            }
+        ],
+        "type": "EnchantmentAddedChaosDamageWhenCrit"
+    },
+    "EnchantmentAddedFireDamageOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Fire Damage 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_fire_damage_on_kill_4s",
+                "max": 16,
+                "min": 16
+            },
+            {
+                "id": "enchantment_boots_maximum_added_fire_damage_on_kill_4s",
+                "max": 24,
+                "min": 24
+            }
+        ],
+        "type": "EnchantmentAddedFireDamageOnKill"
+    },
+    "EnchantmentAddedFireDamageOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Fire Damage 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_fire_damage_on_kill_4s",
+                "max": 33,
+                "min": 33
+            },
+            {
+                "id": "enchantment_boots_maximum_added_fire_damage_on_kill_4s",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "EnchantmentAddedFireDamageOnKill"
+    },
+    "EnchantmentAddedFireDamageOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Fire Damage 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_fire_damage_on_kill_4s",
+                "max": 45,
+                "min": 45
+            },
+            {
+                "id": "enchantment_boots_maximum_added_fire_damage_on_kill_4s",
+                "max": 68,
+                "min": 68
+            }
+        ],
+        "type": "EnchantmentAddedFireDamageOnKill"
+    },
+    "EnchantmentAttackAndCastSpeedOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Attack and Cast Speed 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_attack_and_cast_speed_+%_for_4_seconds_on_kill",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "EnchantmentAttackAndCastSpeedOnKill"
+    },
+    "EnchantmentAttackAndCastSpeedOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Attack and Cast Speed 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_attack_and_cast_speed_+%_for_4_seconds_on_kill",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "EnchantmentAttackAndCastSpeedOnKill"
+    },
+    "EnchantmentAttackAndCastSpeedOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Attack and Cast Speed 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_attack_and_cast_speed_+%_for_4_seconds_on_kill",
+                "max": 16,
+                "min": 16
+            }
+        ],
+        "type": "EnchantmentAttackAndCastSpeedOnKill"
+    },
+    "EnchantmentChanceCauseStatusAilmentsWhileHaventCrit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "critical",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Status Ailments 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_status_ailment_chance_+%_when_havent_crit_for_4_seconds",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "EnchantmentChanceCauseStatusAilmentsWhileHaventCrit"
+    },
+    "EnchantmentChanceCauseStatusAilmentsWhileHaventCrit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "critical",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Status Ailments 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_status_ailment_chance_+%_when_havent_crit_for_4_seconds",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "EnchantmentChanceCauseStatusAilmentsWhileHaventCrit"
+    },
+    "EnchantmentChanceCauseStatusAilmentsWhileHaventCrit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "critical",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Status Ailments 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_status_ailment_chance_+%_when_havent_crit_for_4_seconds",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "EnchantmentChanceCauseStatusAilmentsWhileHaventCrit"
+    },
+    "EnchantmentColdDamageWhenHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Cold Damage 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_added_cold_damage_when_hit_minimum",
+                "max": 16,
+                "min": 16
+            },
+            {
+                "id": "enchantment_boots_added_cold_damage_when_hit_maximum",
+                "max": 24,
+                "min": 24
+            }
+        ],
+        "type": "EnchantmentColdDamageWhenHit"
+    },
+    "EnchantmentColdDamageWhenHit2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Cold Damage 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_added_cold_damage_when_hit_minimum",
+                "max": 33,
+                "min": 33
+            },
+            {
+                "id": "enchantment_boots_added_cold_damage_when_hit_maximum",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "EnchantmentColdDamageWhenHit"
+    },
+    "EnchantmentColdDamageWhenHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Cold Damage 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_added_cold_damage_when_hit_minimum",
+                "max": 45,
+                "min": 45
+            },
+            {
+                "id": "enchantment_boots_added_cold_damage_when_hit_maximum",
+                "max": 68,
+                "min": 68
+            }
+        ],
+        "type": "EnchantmentColdDamageWhenHit"
+    },
+    "EnchantmentCriticalChanceWhenNoCrit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Critical Strike Chance 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_critical_strike_chance_+%_if_you_havent_crit_for_4_seconds",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "EnchantmentCriticalChanceWhenNoCrit"
+    },
+    "EnchantmentCriticalChanceWhenNoCrit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Critical Strike Chance 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_critical_strike_chance_+%_if_you_havent_crit_for_4_seconds",
+                "max": 90,
+                "min": 90
+            }
+        ],
+        "type": "EnchantmentCriticalChanceWhenNoCrit"
+    },
+    "EnchantmentCriticalChanceWhenNoCrit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Critical Strike Chance 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_critical_strike_chance_+%_if_you_havent_crit_for_4_seconds",
+                "max": 120,
+                "min": 120
+            }
+        ],
+        "type": "EnchantmentCriticalChanceWhenNoCrit"
+    },
+    "EnchantmentDodgeChanceWhenCrit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Attack Dodge 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "extra_damage_taken_from_crit_-%_if_taken_critical_strike_recently",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "EnchantmentDodgeChanceWhenCriticallyHit"
+    },
+    "EnchantmentDodgeChanceWhenCrit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Attack Dodge 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "extra_damage_taken_from_crit_-%_if_taken_critical_strike_recently",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "EnchantmentDodgeChanceWhenCriticallyHit"
+    },
+    "EnchantmentDodgeChanceWhenCrit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Attack Dodge 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "extra_damage_taken_from_crit_-%_if_taken_critical_strike_recently",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "EnchantmentDodgeChanceWhenCriticallyHit"
+    },
+    "EnchantmentElementalPenetrationWhileHaventKilled1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Elemental Penetration 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_damage_penetrates_elemental_resistance_%_while_you_havent_killed_for_4_seconds",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "EnchantmentElementalPenetrationWhileHaventKilled"
+    },
+    "EnchantmentElementalPenetrationWhileHaventKilled2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Elemental Penetration 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_damage_penetrates_elemental_resistance_%_while_you_havent_killed_for_4_seconds",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "EnchantmentElementalPenetrationWhileHaventKilled"
+    },
+    "EnchantmentElementalPenetrationWhileHaventKilled3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Elemental Penetration 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_damage_penetrates_elemental_resistance_%_while_you_havent_killed_for_4_seconds",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "EnchantmentElementalPenetrationWhileHaventKilled"
+    },
+    "EnchantmentLifeAndManaLeechOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Leech 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_life_leech_on_kill_permyriad",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "EnchantmentLifeAndManaLeechOnKill"
+    },
+    "EnchantmentLifeAndManaLeechOnKill2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Leech 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_life_leech_on_kill_permyriad",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "EnchantmentLifeAndManaLeechOnKill"
+    },
+    "EnchantmentLifeAndManaLeechOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Leech 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_life_leech_on_kill_permyriad",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "EnchantmentLifeAndManaLeechOnKill"
+    },
+    "EnchantmentLifeAndManaRegenerationWhenHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Regeneration 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_life_regen_per_minute_%_for_4_seconds_when_hit",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "LifeAndManaRegenerationWhenHit"
+    },
+    "EnchantmentLifeAndManaRegenerationWhenHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Regeneration 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_life_regen_per_minute_%_for_4_seconds_when_hit",
+                "max": 90,
+                "min": 90
+            }
+        ],
+        "type": "LifeAndManaRegenerationWhenHit"
+    },
+    "EnchantmentLifeAndManaRegenerationWhenHit3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Regeneration 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_life_regen_per_minute_%_for_4_seconds_when_hit",
+                "max": 120,
+                "min": 120
+            }
+        ],
+        "type": "LifeAndManaRegenerationWhenHit"
+    },
+    "EnchantmentLightningDamageWhileHaventKilled1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Lightning Damage 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_lightning_damage_when_you_havent_killed_for_4_seconds",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "enchantment_boots_maximum_added_lightning_damage_when_you_havent_killed_for_4_seconds",
+                "max": 56,
+                "min": 56
+            }
+        ],
+        "type": "EnchantmentLightningDamageWhileHaventKilled"
+    },
+    "EnchantmentLightningDamageWhileHaventKilled2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Lightning Damage 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_lightning_damage_when_you_havent_killed_for_4_seconds",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "enchantment_boots_maximum_added_lightning_damage_when_you_havent_killed_for_4_seconds",
+                "max": 120,
+                "min": 120
+            }
+        ],
+        "type": "EnchantmentLightningDamageWhileHaventKilled"
+    },
+    "EnchantmentLightningDamageWhileHaventKilled3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Lightning Damage 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_minimum_added_lightning_damage_when_you_havent_killed_for_4_seconds",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "enchantment_boots_maximum_added_lightning_damage_when_you_havent_killed_for_4_seconds",
+                "max": 160,
+                "min": 160
+            }
+        ],
+        "type": "EnchantmentLightningDamageWhileHaventKilled"
+    },
+    "EnchantmentManaCostsWhenHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Mana Cost 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_mana_costs_when_hit_+%",
+                "max": -10,
+                "min": -10
+            }
+        ],
+        "type": "EnchantmentManaCostsWhenHit"
+    },
+    "EnchantmentManaCostsWhenHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Mana Cost 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_mana_costs_when_hit_+%",
+                "max": -14,
+                "min": -14
+            }
+        ],
+        "type": "EnchantmentManaCostsWhenHit"
+    },
+    "EnchantmentManaCostsWhenHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Mana Cost 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_mana_costs_when_hit_+%",
+                "max": -18,
+                "min": -18
+            }
+        ],
+        "type": "EnchantmentManaCostsWhenHit"
+    },
+    "EnchantmentManaRegenerationOnSpellCast1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Mana Regeneration 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_mana_regeneration_rate_+%_if_cast_spell_recently",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "EnchantmentManaRegenerationOnSpellCast"
+    },
+    "EnchantmentManaRegenerationOnSpellCast2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Mana Regeneration 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_mana_regeneration_rate_+%_if_cast_spell_recently",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "EnchantmentManaRegenerationOnSpellCast"
+    },
+    "EnchantmentManaRegenerationOnSpellCast3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Mana Regeneration 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_mana_regeneration_rate_+%_if_cast_spell_recently",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "EnchantmentManaRegenerationOnSpellCast"
+    },
+    "EnchantmentMovementVelocityWhileHaventBeenHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Movement Speed 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_movement_speed_+%_when_not_hit_for_4_seconds",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "EnchantmentMovementVelocityWhileHaventBeenHit"
+    },
+    "EnchantmentMovementVelocityWhileHaventBeenHit2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Movement Speed 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_movement_speed_+%_when_not_hit_for_4_seconds",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "EnchantmentMovementVelocityWhileHaventBeenHit"
+    },
+    "EnchantmentMovementVelocityWhileHaventBeenHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Movement Speed 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_movement_speed_+%_when_not_hit_for_4_seconds",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "EnchantmentMovementVelocityWhileHaventBeenHit"
+    },
+    "EnchantmentSpellDodgeWhenHitBySpells1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Enchantment Spell Dodge 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_suppression_chance_%_if_taken_spell_damage_recently",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "EnchantmentSpellDodgeWhenHitBySpells"
+    },
+    "EnchantmentSpellDodgeWhenHitBySpells2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Enchantment Spell Dodge 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_suppression_chance_%_if_taken_spell_damage_recently",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "EnchantmentSpellDodgeWhenHitBySpells"
+    },
+    "EnchantmentSpellDodgeWhenHitBySpells3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Enchantment Spell Dodge 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_suppression_chance_%_if_taken_spell_damage_recently",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "EnchantmentSpellDodgeWhenHitBySpells"
+    },
+    "EnchantmentStunAvoidanceOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Enchantment Stun Avoidance 1",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_stun_avoid_%_on_kill",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "EnchantmentStunAvoidanceOnKill"
+    },
+    "EnchantmentStunAvoidanceOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Enchantment Stun Avoidance 2",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_stun_avoid_%_on_kill",
+                "max": 65,
+                "min": 65
+            }
+        ],
+        "type": "EnchantmentStunAvoidanceOnKill"
+    },
+    "EnchantmentStunAvoidanceOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConditionalBuffEnchantment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Enchantment Stun Avoidance 3",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enchantment_boots_stun_avoid_%_on_kill",
+                "max": 80,
+                "min": 80
+            }
+        ],
+        "type": "EnchantmentStunAvoidanceOnKill"
+    }
+}

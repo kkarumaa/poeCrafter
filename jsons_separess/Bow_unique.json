@@ -1,0 +1,36 @@
+{
+    "PierceCurruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "unique",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ArrowPierce"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "arrows_pierce_additional_target",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CorruptionBowArrowPierce"
+    }
+}

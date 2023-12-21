@@ -1,0 +1,1990 @@
+{
+    "HeistTrinketCoinsDroppedByMonstersDouble1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCoinsDroppedByMonstersDouble"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_dropped_by_monsters_double_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketCoinsDroppedByMonstersDouble"
+    },
+    "HeistTrinketCoinsDroppedByMonstersDouble2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCoinsDroppedByMonstersDouble"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_dropped_by_monsters_double_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistTrinketCoinsDroppedByMonstersDouble"
+    },
+    "HeistTrinketCoinsDroppedByMonstersDouble3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCoinsDroppedByMonstersDouble"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_dropped_by_monsters_double_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistTrinketCoinsDroppedByMonstersDouble"
+    },
+    "HeistTrinketCoinsFromWorldChestsDouble1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCoinsFromWorldChestsDouble"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_from_world_chests_double_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketCoinsFromWorldChestsDouble"
+    },
+    "HeistTrinketCoinsFromWorldChestsDouble2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCoinsFromWorldChestsDouble"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_from_world_chests_double_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistTrinketCoinsFromWorldChestsDouble"
+    },
+    "HeistTrinketCoinsFromWorldChestsDouble3_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCoinsFromWorldChestsDouble"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_from_world_chests_double_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistTrinketCoinsFromWorldChestsDouble"
+    },
+    "HeistTrinketCurrencyAlterationDropsAsAlchemy1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAlterationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_alteration_drops_as_alchemy_%",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "HeistTrinketCurrencyAlterationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyAlterationDropsAsAlchemy2_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAlterationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_alteration_drops_as_alchemy_%",
+                "max": 20,
+                "min": 17
+            }
+        ],
+        "type": "HeistTrinketCurrencyAlterationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyAlterationDropsAsAlchemy3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAlterationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_alteration_drops_as_alchemy_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "HeistTrinketCurrencyAlterationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyAlterationDropsAsChaos1__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAlterationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_alteration_drops_as_chaos_%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "HeistTrinketCurrencyAlterationDropsAsChaos"
+    },
+    "HeistTrinketCurrencyAlterationDropsAsChaos2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAlterationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_alteration_drops_as_chaos_%",
+                "max": 12,
+                "min": 9
+            }
+        ],
+        "type": "HeistTrinketCurrencyAlterationDropsAsChaos"
+    },
+    "HeistTrinketCurrencyAlterationDropsAsChaos3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAlterationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_alteration_drops_as_chaos_%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "HeistTrinketCurrencyAlterationDropsAsChaos"
+    },
+    "HeistTrinketCurrencyAlterationDropsAsRegal1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAlterationDropsAsRegal"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_alteration_drops_as_regal_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketCurrencyAlterationDropsAsRegal"
+    },
+    "HeistTrinketCurrencyAugmentationDropsAsAlchemy1__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAugmentationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_augmentation_drops_as_alchemy_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistTrinketCurrencyAugmentationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyAugmentationDropsAsAlchemy2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAugmentationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_augmentation_drops_as_alchemy_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistTrinketCurrencyAugmentationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyAugmentationDropsAsAlchemy3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAugmentationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_augmentation_drops_as_alchemy_%",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "HeistTrinketCurrencyAugmentationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyAugmentationDropsAsChaos1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAugmentationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_augmentation_drops_as_chaos_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketCurrencyAugmentationDropsAsChaos"
+    },
+    "HeistTrinketCurrencyAugmentationDropsAsChaos2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAugmentationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_augmentation_drops_as_chaos_%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "HeistTrinketCurrencyAugmentationDropsAsChaos"
+    },
+    "HeistTrinketCurrencyAugmentationDropsAsChaos3__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAugmentationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_augmentation_drops_as_chaos_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistTrinketCurrencyAugmentationDropsAsChaos"
+    },
+    "HeistTrinketCurrencyAugmentationDropsAsRegal1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyAugmentationDropsAsRegal"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 15
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_augmentation_drops_as_regal_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketCurrencyAugmentationDropsAsRegal"
+    },
+    "HeistTrinketCurrencyChaosDropsAsDivine1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyChaosDropsAsDivine"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_chaos_drops_as_divine_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketCurrencyChaosDropsAsDivine"
+    },
+    "HeistTrinketCurrencyChaosDropsAsExalted1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyChaosDropsAsExalted"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_chaos_drops_as_exalted_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketCurrencyChaosDropsAsExalted"
+    },
+    "HeistTrinketCurrencyChromaticDropsAsFusing1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyChromaticDropsAsFusing"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_chromatic_drops_as_fusing_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "HeistTrinketCurrencyChromaticDropsAsFusing"
+    },
+    "HeistTrinketCurrencyChromaticDropsAsFusing2___": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyChromaticDropsAsFusing"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_chromatic_drops_as_fusing_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "HeistTrinketCurrencyChromaticDropsAsFusing"
+    },
+    "HeistTrinketCurrencyChromaticDropsAsFusing3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyChromaticDropsAsFusing"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_chromatic_drops_as_fusing_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "HeistTrinketCurrencyChromaticDropsAsFusing"
+    },
+    "HeistTrinketCurrencyChromaticDropsAsJewellers1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyChromaticDropsAsJewellers"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_chromatic_drops_as_jewellers_%",
+                "max": 33,
+                "min": 25
+            }
+        ],
+        "type": "HeistTrinketCurrencyChromaticDropsAsJewellers"
+    },
+    "HeistTrinketCurrencyChromaticDropsAsJewellers2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyChromaticDropsAsJewellers"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_chromatic_drops_as_jewellers_%",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "HeistTrinketCurrencyChromaticDropsAsJewellers"
+    },
+    "HeistTrinketCurrencyChromaticDropsAsJewellers3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyChromaticDropsAsJewellers"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_chromatic_drops_as_jewellers_%",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "HeistTrinketCurrencyChromaticDropsAsJewellers"
+    },
+    "HeistTrinketCurrencyJewellersDropsAsFusing1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyJewellersDropsAsFusing"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_jewellers_drops_as_fusing_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "HeistTrinketCurrencyJewellersDropsAsFusing"
+    },
+    "HeistTrinketCurrencyJewellersDropsAsFusing2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyJewellersDropsAsFusing"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_jewellers_drops_as_fusing_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "HeistTrinketCurrencyJewellersDropsAsFusing"
+    },
+    "HeistTrinketCurrencyJewellersDropsAsFusing3_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyJewellersDropsAsFusing"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_jewellers_drops_as_fusing_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "HeistTrinketCurrencyJewellersDropsAsFusing"
+    },
+    "HeistTrinketCurrencyRegalDropsAsDivine1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyRegalDropsAsDivine"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 10
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_regal_drops_as_divine_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketCurrencyRegalDropsAsDivine"
+    },
+    "HeistTrinketCurrencyRegalDropsAsDivine2_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyRegalDropsAsDivine"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 5
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_regal_drops_as_divine_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketCurrencyRegalDropsAsDivine"
+    },
+    "HeistTrinketCurrencyRegalDropsAsDivine3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyRegalDropsAsDivine"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 2
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_regal_drops_as_divine_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketCurrencyRegalDropsAsDivine"
+    },
+    "HeistTrinketCurrencyRegalDropsAsExalted1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyRegalDropsAsExalted"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 10
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_regal_drops_as_exalted_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketCurrencyRegalDropsAsExalted"
+    },
+    "HeistTrinketCurrencyRegalDropsAsExalted2_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyRegalDropsAsExalted"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 5
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_regal_drops_as_exalted_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketCurrencyRegalDropsAsExalted"
+    },
+    "HeistTrinketCurrencyRegalDropsAsExalted3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyRegalDropsAsExalted"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 2
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_regal_drops_as_exalted_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketCurrencyRegalDropsAsExalted"
+    },
+    "HeistTrinketCurrencyRegretDropsAsAnnulment1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyRegretDropsAsAnnulment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 10
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_regret_drops_as_annulment_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketCurrencyRegretDropsAsAnnulment"
+    },
+    "HeistTrinketCurrencyScouringDropsAsAnnulment1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyScouringDropsAsAnnulment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 5
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_scouring_drops_as_annulment_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketCurrencyScouringDropsAsAnnulment"
+    },
+    "HeistTrinketCurrencyScouringDropsAsRegret1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyScouringDropsAsRegret"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_scouring_drops_as_regret_%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "HeistTrinketCurrencyScouringDropsAsRegret"
+    },
+    "HeistTrinketCurrencyScouringDropsAsRegret2_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyScouringDropsAsRegret"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_scouring_drops_as_regret_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "HeistTrinketCurrencyScouringDropsAsRegret"
+    },
+    "HeistTrinketCurrencyScouringDropsAsRegret3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyScouringDropsAsRegret"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_scouring_drops_as_regret_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "HeistTrinketCurrencyScouringDropsAsRegret"
+    },
+    "HeistTrinketCurrencyTransmutationDropsAsAlchemy1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyTransmutationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_transmutation_drops_as_alchemy_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketCurrencyTransmutationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyTransmutationDropsAsAlchemy2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyTransmutationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_transmutation_drops_as_alchemy_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketCurrencyTransmutationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyTransmutationDropsAsAlchemy3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyTransmutationDropsAsAlchemy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_transmutation_drops_as_alchemy_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "HeistTrinketCurrencyTransmutationDropsAsAlchemy"
+    },
+    "HeistTrinketCurrencyTransmutationDropsAsChaos1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyTransmutationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_transmutation_drops_as_chaos_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketCurrencyTransmutationDropsAsChaos"
+    },
+    "HeistTrinketCurrencyTransmutationDropsAsChaos2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyTransmutationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_transmutation_drops_as_chaos_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketCurrencyTransmutationDropsAsChaos"
+    },
+    "HeistTrinketCurrencyTransmutationDropsAsChaos3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketCurrencyTransmutationDropsAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_currency_transmutation_drops_as_chaos_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketCurrencyTransmutationDropsAsChaos"
+    },
+    "HeistTrinketDropsDoubleCurrency1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketDropsDoubleCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_drops_double_currency_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketDropsDoubleCurrency"
+    },
+    "HeistTrinketDropsDoubleCurrency2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketDropsDoubleCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 25
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_drops_double_currency_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketDropsDoubleCurrency"
+    },
+    "HeistTrinketDropsDoubleCurrency3__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketDropsDoubleCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 10
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_drops_double_currency_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketDropsDoubleCurrency"
+    },
+    "HeistTrinketItemQuantity1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_quantity_+%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketItemQuantity"
+    },
+    "HeistTrinketItemQuantity2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 150
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_quantity_+%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "HeistTrinketItemQuantity"
+    },
+    "HeistTrinketItemQuantity3___": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_quantity_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "HeistTrinketItemQuantity"
+    },
+    "HeistTrinketItemRarity1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_rarity_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "HeistTrinketItemRarity"
+    },
+    "HeistTrinketItemRarity2_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 150
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_rarity_+%",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "HeistTrinketItemRarity"
+    },
+    "HeistTrinketItemRarity3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_rarity_+%",
+                "max": 20,
+                "min": 17
+            }
+        ],
+        "type": "HeistTrinketItemRarity"
+    },
+    "HeistTrinketItemsAreFullyLinked1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsAreFullyLinked"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_are_fully_linked_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketItemsAreFullyLinked"
+    },
+    "HeistTrinketItemsAreFullyLinked2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsAreFullyLinked"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_are_fully_linked_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketItemsAreFullyLinked"
+    },
+    "HeistTrinketItemsAreFullyLinked3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsAreFullyLinked"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_are_fully_linked_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketItemsAreFullyLinked"
+    },
+    "HeistTrinketItemsDropCorrupted1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsDropCorrupted"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_drop_corrupted_%",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "HeistTrinketItemsDropCorrupted"
+    },
+    "HeistTrinketItemsDropCorrupted2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsDropCorrupted"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_drop_corrupted_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketItemsDropCorrupted"
+    },
+    "HeistTrinketItemsDropCorrupted3_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsDropCorrupted"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_drop_corrupted_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketItemsDropCorrupted"
+    },
+    "HeistTrinketItemsDropIdentified1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsDropIdentified"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_drop_identified_%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "HeistTrinketItemsDropIdentified"
+    },
+    "HeistTrinketItemsDropIdentified2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsDropIdentified"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_drop_identified_%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistTrinketItemsDropIdentified"
+    },
+    "HeistTrinketItemsDropIdentified3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsDropIdentified"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_drop_identified_%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "HeistTrinketItemsDropIdentified"
+    },
+    "HeistTrinketItemsHaveElderInfluence1_": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsHaveElderInfluence"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_have_elder_influence_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketItemsHaveElderInfluence"
+    },
+    "HeistTrinketItemsHaveOneAdditionalSocket1__": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsHaveOneAdditionalSocket"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_have_one_additional_socket_%",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrinketItemsHaveOneAdditionalSocket"
+    },
+    "HeistTrinketItemsHaveOneAdditionalSocket2": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsHaveOneAdditionalSocket"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 75
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_have_one_additional_socket_%",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "HeistTrinketItemsHaveOneAdditionalSocket"
+    },
+    "HeistTrinketItemsHaveOneAdditionalSocket3": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsHaveOneAdditionalSocket"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 50
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_have_one_additional_socket_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrinketItemsHaveOneAdditionalSocket"
+    },
+    "HeistTrinketItemsHaveShaperInfluence1": {
+        "adds_tags": [],
+        "domain": "heist_trinket",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistTrinketItemsHaveShaperInfluence"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lucky",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 20
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_items_have_shaper_influence_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrinketItemsHaveShaperInfluence"
+    }
+}

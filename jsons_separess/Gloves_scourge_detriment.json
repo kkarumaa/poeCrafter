@@ -1,0 +1,1323 @@
+{
+    "HellscapeDownsideAccuracyPercent2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracyPercent"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating_+%",
+                "max": -33,
+                "min": -42
+            }
+        ],
+        "type": "IncreasedAccuracyPercent"
+    },
+    "HellscapeDownsideAccuracyPercent3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracyPercent"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating_+%",
+                "max": -45,
+                "min": -51
+            }
+        ],
+        "type": "IncreasedAccuracyPercent"
+    },
+    "HellscapeDownsideAllAilmentDuration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAilmentDuration"
+        ],
+        "implicit_tags": [
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_all_ailment_duration_+%",
+                "max": -21,
+                "min": -25
+            }
+        ],
+        "type": "IncreasedAilmentDuration"
+    },
+    "HellscapeDownsideAllAilmentDuration3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAilmentDuration"
+        ],
+        "implicit_tags": [
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_all_ailment_duration_+%",
+                "max": -26,
+                "min": -30
+            }
+        ],
+        "type": "IncreasedAilmentDuration"
+    },
+    "HellscapeDownsideAttackAndCastSpeedMinion2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionAttackSpeedAndCastSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_attack_speed_+%",
+                "max": -21,
+                "min": -24
+            },
+            {
+                "id": "minion_cast_speed_+%",
+                "max": -21,
+                "min": -24
+            }
+        ],
+        "type": "MinionAttackAndCastSpeed"
+    },
+    "HellscapeDownsideAttackAndCastSpeedMinion3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionAttackSpeedAndCastSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_attack_speed_+%",
+                "max": -27,
+                "min": -30
+            },
+            {
+                "id": "minion_cast_speed_+%",
+                "max": -27,
+                "min": -30
+            }
+        ],
+        "type": "MinionAttackAndCastSpeed"
+    },
+    "HellscapeDownsideAttackSpeed0": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": -9,
+                "min": -12
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "HellscapeDownsideAttackSpeed1__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": -15,
+                "min": -18
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "HellscapeDownsideAttackSpeed2_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": -21,
+                "min": -24
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "HellscapeDownsideAttackSpeed3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": -27,
+                "min": -30
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "HellscapeDownsideCannotApplyBleed1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotCauseBleeding"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_cause_bleeding",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotCauseBleeding"
+    },
+    "HellscapeDownsideCannotApplyPoison1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotCausePoison"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_cannot_poison",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "chaos_damage_cannot_poison",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotCausePoison"
+    },
+    "HellscapeDownsideCannotApplyStun1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotStun"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_stun",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotStun"
+    },
+    "HellscapeDownsideCannotBlock": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeDownsideCannotBlock"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_block_attacks",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "cannot_block_spells",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HellscapeDownsideCannotBlock"
+    },
+    "HellscapeDownsideCannotCurse": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotCurse"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_cannot_inflict_curses",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotCurse"
+    },
+    "HellscapeDownsideCannotLeechLife1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotLeechLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cannot_leech_life",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotLeechLife"
+    },
+    "HellscapeDownsideChaosResistanceMinion2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_chaos_resistance_%",
+                "max": -42,
+                "min": -51
+            }
+        ],
+        "type": "MinionChaosResistance"
+    },
+    "HellscapeDownsideChaosResistanceMinion3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_chaos_resistance_%",
+                "max": -54,
+                "min": -63
+            }
+        ],
+        "type": "MinionChaosResistance"
+    },
+    "HellscapeDownsideCursedWithConductivity1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfCurseConductivity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_are_cursed_with_conductivity",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SelfCurseConductivity"
+    },
+    "HellscapeDownsideCursedWithDespair1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfCurseDespair"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_are_cursed_with_despair",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SelfCurseDespair"
+    },
+    "HellscapeDownsideCursedWithElementalWeakness1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfCurseElementalWeakness"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_are_cursed_with_elemental_weakness",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SelfCurseElementalWeakness"
+    },
+    "HellscapeDownsideCursedWithEnfeeble1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfCurseEnfeeble"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_are_cursed_with_enfeeble",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SelfCurseEnfeeble"
+    },
+    "HellscapeDownsideCursedWithFlammability1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfCurseFlammability"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_are_cursed_with_flammability",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SelfCurseFlammability"
+    },
+    "HellscapeDownsideCursedWithFrostbite1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfCurseFrostbite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_are_cursed_with_frostbite",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SelfCurseFrostbite"
+    },
+    "HellscapeDownsideCursedWithTemporalChains1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfCurseTemporalChains"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_are_cursed_with_temporal_chains",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SelfCurseTemporalChains"
+    },
+    "HellscapeDownsideCursedWithVulnerability1____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfCurseVulnerability"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "you_are_cursed_with_vulnerability",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SelfCurseVulnerability"
+    },
+    "HellscapeDownsideElementalResistanceMinion2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_elemental_resistance_%",
+                "max": -30,
+                "min": -33
+            }
+        ],
+        "type": "MinionElementalResistance"
+    },
+    "HellscapeDownsideElementalResistanceMinion3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_elemental_resistance_%",
+                "max": -36,
+                "min": -39
+            }
+        ],
+        "type": "MinionElementalResistance"
+    },
+    "HellscapeDownsideMinionDamage0": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": -18,
+                "min": -21
+            }
+        ],
+        "type": "MinionDamage"
+    },
+    "HellscapeDownsideMinionDamage1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": -24,
+                "min": -27
+            }
+        ],
+        "type": "MinionDamage"
+    },
+    "HellscapeDownsideMinionDamage2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": -30,
+                "min": -33
+            }
+        ],
+        "type": "MinionDamage"
+    },
+    "HellscapeDownsideMinionDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": -36,
+                "min": -39
+            }
+        ],
+        "type": "MinionDamage"
+    },
+    "HellscapeDownsideProjectileDamagePercentage0": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_+%",
+                "max": -18,
+                "min": -21
+            }
+        ],
+        "type": "ProjectileDamage"
+    },
+    "HellscapeDownsideProjectileDamagePercentage1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_+%",
+                "max": -24,
+                "min": -27
+            }
+        ],
+        "type": "ProjectileDamage"
+    },
+    "HellscapeDownsideProjectileDamagePercentage2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_+%",
+                "max": -30,
+                "min": -33
+            }
+        ],
+        "type": "ProjectileDamage"
+    },
+    "HellscapeDownsideProjectileDamagePercentage3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_+%",
+                "max": -36,
+                "min": -39
+            }
+        ],
+        "type": "ProjectileDamage"
+    }
+}

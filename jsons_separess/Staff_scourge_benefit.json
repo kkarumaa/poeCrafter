@@ -1,0 +1,4014 @@
+{
+    "HellscapeUpsideChanceToFreeze2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 9,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "HellscapeUpsideChanceToFreeze2h3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "HellscapeUpsideChanceToFreeze2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "HellscapeUpsideChanceToIgnite2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 9,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "HellscapeUpsideChanceToIgnite2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "HellscapeUpsideChanceToIgnite2h4___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "HellscapeUpsideChanceToShock2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 9,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "HellscapeUpsideChanceToShock2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "HellscapeUpsideChanceToShock2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "HellscapeUpsideChaosDamageOverTimeMultiplier2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 19,
+                "min": 16
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideChaosDamageOverTimeMultiplier2h4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideChaosDamagePercentage2h1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "HellscapeUpsideChaosDamagePercentage2h1b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 47,
+                "min": 41
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "HellscapeUpsideChaosDamagePercentage2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 54,
+                "min": 48
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "HellscapeUpsideChaosDamagePercentage2h2b___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 61,
+                "min": 55
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "HellscapeUpsideChaosDamagePercentage2h3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 68,
+                "min": 62
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "HellscapeUpsideChaosDamagePercentage2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 75,
+                "min": 69
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "HellscapeUpsideChaosPenetration2h2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistancePenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_chaos_resistance_%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "ChaosResistancePenetration"
+    },
+    "HellscapeUpsideChaosPenetration2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistancePenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_chaos_resistance_%",
+                "max": 7,
+                "min": 7
+            }
+        ],
+        "type": "ChaosResistancePenetration"
+    },
+    "HellscapeUpsideChaosPenetration2h4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistancePenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_chaos_resistance_%",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "ChaosResistancePenetration"
+    },
+    "HellscapeUpsideColdDamageOverTimeMultiplier2h3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 19,
+                "min": 16
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideColdDamageOverTimeMultiplier2h4__": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideColdDamagePercentage2h1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "HellscapeUpsideColdDamagePercentage2h1b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 47,
+                "min": 41
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "HellscapeUpsideColdDamagePercentage2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 54,
+                "min": 48
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "HellscapeUpsideColdDamagePercentage2h2b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 61,
+                "min": 55
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "HellscapeUpsideColdDamagePercentage2h3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 68,
+                "min": 62
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "HellscapeUpsideColdDamagePercentage2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 75,
+                "min": 69
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "HellscapeUpsideColdPenetration2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "HellscapeUpsideColdPenetration2h3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 7,
+                "min": 7
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "HellscapeUpsideColdPenetration2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "HellscapeUpsideElementalDamagePercentage2h1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "HellscapeUpsideElementalDamagePercentage2h1b_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 47,
+                "min": 41
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "HellscapeUpsideElementalDamagePercentage2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 54,
+                "min": 48
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "HellscapeUpsideElementalDamagePercentage2h2b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 61,
+                "min": 55
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "HellscapeUpsideElementalDamagePercentage2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 68,
+                "min": 62
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "HellscapeUpsideElementalDamagePercentage2h4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 75,
+                "min": 69
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "HellscapeUpsideFireDamageOverTimeMultiplier2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 19,
+                "min": 16
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideFireDamageOverTimeMultiplier2h4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsideFireDamagePercentage2h1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "HellscapeUpsideFireDamagePercentage2h1b____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 47,
+                "min": 41
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "HellscapeUpsideFireDamagePercentage2h2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 54,
+                "min": 48
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "HellscapeUpsideFireDamagePercentage2h2b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 61,
+                "min": 55
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "HellscapeUpsideFireDamagePercentage2h3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 68,
+                "min": 62
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "HellscapeUpsideFireDamagePercentage2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 75,
+                "min": 69
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "HellscapeUpsideFirePenetration2h2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "HellscapeUpsideFirePenetration2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 7,
+                "min": 7
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "HellscapeUpsideFirePenetration2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "HellscapeUpsideGlobalIncreaseChaosSpellSkillGemLevel2h__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_spell_skill_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "GlobalIncreaseChaosSpellSkillGemLevel"
+    },
+    "HellscapeUpsideGlobalIncreaseColdSpellSkillGemLevel2h": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_spell_skill_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "GlobalIncreaseColdSpellSkillGemLevel"
+    },
+    "HellscapeUpsideGlobalIncreaseFireSpellSkillGemLevel2h_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_spell_skill_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "GlobalIncreaseFireSpellSkillGemLevel"
+    },
+    "HellscapeUpsideGlobalIncreaseLightningSpellSkillGemLevel2h_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_spell_skill_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "GlobalIncreaseLightningSpellSkillGemLevel"
+    },
+    "HellscapeUpsideGlobalIncreasePhysicalSpellSkillGemLevel2h": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "physical",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_spell_skill_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "GlobalIncreasePhysicalSpellSkillGemLevel"
+    },
+    "HellscapeUpsideIgniteDamageFaster2h2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_burn_%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "FasterIgniteDamage"
+    },
+    "HellscapeUpsideIgniteDamageFaster2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_burn_%",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "FasterIgniteDamage"
+    },
+    "HellscapeUpsideIgniteDamageFaster2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_burn_%",
+                "max": 13,
+                "min": 12
+            }
+        ],
+        "type": "FasterIgniteDamage"
+    },
+    "HellscapeUpsideLightningDamagePercentage2h1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "HellscapeUpsideLightningDamagePercentage2h1b_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 47,
+                "min": 41
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "HellscapeUpsideLightningDamagePercentage2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 54,
+                "min": 48
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "HellscapeUpsideLightningDamagePercentage2h2b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 61,
+                "min": 55
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "HellscapeUpsideLightningDamagePercentage2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 68,
+                "min": 62
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "HellscapeUpsideLightningDamagePercentage2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 75,
+                "min": 69
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "HellscapeUpsideLightningPenetration2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "HellscapeUpsideLightningPenetration2h3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 7,
+                "min": 7
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "HellscapeUpsideLightningPenetration2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "HellscapeUpsidePhysicalDamageOverTimeMultiplier2h3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 19,
+                "min": 16
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsidePhysicalDamageOverTimeMultiplier2h4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "HellscapeUpsidePhysicalDamagePercentage2h1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "HellscapeUpsidePhysicalDamagePercentage2h1b_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 47,
+                "min": 41
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "HellscapeUpsidePhysicalDamagePercentage2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 54,
+                "min": 48
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "HellscapeUpsidePhysicalDamagePercentage2h2b__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 61,
+                "min": 55
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "HellscapeUpsidePhysicalDamagePercentage2h3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 68,
+                "min": 62
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "HellscapeUpsidePhysicalDamagePercentage2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 75,
+                "min": 69
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "HellscapeUpsideSpellAddedColdDamage2h1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 18,
+                "min": 13
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 40,
+                "min": 37
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "HellscapeUpsideSpellAddedColdDamage2h2_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 22,
+                "min": 19
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 48,
+                "min": 42
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "HellscapeUpsideSpellAddedColdDamage2h3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 27,
+                "min": 23
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 54,
+                "min": 49
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "HellscapeUpsideSpellAddedColdDamage2h4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 31,
+                "min": 28
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 60,
+                "min": 55
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "HellscapeUpsideSpellAddedFireDamage2h1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 18,
+                "min": 13
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 40,
+                "min": 37
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "HellscapeUpsideSpellAddedFireDamage2h2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 22,
+                "min": 19
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 48,
+                "min": 42
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "HellscapeUpsideSpellAddedFireDamage2h3_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 27,
+                "min": 23
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 54,
+                "min": 49
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "HellscapeUpsideSpellAddedFireDamage2h4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 31,
+                "min": 28
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 60,
+                "min": 55
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "HellscapeUpsideSpellAddedLightningDamage2h1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 9,
+                "min": 6
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 51,
+                "min": 46
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "HellscapeUpsideSpellAddedLightningDamage2h2_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 13,
+                "min": 10
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 59,
+                "min": 54
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "HellscapeUpsideSpellAddedLightningDamage2h3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 18,
+                "min": 15
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 67,
+                "min": 63
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "HellscapeUpsideSpellAddedLightningDamage2h4_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 22,
+                "min": 19
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 75,
+                "min": 70
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "HellscapeUpsideSpellAddedPhysicalDamage2h1_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "caster_damage",
+            "damage",
+            "physical",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_physical_damage",
+                "max": 18,
+                "min": 13
+            },
+            {
+                "id": "spell_maximum_added_physical_damage",
+                "max": 40,
+                "min": 37
+            }
+        ],
+        "type": "SpellAddedPhysicalDamage"
+    },
+    "HellscapeUpsideSpellAddedPhysicalDamage2h2_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "caster_damage",
+            "damage",
+            "physical",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_physical_damage",
+                "max": 22,
+                "min": 19
+            },
+            {
+                "id": "spell_maximum_added_physical_damage",
+                "max": 48,
+                "min": 42
+            }
+        ],
+        "type": "SpellAddedPhysicalDamage"
+    },
+    "HellscapeUpsideSpellAddedPhysicalDamage2h3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "caster_damage",
+            "damage",
+            "physical",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_physical_damage",
+                "max": 27,
+                "min": 23
+            },
+            {
+                "id": "spell_maximum_added_physical_damage",
+                "max": 54,
+                "min": 49
+            }
+        ],
+        "type": "SpellAddedPhysicalDamage"
+    },
+    "HellscapeUpsideSpellAddedPhysicalDamage2h4__": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "caster_damage",
+            "damage",
+            "physical",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_physical_damage",
+                "max": 31,
+                "min": 28
+            },
+            {
+                "id": "spell_maximum_added_physical_damage",
+                "max": 60,
+                "min": 55
+            }
+        ],
+        "type": "SpellAddedPhysicalDamage"
+    },
+    "HellscapeUpsideSpellDamage2h1___": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HellscapeUpsideSpellDamage2h1b": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 47,
+                "min": 41
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HellscapeUpsideSpellDamage2h2_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 54,
+                "min": 48
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HellscapeUpsideSpellDamage2h2b": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 61,
+                "min": 55
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HellscapeUpsideSpellDamage2h3___": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 68,
+                "min": 62
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HellscapeUpsideSpellDamage2h4___": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 75,
+                "min": 69
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HellscapeUpsideUnholyMightOnKillPercentChance1h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "UnholyMightOnKillPercentChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "UnholyMightOnKillPercentChance"
+    },
+    "HellscapeUpsideUnholyMightOnKillPercentChance1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "UnholyMightOnKillPercentChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "UnholyMightOnKillPercentChance"
+    },
+    "HellscapeUpsideUnholyMightOnKillPercentChance1h4___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "UnholyMightOnKillPercentChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "warstaff",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+                "max": 7,
+                "min": 7
+            }
+        ],
+        "type": "UnholyMightOnKillPercentChance"
+    }
+}

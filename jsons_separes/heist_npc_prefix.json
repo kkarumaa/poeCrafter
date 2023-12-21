@@ -1,0 +1,5790 @@
+{
+    "HeistAgilityExperienceGain1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_agility_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistAgilityExperienceGain"
+    },
+    "HeistAgilityExperienceGain2_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_agility_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistAgilityExperienceGain"
+    },
+    "HeistAgilityExperienceGain3_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_agility_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistAgilityExperienceGain"
+    },
+    "HeistAgilityExperienceGain4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_agility_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistAgilityExperienceGain"
+    },
+    "HeistAgilityLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lithe",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_agility_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistAgilityLevel"
+    },
+    "HeistBruteForceExperienceGain1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_brute_force_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistBruteForceExperienceGain"
+    },
+    "HeistBruteForceExperienceGain2__": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_brute_force_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistBruteForceExperienceGain"
+    },
+    "HeistBruteForceExperienceGain3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_brute_force_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistBruteForceExperienceGain"
+    },
+    "HeistBruteForceExperienceGain4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_brute_force_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistBruteForceExperienceGain"
+    },
+    "HeistBruteForceLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Herculean",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_brute_force_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistBruteForceLevel"
+    },
+    "HeistCounterThaumaturgyExperienceGain1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_counter_thaumaturgy_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistCounterThaumaturgyExperienceGain"
+    },
+    "HeistCounterThaumaturgyExperienceGain2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_counter_thaumaturgy_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistCounterThaumaturgyExperienceGain"
+    },
+    "HeistCounterThaumaturgyExperienceGain3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_counter_thaumaturgy_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistCounterThaumaturgyExperienceGain"
+    },
+    "HeistCounterThaumaturgyExperienceGain4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_counter_thaumaturgy_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistCounterThaumaturgyExperienceGain"
+    },
+    "HeistCounterThaumaturgyLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Mental",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_counter_thaumaturgy_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistCounterThaumaturgyLevel"
+    },
+    "HeistDeceptionExperienceGain1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_deception_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistDeceptionExperienceGain"
+    },
+    "HeistDeceptionExperienceGain2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_deception_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistDeceptionExperienceGain"
+    },
+    "HeistDeceptionExperienceGain3__": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_deception_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistDeceptionExperienceGain"
+    },
+    "HeistDeceptionExperienceGain4___": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_deception_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistDeceptionExperienceGain"
+    },
+    "HeistDeceptionLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Spy's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_deception_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistDeceptionLevel"
+    },
+    "HeistDemolitionExperienceGain1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_demolition_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistDemolitionExperienceGain"
+    },
+    "HeistDemolitionExperienceGain2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_demolition_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistDemolitionExperienceGain"
+    },
+    "HeistDemolitionExperienceGain3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_demolition_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistDemolitionExperienceGain"
+    },
+    "HeistDemolitionExperienceGain4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_demolition_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistDemolitionExperienceGain"
+    },
+    "HeistDemolitionLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Explosive",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_demolition_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistDemolitionLevel"
+    },
+    "HeistEngineeringExperienceGain1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_engineering_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistEngineeringExperienceGain"
+    },
+    "HeistEngineeringExperienceGain2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_engineering_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistEngineeringExperienceGain"
+    },
+    "HeistEngineeringExperienceGain3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_engineering_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistEngineeringExperienceGain"
+    },
+    "HeistEngineeringExperienceGain4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_engineering_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistEngineeringExperienceGain"
+    },
+    "HeistEngineeringLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Ingenious",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_engineering_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistEngineeringLevel"
+    },
+    "HeistLockpickExperienceGain1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_lockpicking_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistLockpickExperienceGain"
+    },
+    "HeistLockpickExperienceGain2____": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_lockpicking_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistLockpickExperienceGain"
+    },
+    "HeistLockpickExperienceGain3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_lockpicking_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistLockpickExperienceGain"
+    },
+    "HeistLockpickExperienceGain4__": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_lockpicking_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistLockpickExperienceGain"
+    },
+    "HeistLockpickLevel1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lockpick's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_lockpicking_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistLockpickLevel"
+    },
+    "HeistNPCAgilitySpeed1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_agility_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCAgilitySpeed"
+    },
+    "HeistNPCAgilitySpeed2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_agility_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCAgilitySpeed"
+    },
+    "HeistNPCAgilitySpeed3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_agility_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCAgilitySpeed"
+    },
+    "HeistNPCAgilitySpeed4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_agility",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_agility_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCAgilitySpeed"
+    },
+    "HeistNPCAllDamage1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Harmful",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 34,
+                "min": 30
+            }
+        ],
+        "type": "AllDamage"
+    },
+    "HeistNPCAllDamage2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Hazardous",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 39,
+                "min": 35
+            }
+        ],
+        "type": "AllDamage"
+    },
+    "HeistNPCAllDamage3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Dangerous",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 44,
+                "min": 40
+            }
+        ],
+        "type": "AllDamage"
+    },
+    "HeistNPCAllDamage4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Destructive",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 50,
+                "min": 45
+            }
+        ],
+        "type": "AllDamage"
+    },
+    "HeistNPCAllJobLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCAllJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Skillful",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistNPCAllJobLevel"
+    },
+    "HeistNPCBruteForceSpeed1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_brute_force_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCBruteForceSpeed"
+    },
+    "HeistNPCBruteForceSpeed2_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_brute_force_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCBruteForceSpeed"
+    },
+    "HeistNPCBruteForceSpeed3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_brute_force_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCBruteForceSpeed"
+    },
+    "HeistNPCBruteForceSpeed4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_bruteforce",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_brute_force_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCBruteForceSpeed"
+    },
+    "HeistNPCCounterThaumaturgySpeed1__": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_counter_thaumaturgy_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCCounterThaumaturgySpeed"
+    },
+    "HeistNPCCounterThaumaturgySpeed2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_counter_thaumaturgy_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCCounterThaumaturgySpeed"
+    },
+    "HeistNPCCounterThaumaturgySpeed3_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_counter_thaumaturgy_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCCounterThaumaturgySpeed"
+    },
+    "HeistNPCCounterThaumaturgySpeed4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_counterthaumaturge",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_counter_thaumaturgy_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCCounterThaumaturgySpeed"
+    },
+    "HeistNPCDamageFullLife1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Initiator's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_vs_enemies_on_full_life_+%",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "HeistNPCDamageFullLife"
+    },
+    "HeistNPCDamageFullLife2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Instigator's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_vs_enemies_on_full_life_+%",
+                "max": 32,
+                "min": 29
+            }
+        ],
+        "type": "HeistNPCDamageFullLife"
+    },
+    "HeistNPCDamageFullLife3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Ambusher's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_vs_enemies_on_full_life_+%",
+                "max": 36,
+                "min": 33
+            }
+        ],
+        "type": "HeistNPCDamageFullLife"
+    },
+    "HeistNPCDamageFullLife4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Assassin's",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_vs_enemies_on_full_life_+%",
+                "max": 40,
+                "min": 37
+            }
+        ],
+        "type": "HeistNPCDamageFullLife"
+    },
+    "HeistNPCDamageNotEscaping1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Invader's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_while_not_escaping_heist",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCDamageNotEscaping"
+    },
+    "HeistNPCDamageNotEscaping2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Attacker's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_while_not_escaping_heist",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "HeistNPCDamageNotEscaping"
+    },
+    "HeistNPCDamageNotEscaping3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Raider's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_while_not_escaping_heist",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "HeistNPCDamageNotEscaping"
+    },
+    "HeistNPCDamageNotEscaping4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Marauder's",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_while_not_escaping_heist",
+                "max": 30,
+                "min": 27
+            }
+        ],
+        "type": "HeistNPCDamageNotEscaping"
+    },
+    "HeistNPCDeceptionSpeed1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_deception_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCDeceptionSpeed"
+    },
+    "HeistNPCDeceptionSpeed2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_deception_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCDeceptionSpeed"
+    },
+    "HeistNPCDeceptionSpeed3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_deception_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCDeceptionSpeed"
+    },
+    "HeistNPCDeceptionSpeed4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_deception",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_deception_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCDeceptionSpeed"
+    },
+    "HeistNPCDemolitionSpeed1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_demolition_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCDemolitionSpeed"
+    },
+    "HeistNPCDemolitionSpeed2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_demolition_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCDemolitionSpeed"
+    },
+    "HeistNPCDemolitionSpeed3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_demolition_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCDemolitionSpeed"
+    },
+    "HeistNPCDemolitionSpeed4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_demolition_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCDemolitionSpeed"
+    },
+    "HeistNPCEngineeringSpeed1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_engineering_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCEngineeringSpeed"
+    },
+    "HeistNPCEngineeringSpeed2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_engineering_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCEngineeringSpeed"
+    },
+    "HeistNPCEngineeringSpeed3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_engineering_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCEngineeringSpeed"
+    },
+    "HeistNPCEngineeringSpeed4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_engineering_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCEngineeringSpeed"
+    },
+    "HeistNPCExperienceGain1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractNPCExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Footpad's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            },
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_alert_level_+%_final",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_lockdown_timer_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistContractNPCExperience"
+    },
+    "HeistNPCExperienceGain2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractNPCExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Crook's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            },
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_alert_level_+%_final",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_lockdown_timer_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistContractNPCExperience"
+    },
+    "HeistNPCExperienceGain3_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractNPCExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Criminal's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            },
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_alert_level_+%_final",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_lockdown_timer_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistContractNPCExperience"
+    },
+    "HeistNPCExperienceGain4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractNPCExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Mastermind's",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            },
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_alert_level_+%_final",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_lockdown_timer_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistContractNPCExperience"
+    },
+    "HeistNPCFlatLockdownTime1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCFlatLockdownTime"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Hampering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_lockdown_timer_+_halved",
+                "max": 4000,
+                "min": 4000
+            }
+        ],
+        "type": "HeistNPCFlatLockdownTimeHalved"
+    },
+    "HeistNPCFlatLockdownTime2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCFlatLockdownTime"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Hindering",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_lockdown_timer_+_halved",
+                "max": 6000,
+                "min": 6000
+            }
+        ],
+        "type": "HeistNPCFlatLockdownTimeHalved"
+    },
+    "HeistNPCFlatLockdownTime3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCFlatLockdownTime"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Delaying",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_lockdown_timer_+_halved",
+                "max": 8000,
+                "min": 8000
+            }
+        ],
+        "type": "HeistNPCFlatLockdownTimeHalved"
+    },
+    "HeistNPCFlatLockdownTime4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCFlatLockdownTime"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Stalling",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_lockdown_timer_+_halved",
+                "max": 10000,
+                "min": 10000
+            }
+        ],
+        "type": "HeistNPCFlatLockdownTimeHalved"
+    },
+    "HeistNPCGlobalAddedColdDamage1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Frosted",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_cold_damage",
+                "max": 15,
+                "min": 11
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_cold_damage",
+                "max": 21,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCGlobalAddedColdDamage"
+    },
+    "HeistNPCGlobalAddedColdDamage2___": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Chilled",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_cold_damage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_cold_damage",
+                "max": 25,
+                "min": 22
+            }
+        ],
+        "type": "HeistNPCGlobalAddedColdDamage"
+    },
+    "HeistNPCGlobalAddedColdDamage3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Icy",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_cold_damage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_cold_damage",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "HeistNPCGlobalAddedColdDamage"
+    },
+    "HeistNPCGlobalAddedColdDamage4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Frigid",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_cold_damage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_cold_damage",
+                "max": 42,
+                "min": 36
+            }
+        ],
+        "type": "HeistNPCGlobalAddedColdDamage"
+    },
+    "HeistNPCGlobalAddedFireDamage1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Heated",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_fire_damage",
+                "max": 15,
+                "min": 11
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_fire_damage",
+                "max": 21,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCGlobalAddedFireDamage"
+    },
+    "HeistNPCGlobalAddedFireDamage2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Smouldering",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_fire_damage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_fire_damage",
+                "max": 25,
+                "min": 22
+            }
+        ],
+        "type": "HeistNPCGlobalAddedFireDamage"
+    },
+    "HeistNPCGlobalAddedFireDamage3___": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Smoking",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_fire_damage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_fire_damage",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "HeistNPCGlobalAddedFireDamage"
+    },
+    "HeistNPCGlobalAddedFireDamage4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Burning",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_fire_damage",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_fire_damage",
+                "max": 42,
+                "min": 36
+            }
+        ],
+        "type": "HeistNPCGlobalAddedFireDamage"
+    },
+    "HeistNPCGlobalAddedLightningDamage1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Humming",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_lightning_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_lightning_damage",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "HeistNPCGlobalAddedLightningDamage"
+    },
+    "HeistNPCGlobalAddedLightningDamage2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Buzzing",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_lightning_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_lightning_damage",
+                "max": 47,
+                "min": 41
+            }
+        ],
+        "type": "HeistNPCGlobalAddedLightningDamage"
+    },
+    "HeistNPCGlobalAddedLightningDamage3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Snapping",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_lightning_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_lightning_damage",
+                "max": 60,
+                "min": 48
+            }
+        ],
+        "type": "HeistNPCGlobalAddedLightningDamage"
+    },
+    "HeistNPCGlobalAddedLightningDamage4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Crackling",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_lightning_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_lightning_damage",
+                "max": 66,
+                "min": 61
+            }
+        ],
+        "type": "HeistNPCGlobalAddedLightningDamage"
+    },
+    "HeistNPCGlobalAddedPhysicalDamage1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Glinting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_physical_damage",
+                "max": 3,
+                "min": 2
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_physical_damage",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "HeistNPCGlobalAddedPhysicalDamage"
+    },
+    "HeistNPCGlobalAddedPhysicalDamage2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Burnished",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_physical_damage",
+                "max": 5,
+                "min": 4
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_physical_damage",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "HeistNPCGlobalAddedPhysicalDamage"
+    },
+    "HeistNPCGlobalAddedPhysicalDamage3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Polished",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_physical_damage",
+                "max": 8,
+                "min": 6
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_physical_damage",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCGlobalAddedPhysicalDamage"
+    },
+    "HeistNPCGlobalAddedPhysicalDamage4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Honed",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "player_and_minion_global_minimum_added_physical_damage",
+                "max": 9,
+                "min": 7
+            },
+            {
+                "id": "player_and_minion_global_maximum_added_physical_damage",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCGlobalAddedPhysicalDamage"
+    },
+    "HeistNPCHitResistance1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCHitResistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Devious",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 1000
+            },
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 1000
+            },
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 1000
+            },
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_interruption_resistance_%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCHitResistance"
+    },
+    "HeistNPCHitResistance2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCHitResistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Wiley",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 800
+            },
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 800
+            },
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 800
+            },
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_interruption_resistance_%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCHitResistance"
+    },
+    "HeistNPCHitResistance3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCHitResistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Elusive",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 600
+            },
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 600
+            },
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 600
+            },
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_interruption_resistance_%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCHitResistance"
+    },
+    "HeistNPCHitResistance4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCHitResistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Untouchable",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 400
+            },
+            {
+                "tag": "heist_equipment_engineering",
+                "weight": 400
+            },
+            {
+                "tag": "heist_equipment_demolition",
+                "weight": 400
+            },
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_interruption_resistance_%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCHitResistance"
+    },
+    "HeistNPCIncreasedCoins1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedCoins"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Rookie's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_dropped_by_monsters_double_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistNPCIncreasedCoins"
+    },
+    "HeistNPCIncreasedCoins2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedCoins"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Professional's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_dropped_by_monsters_double_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCIncreasedCoins"
+    },
+    "HeistNPCIncreasedCoins3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedCoins"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Veteran's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_dropped_by_monsters_double_%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "HeistNPCIncreasedCoins"
+    },
+    "HeistNPCIncreasedCoins4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedCoins"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Boss'",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_coins_dropped_by_monsters_double_%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "HeistNPCIncreasedCoins"
+    },
+    "HeistNPCIncreasedQuantity1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Pickpocket's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_quantity_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistNPCIncreasedQuantity"
+    },
+    "HeistNPCIncreasedQuantity2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Thief's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_quantity_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCIncreasedQuantity"
+    },
+    "HeistNPCIncreasedQuantity3__": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Looter's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_quantity_+%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "HeistNPCIncreasedQuantity"
+    },
+    "HeistNPCIncreasedQuantity4___": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Ransacker's",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_quantity_+%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "HeistNPCIncreasedQuantity"
+    },
+    "HeistNPCIncreasedRarity1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Shrewd",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_rarity_+%",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "HeistNPCIncreasedRarity"
+    },
+    "HeistNPCIncreasedRarity2_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Tasteful",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_rarity_+%",
+                "max": 30,
+                "min": 27
+            }
+        ],
+        "type": "HeistNPCIncreasedRarity"
+    },
+    "HeistNPCIncreasedRarity3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Cultured",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_rarity_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "HeistNPCIncreasedRarity"
+    },
+    "HeistNPCIncreasedRarity4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCIncreasedRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Sophisticated",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_item_rarity_+%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "HeistNPCIncreasedRarity"
+    },
+    "HeistNPCLevel1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Capable",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 1000
+            },
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_level_+",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_alert_level_+%_final",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_lockdown_timer_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistContractNPCLevel"
+    },
+    "HeistNPCLevel2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Experienced",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 800
+            },
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_level_+",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_alert_level_+%_final",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_lockdown_timer_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistContractNPCLevel"
+    },
+    "HeistNPCLevel3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Accomplished",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 600
+            },
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_level_+",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_alert_level_+%_final",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_lockdown_timer_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistContractNPCLevel"
+    },
+    "HeistNPCLevel4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Veteran",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 400
+            },
+            {
+                "tag": "heist_equipment_tool",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_level_+",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_alert_level_+%_final",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "heist_contract_lockdown_timer_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "HeistContractNPCLevel"
+    },
+    "HeistNPCLockdownTimer1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractLockdownTimer"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Slowing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_lockdown_timer_+%_halved",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCLockdownTimerHalved"
+    },
+    "HeistNPCLockdownTimer2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractLockdownTimer"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Stalling",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_lockdown_timer_+%_halved",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCLockdownTimerHalved"
+    },
+    "HeistNPCLockdownTimer3_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractLockdownTimer"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Delaying",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_lockdown_timer_+%_halved",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCLockdownTimerHalved"
+    },
+    "HeistNPCLockdownTimer4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractLockdownTimer"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Interrupting",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_lockdown_timer_+%_halved",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCLockdownTimerHalved"
+    },
+    "HeistNPCLockpickSpeed1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_lockpicking_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCLockpickSpeed"
+    },
+    "HeistNPCLockpickSpeed2___": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_lockpicking_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCLockpickSpeed"
+    },
+    "HeistNPCLockpickSpeed3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_lockpicking_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCLockpickSpeed"
+    },
+    "HeistNPCLockpickSpeed4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_lockpick",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_lockpicking_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCLockpickSpeed"
+    },
+    "HeistNPCMeleeDamage1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Robber's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_melee",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_damage_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "MeleeDamage"
+    },
+    "HeistNPCMeleeDamage2_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Ruffian's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_melee",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_damage_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "MeleeDamage"
+    },
+    "HeistNPCMeleeDamage3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Thug's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_melee",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_damage_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "MeleeDamage"
+    },
+    "HeistNPCMeleeDamage4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Enforcer's",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_melee",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_damage_+%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "MeleeDamage"
+    },
+    "HeistNPCMovementVelocityNotEscaping1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Tresspassing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "movement_speed_+%_while_not_escaping_heist",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "HeistNPCMovementVelocityNotEscaping"
+    },
+    "HeistNPCMovementVelocityNotEscaping2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Intruding",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "movement_speed_+%_while_not_escaping_heist",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "HeistNPCMovementVelocityNotEscaping"
+    },
+    "HeistNPCMovementVelocityNotEscaping3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Invading",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "movement_speed_+%_while_not_escaping_heist",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "HeistNPCMovementVelocityNotEscaping"
+    },
+    "HeistNPCMovementVelocityNotEscaping4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Storming",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_utility",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "movement_speed_+%_while_not_escaping_heist",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "HeistNPCMovementVelocityNotEscaping"
+    },
+    "HeistNPCObjectiveSpeed1___": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractObjectiveSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Practiced",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_objective_completion_time_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCObjectiveSpeed"
+    },
+    "HeistNPCObjectiveSpeed2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractObjectiveSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Skillful",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_objective_completion_time_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCObjectiveSpeed"
+    },
+    "HeistNPCObjectiveSpeed3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractObjectiveSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Professional",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_objective_completion_time_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCObjectiveSpeed"
+    },
+    "HeistNPCObjectiveSpeed4__": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistContractObjectiveSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Masterful",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_objective_completion_time_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCObjectiveSpeed"
+    },
+    "HeistNPCPerceptionSpeed1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_perception_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCPerceptionSpeed"
+    },
+    "HeistNPCPerceptionSpeed2__": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_perception_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCPerceptionSpeed"
+    },
+    "HeistNPCPerceptionSpeed3_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_perception_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCPerceptionSpeed"
+    },
+    "HeistNPCPerceptionSpeed4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_perception_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCPerceptionSpeed"
+    },
+    "HeistNPCPrimaryTargetValue1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCPrimaryTargetValue"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Customer's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_primary_target_value_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "HeistNPCPrimaryTargetValue"
+    },
+    "HeistNPCPrimaryTargetValue2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCPrimaryTargetValue"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Client's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_primary_target_value_+%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "HeistNPCPrimaryTargetValue"
+    },
+    "HeistNPCPrimaryTargetValue3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCPrimaryTargetValue"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Patron's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_primary_target_value_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "HeistNPCPrimaryTargetValue"
+    },
+    "HeistNPCPrimaryTargetValue4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCPrimaryTargetValue"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Sponsor's",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_reward",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_primary_target_value_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "HeistNPCPrimaryTargetValue"
+    },
+    "HeistNPCProjectileAttackDamage1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileAttackDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Scout's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_ranged",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_attack_damage_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "ProjectileAttackDamage"
+    },
+    "HeistNPCProjectileAttackDamage2_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileAttackDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Poacher's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_ranged",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_attack_damage_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "ProjectileAttackDamage"
+    },
+    "HeistNPCProjectileAttackDamage3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileAttackDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Ranger's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_ranged",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_attack_damage_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "ProjectileAttackDamage"
+    },
+    "HeistNPCProjectileAttackDamage4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileAttackDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Sniper's",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_ranged",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_attack_damage_+%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "ProjectileAttackDamage"
+    },
+    "HeistNPCSpellDamage1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Illusionist's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_caster",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HeistNPCSpellDamage2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Conjuror's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_caster",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HeistNPCSpellDamage3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Witch's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_caster",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HeistNPCSpellDamage4_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Archmage's",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_caster",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "HeistNPCTrapDisarmamentSpeed1__": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Novice's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_trap_disarmament_speed_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "HeistNPCTrapDisarmamentSpeed"
+    },
+    "HeistNPCTrapDisarmamentSpeed2_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_trap_disarmament_speed_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "HeistNPCTrapDisarmamentSpeed"
+    },
+    "HeistNPCTrapDisarmamentSpeed3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Expert's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_trap_disarmament_speed_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "HeistNPCTrapDisarmamentSpeed"
+    },
+    "HeistNPCTrapDisarmamentSpeed4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCJobSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_trap_disarmament_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "HeistNPCTrapDisarmamentSpeed"
+    },
+    "HeistPerceptionExperienceGain1_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_perception_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistPerceptionExperienceGain"
+    },
+    "HeistPerceptionExperienceGain2": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_perception_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistPerceptionExperienceGain"
+    },
+    "HeistPerceptionExperienceGain3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_perception_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistPerceptionExperienceGain"
+    },
+    "HeistPerceptionExperienceGain4": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_perception_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistPerceptionExperienceGain"
+    },
+    "HeistPerceptionLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Revealing",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_perception",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_perception_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistPerceptionLevel"
+    },
+    "HeistTrapDisarmamentExperienceGain1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Simple",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_trap_disarmament_experience_gain_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "HeistTrapDisarmamentExperienceGain"
+    },
+    "HeistTrapDisarmamentExperienceGain2_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complicated",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_trap_disarmament_experience_gain_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "HeistTrapDisarmamentExperienceGain"
+    },
+    "HeistTrapDisarmamentExperienceGain3": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Complex",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_trap_disarmament_experience_gain_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "HeistTrapDisarmamentExperienceGain"
+    },
+    "HeistTrapDisarmamentExperienceGain4_": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Specialised",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_contract_npc_trap_disarmament_experience_gain_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "HeistTrapDisarmamentExperienceGain"
+    },
+    "HeistTrapDisarmamentLevel1": {
+        "adds_tags": [],
+        "domain": "heist_npc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HeistNPCSpecificJobLevel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Dismantling",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "heist_equipment_trapdisarmament",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "heist_job_trap_disarmament_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HeistTrapDisarmamentLevel"
+    }
+}

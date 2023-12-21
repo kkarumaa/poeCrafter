@@ -1,0 +1,979 @@
+{
+    "HellscapeUpsideChanceToIntimidateOnHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIntimidateOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_intimidate_on_hit_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToIntimidateOnHit"
+    },
+    "HellscapeUpsideChanceToIntimidateOnHit3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIntimidateOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_intimidate_on_hit_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChanceToIntimidateOnHit"
+    },
+    "HellscapeUpsideChanceToIntimidateOnHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIntimidateOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_intimidate_on_hit_%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "ChanceToIntimidateOnHit"
+    },
+    "HellscapeUpsideChanceToNotConsumeFlaskCharges3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskChargesUsed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flasks_%_chance_to_not_consume_charges",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "FlaskChanceToNotConsumeCharges"
+    },
+    "HellscapeUpsideChanceToNotConsumeFlaskCharges4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskChargesUsed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flasks_%_chance_to_not_consume_charges",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "FlaskChanceToNotConsumeCharges"
+    },
+    "HellscapeUpsideCooldownRecoveryRate3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CooldownRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cooldown_speed_+%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "GlobalCooldownRecovery"
+    },
+    "HellscapeUpsideCooldownRecoveryRate4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CooldownRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cooldown_speed_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "GlobalCooldownRecovery"
+    },
+    "HellscapeUpsideFlaskChargesGained2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "HellscapeUpsideFlaskChargesGained3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "HellscapeUpsideFlaskChargesGained4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "HellscapeUpsideFlaskLifeRecoveryRate2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "HellscapeUpsideFlaskLifeRecoveryRate3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "HellscapeUpsideFlaskLifeRecoveryRate4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "HellscapeUpsideFlaskManaRecoveryRate2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "HellscapeUpsideFlaskManaRecoveryRate3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "HellscapeUpsideFlaskManaRecoveryRate4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "HellscapeUpsideGainLifeChargeEvery3Seconds": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeFlaskPassiveChargeGain"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_flask_charges_recovered_per_3_seconds",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LifeFlaskPassiveChargeGain"
+    },
+    "HellscapeUpsideGainManaChargeEvery3Seconds": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaFlaskPassiveChargeGain"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_flasks_gain_X_charges_every_3_seconds",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ManaFlaskPassiveChargeGain"
+    },
+    "HellscapeUpsideGuardSkillCooldownRecovery3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GuardSkillCooldownRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "guard_skill_cooldown_recovery_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "GuardSkillCooldownRecovery"
+    },
+    "HellscapeUpsideGuardSkillCooldownRecovery4___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GuardSkillCooldownRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "guard_skill_cooldown_recovery_+%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "GuardSkillCooldownRecovery"
+    },
+    "HellscapeUpsideLifePercentage3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLifeIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "MaximumLifeIncreasePercent"
+    },
+    "HellscapeUpsideLifePercentage4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLifeIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "MaximumLifeIncreasePercent"
+    },
+    "HellscapeUpsideMinionChanceToTauntOnHit2___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TauntOnHit"
+        ],
+        "implicit_tags": [
+            "attack",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_attacks_chance_to_taunt_on_hit_%",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "MinionAttacksTauntOnHitChance"
+    },
+    "HellscapeUpsideMinionChanceToTauntOnHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TauntOnHit"
+        ],
+        "implicit_tags": [
+            "attack",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_attacks_chance_to_taunt_on_hit_%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "MinionAttacksTauntOnHitChance"
+    },
+    "HellscapeUpsideMinionChanceToTauntOnHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TauntOnHit"
+        ],
+        "implicit_tags": [
+            "attack",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_attacks_chance_to_taunt_on_hit_%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "MinionAttacksTauntOnHitChance"
+    },
+    "HellscapeUpsideStunDuration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "StunDurationIncreasePercent"
+    },
+    "HellscapeUpsideStunDuration3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "StunDurationIncreasePercent"
+    },
+    "HellscapeUpsideStunDuration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "StunDurationIncreasePercent"
+    }
+}

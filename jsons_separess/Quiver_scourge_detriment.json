@@ -1,0 +1,782 @@
+{
+    "HellscapeDownsideCannotCrit_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeDownsideCannotCrit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_cannot_crit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HellscapeDownsideCannotCrit"
+    },
+    "HellscapeDownsideChanceToSuppressSpells2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 150
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": -15,
+                "min": -18
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "HellscapeDownsideChanceToSuppressSpells3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 150
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": -21,
+                "min": -24
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "HellscapeDownsideCriticalStrikeChanceWithBows2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": -51,
+                "min": -57
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "HellscapeDownsideCriticalStrikeChanceWithBows3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": -60,
+                "min": -66
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "HellscapeDownsideCriticalStrikeMultiplierWithBows2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": -51,
+                "min": -57
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "HellscapeDownsideCriticalStrikeMultiplierWithBows3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": -60,
+                "min": -66
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "HellscapeDownsideDealNoChaosDamage_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DealNoChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_deal_no_chaos_damage",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DealNoChaosDamage"
+    },
+    "HellscapeDownsideDealNoColdDamage_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DealNoColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_deal_no_cold_damage",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DealNoColdDamage"
+    },
+    "HellscapeDownsideDealNoFireDamage": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DealNoFireDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_deal_no_fire_damage",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DealNoFireDamage"
+    },
+    "HellscapeDownsideDealNoLightningDamage": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DealNoLightningDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_deal_no_lightning_damage",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DealNoLightningDamage"
+    },
+    "HellscapeDownsideDealNoPhysicalDamage___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DealNoPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_deal_no_physical_damage",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DealNoPhysicalDamage"
+    },
+    "HellscapeDownsideLifeRegeneration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": -21,
+                "min": -27
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "HellscapeDownsideLifeRegeneration3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": -30,
+                "min": -36
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "HellscapeDownsideNoLifeRegeneration1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NoLifeRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 150
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "no_life_regeneration",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "NoLifeRegeneration"
+    }
+}

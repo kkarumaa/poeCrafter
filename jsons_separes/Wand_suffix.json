@@ -1,0 +1,2788 @@
+{
+    "ChaosDamageOverTimeMultiplier1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Waning",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 400
+            },
+            {
+                "tag": "dagger",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ChaosDamageOverTimeMultiplier2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Wasting",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 300
+            },
+            {
+                "tag": "dagger",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 23,
+                "min": 19
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ChaosDamageOverTimeMultiplier3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Deteriorating",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 200
+            },
+            {
+                "tag": "dagger",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ChaosDamageOverTimeMultiplier4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Atrophying",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 100
+            },
+            {
+                "tag": "dagger",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 33,
+                "min": 29
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ChaosDamageOverTimeMultiplier5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Disintegrating",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "dagger",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplier1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Inclement",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 300
+            },
+            {
+                "tag": "sceptre",
+                "weight": 300
+            },
+            {
+                "tag": "dagger",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplier2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Bleak",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 220
+            },
+            {
+                "tag": "sceptre",
+                "weight": 220
+            },
+            {
+                "tag": "dagger",
+                "weight": 220
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 23,
+                "min": 19
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplier3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Boreal",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 140
+            },
+            {
+                "tag": "sceptre",
+                "weight": 140
+            },
+            {
+                "tag": "dagger",
+                "weight": 140
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplier4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Gelid",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 70
+            },
+            {
+                "tag": "sceptre",
+                "weight": 70
+            },
+            {
+                "tag": "dagger",
+                "weight": 70
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 33,
+                "min": 29
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplier5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Heartstopping",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 35
+            },
+            {
+                "tag": "sceptre",
+                "weight": 35
+            },
+            {
+                "tag": "dagger",
+                "weight": 35
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamagePercent1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Snow",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 7,
+                "min": 3
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercent2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Sleet",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Ice",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 17,
+                "min": 13
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercent4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Rime",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 22,
+                "min": 18
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercent5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Floe",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "ColdDamagePercent6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Glaciation",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 30,
+                "min": 27
+            }
+        ],
+        "type": "ColdDamagePercentage"
+    },
+    "FireDamageOverTimeMultiplier1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Earnest",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 300
+            },
+            {
+                "tag": "sceptre",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplier2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Fervid",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 220
+            },
+            {
+                "tag": "sceptre",
+                "weight": 220
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 23,
+                "min": 19
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplier3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Ardent",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 140
+            },
+            {
+                "tag": "sceptre",
+                "weight": 140
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplier4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Zealous",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 70
+            },
+            {
+                "tag": "sceptre",
+                "weight": 70
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 33,
+                "min": 29
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplier5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Fanatical",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 35
+            },
+            {
+                "tag": "sceptre",
+                "weight": 35
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamagePercent1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Embers",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 7,
+                "min": 3
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercent2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Coals",
+        "required_level": 22,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Cinders",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 17,
+                "min": 13
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercent4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Flames",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 22,
+                "min": 18
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercent5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Immolation",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "FireDamagePercent6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Ashes",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 30,
+                "min": 27
+            }
+        ],
+        "type": "FireDamagePercentage"
+    },
+    "IncreasedCastSpeed1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Talent",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 800
+            },
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeed2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Nimbleness",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 800
+            },
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 12,
+                "min": 9
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeed2Royale": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Nimbleness",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 15,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeed3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Expertise",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 800
+            },
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeed4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Legerdemain",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 20,
+                "min": 17
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeed5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Prestidigitation",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeed6": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Sortilege",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeed7": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Finesse",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 32,
+                "min": 29
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "LightningDamagePercent1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "of Sparks",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 7,
+                "min": 3
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercent2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "of Static",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "of Electricity",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 17,
+                "min": 13
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercent4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "of Voltage",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 22,
+                "min": 18
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercent5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "of Discharge",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "LightningDamagePercent6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "of Arcing",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 30,
+                "min": 27
+            }
+        ],
+        "type": "LightningDamagePercentage"
+    },
+    "PhysicalDamageOverTimeMultiplier1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Seeping",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "PhysicalDamageOverTimeMultiplier2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Spilling",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 220
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 23,
+                "min": 19
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "PhysicalDamageOverTimeMultiplier3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Phlebotomising",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 140
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "PhysicalDamageOverTimeMultiplier4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Hemorrhaging",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 70
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 33,
+                "min": 29
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "PhysicalDamageOverTimeMultiplier5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Exsanguinating",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 35
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "SpellCriticalStrikeChance1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellCriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Menace",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_critical_strike_chance_+%",
+                "max": 19,
+                "min": 10
+            }
+        ],
+        "type": "SpellCriticalStrikeChance"
+    },
+    "SpellCriticalStrikeChance2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellCriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Havoc",
+        "required_level": 21,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_critical_strike_chance_+%",
+                "max": 39,
+                "min": 20
+            }
+        ],
+        "type": "SpellCriticalStrikeChance"
+    },
+    "SpellCriticalStrikeChance3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellCriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Disaster",
+        "required_level": 28,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_critical_strike_chance_+%",
+                "max": 59,
+                "min": 40
+            }
+        ],
+        "type": "SpellCriticalStrikeChance"
+    },
+    "SpellCriticalStrikeChance4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellCriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Calamity",
+        "required_level": 41,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_critical_strike_chance_+%",
+                "max": 79,
+                "min": 60
+            }
+        ],
+        "type": "SpellCriticalStrikeChance"
+    },
+    "SpellCriticalStrikeChance5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellCriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Ruin",
+        "required_level": 59,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_critical_strike_chance_+%",
+                "max": 99,
+                "min": 80
+            }
+        ],
+        "type": "SpellCriticalStrikeChance"
+    },
+    "SpellCriticalStrikeChance6_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellCriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Unmaking",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_critical_strike_chance_+%",
+                "max": 109,
+                "min": 100
+            }
+        ],
+        "type": "SpellCriticalStrikeChance"
+    }
+}

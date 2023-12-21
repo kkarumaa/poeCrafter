@@ -1,0 +1,742 @@
+{
+    "MemoryLineAbyss1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Chasms",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_niko",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -10246,
+                "min": -10246
+            },
+            {
+                "id": "display_memory_line_abyss_beyond_monsters_from_cracks",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineAbyss1"
+    },
+    "MemoryLineAmbush1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Cascading Fortunes",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_alva",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -18946,
+                "min": -18946
+            },
+            {
+                "id": "display_memory_line_ambush_strongbox_chain",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineAmbush1"
+    },
+    "MemoryLineAmbush2": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Hidden Behemoths",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_alva",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -31908,
+                "min": -31908
+            },
+            {
+                "id": "display_memory_line_ambush_contains_standalone_map_boss",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineAmbush2"
+    },
+    "MemoryLineAnarchy1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Organised Chaos",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_kirac",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -12960,
+                "min": -12960
+            },
+            {
+                "id": "display_memory_line_anarchy_rogue_exiles_in_packs",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineAnarchy1"
+    },
+    "MemoryLineAnarchy2": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Ransacked Relics",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_alva",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -20207,
+                "min": -20207
+            },
+            {
+                "id": "display_memory_line_anarchy_rogue_exiles_equipped_with_unique_items",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineAnarchy2"
+    },
+    "MemoryLineBestiary1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Harvest Beasts",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_einhar",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -14871,
+                "min": -14871
+            },
+            {
+                "id": "display_memory_line_bestiary_capturable_harvest_monsters",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineBestiary1"
+    },
+    "MemoryLineBestiary2": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Menagerie",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_einhar",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -19528,
+                "min": -19528
+            },
+            {
+                "id": "display_memory_line_bestiary_great_migration",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineBestiary2"
+    },
+    "MemoryLineBetrayal1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Bounty Hunters",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_alva",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -4937,
+                "min": -4937
+            },
+            {
+                "id": "display_memory_line_betrayal_constant_interventions",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineBetrayal1"
+    },
+    "MemoryLineBreach1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Demonic Onslaught",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_niko",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -24792,
+                "min": -24792
+            },
+            {
+                "id": "display_memory_line_breach_area_is_breached",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineBreach1"
+    },
+    "MemoryLineBreach2": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Grasping Hands",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_niko",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -28812,
+                "min": -28812
+            },
+            {
+                "id": "display_memory_line_breach_miniature_flash_breaches",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineBreach2"
+    },
+    "MemoryLineDomination1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Formidable Shrines",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_alva",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -28328,
+                "min": -28328
+            },
+            {
+                "id": "display_memory_line_domination_multiple_modded_shrines",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineDomination1"
+    },
+    "MemoryLineDomination2": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Pantheon",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_kirac",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -30276,
+                "min": -30276
+            },
+            {
+                "id": "display_memory_line_domination_shrines_to_pantheon_gods",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineDomination2"
+    },
+    "MemoryLineEssence1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Collective Stasis",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_kirac",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -11718,
+                "min": -11718
+            },
+            {
+                "id": "display_memory_line_essence_multiple_rare_monsters",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineEssence1"
+    },
+    "MemoryLineEssence2": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Crystal Prisons",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_einhar",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": 23679,
+                "min": 23679
+            },
+            {
+                "id": "display_memory_line_essence_rogue_exiles",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineEssence2"
+    },
+    "MemoryLineHarbinger1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Survivor's Guilt",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_kirac",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": 24813,
+                "min": 24813
+            },
+            {
+                "id": "display_memory_line_harbinger_player_is_a_harbinger",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineHarbinger1"
+    },
+    "MemoryLineHarbinger2": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Phaaryl",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_kirac",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": 29521,
+                "min": 29521
+            },
+            {
+                "id": "display_memory_line_harbinger_portals_everywhere",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineHarbinger2"
+    },
+    "MemoryLineHarvest1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Sacred Grove",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_einhar",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": -26512,
+                "min": -26512
+            },
+            {
+                "id": "display_memory_line_harvest_larger_plot_with_premium_seeds",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineHarvest1"
+    },
+    "MemoryLineIncursion1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Reverse Incursion",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_alva",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": 23896,
+                "min": 23896
+            },
+            {
+                "id": "display_memory_line_incursion_reverse",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineIncursion1"
+    },
+    "MemoryLineTorment1": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Self-Possession",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_kirac",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": 19174,
+                "min": 19174
+            },
+            {
+                "id": "display_memory_line_torment_player_is_possessed",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineTorment1"
+    },
+    "MemoryLineTorment2": {
+        "adds_tags": [],
+        "domain": "memory",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MemoryLineType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Tormented Souls",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "memory_line_niko",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "memory_line_type_hash",
+                "max": 24671,
+                "min": 24671
+            },
+            {
+                "id": "display_memory_line_torment_rares_uniques_are_possessed",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MemoryLineTorment2"
+    }
+}

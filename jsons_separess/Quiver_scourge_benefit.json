@@ -1,0 +1,1565 @@
+{
+    "HellscapeUpsideAdditionalChainChance1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Chain"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 5
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "number_of_chains",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalChain"
+    },
+    "HellscapeUpsideAdditionalPierceChance1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Pierce"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 5
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_base_number_of_targets_to_pierce",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "AdditionalPierce"
+    },
+    "HellscapeUpsideAdditionalReturn1___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReturningAttackProjectiles"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 5
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_projectiles_return",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ReturningAttackProjectiles"
+    },
+    "HellscapeUpsideAdditionalSplitChance1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectilesSplitCount"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 5
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_number_to_split",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ProjectilesSplitCount"
+    },
+    "HellscapeUpsideChanceToGainPhasingOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChancetoGainPhasingOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "phasing_for_4_seconds_on_kill_%",
+                "max": 15,
+                "min": 11
+            }
+        ],
+        "type": "ChancetoGainPhasingOnKill"
+    },
+    "HellscapeUpsideChanceToGainPhasingOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChancetoGainPhasingOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "phasing_for_4_seconds_on_kill_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "ChancetoGainPhasingOnKill"
+    },
+    "HellscapeUpsideChanceToGainPhasingOnKill4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChancetoGainPhasingOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "phasing_for_4_seconds_on_kill_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "ChancetoGainPhasingOnKill"
+    },
+    "HellscapeUpsideChanceToMaimOnHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalMaimOnHit"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maim_on_hit_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "GlobalMaimOnHit"
+    },
+    "HellscapeUpsideChanceToMaimOnHit3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalMaimOnHit"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maim_on_hit_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "GlobalMaimOnHit"
+    },
+    "HellscapeUpsideChanceToMaimOnHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalMaimOnHit"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maim_on_hit_%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "GlobalMaimOnHit"
+    },
+    "HellscapeUpsideChanceToSuppressSpells2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "HellscapeUpsideChanceToSuppressSpells3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "HellscapeUpsideChanceToSuppressSpells4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "HellscapeUpsideCriticalStrikeChanceWithBows2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "HellscapeUpsideCriticalStrikeChanceWithBows3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "HellscapeUpsideCriticalStrikeChanceWithBows4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "CriticalStrikeChanceWithBows"
+    },
+    "HellscapeUpsideCriticalStrikeMultiplierWithBows2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "HellscapeUpsideCriticalStrikeMultiplierWithBows3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "HellscapeUpsideCriticalStrikeMultiplierWithBows4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "CriticalStrikeMultiplierWithBows"
+    },
+    "HellscapeUpsideEnergyShieldRechargeRate2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 15,
+                "min": 11
+            }
+        ],
+        "type": "EnergyShieldRegeneration"
+    },
+    "HellscapeUpsideEnergyShieldRechargeRate3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "EnergyShieldRegeneration"
+    },
+    "HellscapeUpsideEnergyShieldRechargeRate4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "EnergyShieldRegeneration"
+    },
+    "HellscapeUpsideGrantsLevel10SnipersMark": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SnipersMark",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_projectile_weakness_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ProjectileWeaknessSkill"
+    },
+    "HellscapeUpsideGrantsLevel1SnipersMark": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SnipersMark",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_projectile_weakness_level",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ProjectileWeaknessSkill"
+    },
+    "HellscapeUpsideGrantsLevel20SnipersMark": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SnipersMark",
+                "level": 20
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_projectile_weakness_level",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ProjectileWeaknessSkill"
+    },
+    "HellscapeUpsideGrantsLevel22SnipersMark": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SnipersMark",
+                "level": 22
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_projectile_weakness_level",
+                "max": 22,
+                "min": 22
+            }
+        ],
+        "type": "ProjectileWeaknessSkill"
+    },
+    "HellscapeUpsideLifeRegenerationRate2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": 9,
+                "min": 7
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "HellscapeUpsideLifeRegenerationRate3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "HellscapeUpsideLifeRegenerationRate4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_+%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "LifeRegenerationRate"
+    },
+    "HellscapeUpsideProjectileSpeed1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "ProjectileSpeed"
+    },
+    "HellscapeUpsideProjectileSpeed2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "ProjectileSpeed"
+    },
+    "HellscapeUpsideProjectileSpeed3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "ProjectileSpeed"
+    },
+    "HellscapeUpsideProjectileSpeed4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "ProjectileSpeed"
+    }
+}

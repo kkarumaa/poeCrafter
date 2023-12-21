@@ -1,0 +1,2589 @@
+{
+    "LocalAddedChaosDamageTwoHand1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Malicious",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 700
+            },
+            {
+                "tag": "sword",
+                "weight": 600
+            },
+            {
+                "tag": "axe",
+                "weight": 600
+            },
+            {
+                "tag": "mace",
+                "weight": 250
+            },
+            {
+                "tag": "staff",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 149,
+                "min": 98
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 280,
+                "min": 183
+            }
+        ],
+        "type": "LocalChaosDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Frosted",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 3,
+                "min": 2
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand10": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Crystalising",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 126
+            },
+            {
+                "tag": "sword",
+                "weight": 108
+            },
+            {
+                "tag": "axe",
+                "weight": 108
+            },
+            {
+                "tag": "mace",
+                "weight": 45
+            },
+            {
+                "tag": "staff",
+                "weight": 54
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 204,
+                "min": 149
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 348,
+                "min": 300
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Chilled",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 17,
+                "min": 12
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Icy",
+        "required_level": 19,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 28,
+                "min": 21
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 48,
+                "min": 42
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Frigid",
+        "required_level": 27,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 40,
+                "min": 29
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 68,
+                "min": 58
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand5": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Freezing",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 55,
+                "min": 41
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 95,
+                "min": 81
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Frozen",
+        "required_level": 43,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 77,
+                "min": 57
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 132,
+                "min": 114
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand7": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Glaciated",
+        "required_level": 52,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 104,
+                "min": 77
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 178,
+                "min": 154
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand8": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Polar",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1120
+            },
+            {
+                "tag": "sword",
+                "weight": 960
+            },
+            {
+                "tag": "axe",
+                "weight": 960
+            },
+            {
+                "tag": "mace",
+                "weight": 400
+            },
+            {
+                "tag": "staff",
+                "weight": 480
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 136,
+                "min": 99
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 232,
+                "min": 200
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedColdDamageTwoHand9": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Entombing",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 490
+            },
+            {
+                "tag": "sword",
+                "weight": 420
+            },
+            {
+                "tag": "axe",
+                "weight": 420
+            },
+            {
+                "tag": "mace",
+                "weight": 175
+            },
+            {
+                "tag": "staff",
+                "weight": 210
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 170,
+                "min": 124
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 290,
+                "min": 250
+            }
+        ],
+        "type": "LocalColdDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Heated",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 5,
+                "min": 3
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand10": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Carbonising",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 126
+            },
+            {
+                "tag": "sword",
+                "weight": 108
+            },
+            {
+                "tag": "axe",
+                "weight": 108
+            },
+            {
+                "tag": "mace",
+                "weight": 45
+            },
+            {
+                "tag": "staff",
+                "weight": 54
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 225,
+                "min": 165
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 390,
+                "min": 335
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Smouldering",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 20,
+                "min": 14
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 33,
+                "min": 29
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Smoking",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 31,
+                "min": 23
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 54,
+                "min": 47
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Burning",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 44,
+                "min": 32
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 76,
+                "min": 65
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand5": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Flaming",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 61,
+                "min": 45
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 106,
+                "min": 91
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Scorching",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 85,
+                "min": 63
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 148,
+                "min": 128
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand7": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Incinerating",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 115,
+                "min": 85
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 200,
+                "min": 172
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand8_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Blasting",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1120
+            },
+            {
+                "tag": "sword",
+                "weight": 960
+            },
+            {
+                "tag": "axe",
+                "weight": 960
+            },
+            {
+                "tag": "mace",
+                "weight": 400
+            },
+            {
+                "tag": "staff",
+                "weight": 480
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 150,
+                "min": 110
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 260,
+                "min": 223
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedFireDamageTwoHand9": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Cremating",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 490
+            },
+            {
+                "tag": "sword",
+                "weight": 420
+            },
+            {
+                "tag": "axe",
+                "weight": 420
+            },
+            {
+                "tag": "mace",
+                "weight": 175
+            },
+            {
+                "tag": "staff",
+                "weight": 210
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 188,
+                "min": 137
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 325,
+                "min": 279
+            }
+        ],
+        "type": "LocalFireDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand10": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Vapourising",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 126
+            },
+            {
+                "tag": "sword",
+                "weight": 108
+            },
+            {
+                "tag": "axe",
+                "weight": 108
+            },
+            {
+                "tag": "mace",
+                "weight": 45
+            },
+            {
+                "tag": "staff",
+                "weight": 54
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 38,
+                "min": 28
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 638,
+                "min": 549
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand1_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Humming",
+        "required_level": 3,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Buzzing",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 53,
+                "min": 46
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Snapping",
+        "required_level": 19,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 5,
+                "min": 4
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 88,
+                "min": 76
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Crackling",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 8,
+                "min": 5
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 123,
+                "min": 106
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand5": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Sparking",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 10,
+                "min": 8
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 173,
+                "min": 148
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Arcing",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 14,
+                "min": 11
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 242,
+                "min": 208
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand7": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Shocking",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1400
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 20,
+                "min": 14
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 327,
+                "min": 281
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand8": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Discharging",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 1120
+            },
+            {
+                "tag": "sword",
+                "weight": 960
+            },
+            {
+                "tag": "axe",
+                "weight": 960
+            },
+            {
+                "tag": "mace",
+                "weight": 400
+            },
+            {
+                "tag": "staff",
+                "weight": 480
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 25,
+                "min": 19
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 425,
+                "min": 366
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalAddedLightningDamageTwoHand9": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Electrocuting",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 490
+            },
+            {
+                "tag": "sword",
+                "weight": 420
+            },
+            {
+                "tag": "axe",
+                "weight": 420
+            },
+            {
+                "tag": "mace",
+                "weight": 175
+            },
+            {
+                "tag": "staff",
+                "weight": 210
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 32,
+                "min": 23
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 531,
+                "min": 458
+            }
+        ],
+        "type": "LocalLightningDamageTwoHand"
+    },
+    "LocalIncreaseSocketedBowGemLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "attack",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Fletcher's",
+        "required_level": 9,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_bow_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LocalIncreaseSocketedBowGemLevel"
+    },
+    "LocalIncreaseSocketedBowGemLevel2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "attack",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Sharpshooter's",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_bow_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedBowGemLevel"
+    },
+    "LocalIncreaseSocketedMeleeGemLevel": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "attack",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Weaponmaster's",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_melee_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedMeleeGemLevel"
+    },
+    "LocalIncreaseSocketedMeleeGemLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "attack",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Combatant's",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_melee_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LocalIncreaseSocketedMeleeGemLevel"
+    }
+}

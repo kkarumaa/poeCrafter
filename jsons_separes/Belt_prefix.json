@@ -1,0 +1,816 @@
+{
+    "BeltFlaskLifeRecoveryRate1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Restoring",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "BeltFlaskLifeRecoveryRate2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Recovering",
+        "required_level": 21,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 16,
+                "min": 11
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "BeltFlaskLifeRecoveryRate3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Renewing",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 22,
+                "min": 17
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "BeltFlaskLifeRecoveryRate4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Refreshing",
+        "required_level": 49,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 28,
+                "min": 23
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "BeltFlaskLifeRecoveryRate5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Rejuvenating",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 34,
+                "min": 29
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "BeltFlaskLifeRecoveryRate6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Regenerating",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_recovery_rate_+%",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "BeltFlaskLifeRecoveryRate"
+    },
+    "BeltFlaskManaRecoveryRate1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Affecting",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "BeltFlaskManaRecoveryRate2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Stirring",
+        "required_level": 21,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 16,
+                "min": 11
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "BeltFlaskManaRecoveryRate3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Heartening",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 22,
+                "min": 17
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "BeltFlaskManaRecoveryRate4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Exciting",
+        "required_level": 49,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 28,
+                "min": 23
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "BeltFlaskManaRecoveryRate5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Galvanizing",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 34,
+                "min": 29
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "BeltFlaskManaRecoveryRate6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecoveryRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Inspiring",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_recovery_rate_+%",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "BeltFlaskManaRecoveryRate"
+    },
+    "BeltIncreasedFlaskEffect1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Distilling",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_effect_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "FlaskEffect"
+    },
+    "BeltIncreasedFlaskEffect2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Condensing",
+        "required_level": 65,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_effect_+%",
+                "max": 9,
+                "min": 7
+            }
+        ],
+        "type": "FlaskEffect"
+    },
+    "BeltIncreasedFlaskEffect3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Magnifying",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_effect_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "FlaskEffect"
+    },
+    "IncreasedPhysicalDamageReductionRating1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Lacquered",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 10,
+                "min": 3
+            }
+        ],
+        "type": "PhysicalDamageReductionRating"
+    },
+    "IncreasedPhysicalDamageReductionRating2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Studded",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 35,
+                "min": 11
+            }
+        ],
+        "type": "PhysicalDamageReductionRating"
+    },
+    "IncreasedPhysicalDamageReductionRating3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Ribbed",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 60,
+                "min": 36
+            }
+        ],
+        "type": "PhysicalDamageReductionRating"
+    },
+    "IncreasedPhysicalDamageReductionRating4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Fortified",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 138,
+                "min": 61
+            }
+        ],
+        "type": "PhysicalDamageReductionRating"
+    },
+    "IncreasedPhysicalDamageReductionRating5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Plated",
+        "required_level": 57,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 322,
+                "min": 139
+            }
+        ],
+        "type": "PhysicalDamageReductionRating"
+    },
+    "IncreasedPhysicalDamageReductionRating6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Carapaced",
+        "required_level": 71,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 400,
+                "min": 323
+            }
+        ],
+        "type": "PhysicalDamageReductionRating"
+    },
+    "IncreasedPhysicalDamageReductionRating7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Encased",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 460,
+                "min": 401
+            }
+        ],
+        "type": "PhysicalDamageReductionRating"
+    },
+    "IncreasedPhysicalDamageReductionRating8_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Enveloped",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 540,
+                "min": 461
+            }
+        ],
+        "type": "PhysicalDamageReductionRating"
+    }
+}

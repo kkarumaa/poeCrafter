@@ -1,0 +1,366 @@
+{
+    "BrinerotVeiledPrefix_": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Guff's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "CatarinaVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Catarina's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 4,
+                "min": 4
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "ElreonVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Elreon's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "GraviciusVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Gravicius' Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 12,
+                "min": 12
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "HakuVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Haku's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 7,
+                "min": 7
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "ItVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "It That Fled's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 11,
+                "min": 11
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "KeemaVeiledPrefix_": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Korell's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 13,
+                "min": 13
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "LeoVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Leo's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "RinVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Rin's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 14,
+                "min": 14
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "ToraVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Tora's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 8,
+                "min": 8
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "VaganVeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Vagan's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 9,
+                "min": 9
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "VeiledPrefix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    },
+    "VoriciVeiledPrefix_": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledPrefix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Vorici's Veiled",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 6,
+                "min": 6
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledPrefix"
+    }
+}

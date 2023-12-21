@@ -1,0 +1,622 @@
+{
+    "DeterminationSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Determination",
+                "level": 16
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 61,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_determination_level",
+                "max": 16,
+                "min": 16
+            }
+        ],
+        "type": "DeterminationSkill"
+    },
+    "DisciplineSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Discipline",
+                "level": 16
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 61,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_discipline_level",
+                "max": 16,
+                "min": 16
+            }
+        ],
+        "type": "DisciplineSkill"
+    },
+    "GraceSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Grace",
+                "level": 16
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 61,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_grace_level",
+                "max": 16,
+                "min": 16
+            }
+        ],
+        "type": "GraceSkill"
+    },
+    "V2DeterminationSkillCorrupted__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Determination",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_determination_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "DeterminationSkill"
+    },
+    "V2DisciplineSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Discipline",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_discipline_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "DisciplineSkill"
+    },
+    "V2GraceSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Grace",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_grace_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "GraceSkill"
+    },
+    "V2LocalBlockChanceCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedShieldBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_additional_block_chance_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedShieldBlockPercentage"
+    },
+    "V2MaximumBlockCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumBlockChance"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_block_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumBlockChance"
+    },
+    "V2PercentageOfBlockAppliesToSpellBlockCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlockingBlocksSpells"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "old_do_not_use_spell_block_%_from_assumed_block_value",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "BlockingBlocksSpells"
+    },
+    "V2PhysicalDamageTakenAsChaosCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsChaos"
+        ],
+        "implicit_tags": [
+            "physical",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_chaos",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "PhysicalDamageTakenAsChaos"
+    },
+    "V2PhysicalDamageTakenAsColdCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_cold",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "PhysicalDamageTakenAsCold"
+    },
+    "V2PhysicalDamageTakenAsFireCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_fire",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "PhysicalDamageTakenAsFirePercent"
+    },
+    "V2PhysicalDamageTakenAsLightningCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "physical",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_lightning",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "PhysicalDamageTakenAsLightningPercent"
+    },
+    "V2ReducedDamageFromAreaOfEffectCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedDamageFromAreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "area_damage_taken_from_hits_+%",
+                "max": -4,
+                "min": -6
+            }
+        ],
+        "type": "AreaOfEffectDamageTaken"
+    },
+    "V2ReducedDamageFromProjectilesCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileDamageTaken"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_taken_+%",
+                "max": -4,
+                "min": -6
+            }
+        ],
+        "type": "ProjectileDamageTaken"
+    },
+    "V2ReducedExtraDamageFromCriticalStrikesShieldCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedExtraDamageFromCrits"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_self_critical_strike_multiplier_-%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "ReducedExtraDamageFromCrits"
+    },
+    "V2SpellBlockPercentageCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_block_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "SpellBlockPercentage"
+    }
+}

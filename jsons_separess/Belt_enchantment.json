@@ -1,0 +1,521 @@
+{
+    "EnchantmentArcaneSurge": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "area_of_effect_+%_while_you_have_arcane_surge",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "EnchantmentArcaneSurge"
+    },
+    "EnchantmentBlind": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemies_you_blind_have_critical_strike_chance_+%",
+                "max": -30,
+                "min": -30
+            }
+        ],
+        "type": "EnchantmentBlind"
+    },
+    "EnchantmentConsecratedGround": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_on_self_+%_while_on_consecrated_ground",
+                "max": -30,
+                "min": -30
+            }
+        ],
+        "type": "EnchantmentConsecratedGround"
+    },
+    "EnchantmentElusive": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_elemental_ailments_%_while_affected_by_elusive",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "EnchantmentElusive"
+    },
+    "EnchantmentExposure": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemies_you_expose_have_self_elemental_status_duration_+%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "EnchantmentExposure"
+    },
+    "EnchantmentFortify_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "armour_+_while_you_have_fortify",
+                "max": 300,
+                "min": 300
+            }
+        ],
+        "type": "EnchantmentFortify"
+    },
+    "EnchantmentHinder": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemies_you_hinder_have_life_regeneration_rate_+%",
+                "max": -50,
+                "min": -50
+            }
+        ],
+        "type": "EnchantmentHinder"
+    },
+    "EnchantmentIntimidate": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemies_you_intimidate_have_stun_duration_on_self_+%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "EnchantmentIntimidate"
+    },
+    "EnchantmentMaim": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemies_you_maim_have_damage_taken_over_time_+%",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "EnchantmentMaim"
+    },
+    "EnchantmentOnslaught_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating_+%_during_onslaught",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "EnchantmentOnslaught"
+    },
+    "EnchantmentPhasing__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+_while_phasing",
+                "max": 300,
+                "min": 300
+            }
+        ],
+        "type": "EnchantmentPhasing"
+    },
+    "EnchantmentRage_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "recover_%_maximum_life_on_killing_enemy_while_you_have_rage",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "EnchantmentRage"
+    },
+    "EnchantmentTaunt": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "belt_enchant_enemies_you_taunt_have_area_damage_+%_final",
+                "max": -5,
+                "min": -5
+            }
+        ],
+        "type": "EnchantmentTaunt"
+    },
+    "EnchantmentUnnerve": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemies_you_unnerve_have_enemy_spell_critical_strike_chance_+%_against_self",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "EnchantmentUnnerve"
+    },
+    "EnchantmentWither_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BuffEnchantment"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemies_you_wither_have_all_resistances_%",
+                "max": -6,
+                "min": -6
+            }
+        ],
+        "type": "EnchantmentWither"
+    }
+}

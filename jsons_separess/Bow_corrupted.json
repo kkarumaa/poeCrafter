@@ -1,0 +1,1098 @@
+{
+    "AdditionalPierceCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ArrowPierce"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "arrow_base_number_of_targets_to_pierce",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalArrowPierce"
+    },
+    "SupportedByForkCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportFork",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SupportedByFork"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_fork_level",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SupportedByFork"
+    },
+    "V2IncreasedAreaOfEffect2hCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 30,
+                "min": 25
+            }
+        ],
+        "type": "AreaOfEffect"
+    },
+    "V2LocalAddedColdDamage2hCorrupted1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 13,
+                "min": 9
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 23,
+                "min": 20
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "V2LocalAddedColdDamage2hCorrupted2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 27,
+                "min": 22
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 44,
+                "min": 36
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "V2LocalAddedColdDamage2hCorrupted3_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 250
+            },
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 32,
+                "min": 26
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 55,
+                "min": 45
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "V2LocalAddedFireDamage2hCorrupted1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 17,
+                "min": 12
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 27,
+                "min": 23
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "V2LocalAddedFireDamage2hCorrupted2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 31,
+                "min": 27
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 50,
+                "min": 39
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "V2LocalAddedFireDamage2hCorrupted3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 250
+            },
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 39,
+                "min": 31
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 61,
+                "min": 52
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "V2LocalAddedLightningDamage2hCorrupted1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 3,
+                "min": 2
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 39,
+                "min": 35
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "V2LocalAddedLightningDamage2hCorrupted2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 7,
+                "min": 3
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 84,
+                "min": 73
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "V2LocalAddedLightningDamage2hCorrupted3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 250
+            },
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 9,
+                "min": 5
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 107,
+                "min": 103
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "V2LocalIncreasedAttackSpeed2hCorrupted_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "LocalIncreasedAttackSpeed"
+    },
+    "V2LocalIncreasedAttackSpeedBowCorrupted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "LocalIncreasedAttackSpeed"
+    },
+    "V2LocalIncreasedCriticalStrikeChance2hCorrupted_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_critical_strike_chance_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "LocalCriticalStrikeChance"
+    },
+    "V2LocalIncreasedPhysicalDamageBowCorrupted1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalPhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_+%",
+                "max": 15,
+                "min": 10
+            }
+        ],
+        "type": "LocalPhysicalDamagePercent"
+    },
+    "V2LocalIncreasedPhysicalDamageBowCorrupted2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalPhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "LocalPhysicalDamagePercent"
+    },
+    "V2SupportedByAccuracyCorrupted__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportAdditionalAccuracy",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "SupportedByAccuracy"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_additional_accuracy_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SupportedByAccuracy"
+    },
+    "V2SupportedByBlindCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportBlind",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "SupportedByBlind"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_blind_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SupportedByBlind"
+    },
+    "V2SupportedByBloodmagicCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportLifetap",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SupportedByBloodMagic"
+        ],
+        "implicit_tags": [
+            "skill",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_supported_by_level_x_lifetap",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SocketedGemsSupportedByLifetap"
+    },
+    "V2SupportedByFasterProjectilesCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportFasterProjectiles",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "SupportedByProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_faster_projectiles_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SupportedByProjectileSpeed"
+    },
+    "V2SupportedByFortifyCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportFortify",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "SupportedByFortify"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_supported_by_level_x_fortify",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SupportedByFortify"
+    },
+    "V2SupportedByLifeGainOnHitCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportLifeGainOnHit",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "SupportedByLifeGainOnHit"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_supported_by_level_x_life_gain_on_hit",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SupportedByLifeGainOnHit"
+    },
+    "V2SupportedByReducedManaCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportReducedMana",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "SupportedByReducedMana"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_reduced_mana_cost_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SupportedByReducedMana"
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "Intelligence10": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Polymath",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 60,
+                "min": 56
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "LightRadiusAndAccuracy1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadiusAndAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Shining",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "accuracy_rating",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "LightRadiusAndAccuracy"
+    },
+    "LightRadiusAndAccuracy2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadiusAndAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Light",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "accuracy_rating",
+                "max": 40,
+                "min": 21
+            }
+        ],
+        "type": "LightRadiusAndAccuracy"
+    },
+    "LightRadiusAndAccuracy3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadiusAndAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Radiance",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "accuracy_rating_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "LightRadiusAndAccuracyPercent"
+    },
+    "LightRadiusAndAccuracyNew1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadiusAndAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Shining",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "accuracy_rating_+%",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "LightRadiusAndAccuracyPercent"
+    },
+    "LightRadiusAndAccuracyNew2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightRadiusAndAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Light",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "light_radius_+%",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "accuracy_rating_+%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "LightRadiusAndAccuracyPercent"
+    },
+    "ReducedLocalAttributeRequirements1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalAttributeRequirements"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Worthy",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 850
+            },
+            {
+                "tag": "helmet",
+                "weight": 650
+            },
+            {
+                "tag": "shield",
+                "weight": 750
+            },
+            {
+                "tag": "gloves",
+                "weight": 450
+            },
+            {
+                "tag": "boots",
+                "weight": 550
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attribute_requirements_+%",
+                "max": -18,
+                "min": -18
+            }
+        ],
+        "type": "LocalAttributeRequirements"
+    },
+    "ReducedLocalAttributeRequirements2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalAttributeRequirements"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Apt",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 850
+            },
+            {
+                "tag": "helmet",
+                "weight": 650
+            },
+            {
+                "tag": "shield",
+                "weight": 750
+            },
+            {
+                "tag": "gloves",
+                "weight": 450
+            },
+            {
+                "tag": "boots",
+                "weight": 550
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attribute_requirements_+%",
+                "max": -32,
+                "min": -32
+            }
+        ],
+        "type": "LocalAttributeRequirements"
+    }
+}

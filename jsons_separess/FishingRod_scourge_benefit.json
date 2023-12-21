@@ -1,0 +1,870 @@
+{
+    "HellscapeUpsideCanCatchScourgedFish": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CanCatchScourgedFish"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "can_catch_scourged_fish",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CanCatchScourgedFish"
+    },
+    "HellscapeUpsideDaytimeFishSize___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DaytimeFishSize"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "daytime_fish_caught_size_+%",
+                "max": 30,
+                "min": 10
+            }
+        ],
+        "type": "DaytimeFishSize"
+    },
+    "HellscapeUpsideFishingCastDistance": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingCastDistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_range_+%",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "FishingCastDistance"
+    },
+    "HellscapeUpsideFishingRarity": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fish_rarity_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "FishingRarity"
+    },
+    "HellscapeUpsideIncreasedLife1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "HellscapeUpsideIncreasedLife2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 30,
+                "min": 28
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "HellscapeUpsideIncreasedLife3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "HellscapeUpsideIncreasedLife4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 40,
+                "min": 38
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "HellscapeUpsideLifeRegeneration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 700,
+                "min": 650
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration1b_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 800,
+                "min": 750
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration1c_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 333
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 900,
+                "min": 850
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1000,
+                "min": 950
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration2b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 52,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1100,
+                "min": 1050
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration2c_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 59,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 333
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1200,
+                "min": 1150
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 333
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1300,
+                "min": 1250
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration3b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1400,
+                "min": 1350
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration3c_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1500,
+                "min": 1450
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideLifeRegeneration4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1600,
+                "min": 1550
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "HellscapeUpsideStrengthAppliesToFishingReelSpeed_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StrengthAppliesToFishingReelSpeed"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "strength_applies_to_fish_reel_speed_at_20%_value",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "StrengthAppliesToFishingReelSpeed"
+    }
+}

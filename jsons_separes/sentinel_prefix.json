@@ -1,0 +1,1627 @@
+{
+    "SentinelAdditionalTags1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Impending",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "SentinelDroneAdditionalTags"
+    },
+    "SentinelAdditionalTags2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Advancing",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+",
+                "max": 12,
+                "min": 9
+            }
+        ],
+        "type": "SentinelDroneAdditionalTags"
+    },
+    "SentinelAdditionalTags3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Imminent",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+",
+                "max": 18,
+                "min": 13
+            }
+        ],
+        "type": "SentinelDroneAdditionalTags"
+    },
+    "SentinelAdditionalTags4": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Threatening",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+",
+                "max": 24,
+                "min": 19
+            }
+        ],
+        "type": "SentinelDroneAdditionalTags"
+    },
+    "SentinelAdditionalTags5": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Menacing",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+",
+                "max": 35,
+                "min": 25
+            }
+        ],
+        "type": "SentinelDroneAdditionalTags"
+    },
+    "SentinelAdditionalTagsDrone3_1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Imminent",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SentinelDroneAdditionalTags"
+    },
+    "SentinelAdditionalTagsDrone3_2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Threatening",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneAdditionalTags"
+    },
+    "SentinelAdditionalTagsDrone3_3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Menacing",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "SentinelDroneAdditionalTags"
+    },
+    "SentinelAggroRadius1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAggroRadius"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Hostile",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_aggro_radius_+%",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "SentinelDroneAggroRadius"
+    },
+    "SentinelAggroRadius2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAggroRadius"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Insistent",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_aggro_radius_+%",
+                "max": 49,
+                "min": 40
+            }
+        ],
+        "type": "SentinelDroneAggroRadius"
+    },
+    "SentinelAggroRadius3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneAggroRadius"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Combative",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_aggro_radius_+%",
+                "max": 59,
+                "min": 50
+            }
+        ],
+        "type": "SentinelDroneAggroRadius"
+    },
+    "SentinelBaseDuration1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBaseDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Reliable",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_duration_+",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "SentinelDroneBaseDuration"
+    },
+    "SentinelBaseDuration2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBaseDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Steadfast",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_duration_+",
+                "max": 19,
+                "min": 15
+            }
+        ],
+        "type": "SentinelDroneBaseDuration"
+    },
+    "SentinelBaseDuration3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBaseDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Stalwart",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_duration_+",
+                "max": 24,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneBaseDuration"
+    },
+    "SentinelBaseDuration4": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBaseDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Devoted",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_duration_+",
+                "max": 29,
+                "min": 25
+            }
+        ],
+        "type": "SentinelDroneBaseDuration"
+    },
+    "SentinelBaseDuration5": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneBaseDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "True",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_duration_+",
+                "max": 40,
+                "min": 30
+            }
+        ],
+        "type": "SentinelDroneBaseDuration"
+    },
+    "SentinelCastSpeed1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Zealous",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1400
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "SentinelCastSpeed2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Lively",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1400
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "SentinelCastSpeed3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Swift",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1400
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 45,
+                "min": 36
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "SentinelCastSpeed4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Fleet",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1400
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 55,
+                "min": 46
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "SentinelCastSpeed5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Fervent",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 70,
+                "min": 56
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "SentinelChainDistance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneChainDistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Reaching",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaining_range_+%",
+                "max": 30,
+                "min": 21
+            }
+        ],
+        "type": "SentinelDroneChainDistance"
+    },
+    "SentinelChainDistance2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneChainDistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Extending",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaining_range_+%",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "SentinelDroneChainDistance"
+    },
+    "SentinelChainDistance3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneChainDistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Stretching",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaining_range_+%",
+                "max": 55,
+                "min": 41
+            }
+        ],
+        "type": "SentinelDroneChainDistance"
+    },
+    "SentinelDroneRefreshOnUseChance1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneRefreshOnUseChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Energising",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_refresh_on_use_chance_%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneRefreshOnUseChance"
+    },
+    "SentinelDuration1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lasting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_duration_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "SentinelDroneDurationIncrease"
+    },
+    "SentinelDuration2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Lingering",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_duration_+%",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "SentinelDroneDurationIncrease"
+    },
+    "SentinelDuration3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Persistent",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_duration_+%",
+                "max": 45,
+                "min": 36
+            }
+        ],
+        "type": "SentinelDroneDurationIncrease"
+    },
+    "SentinelDuration4": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Continual",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_duration_+%",
+                "max": 55,
+                "min": 46
+            }
+        ],
+        "type": "SentinelDroneDurationIncrease"
+    },
+    "SentinelDuration5": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Everlasting",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_b",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_duration_+%",
+                "max": 70,
+                "min": 56
+            }
+        ],
+        "type": "SentinelDroneDurationIncrease"
+    },
+    "SentinelExtraBeams1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExtraBeams"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Splintering",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_beam_number_of_beams",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SentinelDroneExtraBeams"
+    },
+    "SentinelExtraBeams2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExtraBeams"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Splitting",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_beam_number_of_beams",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneExtraBeams"
+    },
+    "SentinelExtraBeams3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExtraBeams"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Fracturing",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "sentinel_tag_beam_number_of_beams",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "SentinelDroneExtraBeams"
+    },
+    "SentinelExtraChains1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExtraChains"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Chaining",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "number_of_chains",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SentinelDroneExtraChains"
+    },
+    "SentinelExtraChains2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExtraChains"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Arcing",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "number_of_chains",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SentinelDroneExtraChains"
+    },
+    "SentinelExtraChains3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneExtraChains"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Ricochetting",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "number_of_chains",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "SentinelDroneExtraChains"
+    },
+    "SentinelIncreasedlTags1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimitPercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Jolting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "SentinelDroneTagLimitPercentage"
+    },
+    "SentinelIncreasedlTags2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimitPercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Empowering",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "SentinelDroneTagLimitPercentage"
+    },
+    "SentinelIncreasedlTags3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimitPercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Charging",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "SentinelDroneTagLimitPercentage"
+    },
+    "SentinelIncreasedlTags4": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimitPercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Invigorating",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "SentinelDroneTagLimitPercentage"
+    },
+    "SentinelIncreasedlTags5": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneTagLimitPercentage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Energising",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "sentinel_c",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_tag_limit_+%",
+                "max": 45,
+                "min": 36
+            }
+        ],
+        "type": "SentinelDroneTagLimitPercentage"
+    },
+    "SentinelLocalCharge1": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneLocalCharge"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Ample",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1400
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_charge_+",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "SentinelDroneLocalCharge"
+    },
+    "SentinelLocalCharge2": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneLocalCharge"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Vast",
+        "required_level": 7,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1400
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_charge_+",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "SentinelDroneLocalCharge"
+    },
+    "SentinelLocalCharge3": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneLocalCharge"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Substantial",
+        "required_level": 29,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1400
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_charge_+",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "SentinelDroneLocalCharge"
+    },
+    "SentinelLocalCharge4": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneLocalCharge"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Extensive",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1400
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_charge_+",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "SentinelDroneLocalCharge"
+    },
+    "SentinelLocalCharge5": {
+        "adds_tags": [],
+        "domain": "sentinel",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SentinelDroneLocalCharge"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Capacious",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "special_sentinel_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_sentinel_drone_charge_+",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "SentinelDroneLocalCharge"
+    }
+}

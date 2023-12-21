@@ -1,0 +1,1906 @@
+{
+    "AdditionalCurseCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalCurseOnEnemies"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "number_of_additional_curses_allowed",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalCurseOnEnemies"
+    },
+    "AttackSpeedCorrupted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 8,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "ChanceToAvoidFreezeCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidFreezeAndChill"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_chill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToAvoidFreezeAndChill"
+    },
+    "ChanceToAvoidIgniteCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_ignite_%",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "AvoidIgnite"
+    },
+    "ClaritySkillCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Clarity",
+                "level": 4
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 19,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_clarity_level",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "ClaritySkill"
+    },
+    "ClaritySkillCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Clarity",
+                "level": 8
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_clarity_level",
+                "max": 8,
+                "min": 8
+            }
+        ],
+        "type": "ClaritySkill"
+    },
+    "ColdDamageLifeLeechPermyriadCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_cold_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ColdDamageLifeLeechPermyriad"
+    },
+    "DamageTakenFlatReductionCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalAttackDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_attack_damage_taken_+",
+                "max": -5,
+                "min": -10
+            }
+        ],
+        "type": "PhysicalAttackDamageTaken"
+    },
+    "DamageTakenFlatReductionCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalAttackDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_attack_damage_taken_+",
+                "max": -11,
+                "min": -16
+            }
+        ],
+        "type": "PhysicalAttackDamageTaken"
+    },
+    "DamageTakenFlatReductionCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalAttackDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_attack_damage_taken_+",
+                "max": -17,
+                "min": -24
+            }
+        ],
+        "type": "PhysicalAttackDamageTaken"
+    },
+    "FireDamageLifeLeechPermyriadCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_fire_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "FireDamageLifeLeechPermyriad"
+    },
+    "LightningDamageLifeLeechPermyriadCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_lightning_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "LightningDamageLifeLeechPermyriad"
+    },
+    "ManaOnLifeLostCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentDamageGoesToMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_mana_%",
+                "max": 6,
+                "min": 3
+            }
+        ],
+        "type": "PercentDamageGoesToMana"
+    },
+    "MaximumResistanceCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "MovementVelocityCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 5,
+                "min": 2
+            }
+        ],
+        "type": "MovementVelocity"
+    },
+    "PurityOfColdSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "ColdResistAura",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_purity_of_cold_level",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "PurityOfColdSkill"
+    },
+    "PurityOfFireSkillCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "FireResistAura",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_purity_of_fire_level",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "PurityOfFireSkill"
+    },
+    "PurityOfLightningSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "LightningResistAura",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_purity_of_lightning_level",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "PurityOfLightningSkill"
+    },
+    "PuritySkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Purity",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_purity_level",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "PuritySkill"
+    },
+    "V2AdditionalCurseCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalCurseOnEnemies"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "number_of_additional_curses_allowed",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalCurseOnEnemies"
+    },
+    "V2AllResistancesCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistancesCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "AllResistancesCorrupted"
+    },
+    "V2AttackSpeedCorrupted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "V2BlockChanceCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_base_block_%",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "MonsterBlock"
+    },
+    "V2ClaritySkillReducedCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Clarity",
+                "level": 21
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_clarity_level",
+                "max": 21,
+                "min": 21
+            }
+        ],
+        "type": "ClaritySkill"
+    },
+    "V2IncreasedAuraEffectAngerCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectAngerCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "anger_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectAngerCorrupted"
+    },
+    "V2IncreasedAuraEffectDeterminationCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectDeterminationCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "determination_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectDeterminationCorrupted"
+    },
+    "V2IncreasedAuraEffectDisciplineCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectDisciplineCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "discipline_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectDisciplineCorrupted"
+    },
+    "V2IncreasedAuraEffectGraceCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectGraceCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "grace_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectGraceCorrupted"
+    },
+    "V2IncreasedAuraEffectHatredCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectHatredCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "hatred_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectHatredCorrupted"
+    },
+    "V2IncreasedAuraEffectMalevolenceCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectMalevolenceCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "delirium_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectMalevolenceCorrupted"
+    },
+    "V2IncreasedAuraEffectPrideCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectPrideCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "pride_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectPrideCorrupted"
+    },
+    "V2IncreasedAuraEffectWrathCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectWrathCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "wrath_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectWrathCorrupted"
+    },
+    "V2IncreasedAuraEffectZealotryCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAuraEffectZealotryCorrupted"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "zealotry_aura_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "IncreasedAuraEffectZealotryCorrupted"
+    },
+    "V2IncreasedDexterityStrengthCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttributesCorrupted"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dexterity_+%",
+                "max": 6,
+                "min": 4
+            },
+            {
+                "id": "strength_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedDexterityStrengthCorrupted"
+    },
+    "V2IncreasedIntelligenceDexterityCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttributesCorrupted"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "intelligence_+%",
+                "max": 6,
+                "min": 4
+            },
+            {
+                "id": "dexterity_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedIntelligenceDexterityCorrupted"
+    },
+    "V2IncreasedStrengthIntelligenceCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttributesCorrupted"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "strength_+%",
+                "max": 6,
+                "min": 4
+            },
+            {
+                "id": "intelligence_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedStrengthIntelligenceCorrupted"
+    },
+    "V2ItemQuantityCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "belt",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_quantity_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "IncreasedItemQuantity"
+    },
+    "V2ItemRarityCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedItemRarity"
+    },
+    "V2MalevolenceSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DamageOverTimeAura",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_malevolence_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "MalevolenceSkill"
+    },
+    "V2MaximumResistanceCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumResistances"
+        ],
+        "implicit_tags": [
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumResistances"
+    },
+    "V2MovementVelocityCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "MovementVelocity"
+    },
+    "V2PurityOfColdSkillCorrupted___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "ColdResistAura",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_purity_of_cold_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "PurityOfColdSkill"
+    },
+    "V2PurityOfFireSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "FireResistAura",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_purity_of_fire_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "PurityOfFireSkill"
+    },
+    "V2PurityOfLightningSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "LightningResistAura",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_purity_of_lightning_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "PurityOfLightningSkill"
+    },
+    "V2PuritySkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Purity",
+                "level": 21
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_purity_level",
+                "max": 21,
+                "min": 21
+            }
+        ],
+        "type": "PuritySkill"
+    },
+    "V2WeaponElementalDamageCorrupted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedWeaponElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_with_attack_skills_+%",
+                "max": 24,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedWeaponElementalDamagePercent"
+    }
+}

@@ -1,0 +1,4428 @@
+{
+    "HellscapeUpsideAdditionalDexterity1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 23,
+                "min": 20
+            }
+        ],
+        "type": "DexterityImplicit"
+    },
+    "HellscapeUpsideAdditionalDexterity2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 27,
+                "min": 24
+            }
+        ],
+        "type": "DexterityImplicit"
+    },
+    "HellscapeUpsideAdditionalDexterity3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 31,
+                "min": 28
+            }
+        ],
+        "type": "DexterityImplicit"
+    },
+    "HellscapeUpsideAdditionalDexterity4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 35,
+                "min": 32
+            }
+        ],
+        "type": "DexterityImplicit"
+    },
+    "HellscapeUpsideAdditionalIntelligence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 23,
+                "min": 20
+            }
+        ],
+        "type": "IntelligenceImplicit"
+    },
+    "HellscapeUpsideAdditionalIntelligence2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 27,
+                "min": 24
+            }
+        ],
+        "type": "IntelligenceImplicit"
+    },
+    "HellscapeUpsideAdditionalIntelligence3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 31,
+                "min": 28
+            }
+        ],
+        "type": "IntelligenceImplicit"
+    },
+    "HellscapeUpsideAdditionalIntelligence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 35,
+                "min": 32
+            }
+        ],
+        "type": "IntelligenceImplicit"
+    },
+    "HellscapeUpsideAdditionalStrength1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "str_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 23,
+                "min": 20
+            }
+        ],
+        "type": "StrengthImplicit"
+    },
+    "HellscapeUpsideAdditionalStrength2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "str_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 27,
+                "min": 24
+            }
+        ],
+        "type": "StrengthImplicit"
+    },
+    "HellscapeUpsideAdditionalStrength3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "str_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 31,
+                "min": 28
+            }
+        ],
+        "type": "StrengthImplicit"
+    },
+    "HellscapeUpsideAdditionalStrength4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "str_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 35,
+                "min": 32
+            }
+        ],
+        "type": "StrengthImplicit"
+    },
+    "HellscapeUpsideAttackLifeLeech2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_leech_from_physical_attack_damage_permyriad",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "LifeLeechPermyriad"
+    },
+    "HellscapeUpsideAttackLifeLeech3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_leech_from_physical_attack_damage_permyriad",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "LifeLeechPermyriad"
+    },
+    "HellscapeUpsideAttackLifeLeech4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_leech_from_physical_attack_damage_permyriad",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "LifeLeechPermyriad"
+    },
+    "HellscapeUpsideAttackManaLifeLeech2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_leech_from_physical_attack_damage_permyriad",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "ManaLeechPermyriad"
+    },
+    "HellscapeUpsideAttackManaLifeLeech3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_leech_from_physical_attack_damage_permyriad",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "ManaLeechPermyriad"
+    },
+    "HellscapeUpsideAttackManaLifeLeech4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_leech_from_physical_attack_damage_permyriad",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "ManaLeechPermyriad"
+    },
+    "HellscapeUpsideChanceToAvoidBleeding2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidBleeding"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_bleed_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "ChanceToAvoidBleeding"
+    },
+    "HellscapeUpsideChanceToAvoidBleeding3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidBleeding"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_bleed_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "ChanceToAvoidBleeding"
+    },
+    "HellscapeUpsideChanceToAvoidBleeding4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidBleeding"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_bleed_%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "ChanceToAvoidBleeding"
+    },
+    "HellscapeUpsideChanceToAvoidFreezeAndChill2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidFreezeAndChill"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_chill_%",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "ChanceToAvoidFreezeAndChill"
+    },
+    "HellscapeUpsideChanceToAvoidFreezeAndChill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidFreezeAndChill"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_chill_%",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "ChanceToAvoidFreezeAndChill"
+    },
+    "HellscapeUpsideChanceToAvoidFreezeAndChill4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidFreezeAndChill"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_chill_%",
+                "max": 40,
+                "min": 36
+            },
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "ChanceToAvoidFreezeAndChill"
+    },
+    "HellscapeUpsideChanceToAvoidIgniteAndBurning2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_ignite_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "AvoidIgnite"
+    },
+    "HellscapeUpsideChanceToAvoidIgniteAndBurning3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_ignite_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "AvoidIgnite"
+    },
+    "HellscapeUpsideChanceToAvoidIgniteAndBurning4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_ignite_%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "AvoidIgnite"
+    },
+    "HellscapeUpsideChanceToAvoidPoison2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidPoison"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_poison_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "ChanceToAvoidPoison"
+    },
+    "HellscapeUpsideChanceToAvoidPoison3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidPoison"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_poison_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "ChanceToAvoidPoison"
+    },
+    "HellscapeUpsideChanceToAvoidPoison4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidPoison"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_poison_%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "ChanceToAvoidPoison"
+    },
+    "HellscapeUpsideChanceToAvoidShock2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_shock_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "AvoidShock"
+    },
+    "HellscapeUpsideChanceToAvoidShock3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_shock_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "AvoidShock"
+    },
+    "HellscapeUpsideChanceToAvoidShock4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_shock_%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "AvoidShock"
+    },
+    "HellscapeUpsideChanceToGainEnduranceChargeOnKill1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnduranceChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "endurance_charge_on_kill_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "EnduranceChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainEnduranceChargeOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnduranceChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "endurance_charge_on_kill_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "EnduranceChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainEnduranceChargeOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnduranceChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "endurance_charge_on_kill_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "EnduranceChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainEnduranceChargeOnKill4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnduranceChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "endurance_charge_on_kill_%",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "EnduranceChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainFrenzyChargeOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FrenzyChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_frenzy_charge_on_kill_%_chance",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "FrenzyChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainFrenzyChargeOnKill2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FrenzyChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_frenzy_charge_on_kill_%_chance",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "FrenzyChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainFrenzyChargeOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FrenzyChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_frenzy_charge_on_kill_%_chance",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "FrenzyChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainFrenzyChargeOnKill4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FrenzyChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_frenzy_charge_on_kill_%_chance",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "FrenzyChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainPowerChargeOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PowerChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "power_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_power_charge_on_kill_%_chance",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "PowerChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainPowerChargeOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PowerChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "power_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_power_charge_on_kill_%_chance",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "PowerChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainPowerChargeOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PowerChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "power_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_power_charge_on_kill_%_chance",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "PowerChargeOnKillChance"
+    },
+    "HellscapeUpsideChanceToGainPowerChargeOnKill4___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PowerChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "power_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_power_charge_on_kill_%_chance",
+                "max": 12,
+                "min": 11
+            }
+        ],
+        "type": "PowerChargeOnKillChance"
+    },
+    "HellscapeUpsideChaosResistance1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 75
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 13,
+                "min": 10
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "HellscapeUpsideChaosResistance2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 75
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 17,
+                "min": 14
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "HellscapeUpsideChaosResistance3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 75
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 21,
+                "min": 18
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "HellscapeUpsideChaosResistance4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 75
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 25,
+                "min": 22
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "HellscapeUpsideChillEffectivenessOnSelf3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChillEffectivenessOnSelf"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_effectiveness_on_self_+%",
+                "max": -31,
+                "min": -35
+            }
+        ],
+        "type": "ChillEffectivenessOnSelf"
+    },
+    "HellscapeUpsideChillEffectivenessOnSelf4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChillEffectivenessOnSelf"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_effectiveness_on_self_+%",
+                "max": -36,
+                "min": -40
+            }
+        ],
+        "type": "ChillEffectivenessOnSelf"
+    },
+    "HellscapeUpsideColdResistance1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "HellscapeUpsideColdResistance2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "HellscapeUpsideColdResistance3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 30,
+                "min": 28
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "HellscapeUpsideColdResistance4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "HellscapeUpsideFireResistance1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "HellscapeUpsideFireResistance2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "HellscapeUpsideFireResistance3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 30,
+                "min": 28
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "HellscapeUpsideFireResistance4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "HellscapeUpsideIncreasedWeaponElementalDamagePercent1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedWeaponElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_with_attack_skills_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedWeaponElementalDamagePercent"
+    },
+    "HellscapeUpsideIncreasedWeaponElementalDamagePercent2_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedWeaponElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_with_attack_skills_+%",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "IncreasedWeaponElementalDamagePercent"
+    },
+    "HellscapeUpsideIncreasedWeaponElementalDamagePercent3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedWeaponElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_with_attack_skills_+%",
+                "max": 20,
+                "min": 17
+            }
+        ],
+        "type": "IncreasedWeaponElementalDamagePercent"
+    },
+    "HellscapeUpsideIncreasedWeaponElementalDamagePercent4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedWeaponElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_with_attack_skills_+%",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "IncreasedWeaponElementalDamagePercent"
+    },
+    "HellscapeUpsideLightningResistance1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "HellscapeUpsideLightningResistance2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "HellscapeUpsideLightningResistance3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 30,
+                "min": 28
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "HellscapeUpsideLightningResistance4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 300
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "HellscapeUpsideManaRegeneration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "HellscapeUpsideManaRegeneration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "HellscapeUpsideManaRegeneration2b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "focus",
+                "weight": 250
+            },
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "claw",
+                "weight": 250
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 30,
+                "min": 28
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "HellscapeUpsideManaRegeneration3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "HellscapeUpsideManaRegeneration3b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "focus",
+                "weight": 250
+            },
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "claw",
+                "weight": 250
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "shield",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 40,
+                "min": 38
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "HellscapeUpsideManaRegeneration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 45,
+                "min": 43
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "HellscapeUpsideMaximumMana1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "HellscapeUpsideMaximumMana2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 30,
+                "min": 28
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "HellscapeUpsideMaximumMana3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "HellscapeUpsideMaximumMana4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 40,
+                "min": 38
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "HellscapeUpsideMinimumEnduranceCharges1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumEnduranceCharges"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_endurance_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MinimumEnduranceCharges"
+    },
+    "HellscapeUpsideMinimumFrenzyCharges1___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumFrenzyCharges"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_frenzy_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MinimumFrenzyCharges"
+    },
+    "HellscapeUpsideMinimumPowerCharges1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumPowerCharges"
+        ],
+        "implicit_tags": [
+            "power_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_power_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MinimumPowerCharges"
+    },
+    "HellscapeUpsideRarityOfItemsFound1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "ItemFoundRarityIncrease"
+    },
+    "HellscapeUpsideRarityOfItemsFound2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "ItemFoundRarityIncrease"
+    },
+    "HellscapeUpsideRarityOfItemsFound3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 13,
+                "min": 12
+            }
+        ],
+        "type": "ItemFoundRarityIncrease"
+    },
+    "HellscapeUpsideRarityOfItemsFound4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 15,
+                "min": 14
+            }
+        ],
+        "type": "ItemFoundRarityIncrease"
+    },
+    "HellscapeUpsideReducedBurnDuration3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedBurnDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_self_ignite_duration_-%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "ReducedBurnDuration"
+    },
+    "HellscapeUpsideReducedBurnDuration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedBurnDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_self_ignite_duration_-%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "ReducedBurnDuration"
+    },
+    "HellscapeUpsideReducedCurseEffect3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedCurseEffect"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_on_self_+%",
+                "max": -16,
+                "min": -20
+            }
+        ],
+        "type": "ReducedCurseEffect"
+    },
+    "HellscapeUpsideReducedCurseEffect4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedCurseEffect"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_on_self_+%",
+                "max": -21,
+                "min": -25
+            }
+        ],
+        "type": "ReducedCurseEffect"
+    },
+    "HellscapeUpsideReducedShockEffectOnSelf3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ShockEffect"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shocked_effect_on_self_+%",
+                "max": -31,
+                "min": -35
+            }
+        ],
+        "type": "ReducedShockEffectOnSelf"
+    },
+    "HellscapeUpsideReducedShockEffectOnSelf4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ShockEffect"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shocked_effect_on_self_+%",
+                "max": -36,
+                "min": -40
+            }
+        ],
+        "type": "ReducedShockEffectOnSelf"
+    }
+}

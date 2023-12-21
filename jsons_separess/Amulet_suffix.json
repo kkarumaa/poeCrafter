@@ -1,0 +1,908 @@
+{
+    "AllAttributes1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Clouds",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "ring",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 4,
+                "min": 1
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "AllAttributes2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sky",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "ring",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "AllAttributes3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Meteor",
+        "required_level": 22,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "ring",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 12,
+                "min": 9
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "AllAttributes4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Comet",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "ring",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "AllAttributes5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Heavens",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 20,
+                "min": 17
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "AllAttributes6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Galaxy",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "AllAttributes7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Universe",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "AllAttributes8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Infinite",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 32,
+                "min": 29
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "AllAttributes9_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Multiverse",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "AllAttributes"
+    },
+    "CriticalMultiplier1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Ire",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "CriticalMultiplier2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Anger",
+        "required_level": 21,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 19,
+                "min": 13
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "CriticalMultiplier3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Rage",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 24,
+                "min": 20
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "CriticalMultiplier4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Fury",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 29,
+                "min": 25
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "CriticalMultiplier5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Ferocity",
+        "required_level": 59,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 34,
+                "min": 30
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "CriticalMultiplier6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Destruction",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 38,
+                "min": 35
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "CriticalStrikeChance1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Needling",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "CriticalStrikeChance2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Stinging",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 19,
+                "min": 15
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "CriticalStrikeChance3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Piercing",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 24,
+                "min": 20
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "CriticalStrikeChance4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Rupturing",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 29,
+                "min": 25
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "CriticalStrikeChance5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Penetrating",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 34,
+                "min": 30
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "CriticalStrikeChance6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Incision",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 38,
+                "min": 35
+            }
+        ],
+        "type": "CriticalStrikeChance"
+    },
+    "LifeGainPerTarget1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeGainPerTarget"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Rejuvenation",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_gain_per_target",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LifeGainPerTarget"
+    },
+    "LifeGainPerTarget2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeGainPerTarget"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Restoration",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_gain_per_target",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "LifeGainPerTarget"
+    },
+    "LifeGainPerTarget3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeGainPerTarget"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Regrowth",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_gain_per_target",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "LifeGainPerTarget"
+    }
+}

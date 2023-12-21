@@ -1,0 +1,4527 @@
+{
+    "JunMasterVeiledAttackAndCastSpeedWhileFocused_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackAndCastSpeedWhileFocused"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_and_cast_speed_+%_while_focused",
+                "max": 50,
+                "min": 45
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AttackAndCastSpeedWhileFocused"
+    },
+    "JunMasterVeiledAttackAndCastSpeed_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackCastSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1500
+            },
+            {
+                "tag": "quiver",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_and_cast_speed_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "AttackAndCastSpeed"
+    },
+    "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackSpeedPercentIfRareOrUniqueEnemyNearby"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%_if_rare_or_unique_enemy_nearby",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "AttackSpeedPercentIfRareOrUniqueEnemyNearby"
+    },
+    "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackSpeedPercentIfRareOrUniqueEnemyNearby"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%_if_rare_or_unique_enemy_nearby",
+                "max": 30,
+                "min": 27
+            }
+        ],
+        "type": "AttackSpeedPercentIfRareOrUniqueEnemyNearby"
+    },
+    "JunMasterVeiledAvoidElementalDamageChanceDuringSoulGainPrevention": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidElementalDamageChanceDuringSoulGainPrevention"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_elemental_damage_chance_%_during_soul_gain_prevention",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "AvoidElementalDamageChanceDuringSoulGainPrevention"
+    },
+    "JunMasterVeiledBrandAttachmentRange": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BrandAttachmentRange"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sigil_target_search_range_+%",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "BrandAttachmentRange"
+    },
+    "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance1h__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 22,
+                "min": 18
+            },
+            {
+                "id": "gain_arcane_surge_on_kill_chance_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "CastSpeedAndGainArcaneSurgeOnKillChance"
+    },
+    "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 31,
+                "min": 26
+            },
+            {
+                "id": "gain_arcane_surge_on_kill_chance_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "CastSpeedAndGainArcaneSurgeOnKillChance"
+    },
+    "JunMasterVeiledChanceToDealDoubleDamageWhileFocused1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToDealDoubleDamageWhileFocused"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_deal_double_damage_%_while_focused",
+                "max": 20,
+                "min": 18
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChanceToDealDoubleDamageWhileFocused"
+    },
+    "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToDealDoubleDamageWhileFocused"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_deal_double_damage_%_while_focused",
+                "max": 40,
+                "min": 36
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChanceToDealDoubleDamageWhileFocused"
+    },
+    "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 48,
+                "min": 44
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledChaosDamageOverTimeMultiplier__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 600
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledColdAndChaosDamageResistance": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdAndChaosDamageResistance"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "cold",
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 600
+            },
+            {
+                "tag": "boots",
+                "weight": 600
+            },
+            {
+                "tag": "gloves",
+                "weight": 600
+            },
+            {
+                "tag": "helmet",
+                "weight": 600
+            },
+            {
+                "tag": "shield",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "belt",
+                "weight": 600
+            },
+            {
+                "tag": "quiver",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_and_chaos_damage_resistance_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "ColdAndChaosDamageResistance"
+    },
+    "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 48,
+                "min": 44
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledColdDamageOverTimeMultiplier___": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 600
+            },
+            {
+                "tag": "weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledCriticalChanceAndAddedChaosDamageIfHaveCritRecently_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1500
+            },
+            {
+                "tag": "quiver",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minimum_added_chaos_damage_if_have_crit_recently",
+                "max": 25,
+                "min": 22
+            },
+            {
+                "id": "maximum_added_chaos_damage_if_have_crit_recently",
+                "max": 32,
+                "min": 28
+            },
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "CriticalChanceAndAddedChaosDamageIfHaveCritRecently"
+    },
+    "JunMasterVeiledCriticalChanceAndElementalDamagePercentIfHaveCritRecently": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1500
+            },
+            {
+                "tag": "quiver",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%_if_have_crit_recently",
+                "max": 30,
+                "min": 27
+            },
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "CriticalChanceAndElementalDamagePercentIfHaveCritRecently"
+    },
+    "JunMasterVeiledCriticalChanceAndGainFrenzyChargeOnCriticalStrikePercent": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "frenzy_charge",
+            "unveiled_mod",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "gain_frenzy_charge_on_critical_strike_%",
+                "max": 7,
+                "min": 6
+            },
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "CriticalChanceAndGainFrenzyChargeOnCriticalStrikePercent"
+    },
+    "JunMasterVeiledCriticalMultiplierOnShatter_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Cameria",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_multiplier_+_if_enemy_shattered_recently",
+                "max": 30,
+                "min": 27
+            },
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "CritChanceAndCriticalStrikeMultiplierIfEnemyShatteredRecently"
+    },
+    "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_multiplier_+_if_rare_or_unique_enemy_nearby",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby"
+    },
+    "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_multiplier_+_if_rare_or_unique_enemy_nearby",
+                "max": 60,
+                "min": 54
+            }
+        ],
+        "type": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby"
+    },
+    "JunMasterVeiledCurseEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseEffectiveness"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 3000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "CurseEffectiveness"
+    },
+    "JunMasterVeiledDamagePerEnduranceCharge1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_per_endurance_charge",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "DamagePerEnduranceCharge"
+    },
+    "JunMasterVeiledDamagePerEnduranceCharge2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_per_endurance_charge",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "DamagePerEnduranceCharge"
+    },
+    "JunMasterVeiledDamagePerFrenzyCharge1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_per_frenzy_charge",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "DamagePerFrenzyCharge"
+    },
+    "JunMasterVeiledDamagePerFrenzyCharge2h__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_per_frenzy_charge",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "DamagePerFrenzyCharge"
+    },
+    "JunMasterVeiledDamagePerPowerCharge1h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_per_power_charge",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "IncreasedDamagePerPowerCharge"
+    },
+    "JunMasterVeiledDamagePerPowerCharge2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_per_power_charge",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "IncreasedDamagePerPowerCharge"
+    },
+    "JunMasterVeiledDamageRemovedFromManaBeforeLifeWhileFocused": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageRemovedFromManaBeforeLifeWhileFocused"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_removed_from_mana_before_life_%_while_focused",
+                "max": 22,
+                "min": 18
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DamageRemovedFromManaBeforeLifeWhileFocused"
+    },
+    "JunMasterVeiledDamageWithNonVaalSkillsDuringSoulGainPrevention_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageWithNonVaalSkillsDuringSoulGainPrevention"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1500
+            },
+            {
+                "tag": "boots",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_with_non_vaal_skills_during_soul_gain_prevention",
+                "max": 80,
+                "min": 71
+            }
+        ],
+        "type": "DamageWithNonVaalSkillsDuringSoulGainPrevention"
+    },
+    "JunMasterVeiledDexterityAndAvoidFreeze": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity",
+            "AvoidFreeze"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "DexterityAndAvoidFreeze"
+    },
+    "JunMasterVeiledDexterityAndIntelligence": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity",
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 600
+            },
+            {
+                "tag": "boots",
+                "weight": 600
+            },
+            {
+                "tag": "gloves",
+                "weight": 600
+            },
+            {
+                "tag": "helmet",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "belt",
+                "weight": 600
+            },
+            {
+                "tag": "shield",
+                "weight": 600
+            },
+            {
+                "tag": "quiver",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity_and_intelligence",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "DexterityAndIntelligence"
+    },
+    "JunMasterVeiledDexterityAndLocalItemQuality": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity",
+            "IncreasedQuality"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_item_quality_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "DexterityAndLocalItemQuality"
+    },
+    "JunMasterVeiledDoubleDamageChance1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DoubleDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_deal_double_damage_%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "DoubleDamageChance"
+    },
+    "JunMasterVeiledDoubleDamageChance2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DoubleDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_deal_double_damage_%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "DoubleDamageChance"
+    },
+    "JunMasterVeiledEffectOfAilments__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAilmentEffectOnEnemies"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1500
+            },
+            {
+                "tag": "amulet",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_damaging_ailment_effect_+%",
+                "max": 40,
+                "min": 33
+            }
+        ],
+        "type": "IncreasedAilmentEffectOnEnemies"
+    },
+    "JunMasterVeiledEnergyShieldRegenerationRatePerMinuteIfRareOrUniqueEnemyNearby": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegenerationRatePerMinuteIfRareOrUniqueEnemyNearby"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "unveiled_mod",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1500
+            },
+            {
+                "tag": "belt",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_regeneration_rate_per_minute_if_rare_or_unique_enemy_nearby",
+                "max": 12000,
+                "min": 12000
+            }
+        ],
+        "type": "EnergyShieldRegenerationRatePerMinuteIfRareOrUniqueEnemyNearby"
+    },
+    "JunMasterVeiledFireAndChaosDamageResistance": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireAndChaosDamageResistance"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "fire",
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 600
+            },
+            {
+                "tag": "boots",
+                "weight": 600
+            },
+            {
+                "tag": "gloves",
+                "weight": 600
+            },
+            {
+                "tag": "helmet",
+                "weight": 600
+            },
+            {
+                "tag": "shield",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "belt",
+                "weight": 600
+            },
+            {
+                "tag": "quiver",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_and_chaos_damage_resistance_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "FireAndChaosDamageResistance"
+    },
+    "JunMasterVeiledFireDamageOverTimeMultiplier": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 100
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 600
+            },
+            {
+                "tag": "weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 48,
+                "min": 44
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledFlaskEffectAndFlaskChargesGainedNew": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_effect_+%",
+                "max": 18,
+                "min": 15
+            },
+            {
+                "id": "charges_gained_+%",
+                "max": -33,
+                "min": -33
+            }
+        ],
+        "type": "FlaskEffectAndFlaskChargesGained"
+    },
+    "JunMasterVeiledFocusCooldownRecovery_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CooldownRecovery"
+        ],
+        "implicit_tags": [
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "focus_cooldown_speed_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "FocusCooldownRecovery"
+    },
+    "JunMasterVeiledFortifyEffectWhileFocused_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FortifyEffectWhileFocused"
+        ],
+        "implicit_tags": [
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "max_fortification_while_focused_+1_per_5",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FortifyEffectWhileFocused"
+    },
+    "JunMasterVeiledGainOnslaughtDuringSoulGainPrevention": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GainOnslaughtDuringSoulGainPrevention"
+        ],
+        "implicit_tags": [
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 1500
+            },
+            {
+                "tag": "boots",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "gain_onslaught_during_soul_gain_prevention",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GainOnslaughtDuringSoulGainPrevention"
+    },
+    "JunMasterVeiledGainVaalPactWhileFocused": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GainVaalPactWhileFocused"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "gain_vaal_pact_while_focused",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GainVaalPactWhileFocused"
+    },
+    "JunMasterVeiledGlobalCooldownRecovery": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CooldownRecovery"
+        ],
+        "implicit_tags": [
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cooldown_speed_+%",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "GlobalCooldownRecovery"
+    },
+    "JunMasterVeiledImmuneToStatusAilmentsWhileFocused": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImmuneToStatusAilmentsWhileFocused"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "immune_to_status_ailments_while_focused",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "focus_cooldown_speed_+%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "ImmuneToStatusAilmentsWhileFocusedCDR"
+    },
+    "JunMasterVeiledIncreasedChaosAndPhysicalDamage": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosAndPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Aisling",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 20,
+                "min": 18
+            },
+            {
+                "id": "physical_damage_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedChaosAndPhysicalDamage"
+    },
+    "JunMasterVeiledIncreasedFireAndLightningDamage": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedFireAndLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "of Riker",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 20,
+                "min": 18
+            },
+            {
+                "id": "lightning_damage_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedFireAndLightningDamage"
+    },
+    "JunMasterVeiledIntelligenceAndAvoidShock": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence",
+            "AvoidShock"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "base_avoid_shock_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "IntelligenceAndAvoidShock"
+    },
+    "JunMasterVeiledIntelligenceAndLocalItemQuality": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence",
+            "IncreasedQuality"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_item_quality_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "IntelligenceAndLocalItemQuality"
+    },
+    "JunMasterVeiledItemRarityFromRareAndUniqueEnemies_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "RareOrUniqueMonsterDroppedItemRarity"
+        ],
+        "implicit_tags": [
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of Janus",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "rare_or_unique_monster_dropped_item_rarity_+%",
+                "max": 60,
+                "min": 55
+            }
+        ],
+        "type": "RareOrUniqueMonsterDroppedItemRarity"
+    },
+    "JunMasterVeiledLifeLeechFromAnyDamageAndVaalPactWhileFocused": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeechFromAnyDamagePermyriadWhileFocused"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 3000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_leech_from_any_damage_permyriad_while_focused",
+                "max": 1500,
+                "min": 1500
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "gain_vaal_pact_while_focused",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LifeLeechFromAnyDamagePermyriadWhileFocusedAndVaalPact"
+    },
+    "JunMasterVeiledLifeLeechFromAnyDamageAndVaalPactWhileFocusedInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeechFromAnyDamagePermyriadWhileFocused"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemy_life_leech_from_any_damage_permyriad_while_focused",
+                "max": 1500,
+                "min": 1500
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "gain_vaal_pact_while_focused",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "EnemyLifeLeechPermyriadWhileFocusedAndVaalPact"
+    },
+    "JunMasterVeiledLifeRegeneration": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRatePercentage"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_per_minute_%",
+                "max": 80,
+                "min": 62
+            }
+        ],
+        "type": "LifeRegenerationRatePercentage"
+    },
+    "JunMasterVeiledLifeRegenerationPerEvasionDuringFocus": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationPerEvasionDuringFocus"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_%_as_life_regeneration_per_minute_during_focus",
+                "max": 90,
+                "min": 90
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LifeRegenerationPerEvasionDuringFocus"
+    },
+    "JunMasterVeiledLifeRegenerationRatePerMinuteWhileUsingFlask": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRatePerMinuteWhileUsingFlask"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "unveiled_mod",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_per_minute_%_while_using_flask",
+                "max": 180,
+                "min": 180
+            }
+        ],
+        "type": "LifeRegenerationRatePerMinuteWhileUsingFlask"
+    },
+    "JunMasterVeiledLightningAndChaosDamageResistance": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningAndChaosDamageResistance"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "lightning",
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 600
+            },
+            {
+                "tag": "boots",
+                "weight": 600
+            },
+            {
+                "tag": "gloves",
+                "weight": 600
+            },
+            {
+                "tag": "helmet",
+                "weight": 600
+            },
+            {
+                "tag": "shield",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "belt",
+                "weight": 600
+            },
+            {
+                "tag": "quiver",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_and_chaos_damage_resistance_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "LightningAndChaosDamageResistance"
+    },
+    "JunMasterVeiledLocalAccuracyRatingAndLocalItemQuality": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy",
+            "IncreasedQuality"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_accuracy_rating",
+                "max": 350,
+                "min": 311
+            },
+            {
+                "id": "local_item_quality_+",
+                "max": 18,
+                "min": 16
+            }
+        ],
+        "type": "LocalAccuracyRatingAndLocalItemQuality"
+    },
+    "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy",
+            "Strength",
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_accuracy_rating",
+                "max": 350,
+                "min": 311
+            },
+            {
+                "id": "additional_strength_and_dexterity",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "LocalAccuracyRatingStrengthDexterity"
+    },
+    "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChanceRangedWeapon": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "JunTriggeredBloodRage",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 15,
+                "min": 12
+            },
+            {
+                "id": "local_display_trigger_level_1_blood_rage_on_kill_chance_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance"
+    },
+    "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "JunTriggeredBloodRage",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 22,
+                "min": 18
+            },
+            {
+                "id": "local_display_trigger_level_1_blood_rage_on_kill_chance_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance"
+    },
+    "JunMasterVeiledLocalAttackSpeedAndLocalItemQuality": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed",
+            "IncreasedQuality"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 22,
+                "min": 18
+            },
+            {
+                "id": "local_item_quality_+",
+                "max": 18,
+                "min": 13
+            }
+        ],
+        "type": "LocalAttackSpeedAndLocalItemQuality"
+    },
+    "JunMasterVeiledLocalAttackSpeedAndLocalItemQualityRangedWeapon": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed",
+            "IncreasedQuality"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 15,
+                "min": 12
+            },
+            {
+                "id": "local_item_quality_+",
+                "max": 18,
+                "min": 13
+            }
+        ],
+        "type": "LocalAttackSpeedAndLocalItemQuality"
+    },
+    "JunMasterVeiledLocalAttackSpeedDexterityIntelligence": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed",
+            "Dexterity",
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "speed",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 22,
+                "min": 18
+            },
+            {
+                "id": "additional_dexterity_and_intelligence",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "LocalAttackSpeedDexterityIntelligence"
+    },
+    "JunMasterVeiledLocalAttackSpeedDexterityIntelligenceRanged": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed",
+            "Dexterity",
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "speed",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 15,
+                "min": 12
+            },
+            {
+                "id": "additional_dexterity_and_intelligence",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "LocalAttackSpeedDexterityIntelligence"
+    },
+    "JunMasterVeiledLocalCriticalStrikeChanceAndLocalItemQuality": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease",
+            "IncreasedQuality"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_critical_strike_chance_+%",
+                "max": 32,
+                "min": 28
+            },
+            {
+                "id": "local_item_quality_+",
+                "max": 18,
+                "min": 13
+            }
+        ],
+        "type": "LocalCriticalStrikeChanceAndLocalItemQuality"
+    },
+    "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease",
+            "Strength",
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "critical",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_critical_strike_chance_+%",
+                "max": 32,
+                "min": 28
+            },
+            {
+                "id": "additional_strength_and_intelligence",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "LocalCriticalStrikeChanceStrengthIntelligence"
+    },
+    "JunMasterVeiledLocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_avoid_stun_chance_%_during_flask_effect",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "local_flask_movement_speed_+%_while_healing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "LocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect"
+    },
+    "JunMasterVeiledLocalFlaskAvoidStunChanceDuringFlaskEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_avoid_stun_chance_%_during_flask_effect",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "LocalFlaskAvoidStunChanceDuringFlaskEffect"
+    },
+    "JunMasterVeiledLocalFlaskCriticalStrikeChanceDuringFlaskEffect_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskCriticalStrikeChanceDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_critical_strike_chance_+%_during_flask_effect",
+                "max": 60,
+                "min": 40
+            }
+        ],
+        "type": "LocalFlaskCriticalStrikeChanceDuringFlaskEffect"
+    },
+    "JunMasterVeiledLocalFlaskItemFoundRarityDuringFlaskEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskItemFoundRarityDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_item_found_rarity_+%_during_flask_effect",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "LocalFlaskItemFoundRarityDuringFlaskEffect"
+    },
+    "JunMasterVeiledLocalFlaskLifeLeechOnDamageTakenPermyriadDuringFlaskEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskLifeLeechOnDamageTakenPermyriadDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "unveiled_mod",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_leech_on_damage_taken_%_permyriad_during_flask_effect",
+                "max": 1500,
+                "min": 1500
+            }
+        ],
+        "type": "LocalFlaskLifeLeechOnDamageTakenPermyriadDuringFlaskEffect"
+    },
+    "JunMasterVeiledLocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "unveiled_mod",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_regeneration_per_minute_%_during_flask_effect",
+                "max": 180,
+                "min": 180
+            }
+        ],
+        "type": "LocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect"
+    },
+    "JunMasterVeiledLocalFlaskReducedReflectDuringEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskReflectReductionDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_reflect_damage_taken_+%_during_flask_effect",
+                "max": -60,
+                "min": -80
+            }
+        ],
+        "type": "FlaskReflectReductionDuringFlaskEffect"
+    },
+    "JunMasterVeiledLocalFlaskSkillManaCostDuringFlaskEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskSkillManaCostDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_skill_mana_cost_+%_during_flask_effect",
+                "max": -20,
+                "min": -25
+            }
+        ],
+        "type": "LocalFlaskSkillManaCostDuringFlaskEffect"
+    },
+    "JunMasterVeiledLuckyCriticalsDuringFocus": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LuckyCriticalsDuringFocus"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "extra_critical_rolls_during_focus",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "focus_cooldown_speed_+%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "LuckyCriticalsDuringFocusCDR"
+    },
+    "JunMasterVeiledMineLayingSpeed": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MineLayingSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mine_laying_speed_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "MineLayingSpeed"
+    },
+    "JunMasterVeiledMinimumEnduranceChargesInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumEnduranceCharges"
+        ],
+        "implicit_tags": [
+            "endurance_charge",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_endurance_charges",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "lose_endurance_charge_on_kill_%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "MinimumEnduranceChargesAndOnKillLose"
+    },
+    "JunMasterVeiledMinimumEnduranceCharges_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumEnduranceCharges"
+        ],
+        "implicit_tags": [
+            "endurance_charge",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1500
+            },
+            {
+                "tag": "amulet",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_endurance_charges",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "endurance_charge_on_kill_%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "MinimumEnduranceChargesAndOnKillChance"
+    },
+    "JunMasterVeiledMinimumFrenzyChargesInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumFrenzyCharges"
+        ],
+        "implicit_tags": [
+            "frenzy_charge",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_frenzy_charges",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "lose_frenzy_charge_on_kill_%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "MinimumFrenzyChargesAndOnKillLose"
+    },
+    "JunMasterVeiledMinimumFrenzyCharges___": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumFrenzyCharges"
+        ],
+        "implicit_tags": [
+            "frenzy_charge",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1500
+            },
+            {
+                "tag": "amulet",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_frenzy_charges",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "add_frenzy_charge_on_kill_%_chance",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "MinimumFrenzyChargesAndOnKillChance"
+    },
+    "JunMasterVeiledMinimumPowerCharges": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumPowerCharges"
+        ],
+        "implicit_tags": [
+            "power_charge",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1500
+            },
+            {
+                "tag": "amulet",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_power_charges",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "add_power_charge_on_kill_%_chance",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "MinimumPowerChargesAndOnKillChance"
+    },
+    "JunMasterVeiledMinimumPowerChargesInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumPowerCharges"
+        ],
+        "implicit_tags": [
+            "power_charge",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_minimum_power_charges",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "lose_power_charge_on_kill_%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "MinimumPowerChargesAndOnKillLose"
+    },
+    "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionAttackSpeedAndCastSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "caster",
+            "speed",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_attack_speed_+%",
+                "max": 20,
+                "min": 18
+            },
+            {
+                "id": "minion_cast_speed_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "MinionAttackAndCastSpeedOnWeapon"
+    },
+    "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionAttackSpeedAndCastSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "caster",
+            "speed",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_attack_speed_+%",
+                "max": 38,
+                "min": 34
+            },
+            {
+                "id": "minion_cast_speed_+%",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "MinionAttackAndCastSpeedOnWeapon"
+    },
+    "JunMasterVeiledMinionsRecoverMaximumLifeWhenYouFocus_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionsRecoverMaximumLifeWhenYouFocus"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minions_recover_%_maximum_life_when_you_focus",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "focus_cooldown_speed_+%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "MinionsRecoverMaximumLifeWhenYouFocusCDR"
+    },
+    "JunMasterVeiledPercentageAllAttributes": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentageAllAttributes"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of Hillock",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "all_attributes_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "PercentageAllAttributes"
+    },
+    "JunMasterVeiledPhysicalDamageOverTimeMultiplier": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "unveiled_mod",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 400
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "unveiled_mod",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 48,
+                "min": 44
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledRestoreManaAndEnergyShieldOnFocus": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "RestoreManaAndEnergyShieldOnFocus"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "resource",
+            "unveiled_mod",
+            "mana",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "restore_energy_shield_and_mana_when_you_focus_%",
+                "max": 40,
+                "min": 37
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "RestoreManaAndEnergyShieldOnFocus"
+    },
+    "JunMasterVeiledShockNearbyEnemiesOnFocus": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ShockNearbyEnemiesOnFocus"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shock_nearby_enemies_for_x_ms_when_you_focus",
+                "max": 4000,
+                "min": 4000
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "focus_cooldown_speed_+%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "ShockNearbyEnemiesOnFocusCDR"
+    },
+    "JunMasterVeiledShockNearbyEnemiesOnFocusInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ShockNearbyEnemiesOnFocus"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shock_self_for_x_ms_when_you_focus",
+                "max": 4000,
+                "min": 4000
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "focus_cooldown_speed_+%",
+                "max": -5,
+                "min": -8
+            }
+        ],
+        "type": "ShockYourselfOnFocusCDR"
+    },
+    "JunMasterVeiledSkillsCostNoManaWhileFocused": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SkillsCostNoManaWhileFocused"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "skills_cost_no_mana_while_focused",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "focus_cooldown_speed_+%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "SkillsCostNoManaWhileFocusedCDR"
+    },
+    "JunMasterVeiledStatusAilmentsYouInflictDurationWhileFocused_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StatusAilmentsYouInflictDurationWhileFocused"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "status_ailments_you_inflict_duration_+%_while_focused",
+                "max": 90,
+                "min": 81
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "StatusAilmentsYouInflictDurationWhileFocused"
+    },
+    "JunMasterVeiledStrengthAndAvoidIgnite": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength",
+            "AvoidIgnite"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "base_avoid_ignite_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "StrengthAndAvoidIgnite"
+    },
+    "JunMasterVeiledStrengthAndDexterity": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength",
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 600
+            },
+            {
+                "tag": "boots",
+                "weight": 600
+            },
+            {
+                "tag": "gloves",
+                "weight": 600
+            },
+            {
+                "tag": "helmet",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "belt",
+                "weight": 600
+            },
+            {
+                "tag": "shield",
+                "weight": 600
+            },
+            {
+                "tag": "quiver",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength_and_dexterity",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "StrengthAndDexterity"
+    },
+    "JunMasterVeiledStrengthAndIntelligence": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength",
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 600
+            },
+            {
+                "tag": "boots",
+                "weight": 600
+            },
+            {
+                "tag": "gloves",
+                "weight": 600
+            },
+            {
+                "tag": "helmet",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "belt",
+                "weight": 600
+            },
+            {
+                "tag": "shield",
+                "weight": 600
+            },
+            {
+                "tag": "quiver",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength_and_intelligence",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "StrengthAndIntelligence"
+    },
+    "JunMasterVeiledStrengthAndLocalItemQuality": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength",
+            "IncreasedQuality"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_item_quality_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "StrengthAndLocalItemQuality"
+    },
+    "JunMasterVeiledSummonTotemCastSpeed_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SummonTotemCastSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "summon_totem_cast_speed_+%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "SummonTotemCastSpeed"
+    },
+    "JunMasterVeiledTrapThrowSpeed_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TrapAndMineThrowSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "trap_throwing_speed_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "TrapThrowSpeed"
+    },
+    "JunMasterVeiledTriggerSocketedSpellOnSkillUse_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportTriggerSpellOnSkillUse",
+                "level": 2
+            }
+        ],
+        "groups": [
+            "SupportedByTrigger"
+        ],
+        "implicit_tags": [
+            "skill",
+            "unveiled_mod",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_weapon_trigger_socketed_spell_on_skill_use_display_cooldown_ms",
+                "max": 4000,
+                "min": 4000
+            }
+        ],
+        "type": "TriggerSocketedSpellOnSkillUseFourSeconds"
+    },
+    "JunMasterVeiledTriggerSocketedSpellWhenYouFocus": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportTriggerSpellFromHelmet",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerSocketedSpellWhenYouFocus"
+        ],
+        "implicit_tags": [
+            "skill",
+            "unveiled_mod",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Order",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "trigger_socketed_spells_when_you_focus_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "focus_cooldown_speed_+%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "TriggerSocketedSpellWhenYouFocusCDR"
+    },
+    "JunMasterVeiledWolfOnKill___": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SummonRigwaldsPack",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "SummonWolfOnKill"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Jorgin's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_trigger_level_18_summon_spectral_wolf_on_kill_10%_chance",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SummonWolfOnKillOld"
+    }
+}

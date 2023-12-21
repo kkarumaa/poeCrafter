@@ -1,0 +1,1429 @@
+{
+    "ExpeditionRelicModifierAcrobatic__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierAcrobatic"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_damage_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "ExpeditionRelicModifierAcrobatic"
+    },
+    "ExpeditionRelicModifierAllDamageFreezesFreezeDuration": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierAllDamageFreezesFreezeDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "all_damage_can_freeze",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "freeze_duration_+%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "ExpeditionRelicModifierAllDamageFreezesFreezeDuration"
+    },
+    "ExpeditionRelicModifierAllDamageIgnitesIgniteDuration": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierAllDamageIgnitesIgniteDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "all_damage_can_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "ignite_duration_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierAllDamageIgnitesIgniteDuration"
+    },
+    "ExpeditionRelicModifierAllDamagePoisonsPoisonDuration": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierAllDamagePoisonsPoisonDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_poison_on_hit",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_poison",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "base_poison_duration_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierAllDamagePoisonsPoisonDuration"
+    },
+    "ExpeditionRelicModifierAllDamageShocksShockEffect": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierAllDamageShocksShockEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 14,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "all_damage_can_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "shock_effect_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierAllDamageShocksShockEffect"
+    },
+    "ExpeditionRelicModifierAlwaysCrit": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierAlwaysCrit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "always_crit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierAlwaysCrit"
+    },
+    "ExpeditionRelicModifierAttackBlockSpellBlockMaxBlockChance": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierAttackBlockSpellBlockMaxBlockChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_base_block_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "base_spell_block_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "maximum_block_%",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "base_maximum_spell_block_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "ExpeditionRelicModifierAttackBlockSpellBlockMaxBlockChance"
+    },
+    "ExpeditionRelicModifierBleedOnHitBleedDuration": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierBleedOnHitBleedDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_bleed_on_hit",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "base_bleed_duration_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierBleedOnHitBleedDuration"
+    },
+    "ExpeditionRelicModifierCannotBeCrit": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierCannotBeCrit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "never_take_critical_strike",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierCannotBeCrit"
+    },
+    "ExpeditionRelicModifierCannotBeLeechedFrom__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierCannotBeLeechedFrom"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_have_life_leeched_from",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "cannot_have_mana_leeched_from",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierCannotBeLeechedFrom"
+    },
+    "ExpeditionRelicModifierChaosPenetration_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierChaosPenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_chaos_resistance_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ExpeditionRelicModifierChaosPenetration"
+    },
+    "ExpeditionRelicModifierColdPenetration": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierColdPenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ExpeditionRelicModifierColdPenetration"
+    },
+    "ExpeditionRelicModifierCriticalAgainstFullLife": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierCriticalAgainstFullLife"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_against_enemies_on_full_life_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierCriticalAgainstFullLife"
+    },
+    "ExpeditionRelicModifierCullingStrikeTwentyPercent": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierCullingStrikeTwentyPercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "kill_enemy_on_hit_if_under_20%_life",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierCullingStrikeTwentyPercent"
+    },
+    "ExpeditionRelicModifierDamage": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ExpeditionRelicModifierDamage"
+    },
+    "ExpeditionRelicModifierDamageAddedAsChaos": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierDamageAddedAsChaos"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_%_to_add_as_chaos",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierDamageAddedAsChaos"
+    },
+    "ExpeditionRelicModifierDamageAttackCastMovementSpeedLowLife___": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierDamageAttackCastMovementSpeedLowLife"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%_when_on_low_life",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "cast_speed_+%_when_on_low_life",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "movement_velocity_+%_when_on_low_life",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "damage_+%_when_on_low_life",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "ExpeditionRelicModifierDamageAttackCastMovementSpeedLowLife"
+    },
+    "ExpeditionRelicModifierElitesDeathGeasOnHit": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierElitesDeathGeasOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "apply_deathgeas_on_hit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierElitesDeathGeasOnHit"
+    },
+    "ExpeditionRelicModifierElitesDuplicated": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierElitesDuplicated"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_twinned_elites",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierElitesDuplicated"
+    },
+    "ExpeditionRelicModifierElitesPetrifyOnHit": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierElitesPetrifyOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "apply_petrification_for_X_seconds_on_hit",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "ExpeditionRelicModifierElitesPetrifyOnHit"
+    },
+    "ExpeditionRelicModifierElitesRandomCurseOnHit": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierElitesRandomCurseOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "apply_X_random_curses_on_hit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierElitesRandomCurseOnHit"
+    },
+    "ExpeditionRelicModifierElitesRegenerateLifeEveryFourSeconds": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierElitesRegenerateLifeEveryFourSeconds"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "guardian_gain_life_regeneration_per_minute_%_for_1_second_every_10_seconds",
+                "max": 1800,
+                "min": 1800
+            }
+        ],
+        "type": "ExpeditionRelicModifierElitesRegenerateLifeEveryFourSeconds"
+    },
+    "ExpeditionRelicModifierFirePenetration_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierFirePenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ExpeditionRelicModifierFirePenetration"
+    },
+    "ExpeditionRelicModifierGrantNoFlaskCharges": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierGrantNoFlaskCharges"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_grants_no_flask_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierGrantNoFlaskCharges"
+    },
+    "ExpeditionRelicModifierHitsCannotBeEvaded": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierHitsCannotBeEvaded"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_always_hit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierHitsCannotBeEvaded"
+    },
+    "ExpeditionRelicModifierHitsRemoveManaAndEnergyShieldOnHit": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierHitsRemoveManaAndEnergyShieldOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 73,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "remove_%_of_current_mana_on_hit",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "remove_%_of_current_energy_shield_on_hit",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierHitsRemoveManaAndEnergyShieldOnHit"
+    },
+    "ExpeditionRelicModifierIgnoreArmour_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierIgnoreArmour"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "enemy_phys_reduction_%_penalty_vs_hit",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierIgnoreArmour"
+    },
+    "ExpeditionRelicModifierImmuneChaosDamage": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierImmuneChaosDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_immunity",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierImmuneChaosDamage"
+    },
+    "ExpeditionRelicModifierImmuneColdDamage": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierImmuneColdDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_immunity",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierImmuneColdDamage"
+    },
+    "ExpeditionRelicModifierImmuneFireDamage_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierImmuneFireDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_immunity",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierImmuneFireDamage"
+    },
+    "ExpeditionRelicModifierImmuneLightningDamage": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierImmuneLightningDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_immunity",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierImmuneLightningDamage"
+    },
+    "ExpeditionRelicModifierImmunePhysicalDamage": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierImmunePhysicalDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_immunity",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierImmunePhysicalDamage"
+    },
+    "ExpeditionRelicModifierImmuneStatusAilments_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierImmuneStatusAilments"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_chill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "base_avoid_ignite_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "base_avoid_shock_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierImmuneStatusAilments"
+    },
+    "ExpeditionRelicModifierImmuneToCurses__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierImmuneToCurses"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "immune_to_curses",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierImmuneToCurses"
+    },
+    "ExpeditionRelicModifierImpaleOnHitImpaleEffect_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierImpaleOnHitImpaleEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "attacks_impale_on_hit_%_chance",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "impale_debuff_effect_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierImpaleOnHitImpaleEffect"
+    },
+    "ExpeditionRelicModifierLife__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ExpeditionRelicModifierLife"
+    },
+    "ExpeditionRelicModifierLightningPenetration": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierLightningPenetration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ExpeditionRelicModifierLightningPenetration"
+    },
+    "ExpeditionRelicModifierMagicMonsterChance": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMagicMonsterChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_number_of_magic_packs_+%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierMagicMonsterChance"
+    },
+    "ExpeditionRelicModifierRareMonsterChance": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierRareMonsterChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_number_of_rare_packs_+%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierRareMonsterChance"
+    },
+    "ExpeditionRelicModifierReducedDamageTaken__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierReducedDamageTaken"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_damage_taken_+%",
+                "max": -30,
+                "min": -30
+            }
+        ],
+        "type": "ExpeditionRelicModifierReducedDamageTaken"
+    },
+    "ExpeditionRelicModifierResistancesAndMaxResistances": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierResistancesAndMaxResistances"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "resist_all_%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "additional_maximum_all_resistances_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "ExpeditionRelicModifierResistancesAndMaxResistances"
+    },
+    "ExpeditionRelicModifierSpeed": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "base_cast_speed_+%",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ExpeditionRelicModifierSpeed"
+    },
+    "ExpeditionRelicModifierWard": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierWard"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 73,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_gain_base_ward_equal_to_total_maximum_life_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ExpeditionRelicModifierWard"
+    }
+}

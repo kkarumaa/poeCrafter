@@ -1,0 +1,3986 @@
+{
+    "ExpeditionRelicModifierEssencesChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierEssencesChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 251
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_essences",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierEssencesChest"
+    },
+    "ExpeditionRelicModifierEssencesElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierEssencesElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_essences",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierEssencesElite"
+    },
+    "ExpeditionRelicModifierEternalEmpireEnchantChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierEternalEmpireEnchantChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_enchant",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierEternalEmpireEnchantChest"
+    },
+    "ExpeditionRelicModifierEternalEmpireEnchantElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierEternalEmpireEnchantElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_enchant",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierEternalEmpireEnchantElite"
+    },
+    "ExpeditionRelicModifierEternalEmpireLegionChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierEternalEmpireLegionChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_legionsplinters",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierEternalEmpireLegionChest"
+    },
+    "ExpeditionRelicModifierEternalEmpireLegionElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierEternalEmpireLegionElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_legionsplinters",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierEternalEmpireLegionElite"
+    },
+    "ExpeditionRelicModifierExpeditionBasicCurrencyChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionBasicCurrencyChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 502
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_currency",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionBasicCurrencyChest"
+    },
+    "ExpeditionRelicModifierExpeditionBasicCurrencyElite___": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionBasicCurrencyElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_currency",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionBasicCurrencyElite"
+    },
+    "ExpeditionRelicModifierExpeditionCorruptedItemsElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionCorruptedItemsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_items_drop_corrupted_%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionCorruptedItemsElite"
+    },
+    "ExpeditionRelicModifierExpeditionCurrencyQuantityChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionCurrencyQuantityChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1173
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_currency_drop_quantity_+%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionCurrencyQuantityChest"
+    },
+    "ExpeditionRelicModifierExpeditionCurrencyQuantityMonster__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionCurrencyQuantityMonster"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1750
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_monsters_currency_drop_quantity_+%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionCurrencyQuantityMonster"
+    },
+    "ExpeditionRelicModifierExpeditionFracturedItemsChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionFracturedItemsChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_fractured_item",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionFracturedItemsChest"
+    },
+    "ExpeditionRelicModifierExpeditionFracturedItemsElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionFracturedItemsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_fractured_item",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionFracturedItemsElite"
+    },
+    "ExpeditionRelicModifierExpeditionFullyLinkedElite__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionFullyLinkedElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "dropped_items_are_fully_linked",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionFullyLinkedElite"
+    },
+    "ExpeditionRelicModifierExpeditionGemsChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionGemsChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 251
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_gems2",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionGemsChest"
+    },
+    "ExpeditionRelicModifierExpeditionGemsElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionGemsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 375
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_gems2",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionGemsElite"
+    },
+    "ExpeditionRelicModifierExpeditionInfluencedItemsElite___": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionInfluencedItemsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 60
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_influenced_item",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionInfluencedItemsElite"
+    },
+    "ExpeditionRelicModifierExpeditionInfluencedtemsChest__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionInfluencedtemsChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 30
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_influenced_item",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionInfluencedtemsChest"
+    },
+    "ExpeditionRelicModifierExpeditionLogbookQuantityMonster": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionLogbookQuantityMonster"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "expedition_common_remnant_logbook",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 875
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_monsters_logbook_chance_+%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionLogbookQuantityMonster"
+    },
+    "ExpeditionRelicModifierExpeditionMapsChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionMapsChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 85
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_maps",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionMapsChest"
+    },
+    "ExpeditionRelicModifierExpeditionMapsElite_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionMapsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_maps",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionMapsElite"
+    },
+    "ExpeditionRelicModifierExpeditionRareArmourChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionRareArmourChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1055
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_rare_armour",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionRareArmourChest"
+    },
+    "ExpeditionRelicModifierExpeditionRareArmourElite_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionRareArmourElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1550
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_rare_armour",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionRareArmourElite"
+    },
+    "ExpeditionRelicModifierExpeditionRareTrinketChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionRareTrinketChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 700
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_rare_jewellery",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionRareTrinketChest"
+    },
+    "ExpeditionRelicModifierExpeditionRareTrinketElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionRareTrinketElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1030
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_rare_jewellery",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionRareTrinketElite"
+    },
+    "ExpeditionRelicModifierExpeditionRareWeaponChest__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionRareWeaponChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1055
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_rare_weapon",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionRareWeaponChest"
+    },
+    "ExpeditionRelicModifierExpeditionRareWeaponElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionRareWeaponElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1550
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_rare_weapon",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionRareWeaponElite"
+    },
+    "ExpeditionRelicModifierExpeditionTalismanChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionTalismanChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 180
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_talisman",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionTalismanChest"
+    },
+    "ExpeditionRelicModifierExpeditionTalismanElite___": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionTalismanElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_talisman",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionTalismanElite"
+    },
+    "ExpeditionRelicModifierExpeditionUniqueChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionUniqueChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 85
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_uniques",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionUniqueChest"
+    },
+    "ExpeditionRelicModifierExpeditionUniqueElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExpeditionUniqueElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 125
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_uniques",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierExpeditionUniqueElite"
+    },
+    "ExpeditionRelicModifierExperience_1___": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1750
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_slain_experience_+%",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "ExpeditionRelicModifierExperience"
+    },
+    "ExpeditionRelicModifierExperience_2": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1750
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_slain_experience_+%",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "ExpeditionRelicModifierExperience"
+    },
+    "ExpeditionRelicModifierExperience_3_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1750
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_slain_experience_+%",
+                "max": 80,
+                "min": 80
+            }
+        ],
+        "type": "ExpeditionRelicModifierExperience"
+    },
+    "ExpeditionRelicModifierExperience_4": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1750
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_slain_experience_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ExpeditionRelicModifierExperience"
+    },
+    "ExpeditionRelicModifierItemQuantityChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierItemQuantityChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1173
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_item_quantity_+%",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "ExpeditionRelicModifierItemQuantityChest"
+    },
+    "ExpeditionRelicModifierItemQuantityMonster": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierItemQuantityMonster"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1750
+            }
+        ],
+        "stats": [
+            {
+                "id": "metamorphosis_boss_item_quantity_+%_final_permyriad",
+                "max": 4000,
+                "min": 4000
+            }
+        ],
+        "type": "ExpeditionRelicModifierItemQuantityMonster"
+    },
+    "ExpeditionRelicModifierItemRarityChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierItemRarityChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_common_remnant_logbook",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1173
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_item_rarity_+%_final_from_mod",
+                "max": 300,
+                "min": 300
+            }
+        ],
+        "type": "ExpeditionRelicModifierItemRarityChest"
+    },
+    "ExpeditionRelicModifierItemRarityMonster____": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierItemRarityMonster"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1750
+            }
+        ],
+        "stats": [
+            {
+                "id": "metamorphosis_boss_item_rarity_+%_final_permyriad",
+                "max": 30000,
+                "min": 30000
+            }
+        ],
+        "type": "ExpeditionRelicModifierItemRarityMonster"
+    },
+    "ExpeditionRelicModifierKaruiFossilChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierKaruiFossilChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_fossils",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierKaruiFossilChest"
+    },
+    "ExpeditionRelicModifierKaruiFossilElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierKaruiFossilElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_fossils",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierKaruiFossilElite"
+    },
+    "ExpeditionRelicModifierKaruiShardsChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierKaruiShardsChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_harbingercurrency",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierKaruiShardsChest"
+    },
+    "ExpeditionRelicModifierKaruiShardsElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierKaruiShardsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_harbingercurrency",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierKaruiShardsElite"
+    },
+    "ExpeditionRelicModifierLostMenEssenceChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierLostMenEssenceChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_essences",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierLostMenEssenceChest"
+    },
+    "ExpeditionRelicModifierLostMenEssenceElite__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierLostMenEssenceElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_essences",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierLostMenEssenceElite"
+    },
+    "ExpeditionRelicModifierLostMenUniqueChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierLostMenUniqueChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_uniques",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierLostMenUniqueChest"
+    },
+    "ExpeditionRelicModifierLostMenUniqueElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierLostMenUniqueElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_uniques",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierLostMenUniqueElite"
+    },
+    "ExpeditionRelicModifierMarakethDivinationChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMarakethDivinationChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_divination",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierMarakethDivinationChest"
+    },
+    "ExpeditionRelicModifierMarakethDivinationElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMarakethDivinationElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_divination",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierMarakethDivinationElite"
+    },
+    "ExpeditionRelicModifierMarakethIncubatorChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMarakethIncubatorChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_incubators",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierMarakethIncubatorChest"
+    },
+    "ExpeditionRelicModifierMarakethIncubatorElite_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMarakethIncubatorElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_incubators",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierMarakethIncubatorElite"
+    },
+    "ExpeditionRelicModifierMonkeyTribeAbyssChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMonkeyTribeAbyssChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_abyss",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierMonkeyTribeAbyssChest"
+    },
+    "ExpeditionRelicModifierMonkeyTribeAbyssElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMonkeyTribeAbyssElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_abyss",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierMonkeyTribeAbyssElite"
+    },
+    "ExpeditionRelicModifierMonkeyTribeFragmentsChest___": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMonkeyTribeFragmentsChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_atzirifragments",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierMonkeyTribeFragmentsChest"
+    },
+    "ExpeditionRelicModifierMonkeyTribeFragmentsElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierMonkeyTribeFragmentsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_atzirifragments",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierMonkeyTribeFragmentsElite"
+    },
+    "ExpeditionRelicModifierPackSize": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierPackSize"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1750
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_pack_size_+%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "ExpeditionRelicModifierPackSize"
+    },
+    "ExpeditionRelicModifierSirensBreachChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierSirensBreachChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_breachsplinters",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierSirensBreachChest"
+    },
+    "ExpeditionRelicModifierSirensBreachElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierSirensBreachElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_breachsplinters",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierSirensBreachElite"
+    },
+    "ExpeditionRelicModifierSirensScarabChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierSirensScarabChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_scarabs",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierSirensScarabChest"
+    },
+    "ExpeditionRelicModifierSirensScarabElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierSirensScarabElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_scarabs",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierSirensScarabElite"
+    },
+    "ExpeditionRelicModifierStackedDeckChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierStackedDeckChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 251
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_stackeddecks",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierStackedDeckChest"
+    },
+    "ExpeditionRelicModifierStackedDeckElite__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierStackedDeckElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_karui_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant3",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_eternalempire_remnant4",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_maraketh_remnant2",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_sirens_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_monkeytribe_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "expedition_lostmen_remnant",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_stackeddecks",
+                "max": 35,
+                "min": 35
+            }
+        ],
+        "type": "ExpeditionRelicModifierStackedDeckElite"
+    },
+    "ExpeditionRelicModifierTemplarCatalystChest_": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierTemplarCatalystChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_metamorphcatalysts",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierTemplarCatalystChest"
+    },
+    "ExpeditionRelicModifierTemplarCatalystElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierTemplarCatalystElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_metamorphcatalysts",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierTemplarCatalystElite"
+    },
+    "ExpeditionRelicModifierTemplarDeliriumChest___": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierTemplarDeliriumChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_deliriumsplinters",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierTemplarDeliriumChest"
+    },
+    "ExpeditionRelicModifierTemplarDeliriumElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierTemplarDeliriumElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_templar_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_deliriumsplinters",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierTemplarDeliriumElite"
+    },
+    "ExpeditionRelicModifierVaalGemsChest__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierVaalGemsChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_gems",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierVaalGemsChest"
+    },
+    "ExpeditionRelicModifierVaalGemsElite__": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierVaalGemsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_gems",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierVaalGemsElite"
+    },
+    "ExpeditionRelicModifierVaalOilsChest": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierVaalOilsChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_chest_%_to_drop_blightoils",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierVaalOilsChest"
+    },
+    "ExpeditionRelicModifierVaalOilsElite": {
+        "adds_tags": [],
+        "domain": "expedition_relic",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ExpeditionRelicModifierVaalOilsElite"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "expedition_vaal_remnant",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "expedition_elite_%_to_drop_blightoils",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ExpeditionRelicModifierVaalOilsElite"
+    }
+}

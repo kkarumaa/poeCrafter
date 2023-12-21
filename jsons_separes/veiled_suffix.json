@@ -1,0 +1,198 @@
+{
+    "AislinVeiledSuffix__": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledSuffix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Aisling's Veil",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 19,
+                "min": 19
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledSuffix"
+    },
+    "CameriaVeiledSuffix__": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledSuffix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Cameria's Veil",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 18,
+                "min": 18
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledSuffix"
+    },
+    "HillockVeiledSuffix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledSuffix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Hillock's Veil",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 16,
+                "min": 16
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledSuffix"
+    },
+    "JanusVeiledSuffix_": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledSuffix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Janus' Veil",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledSuffix"
+    },
+    "JorginVeiledSuffix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledSuffix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Jorgin's Veil",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 17,
+                "min": 17
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledSuffix"
+    },
+    "RikerVeiledSuffix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledSuffix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Riker's Veil",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledSuffix"
+    },
+    "VeiledSuffix": {
+        "adds_tags": [],
+        "domain": "veiled",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VeiledSuffix"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Veil",
+        "required_level": 1,
+        "spawn_weights": [],
+        "stats": [
+            {
+                "id": "veiled_mod_type",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "veiled_mod_seed",
+                "max": 30000,
+                "min": 1
+            }
+        ],
+        "type": "VeiledSuffix"
+    }
+}

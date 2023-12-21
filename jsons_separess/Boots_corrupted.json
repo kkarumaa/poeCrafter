@@ -1,0 +1,724 @@
+{
+    "CannotBeKnockedBackCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImmuneToKnockback"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_be_knocked_back",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ImmuneToKnockback"
+    },
+    "ChanceToDodgeCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_150%_of_value",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "ChanceToSuppressSpellsOld"
+    },
+    "GemLevelCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LocalIncreaseSocketedGemLevel"
+    },
+    "HasteSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Haste",
+                "level": 14
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_haste_level",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "HasteSkill"
+    },
+    "MaxFrenzyChargesCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumFrenzyCharges"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "max_frenzy_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumFrenzyCharges"
+    },
+    "TemporalChainsSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "TemporalChains",
+                "level": 14
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_temporal_chains_level",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "TemporalChainsSkill"
+    },
+    "V2AddedArmourWhileStationaryCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedArmourWhileStationary"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "armour_while_stationary",
+                "max": 60,
+                "min": 35
+            }
+        ],
+        "type": "AddedArmourWhileStationary"
+    },
+    "V2AddedArmourWhileStationaryCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedArmourWhileStationary"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "armour_while_stationary",
+                "max": 138,
+                "min": 61
+            }
+        ],
+        "type": "AddedArmourWhileStationary"
+    },
+    "V2AddedArmourWhileStationaryCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedArmourWhileStationary"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "armour_while_stationary",
+                "max": 322,
+                "min": 139
+            }
+        ],
+        "type": "AddedArmourWhileStationary"
+    },
+    "V2AddedEvasionWhileMovingCorrupted1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedEvasionWhileMovingCorrupted"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_evasion_rating_+_while_moving",
+                "max": 60,
+                "min": 35
+            }
+        ],
+        "type": "AddedEvasionWhileMovingCorrupted"
+    },
+    "V2AddedEvasionWhileMovingCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedEvasionWhileMovingCorrupted"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_evasion_rating_+_while_moving",
+                "max": 138,
+                "min": 61
+            }
+        ],
+        "type": "AddedEvasionWhileMovingCorrupted"
+    },
+    "V2AddedEvasionWhileMovingCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedEvasionWhileMovingCorrupted"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_evasion_rating_+_while_moving",
+                "max": 322,
+                "min": 139
+            }
+        ],
+        "type": "AddedEvasionWhileMovingCorrupted"
+    },
+    "V2ChanceToDodgeCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "V2ChanceToSpellDodgeCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 9,
+                "min": 6
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "V2DodgeAttackHitsWhileMovingCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DodgeSpellHitsWhileMoving"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_suppression_chance_%_while_moving",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "DodgeSpellHitsWhileMoving"
+    },
+    "V2DodgeSpellHitsWhileMovingCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DodgeSpellHitsWhileMoving"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_suppression_chance_%_while_moving",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "DodgeSpellHitsWhileMoving"
+    },
+    "V2GemLevelCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LocalIncreaseSocketedGemLevel"
+    },
+    "V2HasteSkillCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Haste",
+                "level": 21
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_haste_level",
+                "max": 21,
+                "min": 21
+            }
+        ],
+        "type": "HasteSkill"
+    },
+    "V2MaximumEnduranceChargesCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumEnduranceCharges"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "max_endurance_charges",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumEnduranceCharges"
+    },
+    "V2RegenerateLifePerSecondWhileMovingCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationWhileMoving"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_per_minute_while_moving",
+                "max": 6000,
+                "min": 6000
+            }
+        ],
+        "type": "LifeRegenerationWhileMoving"
+    }
+}

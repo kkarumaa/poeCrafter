@@ -1,0 +1,745 @@
+{
+    "BurnDamage1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Burning",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1500
+            },
+            {
+                "tag": "wand",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "burn_damage_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "BurnDamage"
+    },
+    "BurnDamage2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Combusting",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1500
+            },
+            {
+                "tag": "wand",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "burn_damage_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "BurnDamage"
+    },
+    "BurnDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Conflagrating",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 750
+            },
+            {
+                "tag": "wand",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "burn_damage_+%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "BurnDamage"
+    },
+    "ChanceToFreeze1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Freezing",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "ChanceToFreeze2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Bleakness",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "ChanceToFreeze3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Hyperboreal",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "ChanceToIgnite1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Ignition",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "ChanceToIgnite2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Combustion",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "ChanceToIgnite3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Conflagration",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "ChanceToShock1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Shocking",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "ChanceToShock2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Zapping",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "ChanceToShock3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Electrocution",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "StunThresholdReduction1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunThresholdReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Pugilist",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_threshold_reduction_+%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "StunThresholdReduction"
+    },
+    "StunThresholdReduction2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunThresholdReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Brawler",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_threshold_reduction_+%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "StunThresholdReduction"
+    },
+    "StunThresholdReduction3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunThresholdReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Boxer",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_threshold_reduction_+%",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "StunThresholdReduction"
+    },
+    "StunThresholdReduction4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunThresholdReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Combatant",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_threshold_reduction_+%",
+                "max": 13,
+                "min": 12
+            }
+        ],
+        "type": "StunThresholdReduction"
+    },
+    "StunThresholdReduction5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunThresholdReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Gladiator",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_threshold_reduction_+%",
+                "max": 15,
+                "min": 14
+            }
+        ],
+        "type": "StunThresholdReduction"
+    }
+}

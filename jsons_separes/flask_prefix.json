@@ -1,0 +1,3156 @@
+{
+    "FlaskChanceRechargeOnCrit1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Medic's",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_recharge_on_crit_%",
+                "max": 15,
+                "min": 11
+            }
+        ],
+        "type": "FlaskChanceRechargeOnCrit"
+    },
+    "FlaskChanceRechargeOnCrit2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Physician's",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_recharge_on_crit_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "FlaskChanceRechargeOnCrit"
+    },
+    "FlaskChanceRechargeOnCrit3___": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Doctor's",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_recharge_on_crit_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "FlaskChanceRechargeOnCrit"
+    },
+    "FlaskChanceRechargeOnCrit4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Specialist's",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_recharge_on_crit_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "FlaskChanceRechargeOnCrit"
+    },
+    "FlaskChanceRechargeOnCrit5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Surgeon's",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_recharge_on_crit_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "FlaskChanceRechargeOnCrit"
+    },
+    "FlaskChargesAddedIncreasePercent1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Constant",
+        "required_level": 3,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "FlaskIncreasedChargesAdded"
+    },
+    "FlaskChargesAddedIncreasePercent2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Continuous",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "FlaskIncreasedChargesAdded"
+    },
+    "FlaskChargesAddedIncreasePercent3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Endless",
+        "required_level": 43,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "FlaskIncreasedChargesAdded"
+    },
+    "FlaskChargesAddedIncreasePercent4_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Bottomless",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 45,
+                "min": 31
+            }
+        ],
+        "type": "FlaskIncreasedChargesAdded"
+    },
+    "FlaskChargesAddedIncreasePercent5__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Perpetual",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 50,
+                "min": 46
+            }
+        ],
+        "type": "FlaskIncreasedChargesAdded"
+    },
+    "FlaskChargesUsed1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskChargesUsed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 14,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_used_+%",
+                "max": -14,
+                "min": -16
+            }
+        ],
+        "type": "FlaskChargesUsed"
+    },
+    "FlaskChargesUsed2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskChargesUsed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Scholar's",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_used_+%",
+                "max": -17,
+                "min": -19
+            }
+        ],
+        "type": "FlaskChargesUsed"
+    },
+    "FlaskChargesUsed3__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskChargesUsed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Practitioner's",
+        "required_level": 48,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_used_+%",
+                "max": -20,
+                "min": -22
+            }
+        ],
+        "type": "FlaskChargesUsed"
+    },
+    "FlaskChargesUsed4__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskChargesUsed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Brewer's",
+        "required_level": 65,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_used_+%",
+                "max": -23,
+                "min": -25
+            }
+        ],
+        "type": "FlaskChargesUsed"
+    },
+    "FlaskChargesUsed5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskChargesUsed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Chemist's",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_used_+%",
+                "max": -26,
+                "min": -28
+            }
+        ],
+        "type": "FlaskChargesUsed"
+    },
+    "FlaskEffectNotRemovedOnFullMana1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskEffectNotRemovedOnFullMana"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Enduring",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 3000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_effect_not_removed_at_full_mana",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -66,
+                "min": -66
+            }
+        ],
+        "type": "FlaskEffectNotRemovedOnFullManaReducedRecovery"
+    },
+    "FlaskEffectReducedDuration1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Abecedarian's",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "no_effect_flask_mod",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_duration_+%",
+                "max": -33,
+                "min": -38
+            },
+            {
+                "id": "local_flask_effect_+%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "FlaskEffectReducedDuration"
+    },
+    "FlaskEffectReducedDuration2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Dabbler's",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "no_effect_flask_mod",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_duration_+%",
+                "max": -28,
+                "min": -32
+            },
+            {
+                "id": "local_flask_effect_+%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "FlaskEffectReducedDuration"
+    },
+    "FlaskEffectReducedDuration3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Alchemist's",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "no_effect_flask_mod",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_duration_+%",
+                "max": -23,
+                "min": -27
+            },
+            {
+                "id": "local_flask_effect_+%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "FlaskEffectReducedDuration"
+    },
+    "FlaskExtraCharges1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskNumCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Wide",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_extra_max_charges",
+                "max": 19,
+                "min": 16
+            }
+        ],
+        "type": "FlaskExtraMaxCharges"
+    },
+    "FlaskExtraCharges2__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskNumCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Plentiful",
+        "required_level": 22,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_extra_max_charges",
+                "max": 23,
+                "min": 20
+            }
+        ],
+        "type": "FlaskExtraMaxCharges"
+    },
+    "FlaskExtraCharges3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskNumCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Bountiful",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_extra_max_charges",
+                "max": 27,
+                "min": 24
+            }
+        ],
+        "type": "FlaskExtraMaxCharges"
+    },
+    "FlaskExtraCharges4__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskNumCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Abundant",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_extra_max_charges",
+                "max": 31,
+                "min": 28
+            }
+        ],
+        "type": "FlaskExtraMaxCharges"
+    },
+    "FlaskExtraCharges5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskNumCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Ample",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_extra_max_charges",
+                "max": 35,
+                "min": 32
+            }
+        ],
+        "type": "FlaskExtraMaxCharges"
+    },
+    "FlaskExtraLifeCostsMana1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Impairing",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_to_recover_+%",
+                "max": 39,
+                "min": 35
+            },
+            {
+                "id": "local_flask_removes_%_of_life_recovery_from_mana_on_use",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "FlaskExtraLifeCostsMana"
+    },
+    "FlaskExtraLifeCostsMana2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Dizzying",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_to_recover_+%",
+                "max": 44,
+                "min": 40
+            },
+            {
+                "id": "local_flask_removes_%_of_life_recovery_from_mana_on_use",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "FlaskExtraLifeCostsMana"
+    },
+    "FlaskExtraLifeCostsMana3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Depleting",
+        "required_level": 47,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_to_recover_+%",
+                "max": 50,
+                "min": 46
+            },
+            {
+                "id": "local_flask_removes_%_of_life_recovery_from_mana_on_use",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "FlaskExtraLifeCostsMana"
+    },
+    "FlaskExtraLifeCostsMana4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Vitiating",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_to_recover_+%",
+                "max": 55,
+                "min": 51
+            },
+            {
+                "id": "local_flask_removes_%_of_life_recovery_from_mana_on_use",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "FlaskExtraLifeCostsMana"
+    },
+    "FlaskExtraLifeCostsMana5_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Sapping",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_to_recover_+%",
+                "max": 60,
+                "min": 56
+            },
+            {
+                "id": "local_flask_removes_%_of_life_recovery_from_mana_on_use",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "FlaskExtraLifeCostsMana"
+    },
+    "FlaskExtraManaCostsLife1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Aged",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_mana_to_recover_+%",
+                "max": 46,
+                "min": 41
+            },
+            {
+                "id": "local_flask_removes_%_of_mana_recovery_from_life_on_use",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "FlaskExtraManaCostsLife"
+    },
+    "FlaskExtraManaCostsLife2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Fermented",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_mana_to_recover_+%",
+                "max": 52,
+                "min": 47
+            },
+            {
+                "id": "local_flask_removes_%_of_mana_recovery_from_life_on_use",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "FlaskExtraManaCostsLife"
+    },
+    "FlaskExtraManaCostsLife3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Congealed",
+        "required_level": 47,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_mana_to_recover_+%",
+                "max": 58,
+                "min": 53
+            },
+            {
+                "id": "local_flask_removes_%_of_mana_recovery_from_life_on_use",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "FlaskExtraManaCostsLife"
+    },
+    "FlaskExtraManaCostsLife4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Turbid",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_mana_to_recover_+%",
+                "max": 64,
+                "min": 59
+            },
+            {
+                "id": "local_flask_removes_%_of_mana_recovery_from_life_on_use",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "FlaskExtraManaCostsLife"
+    },
+    "FlaskExtraManaCostsLife5_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Caustic",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "hybrid_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_mana_to_recover_+%",
+                "max": 70,
+                "min": 65
+            },
+            {
+                "id": "local_flask_removes_%_of_mana_recovery_from_life_on_use",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "FlaskExtraManaCostsLife"
+    },
+    "FlaskFullInstantRecovery1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Seething",
+        "required_level": 7,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 3000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovers_instantly",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -66,
+                "min": -66
+            }
+        ],
+        "type": "FlaskFullInstantRecovery"
+    },
+    "FlaskFullRechargeOnCrit1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Surgeon's",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "critical_utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_recharge_on_crit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskFullRechargeOnCrit"
+    },
+    "FlaskFullRechargeOnHit1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Delinquent's",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_gain_X_charges_when_hit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskFullRechargeOnHit"
+    },
+    "FlaskFullRechargeOnHit2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Transgressor's",
+        "required_level": 29,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_gain_X_charges_when_hit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskFullRechargeOnHit"
+    },
+    "FlaskFullRechargeOnHit3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Sinner's",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_gain_X_charges_when_hit",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "FlaskFullRechargeOnHit"
+    },
+    "FlaskFullRechargeOnHit4_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Masochist's",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_gain_X_charges_when_hit",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "FlaskFullRechargeOnHit"
+    },
+    "FlaskFullRechargeOnHit5___": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Flagellant's",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_gain_X_charges_when_hit",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "FlaskFullRechargeOnHit"
+    },
+    "FlaskFullRechargeOnTakeCrit1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Avenger's",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_recharge_on_take_crit",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "FlaskFullRechargeOnTakeCrit"
+    },
+    "FlaskIncreasedDuration2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Investigator's",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "critical_utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_duration_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "FlaskUtilityIncreasedDuration"
+    },
+    "FlaskIncreasedDuration3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Analyst's",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "critical_utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_duration_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "FlaskUtilityIncreasedDuration"
+    },
+    "FlaskIncreasedDuration4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Examiner's",
+        "required_level": 52,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "critical_utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_duration_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "FlaskUtilityIncreasedDuration"
+    },
+    "FlaskIncreasedDuration5__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Clinician's",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "critical_utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_duration_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "FlaskUtilityIncreasedDuration"
+    },
+    "FlaskIncreasedDuration6": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Experimenter's",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "critical_utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_duration_+%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "FlaskUtilityIncreasedDuration"
+    },
+    "FlaskIncreasedHealingCharges1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskIncreasedHealingCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Nitrate",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 26,
+                "min": 21
+            },
+            {
+                "id": "local_charges_used_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "FlaskIncreasedHealingCharges"
+    },
+    "FlaskIncreasedHealingCharges2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskIncreasedHealingCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Dolomite",
+        "required_level": 28,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 32,
+                "min": 27
+            },
+            {
+                "id": "local_charges_used_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "FlaskIncreasedHealingCharges"
+    },
+    "FlaskIncreasedHealingCharges3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskIncreasedHealingCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Kieserite",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 38,
+                "min": 33
+            },
+            {
+                "id": "local_charges_used_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "FlaskIncreasedHealingCharges"
+    },
+    "FlaskIncreasedHealingCharges4____": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskIncreasedHealingCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Kainite",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 44,
+                "min": 39
+            },
+            {
+                "id": "local_charges_used_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "FlaskIncreasedHealingCharges"
+    },
+    "FlaskIncreasedHealingCharges5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskIncreasedHealingCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Gypsum",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 50,
+                "min": 45
+            },
+            {
+                "id": "local_charges_used_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "FlaskIncreasedHealingCharges"
+    },
+    "FlaskIncreasedRecoveryAmount1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Substantial",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 46,
+                "min": 41
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": -33,
+                "min": -33
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryAmount"
+    },
+    "FlaskIncreasedRecoveryAmount2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Opaque",
+        "required_level": 21,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 52,
+                "min": 47
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": -33,
+                "min": -33
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryAmount"
+    },
+    "FlaskIncreasedRecoveryAmount3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Full-bodied",
+        "required_level": 41,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 58,
+                "min": 53
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": -33,
+                "min": -33
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryAmount"
+    },
+    "FlaskIncreasedRecoveryAmount4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Concentrated",
+        "required_level": 61,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 64,
+                "min": 59
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": -33,
+                "min": -33
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryAmount"
+    },
+    "FlaskIncreasedRecoveryAmount5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Saturated",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 70,
+                "min": 65
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": -33,
+                "min": -33
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryAmount"
+    },
+    "FlaskIncreasedRecoveryOnLowLife1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Prudent",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%_when_on_low_life",
+                "max": 106,
+                "min": 101
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryOnLowLife"
+    },
+    "FlaskIncreasedRecoveryOnLowLife2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Prepared",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%_when_on_low_life",
+                "max": 112,
+                "min": 107
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryOnLowLife"
+    },
+    "FlaskIncreasedRecoveryOnLowLife3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Wary",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%_when_on_low_life",
+                "max": 118,
+                "min": 113
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryOnLowLife"
+    },
+    "FlaskIncreasedRecoveryOnLowLife4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Careful",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%_when_on_low_life",
+                "max": 124,
+                "min": 119
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryOnLowLife"
+    },
+    "FlaskIncreasedRecoveryOnLowLife5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoveryAmount"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Cautious",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_amount_to_recover_+%_when_on_low_life",
+                "max": 130,
+                "min": 125
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryOnLowLife"
+    },
+    "FlaskIncreasedRecoveryReducedEffect1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Doled",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 42,
+                "min": 37
+            },
+            {
+                "id": "local_flask_effect_+%",
+                "max": -25,
+                "min": -25
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryReducedEffect"
+    },
+    "FlaskIncreasedRecoveryReducedEffect2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Provisioned",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 48,
+                "min": 43
+            },
+            {
+                "id": "local_flask_effect_+%",
+                "max": -25,
+                "min": -25
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryReducedEffect"
+    },
+    "FlaskIncreasedRecoveryReducedEffect3____": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Measured",
+        "required_level": 52,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 54,
+                "min": 49
+            },
+            {
+                "id": "local_flask_effect_+%",
+                "max": -25,
+                "min": -25
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryReducedEffect"
+    },
+    "FlaskIncreasedRecoveryReducedEffect4_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Allocated",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 60,
+                "min": 55
+            },
+            {
+                "id": "local_flask_effect_+%",
+                "max": -25,
+                "min": -25
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryReducedEffect"
+    },
+    "FlaskIncreasedRecoveryReducedEffect5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRechargeRate"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Rationed",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_charges_added_+%",
+                "max": 66,
+                "min": 61
+            },
+            {
+                "id": "local_flask_effect_+%",
+                "max": -25,
+                "min": -25
+            }
+        ],
+        "type": "FlaskIncreasedRecoveryReducedEffect"
+    },
+    "FlaskIncreasedRecoverySpeed1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Undiluted",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 46,
+                "min": 41
+            }
+        ],
+        "type": "FlaskIncreasedRecoverySpeed"
+    },
+    "FlaskIncreasedRecoverySpeed2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Thickened",
+        "required_level": 21,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 52,
+                "min": 47
+            }
+        ],
+        "type": "FlaskIncreasedRecoverySpeed"
+    },
+    "FlaskIncreasedRecoverySpeed3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Viscous",
+        "required_level": 41,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 58,
+                "min": 53
+            }
+        ],
+        "type": "FlaskIncreasedRecoverySpeed"
+    },
+    "FlaskIncreasedRecoverySpeed4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Condensed",
+        "required_level": 61,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 64,
+                "min": 59
+            }
+        ],
+        "type": "FlaskIncreasedRecoverySpeed"
+    },
+    "FlaskIncreasedRecoverySpeed5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Catalysed",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 70,
+                "min": 65
+            }
+        ],
+        "type": "FlaskIncreasedRecoverySpeed"
+    },
+    "FlaskInstantRecoveryOnLowLife1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Startled",
+        "required_level": 9,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recover_instantly_when_on_low_life",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -27,
+                "min": -30
+            }
+        ],
+        "type": "FlaskInstantRecoveryOnLowLife"
+    },
+    "FlaskInstantRecoveryOnLowLife2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Frightened",
+        "required_level": 27,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recover_instantly_when_on_low_life",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -23,
+                "min": -26
+            }
+        ],
+        "type": "FlaskInstantRecoveryOnLowLife"
+    },
+    "FlaskInstantRecoveryOnLowLife3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Alarmed",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recover_instantly_when_on_low_life",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -19,
+                "min": -22
+            }
+        ],
+        "type": "FlaskInstantRecoveryOnLowLife"
+    },
+    "FlaskInstantRecoveryOnLowLife4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Terrified",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recover_instantly_when_on_low_life",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -15,
+                "min": -18
+            }
+        ],
+        "type": "FlaskInstantRecoveryOnLowLife"
+    },
+    "FlaskInstantRecoveryOnLowLife5__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Panicked",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recover_instantly_when_on_low_life",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -11,
+                "min": -14
+            }
+        ],
+        "type": "FlaskInstantRecoveryOnLowLife"
+    },
+    "FlaskManaRecoveryAtEnd1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskManaRecoveryAtEnd"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Foreboding",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 3000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_mana_recovery_occurs_instantly_at_end_of_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": 66,
+                "min": 66
+            }
+        ],
+        "type": "FlaskManaRecoveryAtEnd"
+    },
+    "FlaskPartialInstantRecovery1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Simmering",
+        "required_level": 3,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_amount_%_to_recover_instantly",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -52,
+                "min": -55
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 135,
+                "min": 135
+            }
+        ],
+        "type": "FlaskPartialInstantRecovery"
+    },
+    "FlaskPartialInstantRecovery2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Ebullient",
+        "required_level": 22,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_amount_%_to_recover_instantly",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -48,
+                "min": -51
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 135,
+                "min": 135
+            }
+        ],
+        "type": "FlaskPartialInstantRecovery"
+    },
+    "FlaskPartialInstantRecovery3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Effusive",
+        "required_level": 41,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_amount_%_to_recover_instantly",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -44,
+                "min": -47
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 135,
+                "min": 135
+            }
+        ],
+        "type": "FlaskPartialInstantRecovery"
+    },
+    "FlaskPartialInstantRecovery4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Effervescent",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_amount_%_to_recover_instantly",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -40,
+                "min": -43
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 135,
+                "min": 135
+            }
+        ],
+        "type": "FlaskPartialInstantRecovery"
+    },
+    "FlaskPartialInstantRecovery5_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRecoverySpeed"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "Bubbling",
+        "required_level": 79,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_recovery_amount_%_to_recover_instantly",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "local_flask_amount_to_recover_+%",
+                "max": -36,
+                "min": -39
+            },
+            {
+                "id": "local_flask_recovery_speed_+%",
+                "max": 135,
+                "min": 135
+            }
+        ],
+        "type": "FlaskPartialInstantRecovery"
+    }
+}

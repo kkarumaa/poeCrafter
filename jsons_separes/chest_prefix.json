@@ -1,0 +1,543 @@
+{
+    "ChestCamoflage": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestCamoflage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Predator's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_camoflaged",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestCamoflage"
+    },
+    "ChestExplodeCorpses": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDelayedSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Putrifying",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_explodes_corpses",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "chest_play_warning_sound",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestExplodeCorpses"
+    },
+    "ChestExplosion": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDelayedSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Unstable",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_explosion",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "chest_play_warning_sound",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestExplosion"
+    },
+    "ChestFireStorm": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDelayedSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Scorched",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_fire_storm",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "chest_play_warning_sound",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestFireStorm"
+    },
+    "ChestFreeze": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestInstantSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Arctic",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_freeze",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestFreeze"
+    },
+    "ChestIceNova": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDelayedSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Frigid",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_play_warning_sound",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "chest_display_ice_nova",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestIceNova"
+    },
+    "ChestIgnite": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestInstantSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Incandescent",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_ignite",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestIgnite"
+    },
+    "ChestLightningStorm": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDelayedSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Vibrating",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_fire_storm",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "chest_play_warning_sound",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestLightningStorm"
+    },
+    "ChestPoisonCloud": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestDelayedSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Contaminated",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_caustic_clouds",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "chest_play_warning_sound",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestPoisonCloud"
+    },
+    "ChestRandomCurse": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestInstantSkill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Whispering",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_cast_random_curse",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestRandomCurse"
+    },
+    "ChestReviveMonsters": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestReviveMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Reaper's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_revive_nearby_monsters",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestReviveMonsters"
+    },
+    "ChestSpawnContinuousMonsters": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestSpawnContinuousMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Rallying",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_display_spawns_monsters_continuously",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestSpawnContinuousMonsters"
+    },
+    "ChestSpawnRogueExile": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestSpawnRogueExile"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Contested",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_spawn_rogue_exiles",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestSpawnRogueExile"
+    },
+    "ChestSummonMagics": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Intimidating",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_delay_drops_until_daemons_finish",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "summoned_monster_rarity",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "number_of_packs_to_summon",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestSummonPacks"
+    },
+    "ChestSummonNormals": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_delay_drops_until_daemons_finish",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "summoned_monster_rarity",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "number_of_packs_to_summon",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "ChestSummonPacks"
+    },
+    "ChestSummonRares": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Menacing",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_delay_drops_until_daemons_finish",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "summoned_monster_rarity",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "number_of_monsters_to_summon",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "ChestSummonMonsters"
+    },
+    "ChestSummonSkeletons": {
+        "adds_tags": [],
+        "domain": "chest",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChestSkeletons"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Ossified",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "chest_delay_drops_until_daemons_finish",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "chest_display_summons_skeletons",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ChestSummonSkeletons"
+    }
+}

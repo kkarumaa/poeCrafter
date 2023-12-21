@@ -1,0 +1,1353 @@
+{
+    "AttackerTakesDamage1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackerTakesDamageNoRange"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Thorny",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_to_return_to_melee_attacker",
+                "max": 4,
+                "min": 1
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "AttackerTakesDamageNoRange"
+    },
+    "AttackerTakesDamage2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackerTakesDamageNoRange"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Spiny",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_to_return_to_melee_attacker",
+                "max": 10,
+                "min": 5
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "AttackerTakesDamageNoRange"
+    },
+    "AttackerTakesDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackerTakesDamageNoRange"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Barbed",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_to_return_to_melee_attacker",
+                "max": 24,
+                "min": 11
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "AttackerTakesDamageNoRange"
+    },
+    "AttackerTakesDamage4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackerTakesDamageNoRange"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Jagged",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_to_return_to_melee_attacker",
+                "max": 50,
+                "min": 25
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "AttackerTakesDamageNoRange"
+    },
+    "IncreasedLife10": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Vigorous",
+        "required_level": 73,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 109,
+                "min": 100
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "LocalBaseArmourAndEnergyShield8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Godly",
+        "required_level": 79,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 375,
+                "min": 301
+            },
+            {
+                "id": "local_energy_shield",
+                "max": 80,
+                "min": 73
+            }
+        ],
+        "type": "LocalBaseArmourAndEnergyShield"
+    },
+    "LocalBaseArmourAndEvasionRating8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Versatile",
+        "required_level": 79,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 375,
+                "min": 301
+            },
+            {
+                "id": "local_base_evasion_rating",
+                "max": 375,
+                "min": 301
+            }
+        ],
+        "type": "LocalBaseArmourAndEvasionRating"
+    },
+    "LocalBaseArmourAndLife4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "resource",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Crocodile's",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 144,
+                "min": 97
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "LocalBaseArmourAndLife"
+    },
+    "LocalBaseEnergyShieldAndLife4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "resource",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Exarch's",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "LocalBaseEnergyShieldAndLife"
+    },
+    "LocalBaseEnergyShieldAndMana4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "resource",
+            "mana",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Bishop's",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 30,
+                "min": 26
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "LocalBaseEnergyShieldAndMana"
+    },
+    "LocalBaseEvasionRatingAndEnergyShield8___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Phantasm's",
+        "required_level": 79,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 375,
+                "min": 301
+            },
+            {
+                "id": "local_energy_shield",
+                "max": 80,
+                "min": 73
+            }
+        ],
+        "type": "LocalBaseEvasionRatingAndEnergyShield"
+    },
+    "LocalBaseEvasionRatingAndLife4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "resource",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Ibex's",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 250
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 250
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 120,
+                "min": 96
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "LocalBaseEvasionRatingAndLife"
+    },
+    "LocalBaseWardAndLife4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Cadigan's",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "ward_armour",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_ward",
+                "max": 50,
+                "min": 41
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "LocalBaseWardAndLife"
+    },
+    "LocalIncreasedArmourAndEnergyShield8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Interpermeated",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_energy_shield_+%",
+                "max": 110,
+                "min": 101
+            }
+        ],
+        "type": "LocalArmourAndEnergyShield"
+    },
+    "LocalIncreasedArmourAndEvasion8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Victor's",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_+%",
+                "max": 110,
+                "min": 101
+            }
+        ],
+        "type": "LocalArmourAndEvasion"
+    },
+    "LocalIncreasedEnergyShield11": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Resplendent",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 100,
+                "min": 91
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "LocalIncreasedEnergyShieldPercent8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Unfaltering",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "str_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield_+%",
+                "max": 110,
+                "min": 101
+            }
+        ],
+        "type": "LocalEnergyShieldPercent"
+    },
+    "LocalIncreasedEvasionAndEnergyShield8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Incorporeal",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_and_energy_shield_+%",
+                "max": 110,
+                "min": 101
+            }
+        ],
+        "type": "LocalEvasionAndEnergyShield"
+    },
+    "LocalIncreasedEvasionRating11": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Fugitive",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 500,
+                "min": 401
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "LocalIncreasedEvasionRatingPercent8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Illusion's",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_rating_+%",
+                "max": 110,
+                "min": 101
+            }
+        ],
+        "type": "LocalEvasionRatingIncreasePercent"
+    },
+    "LocalIncreasedPhysicalDamageReductionRating11": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Impervious",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 500,
+                "min": 401
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "LocalIncreasedPhysicalDamageReductionRatingPercent8_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Impenetrable",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_reduction_rating_+%",
+                "max": 110,
+                "min": 101
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRatingPercent"
+    },
+    "LocalIncreasedWard11": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Artificer's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "ward_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_ward",
+                "max": 159,
+                "min": 140
+            }
+        ],
+        "type": "LocalWard"
+    }
+}

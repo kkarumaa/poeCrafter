@@ -1,0 +1,704 @@
+{
+    "HellscapeUpsideMapHellscapeAdditionalBoss": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeAdditionalBoss"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 850
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeAdditionalBoss"
+    },
+    "HellscapeUpsideMapHellscapeItemQuantity_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeItemQuantity"
+    },
+    "HellscapeUpsideMapHellscapeItemRarity": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeItemRarity"
+    },
+    "HellscapeUpsideMapHellscapeMonstersExperience__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeMonstersExperience"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeMonstersExperience"
+    },
+    "HellscapeUpsideMapHellscapeMonstersPackSize": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeMonstersPackSize"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeMonstersPackSize"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersAbyssJewel": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersAbyssJewel"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 10000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersAbyssJewel"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersBasicCurrencyItemDropChance": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersBasicCurrencyItemDropChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 13333
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersBasicCurrencyItemDropChance"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersBlightOil": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersBlightOil"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersBlightOil"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersBreachSplinters": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersBreachSplinters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 10000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersBreachSplinters"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersDeliriumSplinters": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersDeliriumSplinters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersDeliriumSplinters"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersDelveFossils": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersDelveFossils"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersDelveFossils"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersDropItemsOneLevelHigher": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersDropItemsOneLevelHigher"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 850
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersDropItemsOneLevelHigher"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersEnchantedItem": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersEnchantedItem"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 10000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersEnchantedItem"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersEssence": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersEssence"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 10000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersEssence"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersExpeditionCurrency": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersExpeditionCurrency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersExpeditionCurrency"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersFracturedItem_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersFracturedItem"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersFracturedItem"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersGems": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersGems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 10000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersGems"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersIncubators_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersIncubators"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersIncubators"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersInfluenceItemDropChance": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersInfluenceItemDropChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersInfluenceItemDropChance"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersLegionSplinters": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersLegionSplinters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersLegionSplinters"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersMapDropChance_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersMapDropChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 10000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersMapDropChance"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersMetamorphCatalysts": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersMetamorphCatalysts"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersMetamorphCatalysts"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersScarabs_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersScarabs"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersScarabs"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersStackedDecks": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersStackedDecks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersStackedDecks"
+    },
+    "HellscapeUpsideMapHellscapeRareMonstersUniqueItem": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeRareMonstersUniqueItem"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 10000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeRareMonstersUniqueItem"
+    },
+    "HellscapeUpsideMapHellscapeScourgedItemDrops_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeScourgedItemDrops"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeScourgedItemDrops"
+    },
+    "HellscapeUpsideMapHellscapeTaintedCurrencyDrops_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeUpsideMapHellscapeTaintedCurrencyDrops"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 6650
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [],
+        "type": "HellscapeUpsideMapHellscapeTaintedCurrencyDrops"
+    }
+}

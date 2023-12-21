@@ -1,0 +1,508 @@
+{
+    "FishingLineStrength": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingLineStrength"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Filigree",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_line_strength_+%",
+                "max": 40,
+                "min": 20
+            }
+        ],
+        "type": "FishingLineStrength"
+    },
+    "FishingLureType": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingLureType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Alluring",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_lure_type",
+                "max": 3,
+                "min": 1
+            }
+        ],
+        "type": "FishingLureType"
+    },
+    "FishingPoolConsumption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingPoolConsumption"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Calming",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_pool_consumption_+%",
+                "max": -15,
+                "min": -30
+            }
+        ],
+        "type": "FishingPoolConsumption"
+    },
+    "IncreasedLife0": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Hale",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 9,
+                "min": 3
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Healthy",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 19,
+                "min": 10
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Sanguine",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 29,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Stalwart",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Stout",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 49,
+                "min": 40
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Robust",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 59,
+                "min": 50
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Rotund",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 69,
+                "min": 60
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Virile",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 79,
+                "min": 70
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Athlete's",
+        "required_level": 54,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 89,
+                "min": 80
+            }
+        ],
+        "type": "IncreasedLife"
+    },
+    "IncreasedLife9": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Fecund",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 99,
+                "min": 90
+            }
+        ],
+        "type": "IncreasedLife"
+    }
+}

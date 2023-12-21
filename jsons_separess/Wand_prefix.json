@@ -1,0 +1,4643 @@
+{
+    "ColdDamagePrefixOnWeapon1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Bitter",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 19,
+                "min": 10
+            }
+        ],
+        "type": "ColdDamageWeaponPrefix"
+    },
+    "ColdDamagePrefixOnWeapon2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Biting",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 29,
+                "min": 20
+            }
+        ],
+        "type": "ColdDamageWeaponPrefix"
+    },
+    "ColdDamagePrefixOnWeapon3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Alpine",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "ColdDamageWeaponPrefix"
+    },
+    "ColdDamagePrefixOnWeapon4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Snowy",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 200
+            },
+            {
+                "tag": "wand",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 54,
+                "min": 40
+            }
+        ],
+        "type": "ColdDamageWeaponPrefix"
+    },
+    "ColdDamagePrefixOnWeapon5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Hailing",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 100
+            },
+            {
+                "tag": "wand",
+                "weight": 100
+            },
+            {
+                "tag": "sceptre",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 69,
+                "min": 55
+            }
+        ],
+        "type": "ColdDamageWeaponPrefix"
+    },
+    "ColdDamagePrefixOnWeapon6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Crystalline",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 50
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 84,
+                "min": 70
+            }
+        ],
+        "type": "ColdDamageWeaponPrefix"
+    },
+    "ColdDamagePrefixOnWeapon7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Cryomancer's",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 25
+            },
+            {
+                "tag": "wand",
+                "weight": 25
+            },
+            {
+                "tag": "sceptre",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 99,
+                "min": 85
+            }
+        ],
+        "type": "ColdDamageWeaponPrefix"
+    },
+    "ColdDamagePrefixOnWeapon8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Tul's",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 12
+            },
+            {
+                "tag": "wand",
+                "weight": 12
+            },
+            {
+                "tag": "sceptre",
+                "weight": 12
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 109,
+                "min": 100
+            }
+        ],
+        "type": "ColdDamageWeaponPrefix"
+    },
+    "FireDamagePrefixOnWeapon1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Searing",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 19,
+                "min": 10
+            }
+        ],
+        "type": "FireDamageWeaponPrefix"
+    },
+    "FireDamagePrefixOnWeapon2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Sizzling",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 29,
+                "min": 20
+            }
+        ],
+        "type": "FireDamageWeaponPrefix"
+    },
+    "FireDamagePrefixOnWeapon3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Blistering",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "FireDamageWeaponPrefix"
+    },
+    "FireDamagePrefixOnWeapon4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Cauterising",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 200
+            },
+            {
+                "tag": "wand",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 54,
+                "min": 40
+            }
+        ],
+        "type": "FireDamageWeaponPrefix"
+    },
+    "FireDamagePrefixOnWeapon5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Volcanic",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 100
+            },
+            {
+                "tag": "wand",
+                "weight": 100
+            },
+            {
+                "tag": "sceptre",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 69,
+                "min": 55
+            }
+        ],
+        "type": "FireDamageWeaponPrefix"
+    },
+    "FireDamagePrefixOnWeapon6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Magmatic",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 50
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 84,
+                "min": 70
+            }
+        ],
+        "type": "FireDamageWeaponPrefix"
+    },
+    "FireDamagePrefixOnWeapon7_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Pyroclastic",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 25
+            },
+            {
+                "tag": "wand",
+                "weight": 25
+            },
+            {
+                "tag": "sceptre",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 99,
+                "min": 85
+            }
+        ],
+        "type": "FireDamageWeaponPrefix"
+    },
+    "FireDamagePrefixOnWeapon8_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Xoph's",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 12
+            },
+            {
+                "tag": "wand",
+                "weight": 12
+            },
+            {
+                "tag": "sceptre",
+                "weight": 12
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 109,
+                "min": 100
+            }
+        ],
+        "type": "FireDamageWeaponPrefix"
+    },
+    "GlobalChaosSpellGemsLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Mad Lord's",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 200
+            },
+            {
+                "tag": "dagger",
+                "weight": 200
+            },
+            {
+                "tag": "focus",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseChaosSpellSkillGemLevel"
+    },
+    "GlobalColdSpellGemsLevel1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Frost Singer's",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "focus",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseColdSpellSkillGemLevel"
+    },
+    "GlobalFireSpellGemsLevel1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Flame Shaper's",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "focus",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseFireSpellSkillGemLevel"
+    },
+    "GlobalLightningSpellGemsLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Thunderhand's",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "sceptre",
+                "weight": 250
+            },
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "focus",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseLightningSpellSkillGemLevel"
+    },
+    "GlobalPhysicalSpellGemsLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "physical",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Lithomancer's",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 200
+            },
+            {
+                "tag": "dagger",
+                "weight": 200
+            },
+            {
+                "tag": "focus",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreasePhysicalSpellSkillGemLevel"
+    },
+    "GlobalSpellGemsLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Magister's",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "dagger",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseSpellSkillGemLevel"
+    },
+    "LightningDamagePrefixOnWeapon1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Charged",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 19,
+                "min": 10
+            }
+        ],
+        "type": "LightningDamageWeaponPrefix"
+    },
+    "LightningDamagePrefixOnWeapon2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Hissing",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 29,
+                "min": 20
+            }
+        ],
+        "type": "LightningDamageWeaponPrefix"
+    },
+    "LightningDamagePrefixOnWeapon3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Bolting",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "LightningDamageWeaponPrefix"
+    },
+    "LightningDamagePrefixOnWeapon4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Coursing",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 200
+            },
+            {
+                "tag": "wand",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 54,
+                "min": 40
+            }
+        ],
+        "type": "LightningDamageWeaponPrefix"
+    },
+    "LightningDamagePrefixOnWeapon5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Striking",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 100
+            },
+            {
+                "tag": "wand",
+                "weight": 100
+            },
+            {
+                "tag": "sceptre",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 69,
+                "min": 55
+            }
+        ],
+        "type": "LightningDamageWeaponPrefix"
+    },
+    "LightningDamagePrefixOnWeapon6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Smiting",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 50
+            },
+            {
+                "tag": "wand",
+                "weight": 50
+            },
+            {
+                "tag": "sceptre",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 84,
+                "min": 70
+            }
+        ],
+        "type": "LightningDamageWeaponPrefix"
+    },
+    "LightningDamagePrefixOnWeapon7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Ionising",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 25
+            },
+            {
+                "tag": "wand",
+                "weight": 25
+            },
+            {
+                "tag": "sceptre",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 99,
+                "min": 85
+            }
+        ],
+        "type": "LightningDamageWeaponPrefix"
+    },
+    "LightningDamagePrefixOnWeapon8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Esh's",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "focus",
+                "weight": 12
+            },
+            {
+                "tag": "wand",
+                "weight": 12
+            },
+            {
+                "tag": "sceptre",
+                "weight": 12
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 109,
+                "min": 100
+            }
+        ],
+        "type": "LightningDamageWeaponPrefix"
+    },
+    "SpellAddedColdDamage1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Frosted",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedColdDamage2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Chilled",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 7,
+                "min": 5
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedColdDamage3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Icy",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 10,
+                "min": 8
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 18,
+                "min": 16
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedColdDamage4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Frigid",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 15,
+                "min": 11
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 25,
+                "min": 22
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedColdDamage5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Freezing",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 36,
+                "min": 30
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedColdDamage6_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Frozen",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 26,
+                "min": 20
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 46,
+                "min": 40
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedColdDamage7": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Glaciated",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 35,
+                "min": 26
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 60,
+                "min": 51
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedColdDamage8": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Polar",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 43,
+                "min": 33
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 75,
+                "min": 64
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedColdDamage9": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Entombing",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_cold_damage",
+                "max": 54,
+                "min": 41
+            },
+            {
+                "id": "spell_maximum_added_cold_damage",
+                "max": 93,
+                "min": 81
+            }
+        ],
+        "type": "SpellAddedColdDamage"
+    },
+    "SpellAddedFireDamage1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Heated",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 2,
+                "min": 1
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedFireDamage2_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Smouldering",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 8,
+                "min": 6
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedFireDamage3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Smoking",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 12,
+                "min": 10
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 23,
+                "min": 19
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedFireDamage4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Burning",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 18,
+                "min": 13
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 31,
+                "min": 27
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedFireDamage5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Flaming",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 25,
+                "min": 19
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 44,
+                "min": 37
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedFireDamage6": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Scorching",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 33,
+                "min": 24
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 57,
+                "min": 48
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedFireDamage7": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Incinerating",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 42,
+                "min": 31
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 73,
+                "min": 64
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedFireDamage8": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Blasting",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 52,
+                "min": 40
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 91,
+                "min": 79
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedFireDamage9": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Cremating",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_fire_damage",
+                "max": 66,
+                "min": 49
+            },
+            {
+                "id": "spell_maximum_added_fire_damage",
+                "max": 115,
+                "min": 98
+            }
+        ],
+        "type": "SpellAddedFireDamage"
+    },
+    "SpellAddedLightningDamage1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Humming",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellAddedLightningDamage2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Buzzing",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 2,
+                "min": 1
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 22,
+                "min": 21
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellAddedLightningDamage3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Snapping",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 2,
+                "min": 1
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 35,
+                "min": 33
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellAddedLightningDamage4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Crackling",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 4,
+                "min": 1
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 48,
+                "min": 46
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellAddedLightningDamage5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Sparking",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 5,
+                "min": 2
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 68,
+                "min": 64
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellAddedLightningDamage6": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Arcing",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 7,
+                "min": 2
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 88,
+                "min": 84
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellAddedLightningDamage7": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Shocking",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 9,
+                "min": 2
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 115,
+                "min": 109
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellAddedLightningDamage8": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Discharging",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 11,
+                "min": 4
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 144,
+                "min": 136
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellAddedLightningDamage9": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellAddedElementalDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Electrocuting",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_minimum_added_lightning_damage",
+                "max": 14,
+                "min": 4
+            },
+            {
+                "id": "spell_maximum_added_lightning_damage",
+                "max": 179,
+                "min": 170
+            }
+        ],
+        "type": "SpellAddedLightningDamage"
+    },
+    "SpellDamageAndManaOnWeapon1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamageAndMana"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Caster's",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 750
+            },
+            {
+                "tag": "dagger",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 9,
+                "min": 5
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 20,
+                "min": 17
+            }
+        ],
+        "type": "WeaponSpellDamageAndMana"
+    },
+    "SpellDamageAndManaOnWeapon2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamageAndMana"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Conjuror's",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 750
+            },
+            {
+                "tag": "dagger",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 14,
+                "min": 10
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "WeaponSpellDamageAndMana"
+    },
+    "SpellDamageAndManaOnWeapon3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamageAndMana"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Wizard's",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 750
+            },
+            {
+                "tag": "dagger",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 19,
+                "min": 15
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "WeaponSpellDamageAndMana"
+    },
+    "SpellDamageAndManaOnWeapon4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamageAndMana"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Warlock's",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "sceptre",
+                "weight": 600
+            },
+            {
+                "tag": "dagger",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 24,
+                "min": 20
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 33,
+                "min": 29
+            }
+        ],
+        "type": "WeaponSpellDamageAndMana"
+    },
+    "SpellDamageAndManaOnWeapon5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamageAndMana"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Mage's",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 400
+            },
+            {
+                "tag": "sceptre",
+                "weight": 300
+            },
+            {
+                "tag": "dagger",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 29,
+                "min": 25
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 37,
+                "min": 34
+            }
+        ],
+        "type": "WeaponSpellDamageAndMana"
+    },
+    "SpellDamageAndManaOnWeapon6": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamageAndMana"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Archmage's",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 150
+            },
+            {
+                "tag": "dagger",
+                "weight": 150
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 34,
+                "min": 30
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 41,
+                "min": 38
+            }
+        ],
+        "type": "WeaponSpellDamageAndMana"
+    },
+    "SpellDamageAndManaOnWeapon7": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamageAndMana"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Lich's",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 100
+            },
+            {
+                "tag": "sceptre",
+                "weight": 75
+            },
+            {
+                "tag": "dagger",
+                "weight": 75
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 39,
+                "min": 35
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 45,
+                "min": 42
+            }
+        ],
+        "type": "WeaponSpellDamageAndMana"
+    },
+    "SpellDamageOnWeapon1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Apprentice's",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1500
+            },
+            {
+                "tag": "wand",
+                "weight": 1500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1500
+            },
+            {
+                "tag": "dagger",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 19,
+                "min": 10
+            }
+        ],
+        "type": "WeaponSpellDamage"
+    },
+    "SpellDamageOnWeapon2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Adept's",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1500
+            },
+            {
+                "tag": "wand",
+                "weight": 1500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1500
+            },
+            {
+                "tag": "dagger",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 29,
+                "min": 20
+            }
+        ],
+        "type": "WeaponSpellDamage"
+    },
+    "SpellDamageOnWeapon3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Scholar's",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 1500
+            },
+            {
+                "tag": "wand",
+                "weight": 1500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1500
+            },
+            {
+                "tag": "dagger",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "WeaponSpellDamage"
+    },
+    "SpellDamageOnWeapon4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Professor's",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 600
+            },
+            {
+                "tag": "wand",
+                "weight": 600
+            },
+            {
+                "tag": "sceptre",
+                "weight": 600
+            },
+            {
+                "tag": "dagger",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 54,
+                "min": 40
+            }
+        ],
+        "type": "WeaponSpellDamage"
+    },
+    "SpellDamageOnWeapon5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Occultist's",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 300
+            },
+            {
+                "tag": "wand",
+                "weight": 300
+            },
+            {
+                "tag": "sceptre",
+                "weight": 300
+            },
+            {
+                "tag": "dagger",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 69,
+                "min": 55
+            }
+        ],
+        "type": "WeaponSpellDamage"
+    },
+    "SpellDamageOnWeapon6": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Incanter's",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 150
+            },
+            {
+                "tag": "wand",
+                "weight": 150
+            },
+            {
+                "tag": "sceptre",
+                "weight": 150
+            },
+            {
+                "tag": "dagger",
+                "weight": 150
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 84,
+                "min": 70
+            }
+        ],
+        "type": "WeaponSpellDamage"
+    },
+    "SpellDamageOnWeapon7": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Glyphic",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 80
+            },
+            {
+                "tag": "wand",
+                "weight": 80
+            },
+            {
+                "tag": "sceptre",
+                "weight": 80
+            },
+            {
+                "tag": "dagger",
+                "weight": 80
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 99,
+                "min": 85
+            }
+        ],
+        "type": "WeaponSpellDamage"
+    },
+    "SpellDamageOnWeapon8_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Runic",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "attack_dagger",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 40
+            },
+            {
+                "tag": "wand",
+                "weight": 40
+            },
+            {
+                "tag": "sceptre",
+                "weight": 40
+            },
+            {
+                "tag": "dagger",
+                "weight": 40
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 109,
+                "min": 100
+            }
+        ],
+        "type": "WeaponSpellDamage"
+    }
+}

@@ -1,0 +1,516 @@
+{
+    "GlobalIncreaseMinionSpellSkillGemLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "minion",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Taskmaster's",
+        "required_level": 14,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalIncreaseMinionSpellSkillGemLevel"
+    },
+    "GlobalIncreaseMinionSpellSkillGemLevel2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "minion",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Overseer's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 25
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_skill_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "GlobalIncreaseMinionSpellSkillGemLevel"
+    },
+    "LocalIncreasedEnergyShield10": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Incandescent",
+        "required_level": 69,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 90,
+                "min": 77
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "LocalIncreasedEnergyShield9": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Scintillating",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield",
+                "max": 76,
+                "min": 62
+            }
+        ],
+        "type": "LocalEnergyShield"
+    },
+    "LocalIncreasedEvasionRating10": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Lissome",
+        "required_level": 69,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 400,
+                "min": 301
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "LocalIncreasedEvasionRating9___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Adroit",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_evasion_rating",
+                "max": 300,
+                "min": 201
+            }
+        ],
+        "type": "LocalEvasionRating"
+    },
+    "LocalIncreasedPhysicalDamageReductionRating10": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Unmoving",
+        "required_level": 69,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 400,
+                "min": 301
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "LocalIncreasedPhysicalDamageReductionRating9_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Abating",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 166
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_base_physical_damage_reduction_rating",
+                "max": 300,
+                "min": 201
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRating"
+    },
+    "LocalIncreasedWard10____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Runemaster's",
+        "required_level": 69,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "ward_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_ward",
+                "max": 139,
+                "min": 120
+            }
+        ],
+        "type": "LocalWard"
+    },
+    "LocalIncreasedWard9": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefences"
+        ],
+        "implicit_tags": [
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Runesmith's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "ward_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_ward",
+                "max": 119,
+                "min": 100
+            }
+        ],
+        "type": "LocalWard"
+    },
+    "LocalIncreasedWardPercent8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercent"
+        ],
+        "implicit_tags": [
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Calligraphic",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "ward_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_ward_+%",
+                "max": 110,
+                "min": 101
+            }
+        ],
+        "type": "LocalWardPercent"
+    }
+}

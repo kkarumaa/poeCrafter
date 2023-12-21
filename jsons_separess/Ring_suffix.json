@@ -1,0 +1,4923 @@
+{
+    "ChaosResist1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Lost",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 125
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "ChaosResist2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Banishment",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 125
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 15,
+                "min": 11
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "ChaosResist3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Eviction",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 125
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "ChaosResist4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Expulsion",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 125
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "ChaosResist5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Exile",
+        "required_level": 65,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 125
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "ChaosResist6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Bameth",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 125
+            },
+            {
+                "tag": "armour",
+                "weight": 250
+            },
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "belt",
+                "weight": 250
+            },
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "ChaosResistance"
+    },
+    "ColdResist1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Inuit",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 11,
+                "min": 6
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "ColdResist2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Seal",
+        "required_level": 14,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 17,
+                "min": 12
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "ColdResist3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Penguin",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 23,
+                "min": 18
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "ColdResist4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Yeti",
+        "required_level": 38,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 29,
+                "min": 24
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "ColdResist5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Walrus",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 35,
+                "min": 30
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "ColdResist6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Polar Bear",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 41,
+                "min": 36
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "ColdResist7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Ice",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 45,
+                "min": 42
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "ColdResist8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Haast",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 48,
+                "min": 46
+            }
+        ],
+        "type": "ColdResistance"
+    },
+    "DamageTakenGainedAsLife1___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenGainedAsLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Bandaging",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_life_over_4_seconds_%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "DamageTakenGainedAsLife"
+    },
+    "DamageTakenGainedAsLife2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenGainedAsLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Stitching",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_life_over_4_seconds_%",
+                "max": 9,
+                "min": 7
+            }
+        ],
+        "type": "DamageTakenGainedAsLife"
+    },
+    "DamageTakenGainedAsLife3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenGainedAsLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Suturing",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_life_over_4_seconds_%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "DamageTakenGainedAsLife"
+    },
+    "DamageTakenGainedAsLife4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenGainedAsLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Fleshbinding",
+        "required_level": 79,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_life_over_4_seconds_%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "DamageTakenGainedAsLife"
+    },
+    "Dexterity1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Mongoose",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "Dexterity2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Lynx",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 17,
+                "min": 13
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "Dexterity3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Fox",
+        "required_level": 22,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 22,
+                "min": 18
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "Dexterity4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Falcon",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 27,
+                "min": 23
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "Dexterity5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Panther",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 32,
+                "min": 28
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "Dexterity6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Leopard",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 37,
+                "min": 33
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "Dexterity7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Jaguar",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 42,
+                "min": 38
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "Dexterity8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Phantom",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 50,
+                "min": 43
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "Dexterity9": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Wind",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "Dexterity"
+    },
+    "FireResist1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Whelpling",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 11,
+                "min": 6
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "FireResist2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Salamander",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 17,
+                "min": 12
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "FireResist3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Drake",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 23,
+                "min": 18
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "FireResist4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Kiln",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 29,
+                "min": 24
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "FireResist5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Furnace",
+        "required_level": 48,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 35,
+                "min": 30
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "FireResist6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Volcano",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 41,
+                "min": 36
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "FireResist7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Magma",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 45,
+                "min": 42
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "FireResist8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Tzteosh",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 48,
+                "min": 46
+            }
+        ],
+        "type": "FireResistance"
+    },
+    "IncreasedAttackSpeed1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Skill",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "gloves",
+                "weight": 500
+            },
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "str_dex_shield",
+                "weight": 500
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "IncreasedAttackSpeed"
+    },
+    "Intelligence1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Pupil",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "Intelligence2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Student",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 17,
+                "min": 13
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "Intelligence3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Prodigy",
+        "required_level": 22,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 22,
+                "min": 18
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "Intelligence4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Augur",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 27,
+                "min": 23
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "Intelligence5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Philosopher",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 32,
+                "min": 28
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "Intelligence6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sage",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 37,
+                "min": 33
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "Intelligence7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Savant",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 42,
+                "min": 38
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "Intelligence8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Virtuoso",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 50,
+                "min": 43
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "Intelligence9": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Genius",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "Intelligence"
+    },
+    "ItemFoundRarityIncrease1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Plunder",
+        "required_level": 3,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "ItemFoundRarityIncrease"
+    },
+    "ItemFoundRarityIncrease2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Raiding",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 14,
+                "min": 11
+            }
+        ],
+        "type": "ItemFoundRarityIncrease"
+    },
+    "ItemFoundRarityIncrease3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Archaeology",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "ItemFoundRarityIncrease"
+    },
+    "ItemFoundRarityIncrease4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excavation",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 26,
+                "min": 21
+            }
+        ],
+        "type": "ItemFoundRarityIncrease"
+    },
+    "LifeGainedFromEnemyDeath1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeGainedFromEnemyDeath"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Success",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_gained_on_enemy_death",
+                "max": 6,
+                "min": 3
+            }
+        ],
+        "type": "LifeGainedFromEnemyDeath"
+    },
+    "LifeGainedFromEnemyDeath2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeGainedFromEnemyDeath"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Victory",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_gained_on_enemy_death",
+                "max": 10,
+                "min": 7
+            }
+        ],
+        "type": "LifeGainedFromEnemyDeath"
+    },
+    "LifeGainedFromEnemyDeath3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeGainedFromEnemyDeath"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Triumph",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_gained_on_enemy_death",
+                "max": 14,
+                "min": 11
+            }
+        ],
+        "type": "LifeGainedFromEnemyDeath"
+    },
+    "LightningResist1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Cloud",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 11,
+                "min": 6
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "LightningResist2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Squall",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 17,
+                "min": 12
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "LightningResist3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Storm",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 23,
+                "min": 18
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "LightningResist4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Thunderhead",
+        "required_level": 37,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 29,
+                "min": 24
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "LightningResist5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Tempest",
+        "required_level": 49,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 35,
+                "min": 30
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "LightningResist6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Maelstrom",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 41,
+                "min": 36
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "LightningResist7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Lightning",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 45,
+                "min": 42
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "LightningResist8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Ephij",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 500
+            },
+            {
+                "tag": "armour",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 48,
+                "min": 46
+            }
+        ],
+        "type": "LightningResistance"
+    },
+    "ManaGainedFromEnemyDeath1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaGainedFromEnemyDeath"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Absorption",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_gained_on_enemy_death",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ManaGainedFromEnemyDeath"
+    },
+    "ManaGainedFromEnemyDeath2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaGainedFromEnemyDeath"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Osmosis",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_gained_on_enemy_death",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "ManaGainedFromEnemyDeath"
+    },
+    "ManaGainedFromEnemyDeath3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaGainedFromEnemyDeath"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Consumption",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_gained_on_enemy_death",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "ManaGainedFromEnemyDeath"
+    },
+    "ManaRegeneration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Excitement",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 19,
+                "min": 10
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "ManaRegeneration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Joy",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 29,
+                "min": 20
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "ManaRegeneration3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Elation",
+        "required_level": 29,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "ManaRegeneration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Bliss",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 49,
+                "min": 40
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "ManaRegeneration5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Euphoria",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 59,
+                "min": 50
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "ManaRegeneration6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Nirvana",
+        "required_level": 79,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "focus",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_shield",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 69,
+                "min": 60
+            }
+        ],
+        "type": "ManaRegeneration"
+    },
+    "Strength1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Brute",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "Strength"
+    },
+    "Strength2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Wrestler",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 17,
+                "min": 13
+            }
+        ],
+        "type": "Strength"
+    },
+    "Strength3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Bear",
+        "required_level": 22,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 22,
+                "min": 18
+            }
+        ],
+        "type": "Strength"
+    },
+    "Strength4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Lion",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 27,
+                "min": 23
+            }
+        ],
+        "type": "Strength"
+    },
+    "Strength5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Gorilla",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 32,
+                "min": 28
+            }
+        ],
+        "type": "Strength"
+    },
+    "Strength6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Goliath",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 37,
+                "min": 33
+            }
+        ],
+        "type": "Strength"
+    },
+    "Strength7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Leviathan",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 42,
+                "min": 38
+            }
+        ],
+        "type": "Strength"
+    },
+    "Strength8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Titan",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 50,
+                "min": 43
+            }
+        ],
+        "type": "Strength"
+    },
+    "Strength9": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Gods",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "Strength"
+    }
+}

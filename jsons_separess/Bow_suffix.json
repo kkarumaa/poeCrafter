@@ -1,0 +1,1392 @@
+{
+    "AdditionalArrowBow1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalArrows"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Splintering",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_additional_arrows",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalArrows"
+    },
+    "AdditionalArrowBow2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalArrows"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Many",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_additional_arrows",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "AdditionalArrows"
+    },
+    "BleedDamage1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BleedingDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Bloodletting",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1500
+            },
+            {
+                "tag": "sword",
+                "weight": 1500
+            },
+            {
+                "tag": "axe",
+                "weight": 3000
+            },
+            {
+                "tag": "mace",
+                "weight": 3000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bleeding_damage_+%",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "bleed_on_hit_with_attacks_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "BleedingDamageChanceWeaponSuffix"
+    },
+    "BleedDamage2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BleedingDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Haemophilia",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1500
+            },
+            {
+                "tag": "sword",
+                "weight": 1500
+            },
+            {
+                "tag": "axe",
+                "weight": 3000
+            },
+            {
+                "tag": "mace",
+                "weight": 3000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bleeding_damage_+%",
+                "max": 40,
+                "min": 31
+            },
+            {
+                "id": "bleed_on_hit_with_attacks_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "BleedingDamageChanceWeaponSuffix"
+    },
+    "BleedDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BleedingDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Exsanguination",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bleeding_damage_+%",
+                "max": 50,
+                "min": 41
+            },
+            {
+                "id": "bleed_on_hit_with_attacks_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "BleedingDamageChanceWeaponSuffix"
+    },
+    "BleedDuration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BleedDuration"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Agony",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_bleed_duration_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "BleedDuration"
+    },
+    "BleedDuration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BleedDuration"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Torment",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_bleed_duration_+%",
+                "max": 18,
+                "min": 13
+            }
+        ],
+        "type": "BleedDuration"
+    },
+    "ChanceToBleed1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChanceToBleed"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Bleeding",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_chance_to_bleed_on_hit_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "LocalChanceToBleed"
+    },
+    "ChanceToBleed2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChanceToBleed"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Flaying",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_chance_to_bleed_on_hit_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "LocalChanceToBleed"
+    },
+    "ChanceToBleed3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChanceToBleed"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Hemorrhaging",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_chance_to_bleed_on_hit_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "LocalChanceToBleed"
+    },
+    "ChanceToPoison1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChanceToPoisonOnHit"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Poisoning",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_poison_on_hit_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "LocalChanceToPoisonOnHit"
+    },
+    "ChanceToPoison2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChanceToPoisonOnHit"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Toxins",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_poison_on_hit_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "LocalChanceToPoisonOnHit"
+    },
+    "ChanceToPoison3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChanceToPoisonOnHit"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Death",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_poison_on_hit_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "LocalChanceToPoisonOnHit"
+    },
+    "GlobalDamageOverTimeMultiplier1h1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Acrimony",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 300
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "amulet",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 11,
+                "min": 7
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier1h2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Dispersion",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 300
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "amulet",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier1h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Liquefaction",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 300
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "amulet",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 19,
+                "min": 16
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier1h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Melting",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 300
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "amulet",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 23,
+                "min": 20
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier1h5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Dissolution",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 300
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "amulet",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 26,
+                "min": 24
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier2h1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Acrimony",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 21,
+                "min": 16
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Dispersion",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 29,
+                "min": 24
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier2h3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Liquefaction",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier2h4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Melting",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "GlobalDamageOverTimeMultiplier2h5____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Dissolution",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 45,
+                "min": 41
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "LocalIncreasedAccuracy9_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Assassin",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_accuracy_rating",
+                "max": 360,
+                "min": 321
+            }
+        ],
+        "type": "LocalAccuracyRating"
+    },
+    "LocalIncreasedAccuracyNew6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Lioneye",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_accuracy_rating",
+                "max": 780,
+                "min": 625
+            }
+        ],
+        "type": "LocalAccuracyRating"
+    },
+    "PoisonDamage1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PoisonDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "poison",
+            "damage",
+            "chaos",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Poison",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1500
+            },
+            {
+                "tag": "sword",
+                "weight": 1500
+            },
+            {
+                "tag": "dagger",
+                "weight": 3000
+            },
+            {
+                "tag": "claw",
+                "weight": 3000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_poison_damage_+%",
+                "max": 30,
+                "min": 21
+            },
+            {
+                "id": "local_poison_on_hit_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "PoisonDamageAndLocalChanceOnHit"
+    },
+    "PoisonDamage2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PoisonDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "poison",
+            "damage",
+            "chaos",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Venom",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1500
+            },
+            {
+                "tag": "sword",
+                "weight": 1500
+            },
+            {
+                "tag": "dagger",
+                "weight": 3000
+            },
+            {
+                "tag": "claw",
+                "weight": 3000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_poison_damage_+%",
+                "max": 40,
+                "min": 31
+            },
+            {
+                "id": "local_poison_on_hit_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "PoisonDamageAndLocalChanceOnHit"
+    },
+    "PoisonDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PoisonDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "poison",
+            "damage",
+            "chaos",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Virulence",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_poison_damage_+%",
+                "max": 50,
+                "min": 41
+            },
+            {
+                "id": "local_poison_on_hit_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "PoisonDamageAndLocalChanceOnHit"
+    },
+    "PoisonDuration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PoisonDuration"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Rot",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_poison_duration_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "PoisonDuration"
+    },
+    "PoisonDuration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PoisonDuration"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Putrefaction",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_poison_duration_+%",
+                "max": 18,
+                "min": 13
+            }
+        ],
+        "type": "PoisonDuration"
+    }
+}

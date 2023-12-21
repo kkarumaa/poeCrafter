@@ -1,0 +1,1609 @@
+{
+    "HellscapeUpsideAdditionalRaisedZombie1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumZombieCount"
+        ],
+        "implicit_tags": [
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_zombies_allowed",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumZombieCount"
+    },
+    "HellscapeUpsideAdditionalSkeleton1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumSkeletonCount"
+        ],
+        "implicit_tags": [
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_skeletons_allowed",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MaximumSkeletonCount"
+    },
+    "HellscapeUpsideBlindEnemiesWhenHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlindEnemiesWhenHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "blind_enemies_when_hit_%_chance",
+                "max": 20,
+                "min": 11
+            }
+        ],
+        "type": "BlindEnemiesWhenHit"
+    },
+    "HellscapeUpsideBlindEnemiesWhenHit3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlindEnemiesWhenHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "blind_enemies_when_hit_%_chance",
+                "max": 30,
+                "min": 21
+            }
+        ],
+        "type": "BlindEnemiesWhenHit"
+    },
+    "HellscapeUpsideBlindEnemiesWhenHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlindEnemiesWhenHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "blind_enemies_when_hit_%_chance",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "BlindEnemiesWhenHit"
+    },
+    "HellscapeUpsideBrandAttachmentRange2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BrandAttachmentRange"
+        ],
+        "implicit_tags": [
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sigil_target_search_range_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "BrandAttachmentRange"
+    },
+    "HellscapeUpsideBrandAttachmentRange3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BrandAttachmentRange"
+        ],
+        "implicit_tags": [
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sigil_target_search_range_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "BrandAttachmentRange"
+    },
+    "HellscapeUpsideBrandAttachmentRange4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BrandAttachmentRange"
+        ],
+        "implicit_tags": [
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sigil_target_search_range_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "BrandAttachmentRange"
+    },
+    "HellscapeUpsideBrandDuration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BrandDuration"
+        ],
+        "implicit_tags": [
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sigil_duration_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "BrandDuration"
+    },
+    "HellscapeUpsideBrandDuration3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BrandDuration"
+        ],
+        "implicit_tags": [
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sigil_duration_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "BrandDuration"
+    },
+    "HellscapeUpsideBrandDuration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BrandDuration"
+        ],
+        "implicit_tags": [
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sigil_duration_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "BrandDuration"
+    },
+    "HellscapeUpsideCannotBeFrozen___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotBeFrozen"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "CannotBeFrozen"
+    },
+    "HellscapeUpsideCannotBeSlowedBelowValue3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotBeSlowedBelowValue"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "action_speed_+%_minimum_value",
+                "max": -21,
+                "min": -25
+            }
+        ],
+        "type": "CannotBeSlowedBelowValue"
+    },
+    "HellscapeUpsideCannotBeSlowedBelowValue4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotBeSlowedBelowValue"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "action_speed_+%_minimum_value",
+                "max": -26,
+                "min": -30
+            }
+        ],
+        "type": "CannotBeSlowedBelowValue"
+    },
+    "HellscapeUpsideChanceToGainOnslaughtOnKill2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToGainOnslaughtOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "quiver",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_onslaught_on_kill_%",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "ChanceToGainOnslaughtOnKill"
+    },
+    "HellscapeUpsideChanceToGainOnslaughtOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToGainOnslaughtOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "quiver",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_onslaught_on_kill_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChanceToGainOnslaughtOnKill"
+    },
+    "HellscapeUpsideChanceToGainOnslaughtOnKill4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToGainOnslaughtOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 100
+            },
+            {
+                "tag": "quiver",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_onslaught_on_kill_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChanceToGainOnslaughtOnKill"
+    },
+    "HellscapeUpsideElusiveEffect2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElusiveEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elusive_effect_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "ElusiveEffect"
+    },
+    "HellscapeUpsideElusiveEffect3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElusiveEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elusive_effect_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "ElusiveEffect"
+    },
+    "HellscapeUpsideElusiveEffect4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElusiveEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elusive_effect_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "ElusiveEffect"
+    },
+    "HellscapeUpsideMovementVelocity1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "MovementVelocity"
+    },
+    "HellscapeUpsideMovementVelocity2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "MovementVelocity"
+    },
+    "HellscapeUpsideMovementVelocity3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 13,
+                "min": 12
+            }
+        ],
+        "type": "MovementVelocity"
+    },
+    "HellscapeUpsideMovementVelocity4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 15,
+                "min": 14
+            }
+        ],
+        "type": "MovementVelocity"
+    },
+    "HellscapeUpsideNonDamagingAilmentEffect2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAilmentEffectOnEnemies"
+        ],
+        "implicit_tags": [
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_damaging_ailment_effect_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "IncreasedAilmentEffectOnEnemies"
+    },
+    "HellscapeUpsideNonDamagingAilmentEffect3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAilmentEffectOnEnemies"
+        ],
+        "implicit_tags": [
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_damaging_ailment_effect_+%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "IncreasedAilmentEffectOnEnemies"
+    },
+    "HellscapeUpsideNonDamagingAilmentEffect4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAilmentEffectOnEnemies"
+        ],
+        "implicit_tags": [
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_damaging_ailment_effect_+%",
+                "max": 18,
+                "min": 16
+            }
+        ],
+        "type": "IncreasedAilmentEffectOnEnemies"
+    },
+    "HellscapeUpsideReducedDurationOfElementalStatusAilments2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfStatusAilmentDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "self_elemental_status_duration_-%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "SelfStatusAilmentDuration"
+    },
+    "HellscapeUpsideReducedDurationOfElementalStatusAilments3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfStatusAilmentDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "self_elemental_status_duration_-%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "SelfStatusAilmentDuration"
+    },
+    "HellscapeUpsideReducedDurationOfElementalStatusAilments4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfStatusAilmentDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "self_elemental_status_duration_-%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "SelfStatusAilmentDuration"
+    },
+    "HellscapeUpsideTotemDuration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_duration_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "TotemDuration"
+    },
+    "HellscapeUpsideTotemDuration3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_duration_+%",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "TotemDuration"
+    },
+    "HellscapeUpsideTotemDuration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_duration_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "TotemDuration"
+    },
+    "HellscapeUpsideTotemElementalResistances2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_elemental_resistance_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "TotemElementalResistances"
+    },
+    "HellscapeUpsideTotemElementalResistances3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_elemental_resistance_%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "TotemElementalResistances"
+    },
+    "HellscapeUpsideTotemElementalResistances4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_elemental_resistance_%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "TotemElementalResistances"
+    },
+    "HellscapeUpsideTotemLife2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedTotemLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_life_+%",
+                "max": 9,
+                "min": 7
+            }
+        ],
+        "type": "IncreasedTotemLife"
+    },
+    "HellscapeUpsideTotemLife3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedTotemLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_life_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "IncreasedTotemLife"
+    },
+    "HellscapeUpsideTotemLife4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedTotemLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_life_+%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "IncreasedTotemLife"
+    },
+    "HellscapeUpsideTotemPhysicalDamageReduction2___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemPhysicalDamageReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_additional_physical_damage_reduction_%",
+                "max": 15,
+                "min": 11
+            }
+        ],
+        "type": "TotemPhysicalDamageReduction"
+    },
+    "HellscapeUpsideTotemPhysicalDamageReduction3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemPhysicalDamageReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_additional_physical_damage_reduction_%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "TotemPhysicalDamageReduction"
+    },
+    "HellscapeUpsideTotemPhysicalDamageReduction4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemPhysicalDamageReduction"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_additional_physical_damage_reduction_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "TotemPhysicalDamageReduction"
+    },
+    "HellscapeUpsideTotemPlacementSpeed2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SummonTotemCastSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "summon_totem_cast_speed_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "SummonTotemCastSpeed"
+    },
+    "HellscapeUpsideTotemPlacementSpeed3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SummonTotemCastSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "summon_totem_cast_speed_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "SummonTotemCastSpeed"
+    },
+    "HellscapeUpsideTotemPlacementSpeed4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SummonTotemCastSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 250
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "summon_totem_cast_speed_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "SummonTotemCastSpeed"
+    }
+}

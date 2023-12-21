@@ -1,0 +1,644 @@
+{
+    "BeltIncreasedFlaskChargesGained1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Refilling",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "BeltIncreasedFlaskChargesGained2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Restocking",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 16,
+                "min": 11
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "BeltIncreasedFlaskChargesGained3_____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Replenishing",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 22,
+                "min": 17
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "BeltIncreasedFlaskChargesGained4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Pouring",
+        "required_level": 48,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 28,
+                "min": 23
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "BeltIncreasedFlaskChargesGained5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Brimming",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 34,
+                "min": 29
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "BeltIncreasedFlaskChargesGained6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Overflowing",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "BeltIncreasedFlaskDuration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskDuration"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Sipping",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_duration_+%",
+                "max": 9,
+                "min": 4
+            }
+        ],
+        "type": "BeltIncreasedFlaskDuration"
+    },
+    "BeltIncreasedFlaskDuration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskDuration"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Tasting",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_duration_+%",
+                "max": 15,
+                "min": 10
+            }
+        ],
+        "type": "BeltIncreasedFlaskDuration"
+    },
+    "BeltIncreasedFlaskDuration3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskDuration"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Savouring",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_duration_+%",
+                "max": 21,
+                "min": 16
+            }
+        ],
+        "type": "BeltIncreasedFlaskDuration"
+    },
+    "BeltIncreasedFlaskDuration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskDuration"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Relishing",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_duration_+%",
+                "max": 27,
+                "min": 22
+            }
+        ],
+        "type": "BeltIncreasedFlaskDuration"
+    },
+    "BeltIncreasedFlaskDuration5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskDuration"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Reveling",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_duration_+%",
+                "max": 33,
+                "min": 28
+            }
+        ],
+        "type": "BeltIncreasedFlaskDuration"
+    },
+    "BeltReducedFlaskChargesUsed1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Sipping",
+        "required_level": 3,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_charges_used_+%",
+                "max": -10,
+                "min": -20
+            }
+        ],
+        "type": "BeltReducedFlaskChargesUsed"
+    },
+    "Strength10": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of the Godslayer",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 60,
+                "min": 56
+            }
+        ],
+        "type": "Strength"
+    },
+    "StunDuration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Impact",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 15,
+                "min": 11
+            }
+        ],
+        "type": "StunDurationIncreasePercent"
+    },
+    "StunDuration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Dazing",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "StunDurationIncreasePercent"
+    },
+    "StunDuration3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Stunning",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "StunDurationIncreasePercent"
+    },
+    "StunDuration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Slamming",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "StunDurationIncreasePercent"
+    },
+    "StunDuration5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Staggering",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "StunDurationIncreasePercent"
+    }
+}

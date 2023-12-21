@@ -1,0 +1,2848 @@
+{
+    "AccuracyAndCritsJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AccuracyAndCrits"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Deadliness",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 150
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating_+%",
+                "max": 10,
+                "min": 6
+            },
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "AccuracyAndCritsForJewel"
+    },
+    "AllAttributesJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllAttributes"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of Adaption",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 300
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_all_attributes",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AllAttributesForJewel"
+    },
+    "AllResistancesJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Resistance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 300
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "AllResistancesForJewel"
+    },
+    "AreaDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Blasting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "area_damage_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "AreaDamageForJewel"
+    },
+    "AttackAndCastSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackCastSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Zeal",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_and_cast_speed_+%",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "AttackAndCastSpeedForJewel"
+    },
+    "AttackSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Berserking",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "IncreasedAttackSpeedForJewel"
+    },
+    "AuraRadiusJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraIncreasedIncreasedAreaOfEffect"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "Hero's FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_aura_area_of_effect_+%",
+                "max": 15,
+                "min": 10
+            }
+        ],
+        "type": "AuraRadiusForJewel"
+    },
+    "AvoidChillJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidChill"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Heating FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_chill_%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AvoidChillForJewel"
+    },
+    "AvoidFreezeJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Thawing FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AvoidFreezeForJewel"
+    },
+    "AvoidIgniteJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Dousing FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_ignite_%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AvoidIgniteForJewel"
+    },
+    "AvoidShockJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedShockChance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Insulating FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_shock_%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AvoidShockForJewel"
+    },
+    "AvoidStunJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidStun"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_stun_%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AvoidStunForJewel"
+    },
+    "BleedChanceAndDurationForJewel__": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AilmentChanceAndDuration"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Bleeding",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "bleed_on_hit_with_attacks_%",
+                "max": 5,
+                "min": 3
+            },
+            {
+                "id": "base_bleed_duration_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "BleedChanceAndDurationForJewel"
+    },
+    "BleedDamageForJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BleedingDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Haemophilia",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "bleeding_damage_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "BleedDamageForJewel"
+    },
+    "BurningDamageForJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Combusting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "burn_damage_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "BurningDamageForJewel"
+    },
+    "CastSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Enchanting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "IncreasedCastSpeedForJewel"
+    },
+    "ChanceToFreezeJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "ChanceToFreezeForJewel"
+    },
+    "ChanceToIgniteJewel_": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "ChanceToIgniteForJewel"
+    },
+    "ChanceToShockJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "ChanceToShockForJewel"
+    },
+    "ChaosResistanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistance"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Order",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 13,
+                "min": 7
+            }
+        ],
+        "type": "ChaosResistanceForJewel"
+    },
+    "ChillAndShockEffectOnYouJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChillAndShockEffectOnYou"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Insulation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "shocked_chilled_effect_on_self_+%",
+                "max": -15,
+                "min": -15
+            }
+        ],
+        "type": "ChillAndShockEffectOnYouJewel"
+    },
+    "ColdLightningResistanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdAndLightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Shelter",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 450
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_and_lightning_damage_resistance_%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "ColdLightningResistanceForJewel"
+    },
+    "ColdResistanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Beast",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "ColdResistanceForJewel"
+    },
+    "CriticalStrikeChanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Menace",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "CritChanceForJewel"
+    },
+    "CriticalStrikeMultiplierJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Potency",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 12,
+                "min": 9
+            }
+        ],
+        "type": "CritMultiplierForJewel"
+    },
+    "CurseCastSpeedJewel_": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "of Blasphemy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_cast_speed_+%",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "CurseCastSpeedForJewel"
+    },
+    "CurseEffectOnYouJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedCurseEffect"
+        ],
+        "implicit_tags": [
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "of Hexwarding",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_effect_on_self_+%",
+                "max": -10,
+                "min": -10
+            }
+        ],
+        "type": "CurseEffectOnYouJewel"
+    },
+    "CurseRadiusJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseAreaOfEffect"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "Hexing FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_area_of_effect_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CurseRadiusForJewel"
+    },
+    "DamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageForm"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Wounding",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "DamageForJewel"
+    },
+    "DamageOverTimeJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DegenerationDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Entropy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_over_time_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "DamageOverTimeForJewel"
+    },
+    "DexterityIntelligenceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DexterityIntelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of Cunning",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 450
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity_and_intelligence",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "DexterityIntelligenceForJewel"
+    },
+    "DexterityJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Dexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of Dexterity",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_dexterity",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "DexterityForJewel"
+    },
+    "ElementalCritChanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalCritChance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Apocalypse",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_critical_strike_chance_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "ElementalCritChanceForJewel"
+    },
+    "ElementalCritMultiplier": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalCritMultiplier"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Elements",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_critical_strike_multiplier_+",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "ElementalCritMultiplierForJewel"
+    },
+    "EnduranceChargeDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnduranceChargeDuration"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "of Endurance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "endurance_charge_duration_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "EnduranceChargeDurationForJewel"
+    },
+    "EnergyShieldOnHitJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldGainPerTarget"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Focus",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_gain_per_target",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "EnergyShieldGainPerTargetForJewel"
+    },
+    "FireColdResistanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireAndColdResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Hearth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 450
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_and_cold_damage_resistance_%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "FireColdResistanceForJewel"
+    },
+    "FireLightningResistanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireAndLightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Insulation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 450
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_and_lightning_damage_resistance_%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "FireLightningResistanceForJewel"
+    },
+    "FireResistanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Dragon",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "FireResistanceForJewel"
+    },
+    "FreezeChanceAndDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AilmentChanceAndDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Freezing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 5,
+                "min": 3
+            },
+            {
+                "id": "freeze_duration_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "FreezeChanceAndDurationForJewel"
+    },
+    "FreezeDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FreezeDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Glacier",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chill_and_freeze_duration_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "FreezeDurationForJewel"
+    },
+    "FrenzyChargeDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FrenzyChargeDuration"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "of Frenzy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_frenzy_charge_duration_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "FrenzyChargeDurationForJewel"
+    },
+    "IgniteChanceAndDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AilmentChanceAndDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Burning",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 5,
+                "min": 3
+            },
+            {
+                "id": "ignite_duration_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "IgniteChanceAndDurationForJewel"
+    },
+    "IgniteDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Immolation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "ignite_duration_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "BurnDurationForJewel"
+    },
+    "ImpaleChanceForJewel_": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ImpaleOnHit"
+        ],
+        "implicit_tags": [
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Impaling",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "attacks_impale_on_hit_%_chance",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "ImpaleChanceForJewel"
+    },
+    "IncreasedAccuracyJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracy"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Accuracy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating",
+                "max": 40,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedAccuracyForJewel"
+    },
+    "IntelligenceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Intelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of Intelligence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_intelligence",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "IntelligenceForJewel"
+    },
+    "ItemRarityJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ItemFoundRarityIncrease"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Raiding",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 150
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_item_found_rarity_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "ItemRarityForJewel"
+    },
+    "JewelChaosNonAilmentDamageOverTimeMultiplier2": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Atrophy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "JewelColdDamageOverTimeMultiplier1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Gelidity",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "JewelFireDamageOverTimeMultiplier1": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Zealousness",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 300
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "JewelGlobalDamageOverTimeMultiplier1": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Acrimony",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 300
+            }
+        ],
+        "stats": [
+            {
+                "id": "dot_multiplier_+",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "GlobalDamageOverTimeMultiplier"
+    },
+    "JewelPhysicalDamageOverTimeMultiplier1": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Exsanguinating",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 300
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "KnockbackChanceJewel_": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Knockback"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Fending",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_global_chance_to_knockback_%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "KnockbackChanceForJewel"
+    },
+    "LifeOnHitJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeGainPerTarget"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Rejuvenation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_gain_per_target",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "LifeGainPerTargetForJewel"
+    },
+    "LifeRecoupJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenGainedAsLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Infusion",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_life_over_4_seconds_%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "LifeRecoupForJewel"
+    },
+    "LightningResistanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Grounding",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "LightningResistanceForJewel"
+    },
+    "ManaCostReductionJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaCostReduction"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of Efficiency",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_cost_-%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "ManaCostReductionForJewel"
+    },
+    "ManaOnHitJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaGainPerTarget"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Absorption",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_gain_per_target",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "ManaGainPerTargetForJewel"
+    },
+    "MeleeCritChanceJewel": {
+        "adds_tags": [
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Weight",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_critical_strike_chance_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "MeleeCritChanceForJewel"
+    },
+    "MeleeCritMultiplier": {
+        "adds_tags": [
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Demolishing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_weapon_critical_strike_multiplier_+",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "MeleeCritMultiplierForJewel"
+    },
+    "MeleeDamageJewel_": {
+        "adds_tags": [
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageForm"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Combat",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_damage_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "MeleeDamageForJewel"
+    },
+    "MinionAccuracyRatingJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionAccuracyRating"
+        ],
+        "implicit_tags": [
+            "attack",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of Training",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_accuracy_rating_+%",
+                "max": 26,
+                "min": 22
+            }
+        ],
+        "type": "MinionAccuracyRatingForJewel"
+    },
+    "MinionBlockJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionBlockChance"
+        ],
+        "implicit_tags": [
+            "block",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Wall",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_block_%",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "MinionBlockForJewel"
+    },
+    "MinionElementalResistancesJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of Resilience",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_elemental_resistance_%",
+                "max": 15,
+                "min": 11
+            }
+        ],
+        "type": "MinionElementalResistancesForJewel"
+    },
+    "PercentIncreasedAccuracyJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAccuracyPercent"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Precision",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "accuracy_rating_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "IncreasedAccuracyPercentForJewel"
+    },
+    "PoisonChanceAndDurationForJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AilmentChanceAndDuration"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Poisoning",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_poison_on_hit_%",
+                "max": 5,
+                "min": 3
+            },
+            {
+                "id": "base_poison_duration_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "PoisonChanceAndDurationForJewel"
+    },
+    "PoisonDamageForJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PoisonDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "poison",
+            "damage",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Venom",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_poison_damage_+%",
+                "max": 20,
+                "min": 16
+            }
+        ],
+        "type": "PoisonDamageForJewel"
+    },
+    "PowerChargeDurationJewel_": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPowerChargeDuration"
+        ],
+        "implicit_tags": [
+            "power_charge"
+        ],
+        "is_essence_only": false,
+        "name": "of Power",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "power_charge_duration_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "PowerChargeDurationForJewel"
+    },
+    "ProjectileDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageForm"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Archery",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "ProjectileDamageForJewel"
+    },
+    "ProjectileSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Soaring",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "IncreasedProjectileSpeedForJewel"
+    },
+    "ShockChanceAndDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AilmentChanceAndDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Shocking",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 5,
+                "min": 3
+            },
+            {
+                "id": "shock_duration_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "ShockChanceAndDurationForJewel"
+    },
+    "ShockDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ShockDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Storm",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "shock_duration_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "ShockDurationForJewel"
+    },
+    "SpellCritChanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormCritChance"
+        ],
+        "implicit_tags": [
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Annihilation",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_critical_strike_chance_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "SpellCritChanceForJewel"
+    },
+    "SpellCritMultiplier": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormCritMultiplier"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Unmaking",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_critical_strike_multiplier_+",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "SpellCritMultiplierForJewel"
+    },
+    "SpellDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageForm"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Mysticism",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "SpellDamageForJewel"
+    },
+    "StrengthDexterityJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StrengthDexterity"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of Athletics",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 450
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength_and_dexterity",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "StrengthDexterityForJewel"
+    },
+    "StrengthIntelligenceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StrengthIntelligence"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of Spirit",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 450
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength_and_intelligence",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "StrengthIntelligenceForJewel"
+    },
+    "StrengthJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Strength"
+        ],
+        "implicit_tags": [
+            "attribute"
+        ],
+        "is_essence_only": false,
+        "name": "of Strength",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_strength",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "StrengthForJewel"
+    },
+    "StunDurationJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunDurationIncreasePercent"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Stunning",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_duration_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "StunDurationForJewel"
+    },
+    "StunRecoveryJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "StunRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Recovery",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_stun_recovery_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "StunRecoveryForJewel"
+    },
+    "TotemElementalResistancesJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemElementalResistances"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Runes",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_elemental_resistance_%",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "TotemElementalResistancesForJewel"
+    }
+}

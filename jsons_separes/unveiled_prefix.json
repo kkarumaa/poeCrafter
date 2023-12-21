@@ -1,0 +1,5757 @@
+{
+    "JunMasterAvoidStunAndElementalStatusAilments1": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidStunAndElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "base_avoid_stun_%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "AvoidStunAndElementalStatusAilments"
+    },
+    "JunMasterVeiledAddedColdAndLightningDamage": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdAndLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_cold_damage",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "global_maximum_added_cold_damage",
+                "max": 22,
+                "min": 20
+            },
+            {
+                "id": "global_minimum_added_lightning_damage",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "global_maximum_added_lightning_damage",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "AddedColdAndLightningDamage"
+    },
+    "JunMasterVeiledAddedColdAndLightningDamageInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdAndLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "from_self_minimum_added_cold_damage_taken",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "from_self_maximum_added_cold_damage_taken",
+                "max": 22,
+                "min": 20
+            },
+            {
+                "id": "from_self_minimum_added_lightning_damage_taken",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "from_self_maximum_added_lightning_damage_taken",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "SelfColdAndLightningDamageTaken"
+    },
+    "JunMasterVeiledAddedColdAndLightningDamageQuiver": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdAndLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_cold_damage",
+                "max": 10,
+                "min": 9
+            },
+            {
+                "id": "global_maximum_added_cold_damage",
+                "max": 14,
+                "min": 13
+            },
+            {
+                "id": "global_minimum_added_lightning_damage",
+                "max": 10,
+                "min": 9
+            },
+            {
+                "id": "global_maximum_added_lightning_damage",
+                "max": 14,
+                "min": 13
+            }
+        ],
+        "type": "AddedColdAndLightningDamage"
+    },
+    "JunMasterVeiledAddedFireAndColdDamage": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireAndColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_fire_damage",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "global_maximum_added_fire_damage",
+                "max": 22,
+                "min": 20
+            },
+            {
+                "id": "global_minimum_added_cold_damage",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "global_maximum_added_cold_damage",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "AddedFireAndColdDamage"
+    },
+    "JunMasterVeiledAddedFireAndColdDamageInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireAndColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "from_self_minimum_added_fire_damage_taken",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "from_self_maximum_added_fire_damage_taken",
+                "max": 22,
+                "min": 20
+            },
+            {
+                "id": "from_self_minimum_added_cold_damage_taken",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "from_self_maximum_added_cold_damage_taken",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "SelfFireAndColdDamageTaken"
+    },
+    "JunMasterVeiledAddedFireAndColdDamageQuiver_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireAndColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_fire_damage",
+                "max": 10,
+                "min": 9
+            },
+            {
+                "id": "global_maximum_added_fire_damage",
+                "max": 14,
+                "min": 13
+            },
+            {
+                "id": "global_minimum_added_cold_damage",
+                "max": 10,
+                "min": 9
+            },
+            {
+                "id": "global_maximum_added_cold_damage",
+                "max": 14,
+                "min": 13
+            }
+        ],
+        "type": "AddedFireAndColdDamage"
+    },
+    "JunMasterVeiledAddedFireAndLightningDamage": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireAndLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_fire_damage",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "global_maximum_added_fire_damage",
+                "max": 22,
+                "min": 20
+            },
+            {
+                "id": "global_minimum_added_lightning_damage",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "global_maximum_added_lightning_damage",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "AddedFireAndLightningDamage"
+    },
+    "JunMasterVeiledAddedFireAndLightningDamageInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireAndLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "from_self_minimum_added_fire_damage_taken",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "from_self_maximum_added_fire_damage_taken",
+                "max": 22,
+                "min": 20
+            },
+            {
+                "id": "from_self_minimum_added_lightning_damage_taken",
+                "max": 16,
+                "min": 14
+            },
+            {
+                "id": "from_self_maximum_added_lightning_damage_taken",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "SelfFireAndLightningDamageTaken"
+    },
+    "JunMasterVeiledAddedFireAndLightningDamageQuiver_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireAndLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_fire_damage",
+                "max": 10,
+                "min": 9
+            },
+            {
+                "id": "global_maximum_added_fire_damage",
+                "max": 14,
+                "min": 13
+            },
+            {
+                "id": "global_minimum_added_lightning_damage",
+                "max": 10,
+                "min": 9
+            },
+            {
+                "id": "global_maximum_added_lightning_damage",
+                "max": 14,
+                "min": 13
+            }
+        ],
+        "type": "AddedFireAndLightningDamage"
+    },
+    "JunMasterVeiledAllDamage": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Leo's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 23,
+                "min": 20
+            }
+        ],
+        "type": "AllDamage"
+    },
+    "JunMasterVeiledAlwaysHits": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AlwaysHits"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Vagan's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_always_hit",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AlwaysHits"
+    },
+    "JunMasterVeiledAreaDamageAndAreaOfEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaDamageAndAreaOfEffect"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "area_damage_+%",
+                "max": 20,
+                "min": 17
+            },
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "AreaDamageAndAreaOfEffect"
+    },
+    "JunMasterVeiledArmourAndEnergyShield": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating",
+            "IncreasedEnergyShield"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "unveiled_mod",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_rating",
+                "max": 400,
+                "min": 365
+            },
+            {
+                "id": "base_maximum_energy_shield",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "ArmourAndEnergyShield"
+    },
+    "JunMasterVeiledArmourAndEvasionRating": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRating",
+            "IncreasedEvasionRating"
+        ],
+        "implicit_tags": [
+            "armour",
+            "evasion",
+            "unveiled_mod",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1500
+            },
+            {
+                "tag": "quiver",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_reduction_and_evasion_rating",
+                "max": 400,
+                "min": 365
+            }
+        ],
+        "type": "ArmourAndEvasionRating"
+    },
+    "JunMasterVeiledAvoidFreeze_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidFreeze"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Rin's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_freeze_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "base_avoid_chill_%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "AvoidFreezeAndChill"
+    },
+    "JunMasterVeiledAvoidStunAndElementalStatusAilments": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidStunAndElementalStatusAilments"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_all_elemental_status_%",
+                "max": 35,
+                "min": 30
+            },
+            {
+                "id": "base_avoid_stun_%",
+                "max": 35,
+                "min": 30
+            }
+        ],
+        "type": "AvoidStunAndElementalStatusAilments"
+    },
+    "JunMasterVeiledBaseLifeAndManaRegenInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 60,
+                "min": 55
+            },
+            {
+                "id": "mana_degeneration_per_minute_not_in_grace",
+                "max": 320,
+                "min": 320
+            }
+        ],
+        "type": "BaseLifeAndManaDegenGracePeriod"
+    },
+    "JunMasterVeiledBaseLifeAndManaRegen_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 60,
+                "min": 55
+            },
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 320,
+                "min": 320
+            }
+        ],
+        "type": "BaseLifeAndManaRegen"
+    },
+    "JunMasterVeiledBaseLifeAndMana_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 60,
+                "min": 55
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 60,
+                "min": 55
+            }
+        ],
+        "type": "BaseLifeAndMana"
+    },
+    "JunMasterVeiledBaseManaAndLifeRegenInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 60,
+                "min": 55
+            },
+            {
+                "id": "life_degeneration_per_minute_not_in_grace",
+                "max": 2000,
+                "min": 2000
+            }
+        ],
+        "type": "BaseManaAndLifeDegenGracePeriod"
+    },
+    "JunMasterVeiledBaseManaAndLifeRegen__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "gloves",
+                "weight": 1000
+            },
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 60,
+                "min": 55
+            },
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 2000,
+                "min": 2000
+            }
+        ],
+        "type": "BaseManaAndLifeRegen"
+    },
+    "JunMasterVeiledBleedOnHitGained1h": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Tora's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_physical_damage",
+                "max": 14,
+                "min": 12
+            },
+            {
+                "id": "local_maximum_added_physical_damage",
+                "max": 20,
+                "min": 18
+            },
+            {
+                "id": "local_chance_to_bleed_on_hit_%",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "LocalAddedPhysicalDamageAndCausesBleeding"
+    },
+    "JunMasterVeiledBleedOnHitGained2h": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Tora's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_physical_damage",
+                "max": 20,
+                "min": 17
+            },
+            {
+                "id": "local_maximum_added_physical_damage",
+                "max": 28,
+                "min": 26
+            },
+            {
+                "id": "local_chance_to_bleed_on_hit_%",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "LocalAddedPhysicalDamageAndCausesBleeding"
+    },
+    "JunMasterVeiledBlockPercent": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlockPercent"
+        ],
+        "implicit_tags": [
+            "block",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_base_block_%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "BlockPercent"
+    },
+    "JunMasterVeiledChanceToNotConsumeFlaskCharges": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskChargesUsed"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flasks_%_chance_to_not_consume_charges",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "FlaskChanceToNotConsumeCharges"
+    },
+    "JunMasterVeiledChaosDamageAndChaosSkillDuration1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 69,
+                "min": 60
+            },
+            {
+                "id": "chaos_skill_effect_duration_+%",
+                "max": 15,
+                "min": 13
+            }
+        ],
+        "type": "ChaosDamageAndChaosSkillDuration"
+    },
+    "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 99,
+                "min": 90
+            },
+            {
+                "id": "chaos_skill_effect_duration_+%",
+                "max": 30,
+                "min": 26
+            }
+        ],
+        "type": "ChaosDamageAndChaosSkillDuration"
+    },
+    "JunMasterVeiledChaosNonAilmentDamageOverTimeMultiplier1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledChaosNonAilmentDamageOverTimeMultiplier2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 48,
+                "min": 44
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledChaosPenetrationWithAttacks__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosPenetrationWithAttacks"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_chaos_penetration_%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "LocalChaosPenetration"
+    },
+    "JunMasterVeiledColdAddedAsChaos1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NonChaosAddedAsChaos"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "It's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_%_to_add_as_chaos",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ColdAddedAsChaos"
+    },
+    "JunMasterVeiledColdAddedAsChaos2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NonChaosAddedAsChaos"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "It's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_%_to_add_as_chaos",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "ColdAddedAsChaos"
+    },
+    "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 79,
+                "min": 70
+            },
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 23,
+                "min": 21
+            }
+        ],
+        "type": "ColdDamageAndBaseChanceToFreeze"
+    },
+    "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 109,
+                "min": 100
+            },
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "ColdDamageAndBaseChanceToFreeze"
+    },
+    "JunMasterVeiledColdDamageOverTimeMultiplier1h": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledColdDamageOverTimeMultiplier2h_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 48,
+                "min": 44
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledDamageDuringFlaskEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Brinerot",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_during_flask_effect",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "DamageDuringFlaskEffect"
+    },
+    "JunMasterVeiledDamageWhileLeeching": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageWhileLeeching"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Vorici's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_while_leeching",
+                "max": 60,
+                "min": 54
+            }
+        ],
+        "type": "DamageWhileLeeching"
+    },
+    "JunMasterVeiledDodgeChanceDuringFocus_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DodgeChanceDuringFocus"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "unveiled_mod",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "boots",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%_during_focus",
+                "max": 32,
+                "min": 30
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DodgeChanceDuringFocus"
+    },
+    "JunMasterVeiledElementalPenetrationWithAttacks_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalAttackReduceEnemyElementalResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_elemental_penetration_%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "LocalAttackReduceEnemyElementalResistance"
+    },
+    "JunMasterVeiledEvasionRatingAndEnergyShield": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedEvasionRating",
+            "IncreasedEnergyShield"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "evasion",
+            "unveiled_mod",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1500
+            },
+            {
+                "tag": "quiver",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_evasion_rating",
+                "max": 400,
+                "min": 365
+            },
+            {
+                "id": "base_maximum_energy_shield",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "EvasionRatingAndEnergyShield"
+    },
+    "JunMasterVeiledFireAddedAsChaos1h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NonChaosAddedAsChaos"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "It's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_%_to_add_as_chaos",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "FireAddedAsChaos"
+    },
+    "JunMasterVeiledFireAddedAsChaos2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NonChaosAddedAsChaos"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "It's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_%_to_add_as_chaos",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "FireAddedAsChaos"
+    },
+    "JunMasterVeiledFireDamageAndChanceToIgnite1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 79,
+                "min": 70
+            },
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 23,
+                "min": 21
+            }
+        ],
+        "type": "FireDamageAndChanceToIgnite"
+    },
+    "JunMasterVeiledFireDamageAndChanceToIgnite2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 109,
+                "min": 100
+            },
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "FireDamageAndChanceToIgnite"
+    },
+    "JunMasterVeiledFireDamageOverTimeMultiplier1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledFireDamageOverTimeMultiplier2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 48,
+                "min": 44
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledFlaskEffect": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_effect_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "FlaskEffect"
+    },
+    "JunMasterVeiledFlaskEffectAndFlaskChargesGained": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_effect_+%",
+                "max": 18,
+                "min": 15
+            },
+            {
+                "id": "charges_gained_+%",
+                "max": -33,
+                "min": -33
+            }
+        ],
+        "type": "FlaskEffectAndFlaskChargesGained"
+    },
+    "JunMasterVeiledIncreasedManaAndRegen": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 55,
+                "min": 51
+            },
+            {
+                "id": "base_mana_regeneration_rate_per_minute",
+                "max": 320,
+                "min": 320
+            }
+        ],
+        "type": "IncreasedManaAndRegen"
+    },
+    "JunMasterVeiledIncreasedManaAndRegenInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 55,
+                "min": 51
+            },
+            {
+                "id": "mana_degeneration_per_minute_not_in_grace",
+                "max": 320,
+                "min": 320
+            }
+        ],
+        "type": "IncreasedManaAndDegenGracePeriod"
+    },
+    "JunMasterVeiledLifeAddedAsEnergyShield": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeAddedAsEnergyShield"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "unveiled_mod",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Gravicius'",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_%_to_add_as_maximum_energy_shield",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "LifeAddedAsEnergyShield"
+    },
+    "JunMasterVeiledLightningAddedAsChaos1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NonChaosAddedAsChaos"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "lightning",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "It's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_%_to_add_as_chaos",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "LightningAddedAsChaos"
+    },
+    "JunMasterVeiledLightningAddedAsChaos2h__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NonChaosAddedAsChaos"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "lightning",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "It's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_%_to_add_as_chaos",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "LightningAddedAsChaos"
+    },
+    "JunMasterVeiledLightningDamageAndChanceToShock1h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 79,
+                "min": 70
+            },
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 23,
+                "min": 21
+            }
+        ],
+        "type": "LightningDamageAndChanceToShock"
+    },
+    "JunMasterVeiledLightningDamageAndChanceToShock2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 109,
+                "min": 100
+            },
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "LightningDamageAndChanceToShock"
+    },
+    "JunMasterVeiledLocalIncreaseSocketedSupportGemLevel": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Catarina's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_support_gem_level_+",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_socketed_support_gem_quality_+",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "LocalIncreaseSocketedSupportGemLevelAndQuality"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndEnergyShieldAndLife": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "LocalIncreasedArmourAndEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndEnergyShieldAndLifeHigh": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalIncreasedArmourAndEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndEnergyShieldAndLifeMed": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "LocalIncreasedArmourAndEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndEvasionAndLife": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "LocalIncreasedArmourAndEvasionAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndEvasionAndLifeHigh": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalIncreasedArmourAndEvasionAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndEvasionAndLifeMed": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "LocalIncreasedArmourAndEvasionAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndLifeHigh": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_reduction_rating_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalIncreasedArmourAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndLifeMed___": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_reduction_rating_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "LocalIncreasedArmourAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedArmourAndLife_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_reduction_rating_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "LocalIncreasedArmourAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedDefencesAndLife": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "LocalIncreasedDefencesAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedDefencesAndLifeHigh__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalIncreasedDefencesAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedDefencesAndLifeMed": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "LocalIncreasedDefencesAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEnergyShieldAndLifeHigh": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalIncreasedEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEnergyShieldAndLifeMed": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "LocalIncreasedEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEnergyShieldAndLife_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "LocalIncreasedEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEvasionAndEnergyShieldAndLife": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "LocalIncreasedEvasionAndEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEvasionAndEnergyShieldAndLifeHigh": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalIncreasedEvasionAndEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEvasionAndEnergyShieldAndLifeMed": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_and_energy_shield_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "LocalIncreasedEvasionAndEnergyShieldAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEvasionAndLifeHigh_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_rating_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalIncreasedEvasionAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEvasionAndLifeMed___": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_rating_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "LocalIncreasedEvasionAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedEvasionAndLife__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseLocalDefencesAndLife"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "resource",
+            "unveiled_mod",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_rating_+%",
+                "max": 28,
+                "min": 24
+            },
+            {
+                "id": "base_maximum_life",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "LocalIncreasedEvasionAndLife"
+    },
+    "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalPhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_+%",
+                "max": 139,
+                "min": 120
+            },
+            {
+                "id": "local_chance_to_bleed_on_hit_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "LocalIncreasedPhysicalDamageAndBleedChance"
+    },
+    "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalPhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_+%",
+                "max": 139,
+                "min": 120
+            },
+            {
+                "id": "local_chance_to_blind_on_hit_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "LocalIncreasedPhysicalDamageAndBlindChance"
+    },
+    "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalPhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_+%",
+                "max": 139,
+                "min": 120
+            },
+            {
+                "id": "local_attacks_impale_on_hit_%_chance",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "LocalIncreasedPhysicalDamageAndImpaleChance"
+    },
+    "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalPhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "chaos_damage",
+            "bleed",
+            "poison",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "chaos",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "sceptre",
+                "weight": 500
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_+%",
+                "max": 139,
+                "min": 120
+            },
+            {
+                "id": "local_poison_on_hit_%",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "LocalIncreasedPhysicalDamageAndPoisonChance"
+    },
+    "JunMasterVeiledManaAndDamageTakenGoesToManaPercent": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 55,
+                "min": 51
+            },
+            {
+                "id": "damage_taken_goes_to_mana_%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ManaAndDamageTakenGoesToManaPercent"
+    },
+    "JunMasterVeiledManaAndManaCostPercent": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "amulet",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 55,
+                "min": 51
+            },
+            {
+                "id": "base_mana_cost_-%",
+                "max": 7,
+                "min": 6
+            }
+        ],
+        "type": "ManaAndManaCostPercent"
+    },
+    "JunMasterVeiledMaximumCurse": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalCurseOnEnemies"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "number_of_additional_curses_allowed",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalCurseOnEnemies"
+    },
+    "JunMasterVeiledMaximumZombieAndSkeleton": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumMinionCount"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_zombies_allowed",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "base_number_of_skeletons_allowed",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "minion_maximum_life_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "MaximumMinionCountAndMinionLife"
+    },
+    "JunMasterVeiledMeleeDamageAndMeleeRange": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeRangeAndMeleeDamage"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_damage_+%",
+                "max": 20,
+                "min": 17
+            },
+            {
+                "id": "melee_range_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MeleeDamageAndMeleeRange"
+    },
+    "JunMasterVeiledMeleeRangeAndMeleeGemLevel": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeRangeAndMeleeGemLevel"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "attack",
+            "attack",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1500
+            },
+            {
+                "tag": "gloves",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_range_+",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_socketed_melee_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MeleeRangeAndMeleeGemLevel"
+    },
+    "JunMasterVeiledMinionDamageAndMinionMaximumLife1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 38,
+                "min": 34
+            },
+            {
+                "id": "minion_maximum_life_+%",
+                "max": 38,
+                "min": 34
+            }
+        ],
+        "type": "MinionDamageAndMinionMaximumLife"
+    },
+    "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 59,
+                "min": 50
+            },
+            {
+                "id": "minion_maximum_life_+%",
+                "max": 59,
+                "min": 50
+            }
+        ],
+        "type": "MinionDamageAndMinionMaximumLife"
+    },
+    "JunMasterVeiledMovementVelocityAndCannotBeChilled__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "elemental",
+            "cold",
+            "speed",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 30,
+                "min": 25
+            },
+            {
+                "id": "base_avoid_chill_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MovementVelocityAndCannotBeChilled"
+    },
+    "JunMasterVeiledMovementVelocityAndMovementVelocityIfNotHitRecently": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 30,
+                "min": 25
+            },
+            {
+                "id": "movement_velocity_while_not_hit_+%",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "MovementVelocityAndMovementVelocityIfNotHitRecently"
+    },
+    "JunMasterVeiledMovementVelocityAndOnslaughtOnKill": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementVelocity"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "boots",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 30,
+                "min": 25
+            },
+            {
+                "id": "chance_to_gain_onslaught_on_kill_%",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "MovementVelocityAndOnslaughtOnKill"
+    },
+    "JunMasterVeiledPercentageLifeAndMana": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLifeIncreasePercent",
+            "MaximumManaIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": 10,
+                "min": 9
+            },
+            {
+                "id": "maximum_mana_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "PercentageLifeAndMana"
+    },
+    "JunMasterVeiledPhysicalAddedAsChaos1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NonChaosAddedAsChaos"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "It's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_%_to_add_as_chaos",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "PhysicalAddedAsChaos"
+    },
+    "JunMasterVeiledPhysicalAddedAsChaos2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "NonChaosAddedAsChaos"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "It's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_%_to_add_as_chaos",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "PhysicalAddedAsChaos"
+    },
+    "JunMasterVeiledPhysicalDamageConvertedToCold": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConvertPhysicalToCold"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_%_to_convert_to_cold",
+                "max": 35,
+                "min": 30
+            }
+        ],
+        "type": "ConvertPhysicalToCold"
+    },
+    "JunMasterVeiledPhysicalDamageConvertedToFire_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConvertPhysicalToFire"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_%_to_convert_to_fire",
+                "max": 35,
+                "min": 30
+            }
+        ],
+        "type": "ConvertPhysicalToFire"
+    },
+    "JunMasterVeiledPhysicalDamageConvertedToLightning": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConvertPhysicalToLightning"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "unveiled_mod",
+            "damage",
+            "physical",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_%_to_convert_to_lightning",
+                "max": 35,
+                "min": 30
+            }
+        ],
+        "type": "ConvertPhysicalToLightning"
+    },
+    "JunMasterVeiledPhysicalDamageOverTimeMultiplier1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "unveiled_mod",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledPhysicalDamageOverTimeMultiplier2h_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "unveiled_mod",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 48,
+                "min": 44
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "JunMasterVeiledPhysicalDamageReductionDuringFocus_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageReductionDuringFocus"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1500
+            },
+            {
+                "tag": "gloves",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_physical_damage_reduction_%_during_focus",
+                "max": 15,
+                "min": 13
+            },
+            {
+                "id": "grant_focus_skill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PhysicalDamageReductionDuringFocus"
+    },
+    "JunMasterVeiledPhysicalDamageReductionRatingDuringSoulGainPrevention": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageReductionRatingDuringSoulGainPrevention"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "shield",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_during_soul_gain_prevention",
+                "max": 4000,
+                "min": 3201
+            }
+        ],
+        "type": "PhysicalDamageReductionRatingDuringSoulGainPrevention"
+    },
+    "JunMasterVeiledPhysicalDamageTakenAsFirePercent__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "physical",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Korell's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_fire",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "PhysicalDamageTakenAsFirePercent"
+    },
+    "JunMasterVeiledPhysicalTakenAsFireAndLightning": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTakenAsElement"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "physical",
+            "elemental",
+            "fire",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Gravicius'",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_%_as_fire",
+                "max": 9,
+                "min": 8
+            },
+            {
+                "id": "physical_damage_taken_%_as_lightning",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "PhysicalDamageTakenAsFireAndLightningPercent"
+    },
+    "JunMasterVeiledProjectileDamageAndProjectileSpeed": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileDamageAndProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "damage",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_+%",
+                "max": 20,
+                "min": 17
+            },
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 25,
+                "min": 23
+            }
+        ],
+        "type": "ProjectileDamageAndProjectileSpeed"
+    },
+    "JunMasterVeiledProjectilePierceAndProjectileGemLevel": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectilePierceAndProjectileGemLevel"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1500
+            },
+            {
+                "tag": "gloves",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_base_number_of_targets_to_pierce",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_socketed_projectile_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "ProjectilePierceAndProjectileGemLevel"
+    },
+    "JunMasterVeiledReduceGlobalFlatManaCost": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseFlatManaCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Elreon's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "skill_mana_cost_+",
+                "max": -9,
+                "min": -10
+            }
+        ],
+        "type": "IncreaseManaCostFlat"
+    },
+    "JunMasterVeiledReduceGlobalFlatManaCostChannellingInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseFlatManaCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Elreon's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_cost_+_with_channelling_skills",
+                "max": -4,
+                "min": -4
+            }
+        ],
+        "type": "ManaCostBaseChannelled"
+    },
+    "JunMasterVeiledReduceGlobalFlatManaCostChannelling_": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseFlatManaCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Elreon's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1500
+            },
+            {
+                "tag": "amulet",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "skill_mana_cost_+_with_channelling_skills",
+                "max": -4,
+                "min": -4
+            }
+        ],
+        "type": "ManaCostTotalChannelled"
+    },
+    "JunMasterVeiledReduceGlobalFlatManaCostNonChannelling": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseFlatManaCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Elreon's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1500
+            },
+            {
+                "tag": "amulet",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "skill_mana_cost_+_with_non_channelling_skills",
+                "max": -9,
+                "min": -10
+            }
+        ],
+        "type": "ManaCostTotalNonChannelled"
+    },
+    "JunMasterVeiledReduceGlobalFlatManaCostNonChannellingInverted": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseFlatManaCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "unveiled_mod",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Elreon's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_cost_+_with_non_channelling_skills",
+                "max": -9,
+                "min": -10
+            }
+        ],
+        "type": "ManaCostBaseNonChannelled"
+    },
+    "JunMasterVeiledSkillAreaOfEffectPercentAndAreaOfEffectGemLevel": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SkillAreaOfEffectPercentAndAreaOfEffectGemLevel"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1500
+            },
+            {
+                "tag": "gloves",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 10,
+                "min": 8
+            },
+            {
+                "id": "local_socketed_area_of_effect_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "SkillAreaOfEffectPercentAndAreaOfEffectGemLevel"
+    },
+    "JunMasterVeiledSocketedGemQuality": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SocketedGemQuality"
+        ],
+        "implicit_tags": [
+            "unveiled_mod",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Haku's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_gem_quality_+",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "SocketedGemQuality"
+    },
+    "JunMasterVeiledSpellBlockPercent____": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block",
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_block_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "SpellBlockPercentage"
+    },
+    "JunMasterVeiledSpellDamageAndManaRegenerationRate1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "unveiled_mod",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 79,
+                "min": 70
+            },
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 20,
+                "min": 18
+            }
+        ],
+        "type": "SpellDamageAndManaRegenerationRate"
+    },
+    "JunMasterVeiledSpellDamageAndManaRegenerationRate2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "resource",
+            "unveiled_mod",
+            "mana",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 109,
+                "min": 100
+            },
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "SpellDamageAndManaRegenerationRate"
+    },
+    "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 69,
+                "min": 60
+            },
+            {
+                "id": "non_chaos_damage_to_add_as_chaos_damage_%",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "SpellDamageAndNonChaosDamageToAddAsChaosDamage"
+    },
+    "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "chaos_damage",
+            "unveiled_mod",
+            "damage",
+            "chaos",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 99,
+                "min": 90
+            },
+            {
+                "id": "non_chaos_damage_to_add_as_chaos_damage_%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "SpellDamageAndNonChaosDamageToAddAsChaosDamage"
+    },
+    "JunMasterVeiledSpellDodgePercentage__": {
+        "adds_tags": [],
+        "domain": "unveiled",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [
+            "unveiled_mod"
+        ],
+        "is_essence_only": false,
+        "name": "Chosen",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_150%_of_value",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "ChanceToSuppressSpellsOld"
+    }
+}

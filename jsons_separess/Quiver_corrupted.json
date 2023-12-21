@@ -1,0 +1,1087 @@
+{
+    "AdditionalArrowsCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalArrows"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_additional_arrows",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalArrows"
+    },
+    "DamageConversionColdCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConvertPhysicalToCold"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "damage",
+            "physical",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_%_to_convert_to_cold",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "ConvertPhysicalToCold"
+    },
+    "DamageConversionFireCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ConvertPhysicalToFire"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "damage",
+            "physical",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_%_to_convert_to_fire",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "ConvertPhysicalToFire"
+    },
+    "DamageConversionLighningCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageAsPortionOfDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "damage",
+            "physical",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_%_to_convert_to_lightning",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "MonsterConvertPhysicalDamageToLightning"
+    },
+    "ProjectileWeaknessSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SnipersMark",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_projectile_weakness_level",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "ProjectileWeaknessSkill"
+    },
+    "V2AddedChaosDamageToBowAttacksCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedChaosDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_chaos_damage_with_bows",
+                "max": 29,
+                "min": 23
+            },
+            {
+                "id": "attack_maximum_added_chaos_damage_with_bows",
+                "max": 43,
+                "min": 37
+            }
+        ],
+        "type": "AddedChaosDamageToBowAttacksCorrupted"
+    },
+    "V2AddedColdDamageToBowAttacksCorrupted1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_cold_damage_with_bows",
+                "max": 11,
+                "min": 8
+            },
+            {
+                "id": "attack_maximum_added_cold_damage_with_bows",
+                "max": 21,
+                "min": 18
+            }
+        ],
+        "type": "AddedColdDamageToBowAttacksCorrupted"
+    },
+    "V2AddedColdDamageToBowAttacksCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_cold_damage_with_bows",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "attack_maximum_added_cold_damage_with_bows",
+                "max": 45,
+                "min": 38
+            }
+        ],
+        "type": "AddedColdDamageToBowAttacksCorrupted"
+    },
+    "V2AddedColdDamageToBowAttacksCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_cold_damage_with_bows",
+                "max": 35,
+                "min": 29
+            },
+            {
+                "id": "attack_maximum_added_cold_damage_with_bows",
+                "max": 62,
+                "min": 55
+            }
+        ],
+        "type": "AddedColdDamageToBowAttacksCorrupted"
+    },
+    "V2AddedFireDamageToBowAttacksCorrupted1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_fire_damage_with_bow",
+                "max": 14,
+                "min": 11
+            },
+            {
+                "id": "attack_maximum_added_fire_damage_with_bow",
+                "max": 25,
+                "min": 21
+            }
+        ],
+        "type": "AddedFireDamageToBowAttacksCorrupted"
+    },
+    "V2AddedFireDamageToBowAttacksCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_fire_damage_with_bow",
+                "max": 31,
+                "min": 24
+            },
+            {
+                "id": "attack_maximum_added_fire_damage_with_bow",
+                "max": 55,
+                "min": 46
+            }
+        ],
+        "type": "AddedFireDamageToBowAttacksCorrupted"
+    },
+    "V2AddedFireDamageToBowAttacksCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_fire_damage_with_bow",
+                "max": 39,
+                "min": 29
+            },
+            {
+                "id": "attack_maximum_added_fire_damage_with_bow",
+                "max": 69,
+                "min": 59
+            }
+        ],
+        "type": "AddedFireDamageToBowAttacksCorrupted"
+    },
+    "V2AddedLightningDamageToBowAttacksCorrupted1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_lightning_damage_with_bows",
+                "max": 3,
+                "min": 1
+            },
+            {
+                "id": "attack_maximum_added_lightning_damage_with_bows",
+                "max": 39,
+                "min": 38
+            }
+        ],
+        "type": "AddedLightningDamageToBowAttacksCorrupted"
+    },
+    "V2AddedLightningDamageToBowAttacksCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_lightning_damage_with_bows",
+                "max": 7,
+                "min": 3
+            },
+            {
+                "id": "attack_maximum_added_lightning_damage_with_bows",
+                "max": 85,
+                "min": 81
+            }
+        ],
+        "type": "AddedLightningDamageToBowAttacksCorrupted"
+    },
+    "V2AddedLightningDamageToBowAttacksCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_lightning_damage_with_bows",
+                "max": 8,
+                "min": 3
+            },
+            {
+                "id": "attack_maximum_added_lightning_damage_with_bows",
+                "max": 106,
+                "min": 101
+            }
+        ],
+        "type": "AddedLightningDamageToBowAttacksCorrupted"
+    },
+    "V2AddedPhysicalDamageToBowAttacksCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedPhysicalDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_physical_damage_with_bow",
+                "max": 4,
+                "min": 3
+            },
+            {
+                "id": "attack_maximum_added_physical_damage_with_bow",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "AddedPhysicalDamageToBowAttacksCorrupted"
+    },
+    "V2AddedPhysicalDamageToBowAttacksCorrupted2___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedPhysicalDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_physical_damage_with_bow",
+                "max": 7,
+                "min": 5
+            },
+            {
+                "id": "attack_maximum_added_physical_damage_with_bow",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "AddedPhysicalDamageToBowAttacksCorrupted"
+    },
+    "V2AddedPhysicalDamageToBowAttacksCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedPhysicalDamageToBowAttacksCorrupted"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_physical_damage_with_bow",
+                "max": 12,
+                "min": 9
+            },
+            {
+                "id": "attack_maximum_added_physical_damage_with_bow",
+                "max": 19,
+                "min": 16
+            }
+        ],
+        "type": "AddedPhysicalDamageToBowAttacksCorrupted"
+    },
+    "V2AdditionalArrowsCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalArrows"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "bow",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_additional_arrows",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalArrows"
+    },
+    "V2AdditionalChainCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Chain"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "arrow_chains_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalArrowChain"
+    },
+    "V2ChanceToSuppressSpells_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToSuppressSpells"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "ChanceToSuppressSpells"
+    },
+    "V2IncreasedProjectileDamageForEachChainCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedProjectileDamageForEachChain"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_+%_per_chain",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedProjectileDamageForEachChain"
+    },
+    "V2IncreasedProjectileDamageForEachPierceCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileDamagePerEnemyPierced"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "projectile_damage_+%_per_pierced_enemy",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "ProjectileDamagePerEnemyPierced"
+    },
+    "V2PhysicalDamageAddedAsColdCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageAsPortionOfDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "damage",
+            "physical",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_%_to_add_as_cold",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "ColdDamageAsPortionOfDamage"
+    },
+    "V2PhysicalDamageAddedAsFireCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageAsPortionOfDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "damage",
+            "physical",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_%_to_add_as_fire",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "FireDamageAsPortionOfDamage"
+    },
+    "V2PhysicalDamageAddedAsLightningCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageAsPortionOfDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "elemental_damage",
+            "damage",
+            "physical",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_%_to_add_as_lightning",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "LightningDamageAsPortionOfDamage"
+    },
+    "V2PointBlankCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "Keystone"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "keystone_point_blank",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "PointBlank"
+    }
+}

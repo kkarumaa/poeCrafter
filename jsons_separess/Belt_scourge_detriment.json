@@ -1,0 +1,385 @@
+{
+    "HellscapeDownsideCooldownRecoveryRate3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CooldownRecovery"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cooldown_speed_+%",
+                "max": -12,
+                "min": -16
+            }
+        ],
+        "type": "GlobalCooldownRecovery"
+    },
+    "HellscapeDownsideDealNoDamageYourself_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeDownsideDealNoDamageYourself"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "deal_no_damage_yourself",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "HellscapeDownsideDealNoDamageYourself"
+    },
+    "HellscapeDownsideFlaskChargesGained2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": -22,
+                "min": -30
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "HellscapeDownsideFlaskChargesGained3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "charges_gained_+%",
+                "max": -32,
+                "min": -40
+            }
+        ],
+        "type": "BeltIncreasedFlaskChargesGained"
+    },
+    "HellscapeDownsideFlaskChargesUsed2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_charges_used_+%",
+                "max": 40,
+                "min": 32
+            }
+        ],
+        "type": "BeltReducedFlaskChargesUsed"
+    },
+    "HellscapeDownsideFlaskChargesUsed3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskCharges"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_charges_used_+%",
+                "max": 50,
+                "min": 42
+            }
+        ],
+        "type": "BeltReducedFlaskChargesUsed"
+    },
+    "HellscapeDownsideFlaskLifeRecoveryRate2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecovery"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_to_recover_+%",
+                "max": -24,
+                "min": -28
+            }
+        ],
+        "type": "BeltFlaskLifeRecovery"
+    },
+    "HellscapeDownsideFlaskLifeRecoveryRate3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecovery"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_to_recover_+%",
+                "max": -30,
+                "min": -34
+            }
+        ],
+        "type": "BeltFlaskLifeRecovery"
+    },
+    "HellscapeDownsideFlaskManaRecoveryRate2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecovery"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_to_recover_+%",
+                "max": -24,
+                "min": -28
+            }
+        ],
+        "type": "BeltFlaskManaRecovery"
+    },
+    "HellscapeDownsideFlaskManaRecoveryRate3___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BeltFlaskRecovery"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "belt",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_mana_to_recover_+%",
+                "max": -30,
+                "min": -34
+            }
+        ],
+        "type": "BeltFlaskManaRecovery"
+    },
+    "HellscapeDownsideLifePercentage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLifeIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "belt",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": -15,
+                "min": -18
+            }
+        ],
+        "type": "MaximumLifeIncreasePercent"
+    }
+}

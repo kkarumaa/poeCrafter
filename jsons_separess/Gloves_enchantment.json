@@ -1,0 +1,3246 @@
+{
+    "EnchantmentOfBladesOnHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfBladesOnHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Blades",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_blades_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_blades_on_hit_%_",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_blades_on_hit_%__",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_blades_on_hit_%_",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfBladesOnHit"
+    },
+    "EnchantmentOfBladesOnHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfBladesOnHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Blades",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_blades_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_blades_on_hit_%_",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_blades_on_hit_%__",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_blades_on_hit_%_",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfBladesOnHit"
+    },
+    "EnchantmentOfBladesOnHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfBladesOnHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Blades",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_blades_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_blades_on_hit_%_",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_blades_on_hit_%__",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_blades_on_hit_%_",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfBladesOnHit"
+    },
+    "EnchantmentOfBladesOnHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfBladesOnHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Blades",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_blades_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_blades_on_hit_%_",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_blades_on_hit_%__",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_blades_on_hit_%_",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfBladesOnHit"
+    },
+    "EnchantmentOfFlamesOnHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFlamesOnHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Flames",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_flames_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFlamesOnHit"
+    },
+    "EnchantmentOfFlamesOnHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFlamesOnHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Flames",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_flames_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFlamesOnHit"
+    },
+    "EnchantmentOfFlamesOnHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFlamesOnHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Flames",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_flames_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFlamesOnHit"
+    },
+    "EnchantmentOfFlamesOnHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFlamesOnHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Flames",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_flames_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_flames_on_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfFlamesOnHit"
+    },
+    "EnchantmentOfForceOnHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfForceOnHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Force",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_force_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_edict_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfForceOnHit"
+    },
+    "EnchantmentOfForceOnHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfForceOnHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Force",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_force_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_decree_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfForceOnHit"
+    },
+    "EnchantmentOfForceOnHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfForceOnHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Force",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_force_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_commandment_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfForceOnHit"
+    },
+    "EnchantmentOfForceOnHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfForceOnHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Force",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_force_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_force_on_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfForceOnHit"
+    },
+    "EnchantmentOfFrostOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFrostOnKill",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Frost",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_frost_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFrostOnKill"
+    },
+    "EnchantmentOfFrostOnKill2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFrostOnKill2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Frost",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_frost_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFrostOnKill"
+    },
+    "EnchantmentOfFrostOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFrostOnKill3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Frost",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_frost_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFrostOnKill"
+    },
+    "EnchantmentOfFrostOnKill4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFrostOnKill4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Frost",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_frost_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_frost_on_kill_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfFrostOnKill"
+    },
+    "EnchantmentOfFuryOnHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFuryOnHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Fury",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_fury_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_edict_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFuryOnHit"
+    },
+    "EnchantmentOfFuryOnHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFuryOnHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Fury",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_fury_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_decree_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFuryOnHit"
+    },
+    "EnchantmentOfFuryOnHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFuryOnHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Fury",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_fury_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_commandment_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfFuryOnHit"
+    },
+    "EnchantmentOfFuryOnHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfFuryOnHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Fury",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_fury_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_fury_on_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfFuryOnHit"
+    },
+    "EnchantmentOfInfernoOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfInfernoOnKill",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Inferno",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_inferno_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfInfernoOnKill"
+    },
+    "EnchantmentOfInfernoOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfInfernoOnKill2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Inferno",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_inferno_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfInfernoOnKill"
+    },
+    "EnchantmentOfInfernoOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfInfernoOnKill3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Inferno",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_inferno_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfInfernoOnKill"
+    },
+    "EnchantmentOfInfernoOnKill4_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfInfernoOnKill4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Inferno",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_inferno_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_inferno_on_kill_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfInfernoOnKill"
+    },
+    "EnchantmentOfIreWhenHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfIreWhenHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Ire",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_ire_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_edict_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfIreWhenHit"
+    },
+    "EnchantmentOfIreWhenHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfIreWhenHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Ire",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_ire_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_decree_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfIreWhenHit"
+    },
+    "EnchantmentOfIreWhenHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfIreWhenHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Ire",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_ire_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_commandment_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfIreWhenHit"
+    },
+    "EnchantmentOfIreWhenHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfIreWhenHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Ire",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_ire_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_ire_when_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfIreWhenHit"
+    },
+    "EnchantmentOfLightWhenCrit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfLightWhenCrit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Light",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_light_when_critically_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_edict_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfLightWhenCrit"
+    },
+    "EnchantmentOfLightWhenCrit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfLightWhenCrit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Light",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_light_when_critically_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_decree_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfLightWhenCrit"
+    },
+    "EnchantmentOfLightWhenCrit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfLightWhenCrit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Light",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_light_when_critically_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_commandment_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfLightWhenCrit"
+    },
+    "EnchantmentOfLightWhenCrit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfLightWhenCrit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Light",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_light_when_critically_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_light_when_critically_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfLightWhenCrit"
+    },
+    "EnchantmentOfReflectionWhenHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfReflectionWhenHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Reflection",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_reflection_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfReflectionWhenHit"
+    },
+    "EnchantmentOfReflectionWhenHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfReflectionWhenHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Reflection",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_reflection_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfReflectionWhenHit"
+    },
+    "EnchantmentOfReflectionWhenHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfReflectionWhenHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Reflection",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_reflection_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfReflectionWhenHit"
+    },
+    "EnchantmentOfReflectionWhenHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfReflectionWhenHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Reflection",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_reflection_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_reflection_when_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfReflectionWhenHit"
+    },
+    "EnchantmentOfSpiteWhenHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfSpiteWhenHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Spite",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_spite_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_edict_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfSpiteWhenHit"
+    },
+    "EnchantmentOfSpiteWhenHit2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfSpiteWhenHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Spite",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_spite_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_decree_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfSpiteWhenHit"
+    },
+    "EnchantmentOfSpiteWhenHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfSpiteWhenHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Spite",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_spite_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_attack_with_commandment_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfSpiteWhenHit"
+    },
+    "EnchantmentOfSpiteWhenHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfSpiteWhenHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Spite",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_attack_with_word_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_edict_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_decree_of_spite_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_attack_with_commandment_of_spite_when_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfSpiteWhenHit"
+    },
+    "EnchantmentOfTempestOnHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfTempestOnHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of the Tempest",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_tempest_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfTempestOnHit"
+    },
+    "EnchantmentOfTempestOnHit2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfTempestOnHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of the Tempest",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_tempest_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfTempestOnHit"
+    },
+    "EnchantmentOfTempestOnHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfTempestOnHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of the Tempest",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_tempest_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfTempestOnHit"
+    },
+    "EnchantmentOfTempestOnHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfTempestOnHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of the Tempest",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_tempest_on_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_tempest_on_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfTempestOnHit"
+    },
+    "EnchantmentOfTheGraveOnKill1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfTheGraveOnKill",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of the Grave",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_the_grave_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfTheGraveOnKill"
+    },
+    "EnchantmentOfTheGraveOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfTheGraveOnKill2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of the Grave",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_the_grave_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfTheGraveOnKill"
+    },
+    "EnchantmentOfTheGraveOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfTheGraveOnKill3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of the Grave",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_the_grave_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfTheGraveOnKill"
+    },
+    "EnchantmentOfTheGraveOnKill4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfTheGraveOnKill4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of the Grave",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_the_grave_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_the_grave_on_kill_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfTheGraveOnKill"
+    },
+    "EnchantmentOfThunderOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfThunderOnKill",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Thunder",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_thunder_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfThunderOnKill"
+    },
+    "EnchantmentOfThunderOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfThunderOnKill2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Thunder",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_thunder_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfThunderOnKill"
+    },
+    "EnchantmentOfThunderOnKill3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfThunderOnKill3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Thunder",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_thunder_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfThunderOnKill"
+    },
+    "EnchantmentOfThunderOnKill4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfThunderOnKill4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Thunder",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_thunder_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_thunder_on_kill_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfThunderOnKill"
+    },
+    "EnchantmentOfWarOnKill1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfWarOnKill",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of War",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_war_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfWarOnKill"
+    },
+    "EnchantmentOfWarOnKill2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfWarOnKill2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of War",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_war_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfWarOnKill"
+    },
+    "EnchantmentOfWarOnKill3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfWarOnKill3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of War",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_war_on_kill_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfWarOnKill"
+    },
+    "EnchantmentOfWarOnKill4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfWarOnKill4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of War",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_war_on_kill_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_war_on_kill_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfWarOnKill"
+    },
+    "EnchantmentOfWinterWhenHit1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfWinterWhenHit",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Word of Winter",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_winter_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_edict_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfWinterWhenHit"
+    },
+    "EnchantmentOfWinterWhenHit2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfWinterWhenHit2",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Edict of Winter",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_winter_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_decree_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfWinterWhenHit"
+    },
+    "EnchantmentOfWinterWhenHit3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfWinterWhenHit3",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Decree of Winter",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_winter_when_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "display_cast_commandment_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "EnchantmentOfWinterWhenHit"
+    },
+    "EnchantmentOfWinterWhenHit4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "enchantment",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "EnchantmentOfWinterWhenHit4",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "TriggerEnchantment"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "Enchantment Commandment of Winter",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "gloves",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "display_cast_word_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_edict_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_decree_of_winter_when_hit_%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "display_cast_commandment_of_winter_when_hit_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "EnchantmentOfWinterWhenHit"
+    }
+}

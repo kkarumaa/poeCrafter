@@ -1,0 +1,369 @@
+{
+    "DualWieldBlockCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlockWhileDualWielding"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "block_while_dual_wielding_%",
+                "max": 6,
+                "min": 3
+            }
+        ],
+        "type": "BlockWhileDualWielding"
+    },
+    "LocalMeleeWeaponRangeCorrupted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeWeaponAndUnarmedRange"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_weapon_range_+",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "LocalMeleeWeaponRange"
+    },
+    "SupportedByFasterCastCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportFasterCast",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "DisplaySocketedGemsGetFasterCast"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_faster_cast_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "DisplaySocketedGemsGetFasterCast"
+    },
+    "SupportedByWeaponElementalDamageCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportWeaponElementalDamage",
+                "level": 12
+            }
+        ],
+        "groups": [
+            "SupportedByWeaponElementalDamage"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_weapon_elemental_damage_level",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "SupportedByWeaponElementalDamage"
+    },
+    "V2ChanceToGainEnduranceChargeOnStunCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GainEnduranceChargeOnStunChance"
+        ],
+        "implicit_tags": [
+            "endurance_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_endurance_charge_when_you_stun_enemy_%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "GainEnduranceChargeOnStunChance"
+    },
+    "V2ChanceToGainFortifyOnMeleeHitCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FortifyOnMeleeHit"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_fortify_on_melee_hit_+%",
+                "max": 15,
+                "min": 10
+            }
+        ],
+        "type": "FortifyOnMeleeHit"
+    },
+    "V2ChanceToGainOnslaughtOnKillCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToGainOnslaughtOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_onslaught_on_kill_%",
+                "max": 15,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToGainOnslaughtOnKill"
+    },
+    "V2IncreasedCastSpeedCorrupted__": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    }
+}

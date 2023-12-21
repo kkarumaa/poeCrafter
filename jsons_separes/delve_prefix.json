@@ -1,0 +1,3423 @@
+{
+    "DelveAbyssJewelMinionDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "MinionDamage"
+    },
+    "DelveArmourChaosResistance1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistancePrefix"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 35,
+                "min": 20
+            }
+        ],
+        "type": "ChaosResistancePrefix"
+    },
+    "DelveArmourColdResistance1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePrefix"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 35,
+                "min": 20
+            }
+        ],
+        "type": "ColdResistancePrefix"
+    },
+    "DelveArmourFireResistance1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePrefix"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 35,
+                "min": 20
+            }
+        ],
+        "type": "FireResistancePrefix"
+    },
+    "DelveArmourLightningResistance1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePrefix"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 35,
+                "min": 20
+            }
+        ],
+        "type": "LightningResistancePrefix"
+    },
+    "DelveBodyArmourAvoidCold1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageAvoidance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_cold_damage_%",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "ColdDamageAvoidance"
+    },
+    "DelveBodyArmourAvoidFire1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageAvoidance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_fire_damage_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "FireDamageAvoidance"
+    },
+    "DelveBodyArmourAvoidLightning1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageAvoidance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_lightning_damage_%",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "LightningDamageAvoidance"
+    },
+    "DelveBodyArmourLife1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeAndPercentLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 40,
+                "min": 25
+            },
+            {
+                "id": "maximum_life_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "LifeAndPercentLife"
+    },
+    "DelveBodyDamageRemovedFromManaBeforeLifeNew1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageRemovedFromManaBeforeLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_damage_removed_from_mana_before_life_%",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "DamageRemovedFromManaBeforeLife"
+    },
+    "DelveBootsSocketedChaosGemLevel1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_chaos_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedChaosGemLevel"
+    },
+    "DelveBootsSocketedColdGemLevel1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_cold_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedColdGemLevel"
+    },
+    "DelveBootsSocketedFireGemLevel1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_fire_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedFireGemLevel"
+    },
+    "DelveBootsSocketedLightningGemLevel1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreaseSpecificSocketedGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_lightning_gem_level_+",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalIncreaseSocketedLightningGemLevel"
+    },
+    "DelveGlovesAddedPhysicalDamageVsBleedingEnemies1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumAddedPhysicalDamageVsBleedingEnemies"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minimum_added_physical_damage_vs_bleeding_enemies",
+                "max": 11,
+                "min": 7
+            },
+            {
+                "id": "maximum_added_physical_damage_vs_bleeding_enemies",
+                "max": 18,
+                "min": 12
+            }
+        ],
+        "type": "AddedPhysicalDamageVsBleedingEnemies"
+    },
+    "DelveGlovesAddedPhysicalDamageVsPoisonedEnemies1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinimumAddedPhysicalDamageVsPoisonedEnemies"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minimum_added_physical_damage_vs_poisoned_enemies",
+                "max": 11,
+                "min": 7
+            },
+            {
+                "id": "maximum_added_physical_damage_vs_poisoned_enemies",
+                "max": 18,
+                "min": 12
+            }
+        ],
+        "type": "AddedPhysicalDamageVsPoisonedEnemies"
+    },
+    "DelveGlovesChaosDamageToSpells1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_chaos_damage",
+                "max": 20,
+                "min": 15
+            },
+            {
+                "id": "global_maximum_added_chaos_damage",
+                "max": 30,
+                "min": 21
+            }
+        ],
+        "type": "GlobalAddedChaosDamage"
+    },
+    "DelveGlovesColdDamageToSpells1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_cold_damage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "global_maximum_added_cold_damage",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "GlobalAddedColdDamage"
+    },
+    "DelveGlovesFireDamageToSpells1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_fire_damage",
+                "max": 25,
+                "min": 20
+            },
+            {
+                "id": "global_maximum_added_fire_damage",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "GlobalAddedFireDamage"
+    },
+    "DelveGlovesGlobalAddedPhysicalDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedPhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_physical_damage",
+                "max": 8,
+                "min": 6
+            },
+            {
+                "id": "global_maximum_added_physical_damage",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "GlobalAddedPhysicalDamage"
+    },
+    "DelveGlovesLightningDamageToSpells1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_minimum_added_lightning_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "global_maximum_added_lightning_damage",
+                "max": 60,
+                "min": 48
+            }
+        ],
+        "type": "GlobalAddedLightningDamage"
+    },
+    "DelveGlovesMinionDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "MinionDamage"
+    },
+    "DelveJewelColdPenetration1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "DelveJewelElementalPenetration1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalPenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 1600
+            },
+            {
+                "tag": "jewel",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_elemental_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ElementalPenetration"
+    },
+    "DelveJewelFirePenetration1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "DelveJewelGlobalDefences1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDefences"
+        ],
+        "implicit_tags": [
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_defences_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "AllDefences"
+    },
+    "DelveJewelLifeRegeneration1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRatePercentage"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_per_minute_%",
+                "max": 18,
+                "min": 18
+            }
+        ],
+        "type": "LifeRegenerationRatePercentage"
+    },
+    "DelveJewelLightningPenetration1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "DelveJewelPhysicalDamageOverTimeTaken1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageOverTimeTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_over_time_taken_+%",
+                "max": -1,
+                "min": -2
+            }
+        ],
+        "type": "PhysicalDamageOverTimeTaken"
+    },
+    "DelveJewelryChaosDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamagePrefix"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedChaosDamagePrefix"
+    },
+    "DelveJewelryColdDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "ColdDamagePercentagePrefix"
+    },
+    "DelveJewelryElementalPenetration1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalPenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 1600
+            },
+            {
+                "tag": "amulet",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_elemental_resistance_%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "ElementalPenetration"
+    },
+    "DelveJewelryFireDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "FireDamagePercentagePrefix"
+    },
+    "DelveJewelryLightningDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentagePrefix"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "LightningDamagePercentagePrefix"
+    },
+    "DelveJewelryPhysicalDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "PhysicalDamagePercentPrefix"
+    },
+    "DelveMapMonsterPacksVaalMapWorlds1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapMonsterPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "map",
+                "weight": 1000
+            },
+            {
+                "tag": "expedition_logbook",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "map_pack_size_+%",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "map_experience_gain_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "map_items_drop_corrupted_%",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "map_packs_are_vaal",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapMonsterPacksVaalMapWorlds"
+    },
+    "DelveNonBodyArmourLife1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeAndPercentLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 25,
+                "min": 15
+            },
+            {
+                "id": "maximum_life_+%",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "LifeAndPercentLife"
+    },
+    "DelveRingChaosLeech1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_chaos_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChaosDamageLifeLeechPermyriad"
+    },
+    "DelveRingColdLeech1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_cold_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ColdDamageLifeLeechPermyriad"
+    },
+    "DelveRingFireLeech1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_fire_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "FireDamageLifeLeechPermyriad"
+    },
+    "DelveRingLightningLeech1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_lightning_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "LightningDamageLifeLeechPermyriad"
+    },
+    "DelveRingPhysicalLeech1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_physical_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "PhysicalDamageLifeLeechPermyriad"
+    },
+    "DelveShieldPhysicalDamageReductionRating1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_additional_physical_damage_reduction_%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "ReducedPhysicalDamageTaken"
+    },
+    "DelveWeaponColdPenetration1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "DelveWeaponColdPenetration2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_cold_resistance_%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "ColdResistancePenetration"
+    },
+    "DelveWeaponElementalDamage1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 60,
+                "min": 40
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamage2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 120,
+                "min": 80
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamagev2_1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 25,
+                "min": 19
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamagev2_1h2_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 32,
+                "min": 26
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamagev2_1h3": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 39,
+                "min": 33
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamagev2_1h4": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 49,
+                "min": 40
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamagev2_2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 50,
+                "min": 37
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamagev2_2h2__": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 65,
+                "min": 51
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamagev2_2h3": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 79,
+                "min": 66
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponElementalDamagev2_2h4_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 94,
+                "min": 80
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveWeaponFirePenetration1h1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "DelveWeaponFirePenetration2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_fire_resistance_%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "FireResistancePenetration"
+    },
+    "DelveWeaponLightningPenetration1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "DelveWeaponLightningPenetration2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningResistancePenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_reduce_enemy_lightning_resistance_%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "LightningResistancePenetration"
+    },
+    "DelveWeaponLocalAttackReduceEnemyElementalResistance1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalAttackReduceEnemyElementalResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_elemental_penetration_%",
+                "max": 12,
+                "min": 9
+            }
+        ],
+        "type": "LocalAttackReduceEnemyElementalResistance"
+    },
+    "DelveWeaponLocalChanceForBleedingDamage100FinalInflictedWithThisWeapon1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChanceForBleedingDamage100FinalInflictedWithThisWeapon"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_chance_for_bleeding_damage_+100%_final_inflicted_with_this_weapon",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "LocalChanceForBleedingDamage100FinalInflictedWithThisWeapon"
+    },
+    "DelveWeaponLocalChanceForPoisonDamage100FinalInflictedWithThisWeapon1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChanceForPoisonDamage100FinalInflictedWithThisWeapon"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "poison",
+            "damage",
+            "chaos",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_chance_for_poison_damage_+100%_final_inflicted_with_this_weapon",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "LocalChanceForPoisonDamage100FinalInflictedWithThisWeapon"
+    },
+    "DelveWeaponMinionDamage1h1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 44,
+                "min": 30
+            }
+        ],
+        "type": "MinionDamageOnWeapon"
+    },
+    "DelveWeaponMinionDamage1h2": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 59,
+                "min": 45
+            }
+        ],
+        "type": "MinionDamageOnWeapon"
+    },
+    "DelveWeaponMinionDamage1h3___": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 74,
+                "min": 60
+            }
+        ],
+        "type": "MinionDamageOnWeapon"
+    },
+    "DelveWeaponMinionDamage1h4": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 80,
+                "min": 75
+            }
+        ],
+        "type": "MinionDamageOnWeapon"
+    },
+    "DelveWeaponMinionDamage2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 70,
+                "min": 51
+            }
+        ],
+        "type": "MinionDamageOnWeapon"
+    },
+    "DelveWeaponMinionDamage2h2": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 90,
+                "min": 71
+            }
+        ],
+        "type": "MinionDamageOnWeapon"
+    },
+    "DelveWeaponMinionDamage2h3_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 110,
+                "min": 91
+            }
+        ],
+        "type": "MinionDamageOnWeapon"
+    },
+    "DelveWeaponMinionDamage2h4": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "WeaponCasterDamagePrefix"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 130,
+                "min": 111
+            }
+        ],
+        "type": "MinionDamageOnWeapon"
+    },
+    "DelveWeaponSocketedAttacksDamageFinal1h1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DelveModSocketedAttackDamageFinal1h",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedAttacksDamageFinal"
+        ],
+        "implicit_tags": [
+            "skill",
+            "damage",
+            "attack",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_attack_damage_+%_final",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "SocketedAttacksDamageFinal"
+    },
+    "DelveWeaponSocketedAttacksDamageFinal2h1_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DelveModSocketedAttackDamageFinal2h",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedAttacksDamageFinal"
+        ],
+        "implicit_tags": [
+            "skill",
+            "damage",
+            "attack",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_attack_damage_+%_final",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SocketedAttacksDamageFinal"
+    },
+    "DelveWeaponSocketedSpellsDamageFinal1h1_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DelveModSocketedSpellDamageFinal1h",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedSpellsDamageFinal"
+        ],
+        "implicit_tags": [
+            "skill",
+            "caster_damage",
+            "damage",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_spell_damage_+%_final",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "SocketedSpellsDamageFinal"
+    },
+    "DelveWeaponSocketedSpellsDamageFinal2h1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DelveModSocketedSpellDamageFinal2h",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedSpellsDamageFinal"
+        ],
+        "implicit_tags": [
+            "skill",
+            "caster_damage",
+            "damage",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Subterranean",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_spell_damage_+%_final",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SocketedSpellsDamageFinal"
+    }
+}

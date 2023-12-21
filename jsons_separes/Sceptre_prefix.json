@@ -1,0 +1,3353 @@
+{
+    "IncreasedManaWeapon1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Beryl",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon10": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Mazarine",
+        "required_level": 69,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "wand",
+                "weight": 800
+            },
+            {
+                "tag": "claw",
+                "weight": 800
+            },
+            {
+                "tag": "dagger",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 129,
+                "min": 120
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon11": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Blue",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 600
+            },
+            {
+                "tag": "wand",
+                "weight": 600
+            },
+            {
+                "tag": "claw",
+                "weight": 600
+            },
+            {
+                "tag": "dagger",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 139,
+                "min": 130
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon12": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Zaffre",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 400
+            },
+            {
+                "tag": "wand",
+                "weight": 400
+            },
+            {
+                "tag": "claw",
+                "weight": 400
+            },
+            {
+                "tag": "dagger",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 159,
+                "min": 140
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Cobalt",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 49,
+                "min": 40
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Azure",
+        "required_level": 17,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 59,
+                "min": 50
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Sapphire",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 69,
+                "min": 60
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Cerulean",
+        "required_level": 29,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 79,
+                "min": 70
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Aqua",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 89,
+                "min": 80
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Opalescent",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 99,
+                "min": 90
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon8": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Gentian",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 109,
+                "min": 100
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "IncreasedManaWeapon9___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Chalybeous",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 119,
+                "min": 110
+            }
+        ],
+        "type": "IncreasedMana"
+    },
+    "LocalAddedChaosDamage1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Malicious",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 600
+            },
+            {
+                "tag": "sword",
+                "weight": 600
+            },
+            {
+                "tag": "axe",
+                "weight": 600
+            },
+            {
+                "tag": "sceptre",
+                "weight": 400
+            },
+            {
+                "tag": "mace",
+                "weight": 250
+            },
+            {
+                "tag": "wand",
+                "weight": 250
+            },
+            {
+                "tag": "claw",
+                "weight": 600
+            },
+            {
+                "tag": "dagger",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 87,
+                "min": 56
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 160,
+                "min": 105
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "LocalAddedColdDamage1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Frosted",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 2,
+                "min": 1
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage10__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Crystalising",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 180
+            },
+            {
+                "tag": "sword",
+                "weight": 108
+            },
+            {
+                "tag": "axe",
+                "weight": 108
+            },
+            {
+                "tag": "sceptre",
+                "weight": 72
+            },
+            {
+                "tag": "mace",
+                "weight": 45
+            },
+            {
+                "tag": "wand",
+                "weight": 45
+            },
+            {
+                "tag": "claw",
+                "weight": 108
+            },
+            {
+                "tag": "dagger",
+                "weight": 108
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 111,
+                "min": 81
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 189,
+                "min": 163
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Chilled",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 9,
+                "min": 7
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Icy",
+        "required_level": 19,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 15,
+                "min": 11
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Frigid",
+        "required_level": 27,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 21,
+                "min": 16
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 37,
+                "min": 31
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage5": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Freezing",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 30,
+                "min": 22
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 51,
+                "min": 44
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Frozen",
+        "required_level": 43,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 42,
+                "min": 31
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 71,
+                "min": 62
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage7": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Glaciated",
+        "required_level": 52,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 57,
+                "min": 41
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 97,
+                "min": 83
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage8": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Polar",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 1600
+            },
+            {
+                "tag": "sword",
+                "weight": 960
+            },
+            {
+                "tag": "axe",
+                "weight": 960
+            },
+            {
+                "tag": "sceptre",
+                "weight": 640
+            },
+            {
+                "tag": "mace",
+                "weight": 400
+            },
+            {
+                "tag": "wand",
+                "weight": 400
+            },
+            {
+                "tag": "claw",
+                "weight": 960
+            },
+            {
+                "tag": "dagger",
+                "weight": 960
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 74,
+                "min": 54
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 126,
+                "min": 108
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedColdDamage9": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Entombing",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 700
+            },
+            {
+                "tag": "sword",
+                "weight": 420
+            },
+            {
+                "tag": "axe",
+                "weight": 420
+            },
+            {
+                "tag": "sceptre",
+                "weight": 280
+            },
+            {
+                "tag": "mace",
+                "weight": 175
+            },
+            {
+                "tag": "wand",
+                "weight": 175
+            },
+            {
+                "tag": "claw",
+                "weight": 420
+            },
+            {
+                "tag": "dagger",
+                "weight": 420
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 92,
+                "min": 68
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 157,
+                "min": 136
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "LocalAddedFireDamage1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Heated",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 2,
+                "min": 1
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage10_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Carbonising",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 180
+            },
+            {
+                "tag": "sword",
+                "weight": 108
+            },
+            {
+                "tag": "axe",
+                "weight": 108
+            },
+            {
+                "tag": "sceptre",
+                "weight": 72
+            },
+            {
+                "tag": "mace",
+                "weight": 45
+            },
+            {
+                "tag": "wand",
+                "weight": 45
+            },
+            {
+                "tag": "claw",
+                "weight": 108
+            },
+            {
+                "tag": "dagger",
+                "weight": 108
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 121,
+                "min": 89
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 210,
+                "min": 180
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Smouldering",
+        "required_level": 11,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 10,
+                "min": 8
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Smoking",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 17,
+                "min": 12
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 29,
+                "min": 25
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Burning",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 24,
+                "min": 17
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 41,
+                "min": 35
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage5": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Flaming",
+        "required_level": 33,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 33,
+                "min": 24
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 57,
+                "min": 49
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Scorching",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 46,
+                "min": 34
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 80,
+                "min": 68
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage7": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Incinerating",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 62,
+                "min": 46
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 107,
+                "min": 93
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage8": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Blasting",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 1600
+            },
+            {
+                "tag": "sword",
+                "weight": 960
+            },
+            {
+                "tag": "axe",
+                "weight": 960
+            },
+            {
+                "tag": "sceptre",
+                "weight": 640
+            },
+            {
+                "tag": "mace",
+                "weight": 400
+            },
+            {
+                "tag": "wand",
+                "weight": 400
+            },
+            {
+                "tag": "claw",
+                "weight": 960
+            },
+            {
+                "tag": "dagger",
+                "weight": 960
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 81,
+                "min": 59
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 140,
+                "min": 120
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedFireDamage9": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Cremating",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 700
+            },
+            {
+                "tag": "sword",
+                "weight": 420
+            },
+            {
+                "tag": "axe",
+                "weight": 420
+            },
+            {
+                "tag": "sceptre",
+                "weight": 280
+            },
+            {
+                "tag": "mace",
+                "weight": 175
+            },
+            {
+                "tag": "wand",
+                "weight": 175
+            },
+            {
+                "tag": "claw",
+                "weight": 420
+            },
+            {
+                "tag": "dagger",
+                "weight": 420
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 101,
+                "min": 74
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 175,
+                "min": 150
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "LocalAddedLightningDamage1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Humming",
+        "required_level": 3,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage10": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Vapourising",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 180
+            },
+            {
+                "tag": "sword",
+                "weight": 108
+            },
+            {
+                "tag": "axe",
+                "weight": 108
+            },
+            {
+                "tag": "sceptre",
+                "weight": 72
+            },
+            {
+                "tag": "mace",
+                "weight": 45
+            },
+            {
+                "tag": "wand",
+                "weight": 45
+            },
+            {
+                "tag": "claw",
+                "weight": 108
+            },
+            {
+                "tag": "dagger",
+                "weight": 108
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 21,
+                "min": 15
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 344,
+                "min": 296
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Buzzing",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 29,
+                "min": 25
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Snapping",
+        "required_level": 19,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 48,
+                "min": 41
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Crackling",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 67,
+                "min": 57
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage5": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Sparking",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 5,
+                "min": 4
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 94,
+                "min": 80
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage6": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Arcing",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 8,
+                "min": 5
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 131,
+                "min": 112
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage7": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Shocking",
+        "required_level": 51,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 2000
+            },
+            {
+                "tag": "sword",
+                "weight": 1200
+            },
+            {
+                "tag": "axe",
+                "weight": 1200
+            },
+            {
+                "tag": "sceptre",
+                "weight": 800
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "claw",
+                "weight": 1200
+            },
+            {
+                "tag": "dagger",
+                "weight": 1200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 10,
+                "min": 8
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 176,
+                "min": 152
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage8": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Discharging",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 1600
+            },
+            {
+                "tag": "sword",
+                "weight": 960
+            },
+            {
+                "tag": "axe",
+                "weight": 960
+            },
+            {
+                "tag": "sceptre",
+                "weight": 640
+            },
+            {
+                "tag": "mace",
+                "weight": 400
+            },
+            {
+                "tag": "wand",
+                "weight": 400
+            },
+            {
+                "tag": "claw",
+                "weight": 960
+            },
+            {
+                "tag": "dagger",
+                "weight": 960
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 14,
+                "min": 10
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 229,
+                "min": 197
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "LocalAddedLightningDamage9": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [
+            {
+                "tag": "has_attack_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_caster_mod",
+                "weight": 65
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Electrocuting",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 700
+            },
+            {
+                "tag": "sword",
+                "weight": 420
+            },
+            {
+                "tag": "axe",
+                "weight": 420
+            },
+            {
+                "tag": "sceptre",
+                "weight": 280
+            },
+            {
+                "tag": "mace",
+                "weight": 175
+            },
+            {
+                "tag": "wand",
+                "weight": 175
+            },
+            {
+                "tag": "claw",
+                "weight": 420
+            },
+            {
+                "tag": "dagger",
+                "weight": 420
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 17,
+                "min": 13
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 286,
+                "min": 247
+            }
+        ],
+        "type": "LocalLightningDamage"
+    }
+}

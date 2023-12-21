@@ -1,0 +1,5952 @@
+{
+    "FlaskBleedCorruptingBloodImmunity1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesBleeding"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Sealing",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_bleeding_immunity_if_bleeding_and_remove_corrupted_blood_s",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "FlaskBleedCorruptingBloodImmunity"
+    },
+    "FlaskBleedCorruptingBloodImmunity2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesBleeding"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Alleviation",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_bleeding_immunity_if_bleeding_and_remove_corrupted_blood_s",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FlaskBleedCorruptingBloodImmunity"
+    },
+    "FlaskBleedCorruptingBloodImmunity3______": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesBleeding"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Allaying",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_bleeding_immunity_if_bleeding_and_remove_corrupted_blood_s",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "FlaskBleedCorruptingBloodImmunity"
+    },
+    "FlaskBleedCorruptingBloodImmunity4_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesBleeding"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Assuaging",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_bleeding_immunity_if_bleeding_and_remove_corrupted_blood_s",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "FlaskBleedCorruptingBloodImmunity"
+    },
+    "FlaskBleedingAndCorruptedBloodImmunityDuringEffect2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBleedingAndCorruptedBloodImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Skink",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_bleeding_and_corrupted_blood_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -40,
+                "min": -44
+            }
+        ],
+        "type": "FlaskBleedingAndCorruptedBloodImmunityDuringEffect"
+    },
+    "FlaskBleedingAndCorruptedBloodImmunityDuringEffect3___": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBleedingAndCorruptedBloodImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Iguana",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_bleeding_and_corrupted_blood_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -35,
+                "min": -39
+            }
+        ],
+        "type": "FlaskBleedingAndCorruptedBloodImmunityDuringEffect"
+    },
+    "FlaskBleedingAndCorruptedBloodImmunityDuringEffect_1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBleedingAndCorruptedBloodImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Lizard",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_bleeding_and_corrupted_blood_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -45,
+                "min": -49
+            }
+        ],
+        "type": "FlaskBleedingAndCorruptedBloodImmunityDuringEffect"
+    },
+    "FlaskBuffAccuracyWhileHealing1__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Monkey",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_accuracy_rating_+%_during_effect",
+                "max": 25,
+                "min": 15
+            }
+        ],
+        "type": "FlaskBuffAccuracyWhileHealing"
+    },
+    "FlaskBuffAccuracyWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Raccoon",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_accuracy_rating_+%_during_effect",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "FlaskBuffAccuracyWhileHealing"
+    },
+    "FlaskBuffAccuracyWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Crow",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_accuracy_rating_+%_during_effect",
+                "max": 45,
+                "min": 35
+            }
+        ],
+        "type": "FlaskBuffAccuracyWhileHealing"
+    },
+    "FlaskBuffArmourWhileHealing1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "armour",
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Abalone",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_armour_+%_while_healing",
+                "max": 45,
+                "min": 41
+            }
+        ],
+        "type": "FlaskBuffArmourWhileHealing"
+    },
+    "FlaskBuffArmourWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "armour",
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Tortoise",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_armour_+%_while_healing",
+                "max": 50,
+                "min": 46
+            }
+        ],
+        "type": "FlaskBuffArmourWhileHealing"
+    },
+    "FlaskBuffArmourWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "armour",
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Pangolin",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_armour_+%_while_healing",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "FlaskBuffArmourWhileHealing"
+    },
+    "FlaskBuffArmourWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "armour",
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Armadillo",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_armour_+%_while_healing",
+                "max": 60,
+                "min": 56
+            }
+        ],
+        "type": "FlaskBuffArmourWhileHealing"
+    },
+    "FlaskBuffAttackLifeLeechWhileHealing1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Bloodshed",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_leech_from_attack_damage_permyriad_while_healing",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "FlaskBuffAttackLifeLeechWhileHealing"
+    },
+    "FlaskBuffAttackLifeLeechWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Gore",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_leech_from_attack_damage_permyriad_while_healing",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "FlaskBuffAttackLifeLeechWhileHealing"
+    },
+    "FlaskBuffAttackLifeLeechWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Carnage",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_leech_from_attack_damage_permyriad_while_healing",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "FlaskBuffAttackLifeLeechWhileHealing"
+    },
+    "FlaskBuffAttackLifeLeechWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Butchery",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_leech_from_attack_damage_permyriad_while_healing",
+                "max": 70,
+                "min": 70
+            }
+        ],
+        "type": "FlaskBuffAttackLifeLeechWhileHealing"
+    },
+    "FlaskBuffAttackLifeLeechWhileHealing5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Bloodletting",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_leech_from_attack_damage_permyriad_while_healing",
+                "max": 80,
+                "min": 80
+            }
+        ],
+        "type": "FlaskBuffAttackLifeLeechWhileHealing"
+    },
+    "FlaskBuffAttackSpeedWhileHealing1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Falcon",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_attack_speed_+%_while_healing",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FlaskBuffAttackSpeedWhileHealing"
+    },
+    "FlaskBuffAttackSpeedWhileHealing2_____": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Eagle",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_attack_speed_+%_while_healing",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "FlaskBuffAttackSpeedWhileHealing"
+    },
+    "FlaskBuffAttackSpeedWhileHealing3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Dove",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_attack_speed_+%_while_healing",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "FlaskBuffAttackSpeedWhileHealing"
+    },
+    "FlaskBuffAvoidChillFreeze1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Orca",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_chill_%_during_flask_effect",
+                "max": 35,
+                "min": 31
+            },
+            {
+                "id": "local_avoid_freeze_%_during_flask_effect",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "FlaskBuffAvoidChillFreeze"
+    },
+    "FlaskBuffAvoidChillFreeze2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sea Lion",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_chill_%_during_flask_effect",
+                "max": 40,
+                "min": 36
+            },
+            {
+                "id": "local_avoid_freeze_%_during_flask_effect",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "FlaskBuffAvoidChillFreeze"
+    },
+    "FlaskBuffAvoidChillFreeze3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Narwhal",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_chill_%_during_flask_effect",
+                "max": 45,
+                "min": 41
+            },
+            {
+                "id": "local_avoid_freeze_%_during_flask_effect",
+                "max": 45,
+                "min": 41
+            }
+        ],
+        "type": "FlaskBuffAvoidChillFreeze"
+    },
+    "FlaskBuffAvoidChillFreeze4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Beluga",
+        "required_level": 61,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_chill_%_during_flask_effect",
+                "max": 50,
+                "min": 46
+            },
+            {
+                "id": "local_avoid_freeze_%_during_flask_effect",
+                "max": 50,
+                "min": 46
+            }
+        ],
+        "type": "FlaskBuffAvoidChillFreeze"
+    },
+    "FlaskBuffAvoidChillFreeze5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Seal",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_chill_%_during_flask_effect",
+                "max": 55,
+                "min": 51
+            },
+            {
+                "id": "local_avoid_freeze_%_during_flask_effect",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "FlaskBuffAvoidChillFreeze"
+    },
+    "FlaskBuffAvoidIgnite1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Guppy",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_ignite_%_during_flask_effect",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "FlaskBuffAvoidIgnite"
+    },
+    "FlaskBuffAvoidIgnite2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Goldfish",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_ignite_%_during_flask_effect",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "FlaskBuffAvoidIgnite"
+    },
+    "FlaskBuffAvoidIgnite3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Carp",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_ignite_%_during_flask_effect",
+                "max": 45,
+                "min": 41
+            }
+        ],
+        "type": "FlaskBuffAvoidIgnite"
+    },
+    "FlaskBuffAvoidIgnite4___": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Catfish",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_ignite_%_during_flask_effect",
+                "max": 50,
+                "min": 46
+            }
+        ],
+        "type": "FlaskBuffAvoidIgnite"
+    },
+    "FlaskBuffAvoidIgnite5_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sunfish",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_ignite_%_during_flask_effect",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "FlaskBuffAvoidIgnite"
+    },
+    "FlaskBuffAvoidShock1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Tree Moss",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_shock_%_during_flask_effect",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "FlaskBuffAvoidShock"
+    },
+    "FlaskBuffAvoidShock2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Turf Moss",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_shock_%_during_flask_effect",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "FlaskBuffAvoidShock"
+    },
+    "FlaskBuffAvoidShock3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Tooth Moss",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_shock_%_during_flask_effect",
+                "max": 45,
+                "min": 41
+            }
+        ],
+        "type": "FlaskBuffAvoidShock"
+    },
+    "FlaskBuffAvoidShock4_____": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Plume Moss",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_shock_%_during_flask_effect",
+                "max": 50,
+                "min": 46
+            }
+        ],
+        "type": "FlaskBuffAvoidShock"
+    },
+    "FlaskBuffAvoidShock5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Bog Moss",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_avoid_shock_%_during_flask_effect",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "FlaskBuffAvoidShock"
+    },
+    "FlaskBuffAvoidStunWhileHealing1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Composure",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_avoid_stun_chance_%_during_flask_effect",
+                "max": 35,
+                "min": 31
+            }
+        ],
+        "type": "FlaskBuffAvoidStunWhileHealing"
+    },
+    "FlaskBuffAvoidStunWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Surefootedness",
+        "required_level": 29,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_avoid_stun_chance_%_during_flask_effect",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "FlaskBuffAvoidStunWhileHealing"
+    },
+    "FlaskBuffAvoidStunWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Persistence",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_avoid_stun_chance_%_during_flask_effect",
+                "max": 45,
+                "min": 41
+            }
+        ],
+        "type": "FlaskBuffAvoidStunWhileHealing"
+    },
+    "FlaskBuffAvoidStunWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Relentlessness",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_avoid_stun_chance_%_during_flask_effect",
+                "max": 50,
+                "min": 46
+            }
+        ],
+        "type": "FlaskBuffAvoidStunWhileHealing"
+    },
+    "FlaskBuffAvoidStunWhileHealing5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Tenaciousness",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_avoid_stun_chance_%_during_flask_effect",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "FlaskBuffAvoidStunWhileHealing"
+    },
+    "FlaskBuffBleedDuration1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "[UNUSED] Bleed duration 1",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_bleed_duration_+%_during_flask_effect",
+                "max": -35,
+                "min": -45
+            }
+        ],
+        "type": "FlaskBuffBleedDuration"
+    },
+    "FlaskBuffCastSpeedWhileHealing1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Albatross",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_cast_speed_+%_while_healing",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FlaskBuffCastSpeedWhileHealing"
+    },
+    "FlaskBuffCastSpeedWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Hummingbird",
+        "required_level": 62,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_cast_speed_+%_while_healing",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "FlaskBuffCastSpeedWhileHealing"
+    },
+    "FlaskBuffCastSpeedWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Horsefly",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_cast_speed_+%_while_healing",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "FlaskBuffCastSpeedWhileHealing"
+    },
+    "FlaskBuffChillFreezeDuration1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Rabbit",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_chill_effect_+%_during_flask_effect",
+                "max": -36,
+                "min": -41
+            },
+            {
+                "id": "local_self_freeze_duration_+%_during_flask_effect",
+                "max": -36,
+                "min": -41
+            }
+        ],
+        "type": "FlaskBuffChillFreezeDuration"
+    },
+    "FlaskBuffChillFreezeDuration2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Cat",
+        "required_level": 23,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_chill_effect_+%_during_flask_effect",
+                "max": -42,
+                "min": -47
+            },
+            {
+                "id": "local_self_freeze_duration_+%_during_flask_effect",
+                "max": -42,
+                "min": -47
+            }
+        ],
+        "type": "FlaskBuffChillFreezeDuration"
+    },
+    "FlaskBuffChillFreezeDuration3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Fox",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_chill_effect_+%_during_flask_effect",
+                "max": -48,
+                "min": -52
+            },
+            {
+                "id": "local_self_freeze_duration_+%_during_flask_effect",
+                "max": -48,
+                "min": -52
+            }
+        ],
+        "type": "FlaskBuffChillFreezeDuration"
+    },
+    "FlaskBuffChillFreezeDuration4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sable",
+        "required_level": 61,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_chill_effect_+%_during_flask_effect",
+                "max": -52,
+                "min": -59
+            },
+            {
+                "id": "local_self_freeze_duration_+%_during_flask_effect",
+                "max": -52,
+                "min": -59
+            }
+        ],
+        "type": "FlaskBuffChillFreezeDuration"
+    },
+    "FlaskBuffChillFreezeDuration5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Bear",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_chill_effect_+%_during_flask_effect",
+                "max": -60,
+                "min": -65
+            },
+            {
+                "id": "local_self_freeze_duration_+%_during_flask_effect",
+                "max": -60,
+                "min": -65
+            }
+        ],
+        "type": "FlaskBuffChillFreezeDuration"
+    },
+    "FlaskBuffCriticalChanceWhileHealing1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Stinging",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_critical_strike_chance_+%_during_flask_effect",
+                "max": 31,
+                "min": 26
+            }
+        ],
+        "type": "FlaskBuffCriticalWhileHealing"
+    },
+    "FlaskBuffCriticalChanceWhileHealing2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Piercing",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_critical_strike_chance_+%_during_flask_effect",
+                "max": 37,
+                "min": 32
+            }
+        ],
+        "type": "FlaskBuffCriticalWhileHealing"
+    },
+    "FlaskBuffCriticalChanceWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Rupturing",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_critical_strike_chance_+%_during_flask_effect",
+                "max": 43,
+                "min": 38
+            }
+        ],
+        "type": "FlaskBuffCriticalWhileHealing"
+    },
+    "FlaskBuffCriticalChanceWhileHealing4__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Penetrating",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_critical_strike_chance_+%_during_flask_effect",
+                "max": 49,
+                "min": 44
+            }
+        ],
+        "type": "FlaskBuffCriticalWhileHealing"
+    },
+    "FlaskBuffCriticalChanceWhileHealing5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Incision",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_critical_strike_chance_+%_during_flask_effect",
+                "max": 55,
+                "min": 50
+            }
+        ],
+        "type": "FlaskBuffCriticalWhileHealing"
+    },
+    "FlaskBuffCurseEffect1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Petrel",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_curse_effect_+%_during_flask_effect",
+                "max": -36,
+                "min": -41
+            }
+        ],
+        "type": "FlaskBuffCurseEffect"
+    },
+    "FlaskBuffCurseEffect2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Mockingbird",
+        "required_level": 27,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_curse_effect_+%_during_flask_effect",
+                "max": -42,
+                "min": -47
+            }
+        ],
+        "type": "FlaskBuffCurseEffect"
+    },
+    "FlaskBuffCurseEffect3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Curlew",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_curse_effect_+%_during_flask_effect",
+                "max": -48,
+                "min": -52
+            }
+        ],
+        "type": "FlaskBuffCurseEffect"
+    },
+    "FlaskBuffCurseEffect4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Kakapo",
+        "required_level": 65,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_curse_effect_+%_during_flask_effect",
+                "max": -52,
+                "min": -59
+            }
+        ],
+        "type": "FlaskBuffCurseEffect"
+    },
+    "FlaskBuffCurseEffect5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Owl",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_curse_effect_+%_during_flask_effect",
+                "max": -60,
+                "min": -65
+            }
+        ],
+        "type": "FlaskBuffCurseEffect"
+    },
+    "FlaskBuffEvasionWhileHealing": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Gazelle",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_evasion_+%_while_healing",
+                "max": 45,
+                "min": 41
+            }
+        ],
+        "type": "FlaskBuffEvasionWhileHealing"
+    },
+    "FlaskBuffEvasionWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Antelope",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_evasion_+%_while_healing",
+                "max": 50,
+                "min": 46
+            }
+        ],
+        "type": "FlaskBuffEvasionWhileHealing"
+    },
+    "FlaskBuffEvasionWhileHealing3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Ibex",
+        "required_level": 58,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_evasion_+%_while_healing",
+                "max": 55,
+                "min": 51
+            }
+        ],
+        "type": "FlaskBuffEvasionWhileHealing"
+    },
+    "FlaskBuffEvasionWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Impala",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_evasion_+%_while_healing",
+                "max": 60,
+                "min": 56
+            }
+        ],
+        "type": "FlaskBuffEvasionWhileHealing"
+    },
+    "FlaskBuffFreezeShockIgniteChanceWhileHealing1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Foisting",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chance_to_freeze_shock_ignite_%_while_healing",
+                "max": 22,
+                "min": 19
+            }
+        ],
+        "type": "FlaskBuffFreezeShockIgniteChanceWhileHealing"
+    },
+    "FlaskBuffFreezeShockIgniteChanceWhileHealing2____": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Imposing",
+        "required_level": 32,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chance_to_freeze_shock_ignite_%_while_healing",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "FlaskBuffFreezeShockIgniteChanceWhileHealing"
+    },
+    "FlaskBuffFreezeShockIgniteChanceWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Wreaking",
+        "required_level": 52,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chance_to_freeze_shock_ignite_%_while_healing",
+                "max": 30,
+                "min": 27
+            }
+        ],
+        "type": "FlaskBuffFreezeShockIgniteChanceWhileHealing"
+    },
+    "FlaskBuffFreezeShockIgniteChanceWhileHealing4_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "fire",
+            "cold",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Infliction",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chance_to_freeze_shock_ignite_%_while_healing",
+                "max": 34,
+                "min": 31
+            }
+        ],
+        "type": "FlaskBuffFreezeShockIgniteChanceWhileHealing"
+    },
+    "FlaskBuffIgniteDuration1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "[UNUSED] Ignite duration 1",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_ignite_duration_+%_during_flask_effect",
+                "max": -35,
+                "min": -45
+            }
+        ],
+        "type": "FlaskBuffIgniteDuration"
+    },
+    "FlaskBuffKnockbackWhileHealing": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Fending",
+        "required_level": 9,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_adds_knockback_while_healing",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskBuffKnockbackWhileHealing"
+    },
+    "FlaskBuffLifeLeechPermyriadWhileHealing": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Gluttony",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_life_leech_permyriad_while_healing",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "FlaskBuffLifeLeechPermyriadWhileHealing"
+    },
+    "FlaskBuffLifeLeechWhileHealing": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Gluttony",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "old_do_not_use_local_flask_life_leech_%_while_healing",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "FlaskBuffLifeLeechWhileHealing"
+    },
+    "FlaskBuffManaLeechPermyriadWhileHealing": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of Craving",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_mana_leech_permyriad_while_healing",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "FlaskBuffManaLeechPermyriadWhileHealing"
+    },
+    "FlaskBuffMovementSpeedWhileHealing": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Hare",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_movement_speed_+%_while_healing",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "FlaskBuffMovementSpeedWhileHealing"
+    },
+    "FlaskBuffMovementSpeedWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Lynx",
+        "required_level": 65,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_movement_speed_+%_while_healing",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FlaskBuffMovementSpeedWhileHealing"
+    },
+    "FlaskBuffMovementSpeedWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Cheetah",
+        "required_level": 85,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_movement_speed_+%_while_healing",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "FlaskBuffMovementSpeedWhileHealing"
+    },
+    "FlaskBuffPoisonDuration1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "[UNUSED] Poison duration 1",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_poison_duration_+%_during_flask_effect",
+                "max": -35,
+                "min": -45
+            }
+        ],
+        "type": "FlaskBuffPoisonDuration"
+    },
+    "FlaskBuffReducedManaCostWhileHealing1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskSkillManaCostDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Pupil",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_skill_mana_cost_+%_during_flask_effect",
+                "max": -11,
+                "min": -14
+            }
+        ],
+        "type": "LocalFlaskSkillManaCostDuringFlaskEffect"
+    },
+    "FlaskBuffReducedManaCostWhileHealing2__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskSkillManaCostDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Initiate",
+        "required_level": 29,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_skill_mana_cost_+%_during_flask_effect",
+                "max": -15,
+                "min": -18
+            }
+        ],
+        "type": "LocalFlaskSkillManaCostDuringFlaskEffect"
+    },
+    "FlaskBuffReducedManaCostWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskSkillManaCostDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Mage",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_skill_mana_cost_+%_during_flask_effect",
+                "max": -19,
+                "min": -21
+            }
+        ],
+        "type": "LocalFlaskSkillManaCostDuringFlaskEffect"
+    },
+    "FlaskBuffReducedManaCostWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskSkillManaCostDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Arcanist",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_skill_mana_cost_+%_during_flask_effect",
+                "max": -22,
+                "min": -25
+            }
+        ],
+        "type": "LocalFlaskSkillManaCostDuringFlaskEffect"
+    },
+    "FlaskBuffReducedManaCostWhileHealing5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskSkillManaCostDuringFlaskEffect"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sorcerer",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_skill_mana_cost_+%_during_flask_effect",
+                "max": -26,
+                "min": -29
+            }
+        ],
+        "type": "LocalFlaskSkillManaCostDuringFlaskEffect"
+    },
+    "FlaskBuffResistancesWhileHealing": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Crystal",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_resistances_+%_while_healing",
+                "max": 24,
+                "min": 21
+            }
+        ],
+        "type": "FlaskBuffResistancesWhileHealing"
+    },
+    "FlaskBuffResistancesWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Prism",
+        "required_level": 21,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_resistances_+%_while_healing",
+                "max": 28,
+                "min": 25
+            }
+        ],
+        "type": "FlaskBuffResistancesWhileHealing"
+    },
+    "FlaskBuffResistancesWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Kaleidoscope",
+        "required_level": 41,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_resistances_+%_while_healing",
+                "max": 32,
+                "min": 29
+            }
+        ],
+        "type": "FlaskBuffResistancesWhileHealing"
+    },
+    "FlaskBuffResistancesWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of Variegation",
+        "required_level": 61,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_resistances_+%_while_healing",
+                "max": 36,
+                "min": 33
+            }
+        ],
+        "type": "FlaskBuffResistancesWhileHealing"
+    },
+    "FlaskBuffResistancesWhileHealing5_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Rainbow",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_resistances_+%_while_healing",
+                "max": 40,
+                "min": 37
+            }
+        ],
+        "type": "FlaskBuffResistancesWhileHealing"
+    },
+    "FlaskBuffShockEffect1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Plover",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_shock_effect_+%_during_flask_effect",
+                "max": -36,
+                "min": -41
+            }
+        ],
+        "type": "FlaskBuffShockEffect"
+    },
+    "FlaskBuffShockEffect2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sandpiper",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_shock_effect_+%_during_flask_effect",
+                "max": -42,
+                "min": -47
+            }
+        ],
+        "type": "FlaskBuffShockEffect"
+    },
+    "FlaskBuffShockEffect3___": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Cormorant",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_shock_effect_+%_during_flask_effect",
+                "max": -48,
+                "min": -52
+            }
+        ],
+        "type": "FlaskBuffShockEffect"
+    },
+    "FlaskBuffShockEffect4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sanderling",
+        "required_level": 63,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_shock_effect_+%_during_flask_effect",
+                "max": -52,
+                "min": -59
+            }
+        ],
+        "type": "FlaskBuffShockEffect"
+    },
+    "FlaskBuffShockEffect5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Heron",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_self_shock_effect_+%_during_flask_effect",
+                "max": -60,
+                "min": -65
+            }
+        ],
+        "type": "FlaskBuffShockEffect"
+    },
+    "FlaskBuffSpellEnergyShieldLeechWhileHealing1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "flask",
+            "defences",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Diverting",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_energy_shield_leech_from_spell_damage_permyriad_while_healing",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "FlaskBuffSpellEnergyShieldLeechWhileHealing"
+    },
+    "FlaskBuffSpellEnergyShieldLeechWhileHealing2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "flask",
+            "defences",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Depletion",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_energy_shield_leech_from_spell_damage_permyriad_while_healing",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "FlaskBuffSpellEnergyShieldLeechWhileHealing"
+    },
+    "FlaskBuffSpellEnergyShieldLeechWhileHealing3_____": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "flask",
+            "defences",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Tapping",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_energy_shield_leech_from_spell_damage_permyriad_while_healing",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "FlaskBuffSpellEnergyShieldLeechWhileHealing"
+    },
+    "FlaskBuffSpellEnergyShieldLeechWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "flask",
+            "defences",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Siphoning",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_energy_shield_leech_from_spell_damage_permyriad_while_healing",
+                "max": 70,
+                "min": 70
+            }
+        ],
+        "type": "FlaskBuffSpellEnergyShieldLeechWhileHealing"
+    },
+    "FlaskBuffSpellEnergyShieldLeechWhileHealing5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "flask",
+            "defences",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Draining",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "expedition_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_energy_shield_leech_from_spell_damage_permyriad_while_healing",
+                "max": 80,
+                "min": 80
+            }
+        ],
+        "type": "FlaskBuffSpellEnergyShieldLeechWhileHealing"
+    },
+    "FlaskBuffStunRecoveryWhileHealing": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Stiffness",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_stun_recovery_+%_while_healing",
+                "max": 56,
+                "min": 51
+            }
+        ],
+        "type": "FlaskBuffStunRecoveryWhileHealing"
+    },
+    "FlaskBuffStunRecoveryWhileHealing2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Bracing",
+        "required_level": 19,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_stun_recovery_+%_while_healing",
+                "max": 62,
+                "min": 57
+            }
+        ],
+        "type": "FlaskBuffStunRecoveryWhileHealing"
+    },
+    "FlaskBuffStunRecoveryWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Ballast",
+        "required_level": 37,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_stun_recovery_+%_while_healing",
+                "max": 68,
+                "min": 63
+            }
+        ],
+        "type": "FlaskBuffStunRecoveryWhileHealing"
+    },
+    "FlaskBuffStunRecoveryWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Counterpoise",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_stun_recovery_+%_while_healing",
+                "max": 74,
+                "min": 69
+            }
+        ],
+        "type": "FlaskBuffStunRecoveryWhileHealing"
+    },
+    "FlaskBuffStunRecoveryWhileHealing5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Stabilisation",
+        "required_level": 73,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_stun_recovery_+%_while_healing",
+                "max": 80,
+                "min": 75
+            }
+        ],
+        "type": "FlaskBuffStunRecoveryWhileHealing"
+    },
+    "FlaskBuffWardWhileHealing1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Runegleaming",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ward_+%_during_effect",
+                "max": 21,
+                "min": 19
+            }
+        ],
+        "type": "FlaskBuffWardWhileHealing"
+    },
+    "FlaskBuffWardWhileHealing2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Runeshining",
+        "required_level": 26,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ward_+%_during_effect",
+                "max": 24,
+                "min": 22
+            }
+        ],
+        "type": "FlaskBuffWardWhileHealing"
+    },
+    "FlaskBuffWardWhileHealing3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Runeflaring",
+        "required_level": 52,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ward_+%_during_effect",
+                "max": 27,
+                "min": 25
+            }
+        ],
+        "type": "FlaskBuffWardWhileHealing"
+    },
+    "FlaskBuffWardWhileHealing4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskBuffWhileHealing"
+        ],
+        "implicit_tags": [
+            "flask",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of Runeblazing",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "expedition_flask",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ward_+%_during_effect",
+                "max": 30,
+                "min": 28
+            }
+        ],
+        "type": "FlaskBuffWardWhileHealing"
+    },
+    "FlaskChillFreezeImmunity1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellChill"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Convection",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chill_or_freeze_immunity_if_chilled_or_frozen_s",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "FlaskChillFreezeImmunity"
+    },
+    "FlaskChillFreezeImmunity2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellChill"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Thermodynamics",
+        "required_level": 28,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chill_or_freeze_immunity_if_chilled_or_frozen_s",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FlaskChillFreezeImmunity"
+    },
+    "FlaskChillFreezeImmunity3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellChill"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Entropy",
+        "required_level": 52,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chill_or_freeze_immunity_if_chilled_or_frozen_s",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "FlaskChillFreezeImmunity"
+    },
+    "FlaskChillFreezeImmunity4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellChill"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Thawing",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chill_or_freeze_immunity_if_chilled_or_frozen_s",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "FlaskChillFreezeImmunity"
+    },
+    "FlaskCurseImmunity1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskCurseImmunity"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "of Warding",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 3000
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_remove_curses_on_use",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskCurseImmunity"
+    },
+    "FlaskDispellsBurning1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellBurning"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Dousing",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ignite_immunity_if_ignited_and_remove_burning",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskDispellsBurning"
+    },
+    "FlaskDispellsChill1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellChill"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Heat",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_chill_or_freeze_immunity_if_chilled_or_frozen",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskDispellsChill"
+    },
+    "FlaskDispellsPoison1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellPoison"
+        ],
+        "implicit_tags": [
+            "flask",
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Curing",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_poison_immunity_if_poisoned",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskDispellsPoison"
+    },
+    "FlaskFreezeAndChillImmunityDuringEffect": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskFreezeAndChillImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Deer",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_freeze_and_chill_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -45,
+                "min": -49
+            }
+        ],
+        "type": "FlaskFreezeAndChillImmunityDuringEffect"
+    },
+    "FlaskFreezeAndChillImmunityDuringEffect2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskFreezeAndChillImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Walrus",
+        "required_level": 38,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_freeze_and_chill_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -40,
+                "min": -44
+            }
+        ],
+        "type": "FlaskFreezeAndChillImmunityDuringEffect"
+    },
+    "FlaskFreezeAndChillImmunityDuringEffect3__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskFreezeAndChillImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Penguin",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_freeze_and_chill_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -35,
+                "min": -39
+            }
+        ],
+        "type": "FlaskFreezeAndChillImmunityDuringEffect"
+    },
+    "FlaskHealsMinions1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskHealsOthers"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Novice",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_minion_heal_%",
+                "max": 56,
+                "min": 51
+            }
+        ],
+        "type": "FlaskHealsMinions"
+    },
+    "FlaskHealsMinions2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskHealsOthers"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Acolyte",
+        "required_level": 28,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_minion_heal_%",
+                "max": 62,
+                "min": 57
+            }
+        ],
+        "type": "FlaskHealsMinions"
+    },
+    "FlaskHealsMinions3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskHealsOthers"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Summoner",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_minion_heal_%",
+                "max": 68,
+                "min": 63
+            }
+        ],
+        "type": "FlaskHealsMinions"
+    },
+    "FlaskHealsMinions4____": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskHealsOthers"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Conjurer",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_minion_heal_%",
+                "max": 74,
+                "min": 69
+            }
+        ],
+        "type": "FlaskHealsMinions"
+    },
+    "FlaskHealsMinions5": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskHealsOthers"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Necromancer",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 600
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_minion_heal_%",
+                "max": 80,
+                "min": 75
+            }
+        ],
+        "type": "FlaskHealsMinions"
+    },
+    "FlaskIgniteImmunity1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellBurning"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Damping",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ignite_immunity_if_ignited_and_remove_burning_s",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "FlaskIgniteImmunity"
+    },
+    "FlaskIgniteImmunity2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellBurning"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Quashing",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ignite_immunity_if_ignited_and_remove_burning_s",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FlaskIgniteImmunity"
+    },
+    "FlaskIgniteImmunity3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellBurning"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Quelling",
+        "required_level": 54,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ignite_immunity_if_ignited_and_remove_burning_s",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "FlaskIgniteImmunity"
+    },
+    "FlaskIgniteImmunity4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellBurning"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Quenching",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_ignite_immunity_if_ignited_and_remove_burning_s",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "FlaskIgniteImmunity"
+    },
+    "FlaskIgniteImmunityDuringEffect2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskIgniteImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Mussel",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_dispels_burning_and_ignite_immunity_during_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -40,
+                "min": -44
+            }
+        ],
+        "type": "FlaskIgniteImmunityDuringEffect"
+    },
+    "FlaskIgniteImmunityDuringEffect3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskIgniteImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Starfish",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_dispels_burning_and_ignite_immunity_during_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -35,
+                "min": -39
+            }
+        ],
+        "type": "FlaskIgniteImmunityDuringEffect"
+    },
+    "FlaskIgniteImmunityDuringEffect_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskIgniteImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Urchin",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_dispels_burning_and_ignite_immunity_during_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -45,
+                "min": -49
+            }
+        ],
+        "type": "FlaskIgniteImmunityDuringEffect"
+    },
+    "FlaskPoisonImmunity1__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellPoison"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Antitoxin",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_poison_immunity_if_poisoned_s",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "FlaskPoisonImmunity"
+    },
+    "FlaskPoisonImmunity2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellPoison"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Remedy",
+        "required_level": 38,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_poison_immunity_if_poisoned_s",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FlaskPoisonImmunity"
+    },
+    "FlaskPoisonImmunity3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellPoison"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Cure",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_poison_immunity_if_poisoned_s",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "FlaskPoisonImmunity"
+    },
+    "FlaskPoisonImmunity4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskDispellPoison"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Antidote",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_poison_immunity_if_poisoned_s",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "FlaskPoisonImmunity"
+    },
+    "FlaskPoisonImmunityDuringEffect": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskPoisonImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Skunk",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_poison_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -45,
+                "min": -49
+            }
+        ],
+        "type": "FlaskPoisonImmunityDuringEffect"
+    },
+    "FlaskPoisonImmunityDuringEffect2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskPoisonImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Hedgehog",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_poison_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -40,
+                "min": -44
+            }
+        ],
+        "type": "FlaskPoisonImmunityDuringEffect"
+    },
+    "FlaskPoisonImmunityDuringEffect3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskPoisonImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Opossum",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_poison_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -35,
+                "min": -39
+            }
+        ],
+        "type": "FlaskPoisonImmunityDuringEffect"
+    },
+    "FlaskRemovesBleeding1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesBleeding"
+        ],
+        "implicit_tags": [
+            "flask",
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Staunching",
+        "required_level": 8,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_bleeding_immunity_if_bleeding_and_remove_corrupted_blood",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskRemovesBleeding"
+    },
+    "FlaskRemovesShock1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesShock"
+        ],
+        "implicit_tags": [
+            "flask",
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Grounding",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_shock_immunity_if_shocked",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "FlaskRemovesShock"
+    },
+    "FlaskShockImmunity1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesShock"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Earthing",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_shock_immunity_if_shocked_s",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "FlaskShockImmunity"
+    },
+    "FlaskShockImmunity2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesShock"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Grounding",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_shock_immunity_if_shocked_s",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FlaskShockImmunity"
+    },
+    "FlaskShockImmunity3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesShock"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Insulation",
+        "required_level": 54,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_shock_immunity_if_shocked_s",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "FlaskShockImmunity"
+    },
+    "FlaskShockImmunity4_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskRemovesShock"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Dielectric",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_shock_immunity_if_shocked_s",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "FlaskShockImmunity"
+    },
+    "FlaskShockImmunityDuringEffect": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskShockImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Conger",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_shock_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -45,
+                "min": -49
+            }
+        ],
+        "type": "FlaskShockImmunityDuringEffect"
+    },
+    "FlaskShockImmunityDuringEffect2___": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskShockImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Moray",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_shock_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -40,
+                "min": -44
+            }
+        ],
+        "type": "FlaskShockImmunityDuringEffect"
+    },
+    "FlaskShockImmunityDuringEffect3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskShockImmunityDuringEffect"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Eel",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_shock_during_flask_effect",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_flask_duration_+%_final",
+                "max": -35,
+                "min": -39
+            }
+        ],
+        "type": "FlaskShockImmunityDuringEffect"
+    },
+    "LocalFlaskImmuneToMaimAndHinder1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskImmuneToHinder"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Movement",
+        "required_level": 16,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_hinder_for_x_seconds_if_hindered",
+                "max": 8,
+                "min": 6
+            },
+            {
+                "id": "local_flask_immune_to_maim_for_x_seconds_if_maimed",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "LocalFlaskImmuneToMaimAndHinder"
+    },
+    "LocalFlaskImmuneToMaimAndHinder2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskImmuneToHinder"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Motion",
+        "required_level": 38,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_hinder_for_x_seconds_if_hindered",
+                "max": 11,
+                "min": 9
+            },
+            {
+                "id": "local_flask_immune_to_maim_for_x_seconds_if_maimed",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "LocalFlaskImmuneToMaimAndHinder"
+    },
+    "LocalFlaskImmuneToMaimAndHinder3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskImmuneToHinder"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Freedom",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_hinder_for_x_seconds_if_hindered",
+                "max": 14,
+                "min": 12
+            },
+            {
+                "id": "local_flask_immune_to_maim_for_x_seconds_if_maimed",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "LocalFlaskImmuneToMaimAndHinder"
+    },
+    "LocalFlaskImmuneToMaimAndHinder4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalFlaskImmuneToHinder"
+        ],
+        "implicit_tags": [
+            "flask",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Liberation",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_immune_to_hinder_for_x_seconds_if_hindered",
+                "max": 17,
+                "min": 15
+            },
+            {
+                "id": "local_flask_immune_to_maim_for_x_seconds_if_maimed",
+                "max": 17,
+                "min": 15
+            }
+        ],
+        "type": "LocalFlaskImmuneToMaimAndHinder"
+    },
+    "LocalLifeFlaskAdditionalLifeRecovery1": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalLifeFlaskAdditionalLifeRecovery"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_additional_x%_life_recovery_per_second_over_10_seconds_if_not_on_full_life",
+                "max": 16,
+                "min": 11
+            }
+        ],
+        "type": "LocalLifeFlaskAdditionalLifeRecovery"
+    },
+    "LocalLifeFlaskAdditionalLifeRecovery2__": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalLifeFlaskAdditionalLifeRecovery"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Plenty",
+        "required_level": 39,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_additional_x%_life_recovery_per_second_over_10_seconds_if_not_on_full_life",
+                "max": 22,
+                "min": 17
+            }
+        ],
+        "type": "LocalLifeFlaskAdditionalLifeRecovery"
+    },
+    "LocalLifeFlaskAdditionalLifeRecovery3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalLifeFlaskAdditionalLifeRecovery"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Bounty",
+        "required_level": 53,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_additional_x%_life_recovery_per_second_over_10_seconds_if_not_on_full_life",
+                "max": 28,
+                "min": 23
+            }
+        ],
+        "type": "LocalLifeFlaskAdditionalLifeRecovery"
+    },
+    "LocalLifeFlaskAdditionalLifeRecovery4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalLifeFlaskAdditionalLifeRecovery"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Incessance",
+        "required_level": 67,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_additional_x%_life_recovery_per_second_over_10_seconds_if_not_on_full_life",
+                "max": 34,
+                "min": 29
+            }
+        ],
+        "type": "LocalLifeFlaskAdditionalLifeRecovery"
+    },
+    "LocalLifeFlaskAdditionalLifeRecovery5_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalLifeFlaskAdditionalLifeRecovery"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of Perenniality",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_additional_x%_life_recovery_per_second_over_10_seconds_if_not_on_full_life",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "LocalLifeFlaskAdditionalLifeRecovery"
+    },
+    "LocalLifeFlaskHinderNearbyEnemies1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalManaFlaskHinderNearbyEnemies"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Interference",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_hinder_nearby_enemies_%_for_4_seconds_if_not_on_full_life",
+                "max": 22,
+                "min": 17
+            }
+        ],
+        "type": "LocalLifeFlaskHinderNearbyEnemies"
+    },
+    "LocalLifeFlaskHinderNearbyEnemies2_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalManaFlaskHinderNearbyEnemies"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Obstruction",
+        "required_level": 48,
+        "spawn_weights": [
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_hinder_nearby_enemies_%_for_4_seconds_if_not_on_full_life",
+                "max": 28,
+                "min": 23
+            }
+        ],
+        "type": "LocalLifeFlaskHinderNearbyEnemies"
+    },
+    "LocalLifeFlaskHinderNearbyEnemies3_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalManaFlaskHinderNearbyEnemies"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Occlusion",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_hinder_nearby_enemies_%_for_4_seconds_if_not_on_full_life",
+                "max": 34,
+                "min": 29
+            }
+        ],
+        "type": "LocalLifeFlaskHinderNearbyEnemies"
+    },
+    "LocalLifeFlaskHinderNearbyEnemies4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalManaFlaskHinderNearbyEnemies"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Restraint",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "mana_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_hinder_nearby_enemies_%_for_4_seconds_if_not_on_full_life",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "LocalLifeFlaskHinderNearbyEnemies"
+    },
+    "LocalManaFlaskHinderNearbyEnemies1_": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalManaFlaskHinderNearbyEnemies"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Interference",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_hinder_nearby_enemies_%_for_4_seconds_if_not_on_full_mana",
+                "max": 22,
+                "min": 17
+            }
+        ],
+        "type": "LocalManaFlaskHinderNearbyEnemies"
+    },
+    "LocalManaFlaskHinderNearbyEnemies2": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalManaFlaskHinderNearbyEnemies"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Obstruction",
+        "required_level": 48,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_hinder_nearby_enemies_%_for_4_seconds_if_not_on_full_mana",
+                "max": 28,
+                "min": 23
+            }
+        ],
+        "type": "LocalManaFlaskHinderNearbyEnemies"
+    },
+    "LocalManaFlaskHinderNearbyEnemies3": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalManaFlaskHinderNearbyEnemies"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Occlusion",
+        "required_level": 66,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_hinder_nearby_enemies_%_for_4_seconds_if_not_on_full_mana",
+                "max": 34,
+                "min": 29
+            }
+        ],
+        "type": "LocalManaFlaskHinderNearbyEnemies"
+    },
+    "LocalManaFlaskHinderNearbyEnemies4": {
+        "adds_tags": [],
+        "domain": "flask",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalManaFlaskHinderNearbyEnemies"
+        ],
+        "implicit_tags": [
+            "flask",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "of Restraint",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "life_flask",
+                "weight": 0
+            },
+            {
+                "tag": "utility_flask",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 750
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_flask_hinder_nearby_enemies_%_for_4_seconds_if_not_on_full_mana",
+                "max": 40,
+                "min": 35
+            }
+        ],
+        "type": "LocalManaFlaskHinderNearbyEnemies"
+    }
+}

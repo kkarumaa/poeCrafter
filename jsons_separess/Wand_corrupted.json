@@ -1,0 +1,601 @@
+{
+    "ElementalWeaknessSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "ElementalWeakness",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_elemental_weakness_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ElementalWeaknessSkill"
+    },
+    "GlobalPierceCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ProjectileSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_projectile_speed_+%",
+                "max": 8,
+                "min": 4
+            }
+        ],
+        "type": "ProjectileSpeed"
+    },
+    "SupportedByElementalProliferationCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportElementalProliferation",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "DisplaySocketedGemGetsElementalProliferation"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_elemental_proliferation_level",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DisplaySocketedGemGetsElementalProliferation"
+    },
+    "SupportedByMeleeSplashCorruption": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportMeleeSplash",
+                "level": 10
+            }
+        ],
+        "groups": [
+            "SupportedByMelee"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_melee_splash_level",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "SupportedByMeleeSplash"
+    },
+    "V2ChanceToGainPowerChargeOnCritCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PowerChargeOnCriticalStrikeChance"
+        ],
+        "implicit_tags": [
+            "power_charge",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_power_charge_on_critical_strike_%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "PowerChargeOnCriticalStrikeChance"
+    },
+    "V2ElementalDamagePenetrationCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalPenetration"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "rapier",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "reduce_enemy_elemental_resistance_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "ElementalPenetration"
+    },
+    "V2LocalAddedPhysicalDamage1hCorrupted1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_physical_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_maximum_added_physical_damage",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "LocalPhysicalDamage"
+    },
+    "V2LocalAddedPhysicalDamage1hCorrupted2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_physical_damage",
+                "max": 4,
+                "min": 3
+            },
+            {
+                "id": "local_maximum_added_physical_damage",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "LocalPhysicalDamage"
+    },
+    "V2LocalAddedPhysicalDamage1hCorrupted3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_physical_damage",
+                "max": 7,
+                "min": 5
+            },
+            {
+                "id": "local_maximum_added_physical_damage",
+                "max": 12,
+                "min": 10
+            }
+        ],
+        "type": "LocalPhysicalDamage"
+    },
+    "V2LocalIncreasedAttackSpeed1hCorrupted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "LocalIncreasedAttackSpeed"
+    },
+    "V2LocalIncreasedAttackSpeedWandCorrupted_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedAttackSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_attack_speed_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "LocalIncreasedAttackSpeed"
+    },
+    "V2LocalIncreasedCriticalStrikeChance1hCorrupted1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "rapier",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_critical_strike_chance_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "LocalCriticalStrikeChance"
+    },
+    "V2UnholyMightOnKillPercentChanceCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "UnholyMightOnKillPercentChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 1000
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_unholy_might_on_kill_for_3_seconds_%",
+                "max": 15,
+                "min": 10
+            }
+        ],
+        "type": "UnholyMightOnKillPercentChance"
+    }
+}

@@ -1,0 +1,3385 @@
+{
+    "LeaguestoneChanceToGainSecondRampageKill": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LeaguestoneChanceToGainSecondRampageKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Efficiency",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "rampage_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "kills_count_twice_for_rampage_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "LeaguestoneChanceToGainSecondRampageKill"
+    },
+    "MapAreaContainsAStoneCircle": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsAStoneCircle"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Ruins",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "talisman_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_force_stone_circle",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAreaContainsAStoneCircle"
+    },
+    "MapAreaContainsATalismanBoss1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsATalismanBoss"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Fear",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "talisman_leaguestone",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_talisman_boss_with_higher_tier",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapAreaContainsATalismanBoss"
+    },
+    "MapAreaContainsATalismanBoss2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsATalismanBoss"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Terror",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "talisman_leaguestone",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_talisman_boss_with_higher_tier",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAreaContainsATalismanBoss"
+    },
+    "MapAreaContainsAccelerationShrine": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsASpecificShrine"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Acceleration",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "domination_leaguestone",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_shrine_override_type",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_extra_max_charges",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "MapAreaContainsASpecificShrine"
+    },
+    "MapAreaContainsAdditionalAnimatedWeaponPacks1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsAdditionalAnimatedWeaponPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Mirages",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "rampage_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_x_additional_animated_weapon_packs",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "MapAreaContainsAdditionalAnimatedWeaponPacks"
+    },
+    "MapAreaContainsAdditionalAnimatedWeaponPacks2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsAdditionalAnimatedWeaponPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Mirages",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "rampage_leaguestone",
+                "weight": 325
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_x_additional_animated_weapon_packs",
+                "max": 5,
+                "min": 5
+            }
+        ],
+        "type": "MapAreaContainsAdditionalAnimatedWeaponPacks"
+    },
+    "MapAreaContainsAdditionalAnimatedWeaponPacks3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsAdditionalAnimatedWeaponPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Mirages",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "rampage_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_x_additional_animated_weapon_packs",
+                "max": 6,
+                "min": 6
+            }
+        ],
+        "type": "MapAreaContainsAdditionalAnimatedWeaponPacks"
+    },
+    "MapAreaContainsAdditionalRarePacks1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsAdditionalRareMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "nemesis_leaguestone",
+                "weight": 1250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_x_additional_rare_packs",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapAreaContainsAdditionalRarePacks"
+    },
+    "MapAreaContainsAdditionalRarePacks2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsAdditionalRareMonsters"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "nemesis_leaguestone",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_x_additional_rare_packs",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapAreaContainsAdditionalRarePacks"
+    },
+    "MapAreaContainsAdditionalShrines1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAdditionalShrines"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Altars",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "domination_leaguestone",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_additional_shrines",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneAdditionalShrines"
+    },
+    "MapAreaContainsAdditionalShrines2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAdditionalShrines"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Altars",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "domination_leaguestone",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_additional_shrines",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapLeaguestoneAdditionalShrines"
+    },
+    "MapAreaContainsDivineShrine": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsASpecificShrine"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Divinity",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "domination_leaguestone",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_shrine_override_type",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "local_extra_max_charges",
+                "max": -2,
+                "min": -2
+            }
+        ],
+        "type": "MapAreaContainsASpecificShrine"
+    },
+    "MapAreaContainsEchoingShrine": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsASpecificShrine"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Echoes",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "domination_leaguestone",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_shrine_override_type",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "local_extra_max_charges",
+                "max": -1,
+                "min": -1
+            }
+        ],
+        "type": "MapAreaContainsASpecificShrine"
+    },
+    "MapAreaContainsKeepersOfTheTrovePack_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsKeepersOfTheTrovePack"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Trove",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bloodlines_leaguestone",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_keepers_of_the_trove_bloodline_pack",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAreaContainsKeepersOfTheTrovePack"
+    },
+    "MapAreaContainsPerandusCoinChest": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsPerandusCoinChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Mint",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "perandus_leaguestone",
+                "weight": 1250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_area_contains_perandus_coin_chest",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAreaContainsPerandusCoinChest"
+    },
+    "MapAreaContainsPerandusUniqueMonster": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsPerandusUniqueMonster"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Dynasty",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "perandus_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_perandus_boss",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_extra_max_charges",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "leaguestone_suffix_minimum_area_level",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "MapAreaContainsPerandusUniqueMonster"
+    },
+    "MapAreaContainsTormentedEmbezzler": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsTormentedEmbezzler"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Embezzling",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "torment_leaguestone",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_area_contains_tormented_embezzler",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAreaContainsTormentedEmbezzler"
+    },
+    "MapAreaContainsTormentedSeditionist": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsTormentedSeditionist"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Sedition",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "torment_leaguestone",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_area_contains_tormented_seditionist",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAreaContainsTormentedSeditionist"
+    },
+    "MapAreaContainsTormentedVaalCultist": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsTormentedVaalCultist"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Vaal",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "torment_leaguestone",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_area_contains_tormented_vaal_cultist",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAreaContainsTormentedVaalCultist"
+    },
+    "MapAreaContainsWarbandOfTypeOverride1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsWarbandOfTypeOverride"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Redblade",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "warbands_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_explicit_warband_type_override",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "leaguestone_prefix_minimum_area_level",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "MapAreaContainsWarbandOfTypeOverride"
+    },
+    "MapAreaContainsWarbandOfTypeOverride2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsWarbandOfTypeOverride"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Mutewind",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "warbands_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_explicit_warband_type_override",
+                "max": 2,
+                "min": 2
+            },
+            {
+                "id": "leaguestone_prefix_minimum_area_level",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "MapAreaContainsWarbandOfTypeOverride"
+    },
+    "MapAreaContainsWarbandOfTypeOverride3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsWarbandOfTypeOverride"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Brinerot",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "warbands_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_explicit_warband_type_override",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "leaguestone_prefix_minimum_area_level",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "MapAreaContainsWarbandOfTypeOverride"
+    },
+    "MapAreaContainsWealthyPack": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaContainsWealthyPack"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bloodlines_leaguestone",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_contains_wealthy_pack",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAreaContainsWealthyPack"
+    },
+    "MapAreaHasRandomProphecy": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapAreaHasRandomProphecy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Fate",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "prophecy_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_random_area_prophecy",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapAreaHasRandomProphecy"
+    },
+    "MapBreachContainsLargeChest": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapBreachContainsLargeChest"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Grasping",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "breach_leaguestone",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_breach_has_large_chest",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_extra_max_charges",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "MapBreachContainsLargeChest"
+    },
+    "MapCadiroSpawnChance": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapCadiroSpawnChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Bargains",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "perandus_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_spawn_cadiro_%_chance",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MapCadiroSpawnChance"
+    },
+    "MapDoublePerandusCoinsFound": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapDoublePerandusCoinsFound"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Riches",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "perandus_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "perandus_double_number_of_coins_found",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapDoublePerandusCoinsFound"
+    },
+    "MapEssenceMonstersAreCorrupted": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapEssenceMonstersAreCorrupted"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Corruption",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "essence_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_essence_monsters_are_corrupted",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapEssenceMonstersAreCorrupted"
+    },
+    "MapEssenceMonstersHaveAdditionalEssences1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapEssenceMonstersHaveAdditionalEssences"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Echoes",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "essence_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_essence_monsters_have_additional_essences",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapEssenceMonstersHaveAdditionalEssences"
+    },
+    "MapEssenceMonstersHaveAdditionalEssences2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapEssenceMonstersHaveAdditionalEssences"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Echoes",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "essence_leaguestone",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_essence_monsters_have_additional_essences",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapEssenceMonstersHaveAdditionalEssences"
+    },
+    "MapEssenceMonstersHaveAdditionalEssences3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapEssenceMonstersHaveAdditionalEssences"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Echoes",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "essence_leaguestone",
+                "weight": 20
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_essence_monsters_have_additional_essences",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "MapEssenceMonstersHaveAdditionalEssences"
+    },
+    "MapGainOnslaughtFor4SecondsOnKill": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapGainOnslaughtFor4SecondsOnKill"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Slaying",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "onslaught_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_player_onslaught_on_kill_%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "map_player_attack_cast_and_movement_speed_+%_during_onslaught",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MapGainOnslaughtFor4SecondsOnKill"
+    },
+    "MapIncreasedBeyondPortalChance1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedBeyondPortalChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Call",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "beyond_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monster_beyond_portal_chance_+%",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "MapIncreasedBeyondPortalChance"
+    },
+    "MapIncreasedBeyondPortalChance2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedBeyondPortalChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Call",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "beyond_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monster_beyond_portal_chance_+%",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "MapIncreasedBeyondPortalChance"
+    },
+    "MapIncreasedBeyondPortalChance3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedBeyondPortalChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Call",
+        "required_level": 80,
+        "spawn_weights": [
+            {
+                "tag": "beyond_leaguestone",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monster_beyond_portal_chance_+%",
+                "max": 80,
+                "min": 80
+            }
+        ],
+        "type": "MapIncreasedBeyondPortalChance"
+    },
+    "MapIncreasedBreachMonsterQuantity1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedBreachMonsterQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Swarming",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "breach_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_breach_monster_quantity_+%",
+                "max": 25,
+                "min": 15
+            }
+        ],
+        "type": "MapIncreasedBreachMonsterQuantity"
+    },
+    "MapIncreasedRampageDuration1_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedRampageDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Protraction",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "rampage_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rampage_time_+%",
+                "max": 19,
+                "min": 10
+            }
+        ],
+        "type": "MapIncreasedRampageDuration"
+    },
+    "MapIncreasedRampageDuration2_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedRampageDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Protraction",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "rampage_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rampage_time_+%",
+                "max": 29,
+                "min": 20
+            }
+        ],
+        "type": "MapIncreasedRampageDuration"
+    },
+    "MapIncreasedRampageDuration3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedRampageDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Protraction",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "rampage_leaguestone",
+                "weight": 125
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rampage_time_+%",
+                "max": 39,
+                "min": 30
+            }
+        ],
+        "type": "MapIncreasedRampageDuration"
+    },
+    "MapIncreasedTempestFrequency": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedTempestFrequency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Monsoon",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "tempest_leaguestone",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_tempest_frequency_+%",
+                "max": 50,
+                "min": 30
+            }
+        ],
+        "type": "MapIncreasedTempestFrequency"
+    },
+    "MapInvasionBossDropsFullyLinkedItems": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapInvasionBossDropsFullyLinkedItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Tethers",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "invasion_leaguestone",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_invasion_bosses_dropped_items_are_fully_linked",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapInvasionBossDropsFullyLinkedItems"
+    },
+    "MapInvasionBossDropsItemsWithAdditionalSocket": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapInvasionBossDropsItemsWithAdditionalSocket"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Hollows",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "invasion_leaguestone",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_invasion_bosses_dropped_items_have_x_additional_sockets",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapInvasionBossDropsItemsWithAdditionalSocket"
+    },
+    "MapInvasionBossGuardedByMagicPacks1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapInvasionBossGuardedByMagicPacks"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Many",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "invasion_leaguestone",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_invasion_monsters_guarded_by_x_magic_packs",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapInvasionBossGuardedByMagicPacks"
+    },
+    "MapInvasionBossItemQuantityAndRarity1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapInvasionBossItemQuantityAndRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "invasion_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_invasion_boss_item_quantity_and_rarity_+%_final",
+                "max": 40,
+                "min": 30
+            }
+        ],
+        "type": "MapInvasionBossItemQuantityAndRarity"
+    },
+    "MapInvasionBossItemQuantityAndRarity2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapInvasionBossItemQuantityAndRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "invasion_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_invasion_boss_item_quantity_and_rarity_+%_final",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "MapInvasionBossItemQuantityAndRarity"
+    },
+    "MapInvasionBossItemQuantityAndRarity3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapInvasionBossItemQuantityAndRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "invasion_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_invasion_boss_item_quantity_and_rarity_+%_final",
+                "max": 60,
+                "min": 51
+            }
+        ],
+        "type": "MapInvasionBossItemQuantityAndRarity"
+    },
+    "MapLeaguestoneAdditionalRareItemsFromStrongbox1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAdditionalRareItemsFromStrongbox"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ambush_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_strongboxes_drop_x_additional_rare_items",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneAdditionalRareItemsFromStrongbox"
+    },
+    "MapLeaguestoneAdditionalRareItemsFromStrongbox2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAdditionalRareItemsFromStrongbox"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ambush_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_strongboxes_drop_x_additional_rare_items",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "MapLeaguestoneAdditionalRareItemsFromStrongbox"
+    },
+    "MapLeaguestoneAdditionalRareItemsFromStrongbox3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAdditionalRareItemsFromStrongbox"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ambush_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_strongboxes_drop_x_additional_rare_items",
+                "max": 6,
+                "min": 5
+            }
+        ],
+        "type": "MapLeaguestoneAdditionalRareItemsFromStrongbox"
+    },
+    "MapLeaguestoneAdditionalRareMonstersFromStrongbox1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAdditionalRareMonstersFromStrongbox"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Protection",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ambush_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_first_strongbox_contains_x_additional_rare_monsters",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapLeaguestoneAdditionalRareMonstersFromStrongbox"
+    },
+    "MapLeaguestoneAreaContainsAdditionalLeaguestone": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAreaContainsAdditionalLeaguestone"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_area_contains_x_additional_leaguestones",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneAreaContainsAdditionalLeaguestone"
+    },
+    "MapLeaguestoneAreaContainsBearersOfTheGuardianBloodline": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAreaContainsBearersOfTheGuardianBloodline"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Guardian",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bloodlines_leaguestone",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_next_area_contains_x_additional_bearers_of_the_guardian_packs",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneAreaContainsBearersOfTheGuardianBloodline"
+    },
+    "MapLeaguestoneAreaContainsVoidspawnOfAbaxothBloodline_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneAreaContainsVoidspawnOfAbaxothBloodline"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Void",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bloodlines_leaguestone",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_next_area_contains_x_additional_voidspawn_of_abaxoth_packs",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneAreaContainsVoidspawnOfAbaxothBloodline"
+    },
+    "MapLeaguestoneBreachMonsterDamageDealtAndTaken": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneBreachMonsterDamageDealtAndTaken"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of Empowerment",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "breach_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_player_damage_+%_vs_breach_monsters",
+                "max": 80,
+                "min": 60
+            },
+            {
+                "id": "map_player_damage_taken_+%_vs_breach_monsters",
+                "max": -10,
+                "min": -10
+            }
+        ],
+        "type": "MapLeaguestoneBreachMonsterDamageDealtAndTaken"
+    },
+    "MapLeaguestoneEssenceMonsterDamageDealtAndTaken": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneEssenceMonsterDamageDealtAndTaken"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Burden",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "essence_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_imprisoned_monsters_damage_taken_+%",
+                "max": 20,
+                "min": 15
+            },
+            {
+                "id": "map_imprisoned_monsters_action_speed_+%",
+                "max": -10,
+                "min": -10
+            }
+        ],
+        "type": "MapLeaguestoneEssenceMonsterDamageDealtAndTaken"
+    },
+    "MapLeaguestoneEssenceMonsterItemQuantity1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneEssenceMonsterItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "essence_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_imprisoned_monsters_item_quantity_+%_final",
+                "max": 90,
+                "min": 70
+            }
+        ],
+        "type": "MapLeaguestoneEssenceMonsterItemQuantity"
+    },
+    "MapLeaguestoneEssenceMonsterItemQuantity2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneEssenceMonsterItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "essence_leaguestone",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_imprisoned_monsters_item_quantity_+%_final",
+                "max": 110,
+                "min": 91
+            }
+        ],
+        "type": "MapLeaguestoneEssenceMonsterItemQuantity"
+    },
+    "MapLeaguestoneIncreasedShrineEffectDuration_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneIncreasedShrineEffectDuration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Protraction",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "domination_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_player_shrine_effect_duration_+%",
+                "max": 75,
+                "min": 75
+            }
+        ],
+        "type": "MapLeaguestoneIncreasedShrineEffectDuration"
+    },
+    "MapLeaguestoneInvasionBossesAreTwinned": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneInvasionBossesAreTwinned"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Twins",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "invasion_leaguestone",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_invasion_bosses_are_twinned",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneInvasionBossesAreTwinned"
+    },
+    "MapLeaguestoneMonstersNearShrinesAreChilled_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneMonstersNearShrinesAreChilled"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Winter",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "domination_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monsters_near_shrines_are_chilled",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneMonstersNearShrinesAreChilled"
+    },
+    "MapLeaguestoneOnslaughtOnOpeningStrongbox": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneOnslaughtOnOpeningStrongbox"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Plundering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "onslaught_leaguestone",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_players_gain_onslaught_after_opening_a_strongbox_ms",
+                "max": 20000,
+                "min": 20000
+            },
+            {
+                "id": "map_player_attack_cast_and_movement_speed_+%_during_onslaught",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MapLeaguestoneOnslaughtOnOpeningStrongbox"
+    },
+    "MapLeaguestoneOtherEssenceMonstersAreMagic_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneOtherEssenceMonstersAreMagic"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Protection",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "essence_leaguestone",
+                "weight": 1250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_mini_monolith_monsters_are_magic",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneOtherEssenceMonstersAreMagic"
+    },
+    "MapLeaguestonePlayerMovementSpeed": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestonePlayerMovementSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Wind",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "onslaught_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_players_movement_speed_+%",
+                "max": 10,
+                "min": 6
+            }
+        ],
+        "type": "MapLeaguestonePlayerMovementSpeed"
+    },
+    "MapLeaguestonePlayerSpellDodge": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestonePlayerSpellDodge"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Shimmering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "onslaught_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "MapLeaguestonePlayerSpellDodge"
+    },
+    "MapLeaguestoneRareBreachMonsterDropsBreachRingChance": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneRareBreachMonsterDropsBreachRingChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Promise",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "breach_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rare_breach_monster_additional_breach_ring_drop_chance_%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "MapLeaguestoneRareBreachMonsterDropsBreachRingChance"
+    },
+    "MapLeaguestoneRareMonstersAreHindered_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneRareMonsterDamage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Warding",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "nemesis_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rare_monsters_are_hindered",
+                "max": -40,
+                "min": -40
+            }
+        ],
+        "type": "MapLeaguestoneRareMonstersAreHindered"
+    },
+    "MapLeaguestoneStrongboxRarity1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneStrongboxRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Whispers",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ambush_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_strongboxes_rarity_override",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapLeaguestoneStrongboxRarity"
+    },
+    "MapLeaguestoneStrongboxRarity2_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneStrongboxRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Runes",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "ambush_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_strongboxes_rarity_override",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapLeaguestoneStrongboxRarity"
+    },
+    "MapLeaguestoneTalismanMonstersDropAdditionalRareItems1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneTalismanMonstersDropAdditionalRareItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "talisman_leaguestone",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monsters_spawned_with_talisman_drop_additional_rare_items",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapLeaguestoneTalismanMonstersDropAdditionalRareItems"
+    },
+    "MapLeaguestoneTalismanMonstersDropAdditionalRareItems2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneTalismanMonstersDropAdditionalRareItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "talisman_leaguestone",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monsters_spawned_with_talisman_drop_additional_rare_items",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapLeaguestoneTalismanMonstersDropAdditionalRareItems"
+    },
+    "MapLeaguestoneTalismanMonstersDropAdditionalRareItems3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneTalismanMonstersDropAdditionalRareItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "talisman_leaguestone",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monsters_spawned_with_talisman_drop_additional_rare_items",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "MapLeaguestoneTalismanMonstersDropAdditionalRareItems"
+    },
+    "MapLeaguestoneTormentSpiritMovementSpeed1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneTormentSpiritMovementSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Lingering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "torment_leaguestone",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_tormented_spirits_movement_speed_+%",
+                "max": -30,
+                "min": -30
+            }
+        ],
+        "type": "MapLeaguestoneTormentSpiritMovementSpeed"
+    },
+    "MapLeaguestoneTormentSpiritMovementSpeed2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapLeaguestoneTormentSpiritMovementSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Rapidity",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "torment_leaguestone",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_tormented_spirits_movement_speed_+%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "MapLeaguestoneTormentSpiritMovementSpeed"
+    },
+    "MapMonsterWillSummonBeyondBoss": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapMonsterWillSummonBeyondBoss"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Worship",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "beyond_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_x_monsters_spawn_random_beyond_boss",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "local_extra_max_charges",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "MapMonsterWillSummonBeyondBoss"
+    },
+    "MapMonstersDropAdditionalSilverCoins1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapMonstersDropAdditionalSilverCoins"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Silver",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "prophecy_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monsters_that_drop_silver_coin_drop_x_additional_silver_coins",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapMonstersDropAdditionalSilverCoins"
+    },
+    "MapMonstersDropAdditionalSilverCoins2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapMonstersDropAdditionalSilverCoins"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Silver",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "prophecy_leaguestone",
+                "weight": 150
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monsters_that_drop_silver_coin_drop_x_additional_silver_coins",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapMonstersDropAdditionalSilverCoins"
+    },
+    "MapPerandusGuardsAreRare_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapPerandusGuardsAreRare"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Protection",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "perandus_leaguestone",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_perandus_guards_are_rare",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapPerandusGuardsAreRare"
+    },
+    "MapRareBreachMonsterDropsAdditionalShards2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRareBreachMonsterDropsAdditionalShards"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Splinters",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "breach_leaguestone",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rare_breach_monsters_drop_additional_shards",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapRareBreachMonsterDropsAdditionalShards"
+    },
+    "MapRareBreachMonsterDropsAdditionalShards3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRareBreachMonsterDropsAdditionalShards"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Splinters",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "breach_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rare_breach_monsters_drop_additional_shards",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapRareBreachMonsterDropsAdditionalShards"
+    },
+    "MapRareMonstersDropRarePrismaticRingChance": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRareMonstersDropRarePrismaticRingChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Prism",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "nemesis_leaguestone",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rare_monsters_drop_rare_prismatic_ring_on_death_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "MapRareMonstersDropRarePrismaticRingChance"
+    },
+    "MapReducedTempestFrequency": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapIncreasedTempestFrequency"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Drought",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "tempest_leaguestone",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_tempest_frequency_+%",
+                "max": -30,
+                "min": -50
+            }
+        ],
+        "type": "MapIncreasedTempestFrequency"
+    },
+    "MapRogueExileAttacCastMovementSpeed": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRogueExileAttacCastMovementSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Haste",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "anarchy_leaguestone",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rogue_exile_attack_cast_and_movement_speed_+%",
+                "max": 30,
+                "min": 15
+            },
+            {
+                "id": "map_leaguestone_rogue_exiles_dropped_item_rarity_+%_final",
+                "max": 50,
+                "min": 30
+            }
+        ],
+        "type": "MapRogueExileAttackCastMovementSpeed"
+    },
+    "MapRogueExileDropsAreFullyLinked": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRogueExileDropsAreFullyLinked"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Tethers",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "anarchy_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rogue_exiles_dropped_items_are_fully_linked",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapRogueExileDropsAreFullyLinked"
+    },
+    "MapRogueExileDropsAreMirrored": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRogueExileDropsAreMirrored"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Kalandra",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "anarchy_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rogue_exiles_dropped_items_are_duplicated",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapRogueExileDropsAreMirrored"
+    },
+    "MapRogueExileDropsQualityGem": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRogueExileDropsQualityGem"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Thaumaturgy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "anarchy_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rogue_exile_drop_skill_gem_with_quality",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapRogueExileDropsQualityGem"
+    },
+    "MapRogueExilesAreTwinned": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRogueExilesAreTwinned"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Brotherhood",
+        "required_level": 28,
+        "spawn_weights": [
+            {
+                "tag": "anarchy_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_rogue_exiles_are_doubled",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapRogueExilesAreTwinned"
+    },
+    "MapRogueExilesDealExtraDamageAndAreFaster1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRogueExilesDealExtraDamageAndAreFaster"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Aggression",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "anarchy_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_rogue_exiles_dropped_item_rarity_+%_final",
+                "max": 29,
+                "min": 20
+            },
+            {
+                "id": "map_rogue_exiles_damage_+%",
+                "max": 15,
+                "min": 10
+            },
+            {
+                "id": "map_rogue_exile_attack_cast_and_movement_speed_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "MapRogueExilesDealExtraDamageAndAreFaster"
+    },
+    "MapRogueExilesDealExtraDamageAndAreFaster2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRogueExilesDealExtraDamageAndAreFaster"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Aggression",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "anarchy_leaguestone",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_rogue_exiles_dropped_item_rarity_+%_final",
+                "max": 39,
+                "min": 30
+            },
+            {
+                "id": "map_rogue_exiles_damage_+%",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "map_rogue_exile_attack_cast_and_movement_speed_+%",
+                "max": 14,
+                "min": 11
+            }
+        ],
+        "type": "MapRogueExilesDealExtraDamageAndAreFaster"
+    },
+    "MapRogueExilesDealExtraDamageAndAreFaster3": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapRogueExilesDealExtraDamageAndAreFaster"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Aggression",
+        "required_level": 50,
+        "spawn_weights": [
+            {
+                "tag": "anarchy_leaguestone",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_rogue_exiles_dropped_item_rarity_+%_final",
+                "max": 50,
+                "min": 40
+            },
+            {
+                "id": "map_rogue_exiles_damage_+%",
+                "max": 25,
+                "min": 21
+            },
+            {
+                "id": "map_rogue_exile_attack_cast_and_movement_speed_+%",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "MapRogueExilesDealExtraDamageAndAreFaster"
+    },
+    "MapSilverCoinMonstersDropAdditionalRareItems1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapSilverCoinMonstersDropAdditionalRareItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "prophecy_leaguestone",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monsters_with_silver_coins_drop_x_additional_rare_items",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "MapSilverCoinMonstersDropAdditionalRareItems"
+    },
+    "MapSilverCoinMonstersDropAdditionalRareItems2_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapSilverCoinMonstersDropAdditionalRareItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "prophecy_leaguestone",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_monsters_with_silver_coins_drop_x_additional_rare_items",
+                "max": 5,
+                "min": 4
+            }
+        ],
+        "type": "MapSilverCoinMonstersDropAdditionalRareItems"
+    },
+    "MapSummonBeyondBossOnBeyondBossDeathChance__": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapSummonBeyondBossOnBeyondBossDeathChance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Circle",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "beyond_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_spawn_beyond_boss_when_beyond_boss_slain_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MapSummonBeyondBossOnBeyondBossDeathChance"
+    },
+    "MapTalismansDropAtHigherTiers": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapTalismansDropAtHigherTiers"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the First Ones",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "talisman_leaguestone",
+                "weight": 1250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_talismans_higher_tier",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MapTalismansDropAtHigherTiers"
+    },
+    "MapTempestItemQuantity": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapTempestItemQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Abundance",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "tempest_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_quantity_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "MapTempestItemQuantity"
+    },
+    "MapTempestItemRarity": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapTempestItemRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Excellence",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "tempest_leaguestone",
+                "weight": 800
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_item_drop_rarity_+%",
+                "max": 40,
+                "min": 30
+            }
+        ],
+        "type": "MapTempestItemRarity"
+    },
+    "MapTormentedSpiritsDropAdditionalItems1": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapTormentedSpiritsDropAdditionalItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "torment_leaguestone",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_tormented_spirits_drop_x_additional_rare_items",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "MapTormentedSpiritsDropAdditionalItems"
+    },
+    "MapTormentedSpiritsDropAdditionalItems2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapTormentedSpiritsDropAdditionalItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "torment_leaguestone",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_tormented_spirits_drop_x_additional_rare_items",
+                "max": 3,
+                "min": 3
+            }
+        ],
+        "type": "MapTormentedSpiritsDropAdditionalItems"
+    },
+    "MapTormentedSpiritsDropAdditionalItems3_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapTormentedSpiritsDropAdditionalItems"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "torment_leaguestone",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_tormented_spirits_drop_x_additional_rare_items",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "MapTormentedSpiritsDropAdditionalItems"
+    },
+    "MapWarbandItemRarityQuantity1_": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapWarbandItemRarityQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "warbands_leaguestone",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_warbands_packs_have_item_rarity_+%_final",
+                "max": 29,
+                "min": 20
+            },
+            {
+                "id": "map_leaguestone_warbands_packs_have_item_quantity_+%_final",
+                "max": 60,
+                "min": 50
+            }
+        ],
+        "type": "MapWarbandItemRarityQuantity"
+    },
+    "MapWarbandItemRarityQuantity2": {
+        "adds_tags": [],
+        "domain": "leaguestone",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MapWarbandItemRarityQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Wealth",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "warbands_leaguestone",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "map_leaguestone_warbands_packs_have_item_rarity_+%_final",
+                "max": 40,
+                "min": 30
+            },
+            {
+                "id": "map_leaguestone_warbands_packs_have_item_quantity_+%_final",
+                "max": 70,
+                "min": 61
+            }
+        ],
+        "type": "MapWarbandItemRarityQuantity"
+    }
+}

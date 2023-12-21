@@ -1,0 +1,1306 @@
+{
+    "AddedChaosDamageCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_chaos_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "attack_maximum_added_chaos_damage",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "ChaosDamage"
+    },
+    "AddedChaosDamageCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_chaos_damage",
+                "max": 4,
+                "min": 3
+            },
+            {
+                "id": "attack_maximum_added_chaos_damage",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "ChaosDamage"
+    },
+    "AddedChaosDamageCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_minimum_added_chaos_damage",
+                "max": 9,
+                "min": 7
+            },
+            {
+                "id": "attack_maximum_added_chaos_damage",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "ChaosDamage"
+    },
+    "ConductivitySkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Conductivity",
+                "level": 14
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_conductivity_level",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "ConductivitySkill"
+    },
+    "FlammabilitySkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Flammability",
+                "level": 14
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_flammability_level",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "FlammabilitySkill"
+    },
+    "FrostbiteSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Frostbite",
+                "level": 14
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_frostbite_level",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "FrostbiteSkill"
+    },
+    "IncreasedCastSpeedCorrupted": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "focus",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "ManaOnHitCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaGainPerTarget"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_gain_per_target",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "ManaGainPerTarget"
+    },
+    "V2AddedColdDamageCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamageToSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_cold_damage",
+                "max": 4,
+                "min": 3
+            },
+            {
+                "id": "spell_and_attack_maximum_added_cold_damage",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "AddedColdDamageToSpellsAndAttacks"
+    },
+    "V2AddedColdDamageCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamageToSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_cold_damage",
+                "max": 9,
+                "min": 6
+            },
+            {
+                "id": "spell_and_attack_maximum_added_cold_damage",
+                "max": 16,
+                "min": 13
+            }
+        ],
+        "type": "AddedColdDamageToSpellsAndAttacks"
+    },
+    "V2AddedColdDamageCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedColdDamageToSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 81,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_cold_damage",
+                "max": 16,
+                "min": 12
+            },
+            {
+                "id": "spell_and_attack_maximum_added_cold_damage",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "AddedColdDamageToSpellsAndAttacks"
+    },
+    "V2AddedFireDamageCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamageSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_fire_damage",
+                "max": 5,
+                "min": 3
+            },
+            {
+                "id": "spell_and_attack_maximum_added_fire_damage",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "AddedFireDamageSpellsAndAttacks"
+    },
+    "V2AddedFireDamageCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamageSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_fire_damage",
+                "max": 10,
+                "min": 7
+            },
+            {
+                "id": "spell_and_attack_maximum_added_fire_damage",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "AddedFireDamageSpellsAndAttacks"
+    },
+    "V2AddedFireDamageCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedFireDamageSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 82,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_fire_damage",
+                "max": 18,
+                "min": 13
+            },
+            {
+                "id": "spell_and_attack_maximum_added_fire_damage",
+                "max": 33,
+                "min": 28
+            }
+        ],
+        "type": "AddedFireDamageSpellsAndAttacks"
+    },
+    "V2AddedLightningDamageCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamageSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_lightning_damage",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "spell_and_attack_maximum_added_lightning_damage",
+                "max": 15,
+                "min": 14
+            }
+        ],
+        "type": "AddedLightningDamageSpellsAndAttacks"
+    },
+    "V2AddedLightningDamageCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamageSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_lightning_damage",
+                "max": 2,
+                "min": 1
+            },
+            {
+                "id": "spell_and_attack_maximum_added_lightning_damage",
+                "max": 28,
+                "min": 27
+            }
+        ],
+        "type": "AddedLightningDamageSpellsAndAttacks"
+    },
+    "V2AddedLightningDamageCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AddedLightningDamageSpellsAndAttacks"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "caster_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_and_attack_minimum_added_lightning_damage",
+                "max": 5,
+                "min": 1
+            },
+            {
+                "id": "spell_and_attack_maximum_added_lightning_damage",
+                "max": 52,
+                "min": 50
+            }
+        ],
+        "type": "AddedLightningDamageSpellsAndAttacks"
+    },
+    "V2AngerSkillReducedCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Anger",
+                "level": 21
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_anger_level",
+                "max": 21,
+                "min": 21
+            }
+        ],
+        "type": "AngerSkill"
+    },
+    "V2AvoidIgniteCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidIgniteCorrupted"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_ignite_%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "AvoidIgniteCorrupted"
+    },
+    "V2CannotBePoisonedCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotBePoisoned"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_be_poisoned",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotBePoisoned"
+    },
+    "V2CannotGainBleedingCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BleedingImmunity"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cannot_gain_bleeding",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "BleedingImmunity"
+    },
+    "V2ConductivitySkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Conductivity",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_conductivity_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "ConductivitySkill"
+    },
+    "V2DespairSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Despair",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_level_x_despair",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "DespairSkill"
+    },
+    "V2FlammabilitySkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Flammability",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_flammability_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "FlammabilitySkill"
+    },
+    "V2FrostbiteSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Frostbite",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_frostbite_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "FrostbiteSkill"
+    },
+    "V2HatredSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Hatred",
+                "level": 21
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_hatred_level",
+                "max": 21,
+                "min": 21
+            }
+        ],
+        "type": "HatredSkill"
+    },
+    "V2IncreasedGlobalPhysicalDamageCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 25,
+                "min": 15
+            }
+        ],
+        "type": "PhysicalDamagePercent"
+    },
+    "V2ManaOnHitCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaGainPerTarget"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_gain_per_target",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "ManaGainPerTarget"
+    },
+    "V2PrideSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "PhysicalDamageAura",
+                "level": 21
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_pride_level",
+                "max": 21,
+                "min": 21
+            }
+        ],
+        "type": "PrideSkill"
+    },
+    "V2WrathSkillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "Wrath",
+                "level": 21
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_wrath_level",
+                "max": 21,
+                "min": 21
+            }
+        ],
+        "type": "WrathSkill"
+    },
+    "V2ZealotrySkillCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SpellDamageAura",
+                "level": 23
+            }
+        ],
+        "groups": [
+            "GrantedSkill"
+        ],
+        "implicit_tags": [
+            "skill"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_grants_skill_zealotry_level",
+                "max": 23,
+                "min": 23
+            }
+        ],
+        "type": "ZealotrySkill"
+    },
+    "WeaponElementalDamageCorrupted": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedWeaponElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_with_attack_skills_+%",
+                "max": 12,
+                "min": 6
+            }
+        ],
+        "type": "IncreasedWeaponElementalDamagePercent"
+    }
+}

@@ -1,0 +1,1634 @@
+{
+    "ChaosDamageOverTimeMultiplierTwoHand1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Waning",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ChaosDamageOverTimeMultiplierTwoHand2__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Wasting",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 45,
+                "min": 36
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ChaosDamageOverTimeMultiplierTwoHand3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Deteriorating",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 55,
+                "min": 46
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ChaosDamageOverTimeMultiplierTwoHand4__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Atrophying",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 65,
+                "min": 56
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ChaosDamageOverTimeMultiplierTwoHand5___": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of Disintegrating",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_dot_multiplier_+",
+                "max": 75,
+                "min": 66
+            }
+        ],
+        "type": "ChaosDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplierTwoHand1_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Inclement",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplierTwoHand2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Bleak",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 45,
+                "min": 36
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplierTwoHand3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Boreal",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 55,
+                "min": 46
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplierTwoHand4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of the Gelid",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 65,
+                "min": 56
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "ColdDamageOverTimeMultiplierTwoHand5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "of Heartstopping",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_dot_multiplier_+",
+                "max": 75,
+                "min": 66
+            }
+        ],
+        "type": "ColdDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplierTwoHand1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Earnest",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplierTwoHand2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Fervid",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 45,
+                "min": 36
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplierTwoHand3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Ardent",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 55,
+                "min": 46
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplierTwoHand4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Zealous",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 65,
+                "min": 56
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "FireDamageOverTimeMultiplierTwoHand5_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [
+            {
+                "tag": "has_caster_mod",
+                "weight": 100
+            },
+            {
+                "tag": "has_attack_mod",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 100
+            }
+        ],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of the Fanatical",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_dot_multiplier_+",
+                "max": 75,
+                "min": 66
+            }
+        ],
+        "type": "FireDamageOverTimeMultiplier"
+    },
+    "IncreasedCastSpeedTwoHand1_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Talent",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 13,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeedTwoHand2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Nimbleness",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 19,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeedTwoHand3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Expertise",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeedTwoHand4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Legerdemain",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 31,
+                "min": 26
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeedTwoHand5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Prestidigitation",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 37,
+                "min": 32
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeedTwoHand6": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Sortilege",
+        "required_level": 72,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 43,
+                "min": 38
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "IncreasedCastSpeedTwoHand7": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Finesse",
+        "required_level": 83,
+        "spawn_weights": [
+            {
+                "tag": "attack_staff",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 49,
+                "min": 44
+            }
+        ],
+        "type": "IncreasedCastSpeed"
+    },
+    "PhysicalDamageOverTimeMultiplierTwoHand1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Seeping",
+        "required_level": 4,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 35,
+                "min": 26
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "PhysicalDamageOverTimeMultiplierTwoHand2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Spilling",
+        "required_level": 12,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 45,
+                "min": 36
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "PhysicalDamageOverTimeMultiplierTwoHand3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Phlebotomising",
+        "required_level": 36,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 55,
+                "min": 46
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "PhysicalDamageOverTimeMultiplierTwoHand4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Hemorrhaging",
+        "required_level": 64,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 100
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 65,
+                "min": 56
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "PhysicalDamageOverTimeMultiplierTwoHand5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTimeMultiplier"
+        ],
+        "implicit_tags": [
+            "dot_multi",
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of Exsanguinating",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_dot_multiplier_+",
+                "max": 75,
+                "min": 66
+            }
+        ],
+        "type": "PhysicalDamageOverTimeMultiplier"
+    },
+    "TwoHandBurnDamage1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Burning",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "burn_damage_+%",
+                "max": 40,
+                "min": 31
+            }
+        ],
+        "type": "BurnDamage"
+    },
+    "TwoHandBurnDamage2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Combusting",
+        "required_level": 40,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "burn_damage_+%",
+                "max": 50,
+                "min": 41
+            }
+        ],
+        "type": "BurnDamage"
+    },
+    "TwoHandBurnDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BurnDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "of Conflagrating",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 750
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "burn_damage_+%",
+                "max": 60,
+                "min": 51
+            }
+        ],
+        "type": "BurnDamage"
+    },
+    "TwoHandChanceToFreeze1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Freezing",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "TwoHandChanceToFreeze2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Bleakness",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "TwoHandChanceToFreeze3____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToFreeze"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Hyperboreal",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "ChanceToFreeze"
+    },
+    "TwoHandChanceToIgnite1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Ignition",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "TwoHandChanceToIgnite2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Combustion",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "TwoHandChanceToIgnite3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIgnite"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Conflagration",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_ignite_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "ChanceToIgnite"
+    },
+    "TwoHandChanceToShock1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Shocking",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "TwoHandChanceToShock2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Zapping",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "ChanceToShock"
+    },
+    "TwoHandChanceToShock3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToShock"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of Electrocution",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_shock_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "ChanceToShock"
+    }
+}

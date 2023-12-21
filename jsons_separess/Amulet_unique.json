@@ -1,0 +1,149 @@
+{
+    "ColdDamageLifeLeechCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "unique",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "old_do_not_use_base_life_leech_from_cold_damage_permyriad",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "ColdDamageLifeLeech"
+    },
+    "FireDamageLifeLeechCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "unique",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "old_do_not_use_base_life_leech_from_fire_damage_permyriad",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "FireDamageLifeLeech"
+    },
+    "LightningDamageLifeLeechCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "unique",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageLifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "quiver",
+                "weight": 1000
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "weapon",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "old_do_not_use_base_life_leech_from_lightning_damage_permyriad",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "LightningDamageLifeLeech"
+    }
+}

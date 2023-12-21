@@ -1,0 +1,458 @@
+{
+    "CullingStrikeCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CullingStrike"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "kill_enemy_on_hit_if_under_10%_life",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CullingStrike"
+    },
+    "SupportedByCriticalMultiplierCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportIncreasedCriticalDamage",
+                "level": 14
+            }
+        ],
+        "groups": [
+            "SupportedByCriticalMultiplier"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_increased_critical_damage_level",
+                "max": 14,
+                "min": 14
+            }
+        ],
+        "type": "SupportedByCriticalMultiplier"
+    },
+    "V2ChanceToGainFrenzyChargeOnKillCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FrenzyChargeOnKillChance"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_frenzy_charge_on_kill_%_chance",
+                "max": 11,
+                "min": 9
+            }
+        ],
+        "type": "FrenzyChargeOnKillChance"
+    },
+    "V2GlobalCriticalStrikeMultiplierCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_critical_strike_multiplier_+",
+                "max": 30,
+                "min": 25
+            }
+        ],
+        "type": "CriticalStrikeMultiplier"
+    },
+    "V2IncreasedAreaOfEffect1hCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AreaOfEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "rapier",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "AreaOfEffect"
+    },
+    "V2IncreasedDamageOverTimeCorrupted_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOverTime"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_over_time_+%",
+                "max": 60,
+                "min": 50
+            }
+        ],
+        "type": "DamageOverTime"
+    },
+    "V2IncreasedSpellDamage1hCorrupted": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 60,
+                "min": 50
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "V2LocalAddedChaosDamage1hCorrupted1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 2,
+                "min": 1
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "V2LocalAddedChaosDamage1hCorrupted2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 8,
+                "min": 6
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "V2LocalAddedChaosDamage1hCorrupted3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 84,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 11,
+                "min": 8
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 23,
+                "min": 19
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "V2LocalIncreasedCriticalStrikeChance1hCorrupted2__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CriticalStrikeChanceIncrease"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_critical_strike_chance_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "LocalCriticalStrikeChance"
+    }
+}

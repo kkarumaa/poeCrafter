@@ -1,0 +1,5162 @@
+{
+    "DelveAbyssJewelSocket1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AbyssJewelSocket"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_has_X_abyss_sockets",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AbyssJewelSocket"
+    },
+    "DelveAmuletBeltManaRecoveryRate1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRecoveryRate"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_recovery_rate_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "ManaRecoveryRate"
+    },
+    "DelveAmuletCannotBeChilledOrFrozenWhileMoving1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotBeChilledOrFrozenWhileMoving"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_be_chilled_or_frozen_while_moving",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotBeChilledOrFrozenWhileMoving"
+    },
+    "DelveAmuletVaalSkillDuration1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VaalSkillDuration"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "vaal_skill_effect_duration_+%",
+                "max": 25,
+                "min": 15
+            }
+        ],
+        "type": "VaalSkillDuration"
+    },
+    "DelveArmourArmour1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercentSuffix"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_physical_damage_reduction_rating_+%",
+                "max": 50,
+                "min": 25
+            }
+        ],
+        "type": "LocalPhysicalDamageReductionRatingPercentSuffix"
+    },
+    "DelveArmourArmourAndEnergyShield1__": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercentSuffix"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_energy_shield_+%",
+                "max": 50,
+                "min": 25
+            }
+        ],
+        "type": "LocalArmourAndEnergyShieldSuffix"
+    },
+    "DelveArmourArmourAndEvasion1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercentSuffix"
+        ],
+        "implicit_tags": [
+            "armour",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_+%",
+                "max": 50,
+                "min": 25
+            }
+        ],
+        "type": "LocalArmourAndEvasionSuffix"
+    },
+    "DelveArmourAttackBlock": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlockPercent"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_base_block_%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "BlockPercent"
+    },
+    "DelveArmourAvoidBleeding1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidBleeding"
+        ],
+        "implicit_tags": [
+            "bleed",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 1600
+            },
+            {
+                "tag": "helmet",
+                "weight": 1600
+            },
+            {
+                "tag": "boots",
+                "weight": 1600
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_bleed_%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ChanceToAvoidBleeding"
+    },
+    "DelveArmourAvoidPoison1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToAvoidPoison"
+        ],
+        "implicit_tags": [
+            "poison",
+            "chaos",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 1600
+            },
+            {
+                "tag": "helmet",
+                "weight": 1600
+            },
+            {
+                "tag": "boots",
+                "weight": 1600
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_avoid_poison_%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "ChanceToAvoidPoison"
+    },
+    "DelveArmourBlindChance": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlindOnHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_chance_to_blind_on_hit_%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "GlobalChanceToBlindOnHit"
+    },
+    "DelveArmourDefences1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercentSuffix"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_armour_and_evasion_and_energy_shield_+%",
+                "max": 50,
+                "min": 25
+            }
+        ],
+        "type": "LocalArmourAndEvasionAndEnergyShieldSuffix"
+    },
+    "DelveArmourDodgeAndSpellDodge_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToDodge"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_suppression_chance_150%_of_value",
+                "max": 4,
+                "min": 3
+            },
+            {
+                "id": "dummy_stat_display_nothing",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "ChanceToDodgeAndSpellDodge"
+    },
+    "DelveArmourDoubleArmourEffectOnHit": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceWhenHitForArmourToBeDoubled"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_double_armour_effect_on_hit_%",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "ChanceWhenHitForArmourToBeDoubled"
+    },
+    "DelveArmourElementalAilmentDuration1___": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SelfStatusAilmentDuration"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "self_elemental_status_duration_-%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "SelfStatusAilmentDuration"
+    },
+    "DelveArmourEnergyShield1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercentSuffix"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_energy_shield_+%",
+                "max": 50,
+                "min": 25
+            }
+        ],
+        "type": "LocalEnergyShieldPercentSuffix"
+    },
+    "DelveArmourEnergyShieldLeechSpells_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldLeechPermyriad"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_energy_shield_leech_from_spell_damage_permyriad",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "EnergyShieldLeechPermyriad"
+    },
+    "DelveArmourEnergyShieldRegen": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_energy_shield_regeneration_rate_per_minute_%",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "EnergyShieldRegenerationPerMinute"
+    },
+    "DelveArmourEvasion1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercentSuffix"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_rating_+%",
+                "max": 50,
+                "min": 25
+            }
+        ],
+        "type": "LocalEvasionRatingIncreasePercentSuffix"
+    },
+    "DelveArmourEvasionAndEnergyShield1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DefencesPercentSuffix"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_evasion_and_energy_shield_+%",
+                "max": 50,
+                "min": 25
+            }
+        ],
+        "type": "LocalEvasionAndEnergyShieldSuffix"
+    },
+    "DelveArmourEvasionOnFullLife": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionOnFullLife"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%_when_on_full_life",
+                "max": 50,
+                "min": 25
+            }
+        ],
+        "type": "GlobalEvasionRatingPercentOnFullLife"
+    },
+    "DelveArmourFortifyEffect": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FortifyEffect"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "str_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "max_fortification_+1_per_5",
+                "max": 25,
+                "min": 15
+            }
+        ],
+        "type": "FortifyEffect"
+    },
+    "DelveArmourLifeRegen1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegenerationRatePercentage"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_per_minute_%",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "LifeRegenerationRatePercentage"
+    },
+    "DelveArmourLocalDisplaySocketedAttacksManaCost1_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DelveModSocketedAttackFlatManaCost",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedAttacksManaCost"
+        ],
+        "implicit_tags": [
+            "skill",
+            "resource",
+            "mana",
+            "attack",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_attacks_mana_cost_+",
+                "max": -15,
+                "min": -15
+            }
+        ],
+        "type": "SocketedAttacksManaCost"
+    },
+    "DelveArmourMinionLife1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_maximum_life_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "MinionLife"
+    },
+    "DelveArmourPhysDamageTaken1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlatPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_+",
+                "max": -50,
+                "min": -75
+            }
+        ],
+        "type": "FlatPhysicalDamageTaken"
+    },
+    "DelveArmourPhysDamageTakenv2_1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlatPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_+",
+                "max": -20,
+                "min": -34
+            }
+        ],
+        "type": "FlatPhysicalDamageTaken"
+    },
+    "DelveArmourPhysDamageTakenv2_2": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlatPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_+",
+                "max": -35,
+                "min": -49
+            }
+        ],
+        "type": "FlatPhysicalDamageTaken"
+    },
+    "DelveArmourPhysDamageTakenv2_3": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlatPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_+",
+                "max": -50,
+                "min": -75
+            }
+        ],
+        "type": "FlatPhysicalDamageTaken"
+    },
+    "DelveArmourQuality": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedQuality"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_item_quality_+",
+                "max": 20,
+                "min": 10
+            }
+        ],
+        "type": "LocalItemQuality"
+    },
+    "DelveArmourSocketedSpellsManaCost1_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DelveModSocketedSpellManaCost",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedSpellsManaCost"
+        ],
+        "implicit_tags": [
+            "skill",
+            "resource",
+            "mana",
+            "caster",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_spells_mana_cost_+%",
+                "max": -20,
+                "min": -20
+            }
+        ],
+        "type": "SocketedSpellsManaCost"
+    },
+    "DelveArmourSpellBlock__": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellBlockPercentage"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "shield",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_spell_block_%",
+                "max": 4,
+                "min": 3
+            }
+        ],
+        "type": "SpellBlockPercentage"
+    },
+    "DelveArmourVaalSoulsOnKill1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalVaalSoulOnKill"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_vaal_soul_on_kill_%",
+                "max": 8,
+                "min": 5
+            }
+        ],
+        "type": "AdditionalVaalSoulOnKill"
+    },
+    "DelveBeltChanceToGainOnslaughtOnFlaskUse1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToGainOnslaughtOnFlaskUse"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_onslaught_on_flask_use_%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "ChanceToGainOnslaughtOnFlaskUse"
+    },
+    "DelveBodyArmourAuraEffect1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AuraEffect"
+        ],
+        "implicit_tags": [
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "non_curse_aura_effect_+%",
+                "max": 25,
+                "min": 20
+            }
+        ],
+        "type": "AuraEffect"
+    },
+    "DelveBodyArmourChaosDegenResist1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosResistanceAgainstDamageOverTime"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_chaos_resistance_against_damage_over_time_%",
+                "max": 40,
+                "min": 30
+            }
+        ],
+        "type": "ChaosResistanceAgainstDamageOverTime"
+    },
+    "DelveBodyArmourSocketedSkillsSupportedByArcaneSurge1_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportArcaneSurge",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SupportedByArcaneSurge"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_supported_by_level_x_arcane_surge",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SupportedByArcaneSurge"
+    },
+    "DelveBodyArmourSocketedSkillsSupportedByMaim1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportMaim",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SupportedByMaim"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_supported_by_level_x_maim",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "SupportedByMaim"
+    },
+    "DelveBodyDamageRemovedFromManaBeforeLife1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageRemovedFromManaBeforeLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_damage_removed_from_mana_before_life_%",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "DamageRemovedFromManaBeforeLife"
+    },
+    "DelveBodyFrenzyChargeWhenHit1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FrenzyChargeWhenHit"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "body_armour",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "add_frenzy_charge_when_hit_%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "FrenzyChargeWhenHit"
+    },
+    "DelveBootsAdditionalSpectre1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionGlobalSkillLevel"
+        ],
+        "implicit_tags": [
+            "skill",
+            "minion",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "raise_zombie_gem_level_+",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "summon_skeleton_gem_level_+",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "raise_spectre_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MinionGlobalSkillLevel"
+    },
+    "DelveBootsManaRegenerationRateWhileMoving1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegenerationRateWhileMoving"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%_while_moving",
+                "max": 70,
+                "min": 50
+            }
+        ],
+        "type": "ManaRegenerationRateWhileMoving"
+    },
+    "DelveBootsMovementSpeedIfHitRecently1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MovementSpeedIfHitRecently"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "movement_speed_+%_if_enemy_hit_recently",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "MovementSpeedIfHitRecently"
+    },
+    "DelveBootsPhyiscalDamageReductionRatingWhileMoving1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalPhysicalDamageReductionWhileMoving"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_physical_damage_reduction_%_while_moving",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "AdditionalPhysicalDamageReductionWhileMoving"
+    },
+    "DelveDexterityGemLevel1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DelveDexterityGemLevel"
+        ],
+        "implicit_tags": [
+            "attribute",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 750
+            },
+            {
+                "tag": "sceptre",
+                "weight": 750
+            },
+            {
+                "tag": "mace",
+                "weight": 750
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 1600
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 750
+            },
+            {
+                "tag": "str_armour",
+                "weight": 750
+            },
+            {
+                "tag": "int_armour",
+                "weight": 750
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 1600
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 750
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "unset_ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_dexterity_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DelveDexterityGemLevel"
+    },
+    "DelveGlovesAttackAndCastSpeedIfHitRecently1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AttackAndCastSpeedIfHitRecently"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_and_cast_speed_+%_if_enemy_hit_recently",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "AttackAndCastSpeedIfHitRecently"
+    },
+    "DelveGlovesLocalDisplaySocketedSkillsAttackSpeed1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DelveModSocketedAttackSpeed",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedSkillsAttackSpeed"
+        ],
+        "implicit_tags": [
+            "skill",
+            "attack",
+            "speed",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_skills_attack_speed_+%",
+                "max": 18,
+                "min": 18
+            }
+        ],
+        "type": "SocketedSkillsAttackSpeed"
+    },
+    "DelveGlovesManaGainPerTarget1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaGainPerTarget"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_gain_per_target",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "ManaGainPerTarget"
+    },
+    "DelveGlovesSocketedSkillsCastSpeed1_": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "DelveModSocketedCastSpeed",
+                "level": 1
+            }
+        ],
+        "groups": [
+            "SocketedSkillsCastSpeed"
+        ],
+        "implicit_tags": [
+            "skill",
+            "caster",
+            "speed",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_skills_cast_speed_+%",
+                "max": 18,
+                "min": 18
+            }
+        ],
+        "type": "SocketedSkillsCastSpeed"
+    },
+    "DelveGlovesVaalSkillCriticalChance1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VaalSkillCriticalStrikeChance"
+        ],
+        "implicit_tags": [
+            "critical",
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "gloves",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "vaal_skill_critical_strike_chance_+%",
+                "max": 120,
+                "min": 80
+            }
+        ],
+        "type": "VaalSkillCriticalStrikeChance"
+    },
+    "DelveHelmBaseManaRegeneration1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_per_minute_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "BaseManaRegeneration"
+    },
+    "DelveHelmIgnoreArmourMovementPenalties1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IgnoreArmourMovementPenalties"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "ignore_armour_movement_penalties",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "IgnoreArmourMovementPenalties"
+    },
+    "DelveHelmetEnemyChaosResistanceAura1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyChaosDamageResistance"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_chaos_damage_resistance_%",
+                "max": -9,
+                "min": -9
+            },
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": -9,
+                "min": -9
+            }
+        ],
+        "type": "NearbyEnemyChaosDamageResistance"
+    },
+    "DelveHelmetEnemyColdResistanceAura1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyColdDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_cold_damage_resistance_%",
+                "max": -9,
+                "min": -9
+            },
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": -9,
+                "min": -9
+            }
+        ],
+        "type": "NearbyEnemyColdDamageResistance"
+    },
+    "DelveHelmetEnemyFireResistanceAura1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyFireDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_fire_damage_resistance_%",
+                "max": -9,
+                "min": -9
+            },
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": -9,
+                "min": -9
+            }
+        ],
+        "type": "NearbyEnemyFireDamageResistance"
+    },
+    "DelveHelmetEnemyLightningResistanceAura1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyLightningDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_lightning_damage_resistance_%",
+                "max": -9,
+                "min": -9
+            },
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": -9,
+                "min": -9
+            }
+        ],
+        "type": "NearbyEnemyLightningDamageResistance"
+    },
+    "DelveHelmetEnemyPhysicalDamageTakenAura1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_physical_damage_taken_+%",
+                "max": 9,
+                "min": 9
+            },
+            {
+                "id": "physical_damage_taken_+%",
+                "max": 9,
+                "min": 9
+            }
+        ],
+        "type": "NearbyEnemyPhysicalDamageTaken"
+    },
+    "DelveHelmetManaReservationEfficiency1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedManaReservationsCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_reservation_efficiency_+%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ManaReservationEfficiency"
+    },
+    "DelveHelmetReducedManaReserved1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ReducedManaReservationsCost"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "helmet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_reservation_efficiency_-2%_per_1",
+                "max": -4,
+                "min": -5
+            }
+        ],
+        "type": "ReducedReservation"
+    },
+    "DelveIntelligenceGemLevel1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DelveIntelligenceGemLevel"
+        ],
+        "implicit_tags": [
+            "attribute",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 750
+            },
+            {
+                "tag": "axe",
+                "weight": 750
+            },
+            {
+                "tag": "sword",
+                "weight": 750
+            },
+            {
+                "tag": "bow",
+                "weight": 750
+            },
+            {
+                "tag": "dagger",
+                "weight": 1000
+            },
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "wand",
+                "weight": 1600
+            },
+            {
+                "tag": "str_armour",
+                "weight": 750
+            },
+            {
+                "tag": "int_armour",
+                "weight": 1600
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 750
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 750
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "unset_ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_intelligence_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DelveIntelligenceGemLevel"
+    },
+    "DelveJewelAilmentDamage1__": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AilmentDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_ailment_damage_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "AilmentDamage"
+    },
+    "DelveJewelArmourIfYouHitRecently1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageReductionRatingIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 300
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_if_you_have_hit_an_enemy_recently",
+                "max": 300,
+                "min": 250
+            }
+        ],
+        "type": "PhysicalDamageReductionRatingIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveJewelAttackLeech1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_attack_damage_permyriad",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "LifeLeechFromAttacksPermyriad"
+    },
+    "DelveJewelAvoidInterruptionWhileCasting1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AvoidInterruptionWhileCasting"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "avoid_interruption_while_casting_%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "AvoidInterruptionWhileCasting"
+    },
+    "DelveJewelChanceToGainOnslaughtOnFlaskUse1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToGainOnslaughtOnFlaskUse"
+        ],
+        "implicit_tags": [
+            "flask"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_onslaught_on_flask_use_%",
+                "max": 10,
+                "min": 5
+            }
+        ],
+        "type": "ChanceToGainOnslaughtOnFlaskUse"
+    },
+    "DelveJewelChaosDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 19,
+                "min": 13
+            }
+        ],
+        "type": "IncreasedChaosDamage"
+    },
+    "DelveJewelDamageTakenGainedAsMana1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentDamageGoesToMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_goes_to_mana_%",
+                "max": 3,
+                "min": 2
+            }
+        ],
+        "type": "PercentDamageGoesToMana"
+    },
+    "DelveJewelEnergyShieldRegenIfYouHitRecently1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegenerationRatePerMinuteIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 300
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_regeneration_rate_per_minute_%_if_you_have_hit_an_enemy_recently",
+                "max": 18,
+                "min": 18
+            }
+        ],
+        "type": "EnergyShieldRegenerationRatePerMinuteIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveJewelEvasionIfYouHitRecently1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "jewel",
+                "weight": 300
+            },
+            {
+                "tag": "abyss_jewel",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+_if_you_have_hit_an_enemy_recently",
+                "max": 300,
+                "min": 250
+            }
+        ],
+        "type": "EvasionRatingIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveJewelMinionAttackAndCastSpeed1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionAttackSpeedAndCastSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_attack_speed_+%",
+                "max": 6,
+                "min": 4
+            },
+            {
+                "id": "minion_cast_speed_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "MinionAttackAndCastSpeed"
+    },
+    "DelveJewelVaalSoulsOnKill1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalVaalSoulOnKill"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 2000
+            },
+            {
+                "tag": "jewel",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_vaal_soul_on_kill_%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "AdditionalVaalSoulOnKill"
+    },
+    "DelveJewelryAilmentDamage1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AilmentDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 1600
+            },
+            {
+                "tag": "ring",
+                "weight": 1600
+            },
+            {
+                "tag": "amulet",
+                "weight": 1600
+            },
+            {
+                "tag": "belt",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_ailment_damage_+%",
+                "max": 40,
+                "min": 30
+            }
+        ],
+        "type": "AilmentDamage"
+    },
+    "DelveJewelryChanceToEvade": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalChanceToEvade"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 1600
+            },
+            {
+                "tag": "ring",
+                "weight": 1600
+            },
+            {
+                "tag": "amulet",
+                "weight": 1600
+            },
+            {
+                "tag": "belt",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_evade_attacks_%",
+                "max": 2,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalChanceToEvade"
+    },
+    "DelveJewelryChanceWhenHitForArmourToBeDoubled1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceWhenHitForArmourToBeDoubled"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 1600
+            },
+            {
+                "tag": "amulet",
+                "weight": 1600
+            },
+            {
+                "tag": "belt",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_double_armour_effect_on_hit_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChanceWhenHitForArmourToBeDoubled"
+    },
+    "DelveJewelryFlaskLifeRecovery1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FlaskLifeRecovery"
+        ],
+        "implicit_tags": [
+            "flask",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "flask_life_to_recover_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "GlobalFlaskLifeRecovery"
+    },
+    "DelveJewelryIncreasedEnergyShieldFromBodyArmour1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumEnergyShieldFromBodyArmour"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 1600
+            },
+            {
+                "tag": "amulet",
+                "weight": 1600
+            },
+            {
+                "tag": "belt",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_from_body_armour_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "MaximumEnergyShieldFromBodyArmour"
+    },
+    "DelveJewelryMinionRunSpeed1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionMovementSpeed"
+        ],
+        "implicit_tags": [
+            "speed",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "amulet",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_movement_speed_+%",
+                "max": 30,
+                "min": 15
+            }
+        ],
+        "type": "MinionRunSpeed"
+    },
+    "DelveJewelryVaalSkillDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VaalSkillDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 2000
+            },
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "vaal_skill_damage_+%",
+                "max": 40,
+                "min": 20
+            }
+        ],
+        "type": "VaalSkillDamage"
+    },
+    "DelveQuiverFrenzyChargeOnHittingRareOrUnique1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FrenzyChargeOnHittingRareOrUnique"
+        ],
+        "implicit_tags": [
+            "frenzy_charge"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "gain_frenzy_charge_on_hitting_rare_or_unique_enemy_%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "FrenzyChargeOnHittingRareOrUnique"
+    },
+    "DelveQuiverIncreasedMana1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumManaIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_mana_+%",
+                "max": 30,
+                "min": 20
+            }
+        ],
+        "type": "MaximumManaIncreasePercent"
+    },
+    "DelveRingCannotBeShockedWhileMoving1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotBeShockedOrIgnitedWhileMoving"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_be_shocked_or_ignited_while_moving",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotBeShockedOrIgnitedWhileMoving"
+    },
+    "DelveRingElementalDamage1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "belt",
+                "weight": 1600
+            },
+            {
+                "tag": "ring",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_+%",
+                "max": 30,
+                "min": 25
+            }
+        ],
+        "type": "ElementalDamagePercent"
+    },
+    "DelveRingManaCostReduction1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaCostReduction"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_cost_-%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "ManaCostReduction"
+    },
+    "DelveStrengthGemLevel1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DelveStrengthGemLevel"
+        ],
+        "implicit_tags": [
+            "attribute",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1000
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1000
+            },
+            {
+                "tag": "mace",
+                "weight": 1600
+            },
+            {
+                "tag": "axe",
+                "weight": 1000
+            },
+            {
+                "tag": "sword",
+                "weight": 1000
+            },
+            {
+                "tag": "bow",
+                "weight": 750
+            },
+            {
+                "tag": "dagger",
+                "weight": 750
+            },
+            {
+                "tag": "claw",
+                "weight": 750
+            },
+            {
+                "tag": "wand",
+                "weight": 750
+            },
+            {
+                "tag": "str_armour",
+                "weight": 1600
+            },
+            {
+                "tag": "int_armour",
+                "weight": 750
+            },
+            {
+                "tag": "dex_armour",
+                "weight": 750
+            },
+            {
+                "tag": "str_dex_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "str_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "dex_int_armour",
+                "weight": 750
+            },
+            {
+                "tag": "str_dex_int_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "unset_ring",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_socketed_strength_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DelveStrengthGemLevel"
+    },
+    "DelveWeaponArmourIfYouHitRecently1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageReductionRatingIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1600
+            },
+            {
+                "tag": "mace",
+                "weight": 1600
+            },
+            {
+                "tag": "axe",
+                "weight": 1600
+            },
+            {
+                "tag": "sword",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_if_you_have_hit_an_enemy_recently",
+                "max": 500,
+                "min": 500
+            }
+        ],
+        "type": "PhysicalDamageReductionRatingIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveWeaponArmourIfYouHitRecently2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageReductionRatingIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 1600
+            },
+            {
+                "tag": "mace",
+                "weight": 1600
+            },
+            {
+                "tag": "axe",
+                "weight": 1600
+            },
+            {
+                "tag": "sword",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_if_you_have_hit_an_enemy_recently",
+                "max": 1000,
+                "min": 1000
+            }
+        ],
+        "type": "PhysicalDamageReductionRatingIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveWeaponChanceToGainOnslaughtOnKill1h1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToGainOnslaughtOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_onslaught_on_kill_%",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "ChanceToGainOnslaughtOnKill"
+    },
+    "DelveWeaponChanceToGainOnslaughtOnKill2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToGainOnslaughtOnKill"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chance_to_gain_onslaught_on_kill_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "ChanceToGainOnslaughtOnKill"
+    },
+    "DelveWeaponDamageOnFullLife1h1__": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOnFullLife"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_when_on_full_life",
+                "max": 60,
+                "min": 50
+            }
+        ],
+        "type": "DamageOnFullLife"
+    },
+    "DelveWeaponDamageOnFullLife2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageOnFullLife"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_when_on_full_life",
+                "max": 120,
+                "min": 100
+            }
+        ],
+        "type": "DamageOnFullLife"
+    },
+    "DelveWeaponDespairOnHit1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitDespair"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_despair",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitDespair"
+    },
+    "DelveWeaponDespairOnHit2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CurseOnHitDespair"
+        ],
+        "implicit_tags": [
+            "caster",
+            "curse"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "curse_on_hit_level_despair",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "CurseOnHitDespair"
+    },
+    "DelveWeaponEnergyShieldRegenIfYouHitRecently1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegenerationRatePerMinuteIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 1600
+            },
+            {
+                "tag": "claw",
+                "weight": 1600
+            },
+            {
+                "tag": "wand",
+                "weight": 1600
+            },
+            {
+                "tag": "sceptre",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_regeneration_rate_per_minute_%_if_you_have_hit_an_enemy_recently",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "EnergyShieldRegenerationRatePerMinuteIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveWeaponEnergyShieldRegenIfYouHitRecently2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegenerationRatePerMinuteIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_regeneration_rate_per_minute_%_if_you_have_hit_an_enemy_recently",
+                "max": 60,
+                "min": 60
+            }
+        ],
+        "type": "EnergyShieldRegenerationRatePerMinuteIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveWeaponEvasionIfYouHitRecently1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 1600
+            },
+            {
+                "tag": "sword",
+                "weight": 1600
+            },
+            {
+                "tag": "dagger",
+                "weight": 1600
+            },
+            {
+                "tag": "claw",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+_if_you_have_hit_an_enemy_recently",
+                "max": 500,
+                "min": 500
+            }
+        ],
+        "type": "EvasionRatingIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveWeaponEvasionIfYouHitRecently2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingIfYouHaveHitAnEnemyRecently"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "axe",
+                "weight": 1600
+            },
+            {
+                "tag": "sword",
+                "weight": 1600
+            },
+            {
+                "tag": "bow",
+                "weight": 1600
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+_if_you_have_hit_an_enemy_recently",
+                "max": 1000,
+                "min": 1000
+            }
+        ],
+        "type": "EvasionRatingIfYouHaveHitAnEnemyRecently"
+    },
+    "DelveWeaponIncreasedDamageFromAuras1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedDamageFromAuras"
+        ],
+        "implicit_tags": [
+            "damage",
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "auras_grant_damage_+%_to_you_and_your_allies",
+                "max": 2,
+                "min": 2
+            }
+        ],
+        "type": "IncreasedDamageFromAuras"
+    },
+    "DelveWeaponIncreasedDamageFromAuras2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedDamageFromAuras"
+        ],
+        "implicit_tags": [
+            "damage",
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "auras_grant_damage_+%_to_you_and_your_allies",
+                "max": 4,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedDamageFromAuras"
+    },
+    "DelveWeaponIntimidateOnHit1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChanceToIntimidateOnHit"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_chance_to_intimidate_on_hit_%",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "LocalChanceToIntimidateOnHit"
+    },
+    "DelveWeaponManaRegeneratedIfYouveHitRecently1h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "shield",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_per_minute_%_if_enemy_hit_recently",
+                "max": 24,
+                "min": 24
+            }
+        ],
+        "type": "ManaRegeneratedIfYouveHitRecently"
+    },
+    "DelveWeaponManaRegeneratedIfYouveHitRecently2h1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BaseManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_per_minute_%_if_enemy_hit_recently",
+                "max": 48,
+                "min": 48
+            }
+        ],
+        "type": "ManaRegeneratedIfYouveHitRecently"
+    },
+    "DelveWeaponVaalSoulCost1h1_": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VaalSoulCost"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "one_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "vaal_skill_soul_cost_+%",
+                "max": -20,
+                "min": -20
+            }
+        ],
+        "type": "VaalSoulCost"
+    },
+    "DelveWeaponVaalSoulCost2h1": {
+        "adds_tags": [],
+        "domain": "delve",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "VaalSoulCost"
+        ],
+        "implicit_tags": [
+            "vaal"
+        ],
+        "is_essence_only": false,
+        "name": "of the Underground",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "abyss_jewel",
+                "weight": 0
+            },
+            {
+                "tag": "jewel",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 2000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "vaal_skill_soul_cost_+%",
+                "max": -40,
+                "min": -40
+            }
+        ],
+        "type": "VaalSoulCost"
+    }
+}

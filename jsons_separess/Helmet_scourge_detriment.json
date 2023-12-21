@@ -1,0 +1,1090 @@
+{
+    "HellscapeDownsideCannotLeechEnergyShield1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "CannotLeechEnergyShield"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cannot_leech_energy_shield",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "CannotLeechEnergyShield"
+    },
+    "HellscapeDownsideChanceToBeSilencedWhenHit3__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "HellscapeDownsideChanceToBeSilencedWhenHit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cursed_with_silence_when_hit_%_chance",
+                "max": 30,
+                "min": 21
+            }
+        ],
+        "type": "HellscapeDownsideChanceToBeSilencedWhenHit"
+    },
+    "HellscapeDownsideChaosDamageTaken2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamageTakenPercentage"
+        ],
+        "implicit_tags": [
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_taken_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ChaosDamageTakenPercentage"
+    },
+    "HellscapeDownsideChaosDamageTaken3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamageTakenPercentage"
+        ],
+        "implicit_tags": [
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_taken_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ChaosDamageTakenPercentage"
+    },
+    "HellscapeDownsideColdDamageTaken2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageTaken"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_taken_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "ColdDamageTakenPercentage"
+    },
+    "HellscapeDownsideColdDamageTaken3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamageTaken"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_taken_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "ColdDamageTakenPercentage"
+    },
+    "HellscapeDownsideDamageTakenOnFullLife2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenOnFullLife"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_+%_on_full_life",
+                "max": 12,
+                "min": 12
+            }
+        ],
+        "type": "DamageTakenOnFullLife"
+    },
+    "HellscapeDownsideDamageTakenOnFullLife3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageTakenOnFullLife"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_taken_+%_on_full_life",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "DamageTakenOnFullLife"
+    },
+    "HellscapeDownsideFireDamageTaken2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageTaken"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_taken_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "FireDamageTaken"
+    },
+    "HellscapeDownsideFireDamageTaken3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamageTaken"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_taken_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "FireDamageTaken"
+    },
+    "HellscapeDownsideLightningDamageTaken2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageTaken"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_taken_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "LightningDamageTaken"
+    },
+    "HellscapeDownsideLightningDamageTaken3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamageTaken"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_taken_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "LightningDamageTaken"
+    },
+    "HellscapeDownsideManaPercentage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumManaIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 1000
+            },
+            {
+                "tag": "body_armour",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_mana_+%",
+                "max": -15,
+                "min": -18
+            }
+        ],
+        "type": "MaximumManaIncreasePercent"
+    },
+    "HellscapeDownsideManaRegenFlat0________": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_degeneration_per_minute",
+                "max": 250,
+                "min": 200
+            }
+        ],
+        "type": "HellscapeLoseManaPerSecond"
+    },
+    "HellscapeDownsideManaRegenFlat1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_degeneration_per_minute",
+                "max": 340,
+                "min": 275
+            }
+        ],
+        "type": "HellscapeLoseManaPerSecond"
+    },
+    "HellscapeDownsideManaRegenFlat1b_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 15,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_degeneration_per_minute",
+                "max": 400,
+                "min": 350
+            }
+        ],
+        "type": "HellscapeLoseManaPerSecond"
+    },
+    "HellscapeDownsideManaRegenFlat1c": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 25,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_degeneration_per_minute",
+                "max": 500,
+                "min": 460
+            }
+        ],
+        "type": "HellscapeLoseManaPerSecond"
+    },
+    "HellscapeDownsideManaRegenFlat1d": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 35,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_degeneration_per_minute",
+                "max": 600,
+                "min": 560
+            }
+        ],
+        "type": "HellscapeLoseManaPerSecond"
+    },
+    "HellscapeDownsideManaRegenFlat2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_degeneration_per_minute",
+                "max": 700,
+                "min": 660
+            }
+        ],
+        "type": "HellscapeLoseManaPerSecond"
+    },
+    "HellscapeDownsideManaRegenFlat2b": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_degeneration_per_minute",
+                "max": 800,
+                "min": 760
+            }
+        ],
+        "type": "HellscapeLoseManaPerSecond"
+    },
+    "HellscapeDownsideManaRegenFlat3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_degeneration_per_minute",
+                "max": 900,
+                "min": 860
+            }
+        ],
+        "type": "HellscapeLoseManaPerSecond"
+    },
+    "HellscapeDownsideNearbyEnemiesTakeReducedChaosDamage3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyChaosDamageResistance"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_chaos_damage_resistance_%",
+                "max": 9,
+                "min": 9
+            },
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 9,
+                "min": 9
+            }
+        ],
+        "type": "NearbyEnemyChaosDamageResistance"
+    },
+    "HellscapeDownsideNearbyEnemiesTakeReducedColdDamage3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyColdDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_cold_damage_resistance_%",
+                "max": 9,
+                "min": 9
+            },
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 9,
+                "min": 9
+            }
+        ],
+        "type": "NearbyEnemyColdDamageResistance"
+    },
+    "HellscapeDownsideNearbyEnemiesTakeReducedFireDamage3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyFireDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_fire_damage_resistance_%",
+                "max": 9,
+                "min": 9
+            },
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 9,
+                "min": 9
+            }
+        ],
+        "type": "NearbyEnemyFireDamageResistance"
+    },
+    "HellscapeDownsideNearbyEnemiesTakeReducedLightningDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyLightningDamageResistance"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "resistance"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_lightning_damage_resistance_%",
+                "max": 9,
+                "min": 9
+            },
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 9,
+                "min": 9
+            }
+        ],
+        "type": "NearbyEnemyLightningDamageResistance"
+    },
+    "HellscapeDownsideNearbyEnemiesTakeReducedPhysicalDamage3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalDisplayNearbyEnemyPhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_nearby_enemy_physical_damage_taken_+%",
+                "max": -9,
+                "min": -9
+            },
+            {
+                "id": "physical_damage_taken_+%",
+                "max": -9,
+                "min": -9
+            }
+        ],
+        "type": "NearbyEnemyPhysicalDamageTaken"
+    },
+    "HellscapeDownsideNoEnergyShieldRegeneration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cannot_regenerate_energy_shield",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "NoEnergyShieldRegen"
+    },
+    "HellscapeDownsidePhysicalDamageTaken2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_+%",
+                "max": 8,
+                "min": 7
+            }
+        ],
+        "type": "PhysicalDamageTaken"
+    },
+    "HellscapeDownsidePhysicalDamageTaken3____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamageTaken"
+        ],
+        "implicit_tags": [
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_taken_+%",
+                "max": 10,
+                "min": 9
+            }
+        ],
+        "type": "PhysicalDamageTaken"
+    },
+    "HellscapeDownsideReducedMinionLife2_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_maximum_life_+%",
+                "max": -30,
+                "min": -33
+            }
+        ],
+        "type": "MinionLife"
+    },
+    "HellscapeDownsideReducedMinionLife3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_detriment",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "helmet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_maximum_life_+%",
+                "max": -36,
+                "min": -39
+            }
+        ],
+        "type": "MinionLife"
+    }
+}

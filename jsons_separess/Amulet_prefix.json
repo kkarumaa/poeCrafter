@@ -1,0 +1,1307 @@
+{
+    "GlobalChaosGemLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageTypeGemLevel"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Provocateur's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalChaosGemLevel"
+    },
+    "GlobalColdGemLevel1__": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageTypeGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Rimedweller's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalColdGemLevel"
+    },
+    "GlobalFireGemLevel1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageTypeGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Vulcanist's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalFireGemLevel"
+    },
+    "GlobalLightningGemLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageTypeGemLevel"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Stormbrewer's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalLightningGemLevel"
+    },
+    "GlobalPhysicalGemLevel1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalDamageTypeGemLevel"
+        ],
+        "implicit_tags": [
+            "physical",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Behemoth's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalPhysicalGemLevel"
+    },
+    "GlobalSkillGemLevel1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "GlobalSkillGemLevel"
+        ],
+        "implicit_tags": [
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "Exalter's",
+        "required_level": 75,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 50
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "all_skill_gem_level_+",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "GlobalSkillGemLevel"
+    },
+    "IncreasedEnergyShieldPercent1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Protective",
+        "required_level": 3,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "GlobalEnergyShieldPercent"
+    },
+    "IncreasedEnergyShieldPercent2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Strong-Willed",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "GlobalEnergyShieldPercent"
+    },
+    "IncreasedEnergyShieldPercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Resolute",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "GlobalEnergyShieldPercent"
+    },
+    "IncreasedEnergyShieldPercent4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Fearless",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 13,
+                "min": 11
+            }
+        ],
+        "type": "GlobalEnergyShieldPercent"
+    },
+    "IncreasedEnergyShieldPercent5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Dauntless",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "GlobalEnergyShieldPercent"
+    },
+    "IncreasedEnergyShieldPercent6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Indomitable",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 19,
+                "min": 17
+            }
+        ],
+        "type": "GlobalEnergyShieldPercent"
+    },
+    "IncreasedEnergyShieldPercent7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Unassailable",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 22,
+                "min": 20
+            }
+        ],
+        "type": "GlobalEnergyShieldPercent"
+    },
+    "IncreasedEvasionRatingPercent1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Agile",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 8,
+                "min": 4
+            }
+        ],
+        "type": "GlobalEvasionRatingPercent"
+    },
+    "IncreasedEvasionRatingPercent2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Dancer's",
+        "required_level": 19,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 13,
+                "min": 9
+            }
+        ],
+        "type": "GlobalEvasionRatingPercent"
+    },
+    "IncreasedEvasionRatingPercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Acrobat's",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "GlobalEvasionRatingPercent"
+    },
+    "IncreasedEvasionRatingPercent4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Fleet",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 23,
+                "min": 19
+            }
+        ],
+        "type": "GlobalEvasionRatingPercent"
+    },
+    "IncreasedEvasionRatingPercent5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Blurred",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "GlobalEvasionRatingPercent"
+    },
+    "IncreasedEvasionRatingPercent6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Phased",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 32,
+                "min": 29
+            }
+        ],
+        "type": "GlobalEvasionRatingPercent"
+    },
+    "IncreasedEvasionRatingPercent7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Vaporous",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 36,
+                "min": 33
+            }
+        ],
+        "type": "GlobalEvasionRatingPercent"
+    },
+    "IncreasedPhysicalDamageReductionRatingPercent1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRatingPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Reinforced",
+        "required_level": 2,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 8,
+                "min": 4
+            }
+        ],
+        "type": "GlobalPhysicalDamageReductionRatingPercent"
+    },
+    "IncreasedPhysicalDamageReductionRatingPercent2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRatingPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Layered",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 13,
+                "min": 9
+            }
+        ],
+        "type": "GlobalPhysicalDamageReductionRatingPercent"
+    },
+    "IncreasedPhysicalDamageReductionRatingPercent3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRatingPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Lobstered",
+        "required_level": 30,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "GlobalPhysicalDamageReductionRatingPercent"
+    },
+    "IncreasedPhysicalDamageReductionRatingPercent4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRatingPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Buttressed",
+        "required_level": 42,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 23,
+                "min": 19
+            }
+        ],
+        "type": "GlobalPhysicalDamageReductionRatingPercent"
+    },
+    "IncreasedPhysicalDamageReductionRatingPercent5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRatingPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Thickened",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "GlobalPhysicalDamageReductionRatingPercent"
+    },
+    "IncreasedPhysicalDamageReductionRatingPercent6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRatingPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Girded",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 32,
+                "min": 29
+            }
+        ],
+        "type": "GlobalPhysicalDamageReductionRatingPercent"
+    },
+    "IncreasedPhysicalDamageReductionRatingPercent7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRatingPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Impregnable",
+        "required_level": 77,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 36,
+                "min": 33
+            }
+        ],
+        "type": "GlobalPhysicalDamageReductionRatingPercent"
+    },
+    "LifeLeechPermyriad2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Lamprey's",
+        "required_level": 60,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_leech_from_physical_attack_damage_permyriad",
+                "max": 80,
+                "min": 60
+            }
+        ],
+        "type": "LifeLeechPermyriad"
+    },
+    "LifeLeechPermyriad3": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Vampire's",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "ranged",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_leech_from_physical_attack_damage_permyriad",
+                "max": 120,
+                "min": 100
+            }
+        ],
+        "type": "LifeLeechPermyriad"
+    },
+    "ManaLeechPermyriad2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Parched",
+        "required_level": 70,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_leech_from_physical_attack_damage_permyriad",
+                "max": 80,
+                "min": 60
+            }
+        ],
+        "type": "ManaLeechPermyriad"
+    },
+    "SpellDamage1": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Chanter's",
+        "required_level": 5,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 7,
+                "min": 3
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "SpellDamage2": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Mage's",
+        "required_level": 20,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "SpellDamage3": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Sorcerer's",
+        "required_level": 38,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 17,
+                "min": 13
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "SpellDamage4": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Thaumaturgist's",
+        "required_level": 56,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 22,
+                "min": 18
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "SpellDamage5": {
+        "adds_tags": [
+            "has_caster_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Wizard's",
+        "required_level": 76,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%",
+                "max": 26,
+                "min": 23
+            }
+        ],
+        "type": "SpellDamage"
+    },
+    "WeaponElementalDamage6_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedWeaponElementalDamagePercent"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Devastating",
+        "required_level": 86,
+        "spawn_weights": [
+            {
+                "tag": "amulet",
+                "weight": 300
+            },
+            {
+                "tag": "belt",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "elemental_damage_with_attack_skills_+%",
+                "max": 50,
+                "min": 43
+            }
+        ],
+        "type": "IncreasedWeaponElementalDamagePercent"
+    }
+}

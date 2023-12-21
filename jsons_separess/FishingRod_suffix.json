@@ -1,0 +1,582 @@
+{
+    "FishingCastDistance": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingCastDistance"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Flight",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_range_+%",
+                "max": 50,
+                "min": 30
+            }
+        ],
+        "type": "FishingCastDistance"
+    },
+    "FishingHookType": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingHookType"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Snaring",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fishing_hook_type",
+                "max": 4,
+                "min": 1
+            }
+        ],
+        "type": "FishingHookType"
+    },
+    "FishingQuantity": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingQuantity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Fascination",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fish_quantity_+%",
+                "max": 20,
+                "min": 15
+            }
+        ],
+        "type": "FishingQuantity"
+    },
+    "FishingRarity": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FishingRarity"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "of Bounty",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "fish_rarity_+%",
+                "max": 40,
+                "min": 25
+            }
+        ],
+        "type": "FishingRarity"
+    },
+    "IncreasedCastSpeedFishing": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedCastSpeed"
+        ],
+        "implicit_tags": [
+            "red_herring",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "of Casting",
+        "required_level": 10,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_cast_speed_+%",
+                "max": 28,
+                "min": 24
+            }
+        ],
+        "type": "IncreasedCastSpeedFishing"
+    },
+    "LifeRegeneration1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Newt",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 120,
+                "min": 60
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "LifeRegeneration2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Lizard",
+        "required_level": 7,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 480,
+                "min": 126
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "LifeRegeneration3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Flatworm",
+        "required_level": 19,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 960,
+                "min": 486
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "LifeRegeneration4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Starfish",
+        "required_level": 31,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1440,
+                "min": 966
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "LifeRegeneration5": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Hydra",
+        "required_level": 44,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 1920,
+                "min": 1446
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "LifeRegeneration6": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Troll",
+        "required_level": 55,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 2880,
+                "min": 1926
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "LifeRegeneration7": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Ryslatha",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 3840,
+                "min": 2886
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "LifeRegeneration8_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of the Phoenix",
+        "required_level": 74,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 5760,
+                "min": 3846
+            }
+        ],
+        "type": "LifeRegeneration"
+    },
+    "LifeRegeneration9": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "suffix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeRegeneration"
+        ],
+        "implicit_tags": [
+            "flat_life_regen",
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "of Recuperation",
+        "required_level": 78,
+        "spawn_weights": [
+            {
+                "tag": "fishing_rod",
+                "weight": 0
+            },
+            {
+                "tag": "weapon",
+                "weight": 0
+            },
+            {
+                "tag": "quiver",
+                "weight": 0
+            },
+            {
+                "tag": "ring",
+                "weight": 0
+            },
+            {
+                "tag": "amulet",
+                "weight": 0
+            },
+            {
+                "tag": "boots",
+                "weight": 0
+            },
+            {
+                "tag": "gloves",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_regeneration_rate_per_minute",
+                "max": 7680,
+                "min": 5766
+            }
+        ],
+        "type": "LifeRegeneration"
+    }
+}

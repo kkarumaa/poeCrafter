@@ -1,0 +1,76 @@
+{
+    "SupportedByLifeLeechCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [
+            {
+                "granted_effect_id": "SupportLifeLeech",
+                "level": 15
+            }
+        ],
+        "groups": [
+            "SupportedByLifeLeech"
+        ],
+        "implicit_tags": [
+            "support",
+            "gem"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 59,
+        "spawn_weights": [
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_display_socketed_gems_get_life_leech_level",
+                "max": 15,
+                "min": 15
+            }
+        ],
+        "type": "SupportedByLifeLeech"
+    },
+    "V2DualWieldBlockCorrupted": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "corrupted",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "BlockWhileDualWielding"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "claw",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "block_while_dual_wielding_%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "BlockWhileDualWielding"
+    }
+}

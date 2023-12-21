@@ -1,0 +1,2060 @@
+{
+    "MonsterArchnemesisArcaneEnchanted": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisArcaneGuarded"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Arcane",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "ward_armour",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 4000
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_%_to_add_to_maximum_energy_shield",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "energy_shield_delay_-%",
+                "max": 150,
+                "min": 150
+            },
+            {
+                "id": "chaos_damage_does_not_bypass_energy_shield",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisArcaneGuarded"
+    },
+    "MonsterArchnemesisArcaneEnchantedMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisArcaneGuarded"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Arcane",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "ward_armour",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 4000
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_%_to_add_to_maximum_energy_shield",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "energy_shield_delay_-%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "chaos_damage_does_not_bypass_energy_shield",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisArcaneGuarded"
+    },
+    "MonsterArchnemesisAssassin": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisAssassin"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Deadly",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "immobile",
+                "weight": 0
+            },
+            {
+                "tag": "no_shroud_walker",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "always_crit",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "base_self_critical_strike_multiplier_-%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "global_chance_to_blind_on_hit_%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "blind_effect_+%",
+                "max": 100,
+                "min": 100
+            }
+        ],
+        "type": "MonsterArchnemesisAssassin"
+    },
+    "MonsterArchnemesisBerserker__": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisBerserker"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Berserk",
+        "required_level": 39,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "base_damage_taken_+%",
+                "max": -30,
+                "min": -30
+            },
+            {
+                "id": "base_actor_scale_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "attack_speed_+%",
+                "max": 75,
+                "min": 75
+            },
+            {
+                "id": "base_cast_speed_+%",
+                "max": 75,
+                "min": 75
+            }
+        ],
+        "type": "MonsterArchnemesisBerserker"
+    },
+    "MonsterArchnemesisChargeGenerator__": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisChargeGenerator"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Charged",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2500
+            }
+        ],
+        "stats": [],
+        "type": "MonsterArchnemesisChargeGenerator"
+    },
+    "MonsterArchnemesisConsecration_": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisConsecration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Consecrating",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "immobile",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [],
+        "type": "MonsterArchnemesisConsecration"
+    },
+    "MonsterArchnemesisConsecratorMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisConsecration"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Consecrating",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "immobile",
+                "weight": 0
+            },
+            {
+                "tag": "not_part_of_pack",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [],
+        "type": "MonsterArchnemesisConsecration"
+    },
+    "MonsterArchnemesisDefender": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisDefender"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Sentinel",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 3000
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_base_block_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "base_spell_block_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "base_block_%_damage_taken",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MonsterArchnemesisDefender"
+    },
+    "MonsterArchnemesisDefenderMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisDefender"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Sentinel",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 3000
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_base_block_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "base_spell_block_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "base_block_%_damage_taken",
+                "max": 10,
+                "min": 10
+            }
+        ],
+        "type": "MonsterArchnemesisDefender"
+    },
+    "MonsterArchnemesisDivineTouched__": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisDivineTouched"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Benevolent",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "no_cannot_die_aura",
+                "weight": 0
+            },
+            {
+                "tag": "abyssal",
+                "weight": 0
+            },
+            {
+                "tag": "immobile",
+                "weight": 0
+            },
+            {
+                "tag": "breach_commander",
+                "weight": 0
+            },
+            {
+                "tag": "legion_monster",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 300
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_allies_cannot_take_damage_pulse_owner",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "monster_base_block_%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "base_spell_block_%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "base_block_%_damage_taken",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MonsterArchnemesisDivineTouched"
+    },
+    "MonsterArchnemesisFlameTouched": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisFlameTouched"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Flamewoven",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 5000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_fire_exposure_on_hit_%_chance",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "base_physical_damage_%_to_convert_to_fire",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "fire_damage_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "physical_damage_%_to_add_as_fire",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "base_fire_damage_resistance_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "scorch_ailment_effect_on_self_+%",
+                "max": -50,
+                "min": -50
+            }
+        ],
+        "type": "MonsterArchnemesisFlameTouched"
+    },
+    "MonsterArchnemesisFreezerMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisFreezer"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Freezing",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "all_damage_can_freeze",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "freeze_duration_+%",
+                "max": 0,
+                "min": 0
+            },
+            {
+                "id": "cold_ailment_effect_on_self_+%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisFreezer"
+    },
+    "MonsterArchnemesisFreezer__": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisFreezer"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Freezing",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2500
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_chance_to_freeze_%",
+                "max": 35,
+                "min": 35
+            },
+            {
+                "id": "all_damage_can_freeze",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "freeze_duration_+%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "cold_ailment_effect_on_self_+%",
+                "max": -80,
+                "min": -80
+            }
+        ],
+        "type": "MonsterArchnemesisFreezer"
+    },
+    "MonsterArchnemesisFrostTouched_": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisFrostTouched"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Frostwoven",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 5000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_cold_exposure_on_hit_%_chance",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "base_physical_damage_%_to_convert_to_cold",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "cold_damage_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "physical_damage_%_to_add_as_cold",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "cold_ailment_effect_on_self_+%",
+                "max": -50,
+                "min": -50
+            }
+        ],
+        "type": "MonsterArchnemesisFrostTouched"
+    },
+    "MonsterArchnemesisGargantuan": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisGargantuan"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Gargantuan",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 8000
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "base_actor_scale_+%",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 80,
+                "min": 80
+            },
+            {
+                "id": "maximum_life_+%",
+                "max": 40,
+                "min": 40
+            }
+        ],
+        "type": "MonsterArchnemesisGargantuan"
+    },
+    "MonsterArchnemesisGlacialCage": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisGlacialCage"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Imprisoning",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_physical_damage_%_to_convert_to_cold",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "cold_damage_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "physical_damage_%_to_add_as_cold",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "base_cold_damage_resistance_%",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "cold_ailment_effect_on_self_+%",
+                "max": -50,
+                "min": -50
+            },
+            {
+                "id": "base_additional_physical_damage_reduction_%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MonsterArchnemesisGlacialCage"
+    },
+    "MonsterArchnemesisGraspingVines": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisGraspingVines"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Entangling",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_poison_on_hit",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_poison",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "base_chaos_damage_resistance_%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "dropped_items_are_converted_to_jewels",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisGraspingVines"
+    },
+    "MonsterArchnemesisHexer": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisHexer"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Hexing",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "hexproof",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisHexer"
+    },
+    "MonsterArchnemesisIgniter": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisIgniter"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Igniting",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2500
+            }
+        ],
+        "stats": [
+            {
+                "id": "always_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "ignite_duration_+%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "ignite_damage_+%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "additional_fire_resistance_against_damage_over_time_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "MonsterArchnemesisIgniter"
+    },
+    "MonsterArchnemesisIgniterMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisIgniter"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Igniting",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2500
+            }
+        ],
+        "stats": [
+            {
+                "id": "always_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "ignite_duration_+%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "ignite_damage_+%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "additional_fire_resistance_against_damage_over_time_%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "MonsterArchnemesisIgniter"
+    },
+    "MonsterArchnemesisLivingCrystals__": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisLivingCrystals"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Crystalline",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "physical_damage_%_to_add_as_random_element",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "dropped_items_are_converted_to_gems",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisLivingCrystals"
+    },
+    "MonsterArchnemesisPoisonerMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisPoisoner"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Toxic",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_poison_on_hit",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_poison",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "base_poison_duration_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "base_poison_damage_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "additional_chaos_resistance_against_damage_over_time_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "MonsterArchnemesisPoisoner"
+    },
+    "MonsterArchnemesisPoisoner_": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisPoisoner"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Toxic",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1500
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_poison_on_hit",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_poison",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "base_poison_duration_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "base_poison_damage_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "additional_chaos_resistance_against_damage_over_time_%",
+                "max": 25,
+                "min": 25
+            }
+        ],
+        "type": "MonsterArchnemesisPoisoner"
+    },
+    "MonsterArchnemesisPrismatic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisElemental"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Elemental",
+        "required_level": 46,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "always_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "always_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_chill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisElemental"
+    },
+    "MonsterArchnemesisPrismaticMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisElemental"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Elemental",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 800
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_resist_all_elements_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "always_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "always_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_ignite",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_chill",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisElemental"
+    },
+    "MonsterArchnemesisRaiderMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisRaider"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Swift",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 8000
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "base_cast_speed_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "evasion_rating_+%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "add_frenzy_charge_on_skill_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "MonsterArchnemesisRaider"
+    },
+    "MonsterArchnemesisRaider_": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisRaider"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Swift",
+        "required_level": 6,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 8000
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "base_cast_speed_+%",
+                "max": 30,
+                "min": 30
+            },
+            {
+                "id": "base_movement_velocity_+%",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "evasion_rating_+%",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "add_frenzy_charge_on_skill_hit_%",
+                "max": 0,
+                "min": 0
+            }
+        ],
+        "type": "MonsterArchnemesisRaider"
+    },
+    "MonsterArchnemesisRejuvenating": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisRejuvenating"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Rejuvenating",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_regeneration_rate_per_minute_%",
+                "max": 120,
+                "min": 120
+            },
+            {
+                "id": "maximum_life_+%",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "MonsterArchnemesisRejuvenating"
+    },
+    "MonsterArchnemesisSaplings": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisSaplings"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Woodland",
+        "required_level": 18,
+        "spawn_weights": [
+            {
+                "tag": "not_part_of_pack",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "rare_pack_minions_are_replaced_with_saplings",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "damage_removed_from_pack_minions_before_life_or_es_%",
+                "max": 50,
+                "min": 50
+            }
+        ],
+        "type": "MonsterArchnemesisSaplings"
+    },
+    "MonsterArchnemesisShockerMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisShocker"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Shocking",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2500
+            }
+        ],
+        "stats": [
+            {
+                "id": "always_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "shock_effect_+%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "shock_duration_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "lightning_ailment_effect_on_self_+%",
+                "max": -80,
+                "min": -80
+            }
+        ],
+        "type": "MonsterArchnemesisShocker"
+    },
+    "MonsterArchnemesisShocker_": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisShocker"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Shocking",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 2500
+            }
+        ],
+        "stats": [
+            {
+                "id": "always_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "all_damage_can_shock",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "shock_effect_+%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "shock_duration_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "lightning_ailment_effect_on_self_+%",
+                "max": -80,
+                "min": -80
+            }
+        ],
+        "type": "MonsterArchnemesisShocker"
+    },
+    "MonsterArchnemesisSoulConduit____": {
+        "adds_tags": [
+            "unusable_corpse"
+        ],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisSoulConduit"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Soul Conduit",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "no_soul_conduit",
+                "weight": 0
+            },
+            {
+                "tag": "incursion_monster",
+                "weight": 0
+            },
+            {
+                "tag": "abyssal",
+                "weight": 0
+            },
+            {
+                "tag": "rare_minion",
+                "weight": 0
+            },
+            {
+                "tag": "unusable_corpse",
+                "weight": 0
+            },
+            {
+                "tag": "legion_monster",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_raises_after_death",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "corpse_cannot_be_destroyed",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "cannot_be_dominated",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisSoulConduit"
+    },
+    "MonsterArchnemesisSoulEater_": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisSoulEater"
+        ],
+        "implicit_tags": [
+            "attack",
+            "caster",
+            "speed",
+            "aura"
+        ],
+        "is_essence_only": false,
+        "name": "Hungering",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "grant_actor_scale_+%_to_aura_owner_on_death",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "grant_attack_speed_+%_to_aura_owner_on_death",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "grant_cast_speed_+%_to_aura_owner_on_death",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "grant_damage_reduction_%_to_aura_owner_on_death",
+                "max": 5,
+                "min": 5
+            },
+            {
+                "id": "soul_is_consumed_on_death",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "dropped_items_are_fully_linked",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisSoulEater"
+    },
+    "MonsterArchnemesisSpiritWalkersMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisSpiritWalkersMagic"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Spectral",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "not_part_of_pack",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "no_spirit_walkers_archnemesis",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_slain_experience_+%",
+                "max": -175,
+                "min": -175
+            },
+            {
+                "id": "monster_dropped_item_quantity_+%",
+                "max": -350,
+                "min": -350
+            },
+            {
+                "id": "monster_spirit_walker",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisSpiritWalkersMagic"
+    },
+    "MonsterArchnemesisStormTouched_": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisStormTouched"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Stormwoven",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 5000
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_inflict_lightning_exposure_on_hit_%_chance",
+                "max": 100,
+                "min": 100
+            },
+            {
+                "id": "base_physical_damage_%_to_convert_to_lightning",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "lightning_damage_+%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "physical_damage_%_to_add_as_lightning",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "base_lightning_damage_resistance_%",
+                "max": 50,
+                "min": 50
+            },
+            {
+                "id": "lightning_ailment_effect_on_self_+%",
+                "max": -50,
+                "min": -50
+            }
+        ],
+        "type": "MonsterArchnemesisStormTouched"
+    },
+    "MonsterArchnemesisTimeBubble": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisTimeBubble"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Temporal",
+        "required_level": 34,
+        "spawn_weights": [
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "action_speed_-%",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "debuff_time_passed_+%",
+                "max": -40,
+                "min": -40
+            },
+            {
+                "id": "base_cooldown_speed_+%",
+                "max": -60,
+                "min": -60
+            },
+            {
+                "id": "cannot_be_damaged_by_things_outside_radius",
+                "max": 32,
+                "min": 32
+            },
+            {
+                "id": "dropped_items_are_fully_linked",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisTimeBubble"
+    },
+    "MonsterArchnemesisUnionOfSouls": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisUnionOfSouls"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Empowering",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "not_part_of_pack",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "buff_impl_stat",
+                "max": 3,
+                "min": 3
+            },
+            {
+                "id": "dropped_items_have_maximum_sockets",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "MonsterArchnemesisUnionOfSouls"
+    },
+    "MonsterArchnemesisUnionOfSoulsMagic": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisUnionOfSoulsMagic"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Empowering",
+        "required_level": 24,
+        "spawn_weights": [
+            {
+                "tag": "not_part_of_pack",
+                "weight": 0
+            },
+            {
+                "tag": "rare",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 1000
+            }
+        ],
+        "stats": [
+            {
+                "id": "actor_scale_+%_granted_to_pack_members_on_death",
+                "max": 10,
+                "min": 10
+            },
+            {
+                "id": "maximum_life_+%_granted_to_pack_members_on_death",
+                "max": 40,
+                "min": 40
+            },
+            {
+                "id": "base_actor_scale_+%",
+                "max": 15,
+                "min": 15
+            },
+            {
+                "id": "base_skill_area_of_effect_+%",
+                "max": 20,
+                "min": 20
+            },
+            {
+                "id": "maximum_life_+%",
+                "max": 30,
+                "min": 30
+            }
+        ],
+        "type": "MonsterArchnemesisUnionOfSoulsMagic"
+    },
+    "MonsterArchnemesisVampiric": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisVampiric"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Vampiric",
+        "required_level": 13,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 3000
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_leech_from_any_damage_permyriad",
+                "max": 10000,
+                "min": 10000
+            },
+            {
+                "id": "life_leech_does_not_stop_at_full_life",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "damage_+%_while_life_leeching",
+                "max": 25,
+                "min": 25
+            },
+            {
+                "id": "cannot_have_life_leeched_from",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "cannot_have_energy_shield_leeched_from",
+                "max": 1,
+                "min": 1
+            },
+            {
+                "id": "life_leech_speed_+%",
+                "max": 200,
+                "min": 200
+            }
+        ],
+        "type": "MonsterArchnemesisVampiric"
+    },
+    "MonsterArchnemesisWealthy": {
+        "adds_tags": [],
+        "domain": "monster",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MonsterArchnemesisWealthy"
+        ],
+        "implicit_tags": [],
+        "is_essence_only": false,
+        "name": "Opulent",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "no_common_monster_mods",
+                "weight": 0
+            },
+            {
+                "tag": "magic",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 60
+            }
+        ],
+        "stats": [
+            {
+                "id": "monster_dropped_item_quantity_+%",
+                "max": 10000,
+                "min": 10000
+            },
+            {
+                "id": "monster_dropped_item_rarity_+%",
+                "max": 20000,
+                "min": 20000
+            }
+        ],
+        "type": "MonsterArchnemesisWealthy"
+    }
+}

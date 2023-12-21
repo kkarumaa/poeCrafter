@@ -1,0 +1,4849 @@
+{
+    "ArmourEnergyShieldJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ArmourEnergyShield"
+        ],
+        "implicit_tags": [
+            "armour",
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Paladin's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 12,
+                "min": 6
+            },
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "ArmourEnergyShieldForJewel"
+    },
+    "ArmourEvasionJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ArmourEvasion"
+        ],
+        "implicit_tags": [
+            "armour",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Fighter's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 12,
+                "min": 6
+            },
+            {
+                "id": "evasion_rating_+%",
+                "max": 12,
+                "min": 6
+            }
+        ],
+        "type": "ArmourEvasionForJewel"
+    },
+    "AxeAttackSpeedJewel": {
+        "adds_tags": [
+            "axe",
+            "specific_weapon",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Cleaving",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "axe_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AxeAttackSpeedForJewel"
+    },
+    "AxeDamageJewel": {
+        "adds_tags": [
+            "axe",
+            "specific_weapon",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Sinister",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "axe_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedAxeDamageForJewel"
+    },
+    "BlockDualWieldingJewel": {
+        "adds_tags": [
+            "dual_wielding_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "Parrying",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "block_while_dual_wielding_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "BlockDualWieldingForJewel"
+    },
+    "BlockShieldJewel": {
+        "adds_tags": [
+            "shield_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "Shielding",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "shield_block_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "BlockShieldForJewel"
+    },
+    "BlockStaffJewel": {
+        "adds_tags": [
+            "staff",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "Deflecting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 350
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 350
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "additional_staff_block_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "BlockStaffForJewel"
+    },
+    "BowAttackSpeedJewel": {
+        "adds_tags": [
+            "bow",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Volleying",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "melee_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "BowAttackSpeedForJewel"
+    },
+    "BowDamageJewel": {
+        "adds_tags": [
+            "bow",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Fierce",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "melee_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedBowDamageForJewel"
+    },
+    "ChaosCritChanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosCritChance"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Obliterating",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "ChaosCritChanceForJewel"
+    },
+    "ChaosCritMultiplier": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosCritMultiplier"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "ChaosCritMultiplierForJewel"
+    },
+    "ChaosDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos"
+        ],
+        "is_essence_only": false,
+        "name": "Chaotic",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 200
+            }
+        ],
+        "stats": [
+            {
+                "id": "chaos_damage_+%",
+                "max": 13,
+                "min": 9
+            }
+        ],
+        "type": "ChaosDamageForJewel"
+    },
+    "ChaosGemCastSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ChaosCastSpeed"
+        ],
+        "implicit_tags": [
+            "chaos",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Withering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "cast_speed_for_chaos_skills_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "ChaosGemCastSpeedForJewel"
+    },
+    "ClawAttackSpeedJewel": {
+        "adds_tags": [
+            "claw",
+            "specific_weapon",
+            "one_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Ripping",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "claw_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "ClawAttackSpeedForJewel"
+    },
+    "ClawDamageJewel": {
+        "adds_tags": [
+            "claw",
+            "specific_weapon",
+            "one_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Savage",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "claw",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "claw_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedClawDamageForJewel"
+    },
+    "ColdCritChanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdCritChance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Avalanching",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_critical_strike_chance_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "ColdCritChanceForJewel"
+    },
+    "ColdCritMultiplier": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdCritMultiplier"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Arctic",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_critical_strike_multiplier_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "ColdCritMultiplierForJewel"
+    },
+    "ColdDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold"
+        ],
+        "is_essence_only": false,
+        "name": "Chilling",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "cold_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "ColdDamageForJewel"
+    },
+    "ColdGemCastSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdCastSpeed"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "cold",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Cryomantic",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "cast_speed_for_cold_skills_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "ColdGemCastSpeedForJewel"
+    },
+    "CritChanceWithAxeJewel": {
+        "adds_tags": [
+            "axe",
+            "specific_weapon"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Biting FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "axe_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "CritChanceWithAxeForJewel"
+    },
+    "CritChanceWithBowJewel": {
+        "adds_tags": [
+            "bow",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Sniper FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "CritChanceWithBowForJewel"
+    },
+    "CritChanceWithClawJewel": {
+        "adds_tags": [
+            "claw",
+            "specific_weapon",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Eagle FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "claw_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "CritChanceWithClawForJewel"
+    },
+    "CritChanceWithDaggerJewel": {
+        "adds_tags": [
+            "dagger",
+            "specific_weapon",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Needling FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "dagger_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "CritChanceWithDaggerForJewel"
+    },
+    "CritChanceWithMaceJewel": {
+        "adds_tags": [
+            "mace",
+            "specific_weapon"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Striking FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mace_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "CritChanceWithMaceForJewel"
+    },
+    "CritChanceWithStaffJewel": {
+        "adds_tags": [
+            "staff",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Tyranny FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "staff_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "CritChanceWithStaffForJewel"
+    },
+    "CritChanceWithSwordJewel": {
+        "adds_tags": [
+            "sword",
+            "specific_weapon"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Stinging FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sword_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "CritChanceWithSwordForJewel"
+    },
+    "CritChanceWithWandJewel": {
+        "adds_tags": [
+            "wand",
+            "specific_weapon",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Divination FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "wand_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "CritChanceWithWandForJewel"
+    },
+    "CritMultiplierWithAxeJewel": {
+        "adds_tags": [
+            "axe",
+            "specific_weapon"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Execution FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "axe",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "axe_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CritMultiplierWithAxeForJewel"
+    },
+    "CritMultiplierWithBowJewel": {
+        "adds_tags": [
+            "bow",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Hunter FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "bow_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CritMultiplierWithBowForJewel"
+    },
+    "CritMultiplierWithClawJewel": {
+        "adds_tags": [
+            "claw",
+            "specific_weapon",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of the Bear FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "claw",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "claw_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CritMultiplierWithClawForJewel"
+    },
+    "CritMultiplierWithDaggerJewel": {
+        "adds_tags": [
+            "dagger",
+            "specific_weapon",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Assassination FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "dagger",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_multiplier_with_dagger_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CritMultiplierWithDaggerForJewel"
+    },
+    "CritMultiplierWithMaceJewel": {
+        "adds_tags": [
+            "mace",
+            "specific_weapon"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Crushing FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mace_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CritMultiplierWithMaceForJewel"
+    },
+    "CritMultiplierWithStaffJewel": {
+        "adds_tags": [
+            "staff",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Trauma FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "staff_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CritMultiplierWithStaffForJewel"
+    },
+    "CritMultiplierWithSwordJewel": {
+        "adds_tags": [
+            "sword",
+            "specific_weapon"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Severing FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sword",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sword_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CritMultiplierWithSwordForJewel"
+    },
+    "CritMultiplierWithWandJewel_": {
+        "adds_tags": [
+            "wand",
+            "specific_weapon",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "of Evocation FIX ME",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "wand_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "CritMultiplierWithWandForJewel"
+    },
+    "DaggerAttackSpeedJewel": {
+        "adds_tags": [
+            "dagger",
+            "specific_weapon",
+            "one_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Slicing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "dagger_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "DaggerAttackSpeedForJewel"
+    },
+    "DaggerDamageJewel": {
+        "adds_tags": [
+            "dagger",
+            "specific_weapon",
+            "one_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Lethal",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dagger",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "dagger_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedDaggerDamageForJewel"
+    },
+    "DualWieldingAttackSpeedJewel": {
+        "adds_tags": [
+            "dual_wielding_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Harmonic",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_while_dual_wielding_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "AttackSpeedWhileDualWieldingForJewel"
+    },
+    "DualWieldingCastSpeedJewel": {
+        "adds_tags": [
+            "dual_wielding_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Resonant",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "cast_speed_while_dual_wielding_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "CastSpeedWhileDualWieldingForJewel"
+    },
+    "DualWieldingCritChanceJewel": {
+        "adds_tags": [
+            "dual_wielding_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Technical",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_while_dual_wielding_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "DualWieldingCritChanceForJewel"
+    },
+    "DualWieldingCritMultiplierJewel": {
+        "adds_tags": [
+            "dual_wielding_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Puncturing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_critical_strike_multiplier_while_dual_wielding_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "DualWieldingCritMultiplierForJewel"
+    },
+    "DualWieldingMeleeDamageJewel": {
+        "adds_tags": [
+            "dual_wielding_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Gladiator's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_while_dual_wielding_+%",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "IncreasedDualWieldlingDamageForJewel"
+    },
+    "DualWieldingSpellBlockForJewel": {
+        "adds_tags": [
+            "dual_wielding_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormSpellBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "Dissipating",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_block_while_dual_wielding_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "DualWieldingSpellBlockForJewel"
+    },
+    "DualWieldingSpellDamageJewel_": {
+        "adds_tags": [
+            "dual_wielding_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellTypeDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Sorcerer's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%_while_dual_wielding",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "DualWieldingSpellDamageForJewel"
+    },
+    "EnergyShieldAndManaJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedEnergyShieldAndMana"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "resource",
+            "mana",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Wise",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 4,
+                "min": 2
+            },
+            {
+                "id": "maximum_mana_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "EnergyShieldAndManaForJewel"
+    },
+    "EnergyShieldDelayJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldDelay"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Serene",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_delay_-%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "EnergyShieldDelayForJewel"
+    },
+    "EnergyShieldJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldPercent"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Shimmering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "EnergyShieldForJewel"
+    },
+    "EnergyShieldRateJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EnergyShieldRegeneration"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Fevered",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "energy_shield_recharge_rate_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "EnergyShieldRechargeRateForJewel"
+    },
+    "EvasionEnergyShieldJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionEnergyShield"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Rogue's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 12,
+                "min": 6
+            },
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "EvasionEnergyShieldForJewel"
+    },
+    "FasterAilmentDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterAilmentDamage"
+        ],
+        "implicit_tags": [
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "Decrepifying",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "damaging_ailments_deal_damage_+%_faster",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "FasterAilmentDamageForJewel"
+    },
+    "FireCritChanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireCritChance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Incinerating",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_critical_strike_chance_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "FireCritChanceForJewel"
+    },
+    "FireCritMultiplier": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireCritMultiplier"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Infernal",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_critical_strike_multiplier_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "FireCritMultiplierForJewel"
+    },
+    "FireDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire"
+        ],
+        "is_essence_only": false,
+        "name": "Flaming",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "fire_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "FireDamageForJewel"
+    },
+    "FireGemCastSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireCastSpeed"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "fire",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Pyromantic",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "cast_speed_for_fire_skills_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "FireGemCastSpeedForJewel"
+    },
+    "IncreasedArmourJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedPhysicalDamageReductionRatingPercent"
+        ],
+        "implicit_tags": [
+            "armour",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Armoured",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_reduction_rating_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedArmourForJewel"
+    },
+    "IncreasedDefensesJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AllDefences"
+        ],
+        "implicit_tags": [
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Defensive",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "global_defences_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "IncreasedDefensesForJewel"
+    },
+    "IncreasedEnergyShieldJewel_": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedEnergyShield"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Glowing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_energy_shield",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedEnergyShieldForJewel"
+    },
+    "IncreasedEvasionJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "EvasionRatingPercent"
+        ],
+        "implicit_tags": [
+            "evasion",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Evasive",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "evasion_rating_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedEvasionForJewel"
+    },
+    "IncreasedLifeAndManaJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLifeAndMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Determined",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 6,
+                "min": 4
+            },
+            {
+                "id": "base_maximum_mana",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "LifeAndManaForJewel"
+    },
+    "IncreasedLifeJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Healthy",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_life",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedLifeForJewel"
+    },
+    "IncreasedManaJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedMana"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Learned",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_maximum_mana",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "IncreasedManaForJewel"
+    },
+    "IncreasedManaRegenJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaRegeneration"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Energetic",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_regeneration_rate_+%",
+                "max": 15,
+                "min": 12
+            }
+        ],
+        "type": "IncreasedManaRegenForJewel"
+    },
+    "LifeAndEnergyShieldJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedLifeAndEnergyShield"
+        ],
+        "implicit_tags": [
+            "energy_shield",
+            "resource",
+            "life",
+            "defences"
+        ],
+        "is_essence_only": false,
+        "name": "Faithful",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": 4,
+                "min": 2
+            },
+            {
+                "id": "maximum_energy_shield_+%",
+                "max": 4,
+                "min": 2
+            }
+        ],
+        "type": "LifeAndEnergyShieldForJewel"
+    },
+    "LifeLeechPermyriadJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Hungering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "life_leech_from_physical_attack_damage_permyriad",
+                "max": 40,
+                "min": 20
+            }
+        ],
+        "type": "LifeLeechPermyriadForJewel"
+    },
+    "LightningCritChanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningCritChance"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Thundering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_critical_strike_chance_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "LightningCritChanceForJewel"
+    },
+    "LightningCritMultiplier": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningCritMultiplier"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Surging",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 200
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_critical_strike_multiplier_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "LightningCritMultiplierForJewel"
+    },
+    "LightningDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamagePercentage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning"
+        ],
+        "is_essence_only": false,
+        "name": "Humming",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 400
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "lightning_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "LightningDamageForJewel"
+    },
+    "LightningGemCastSpeedJewel_": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningCastSpeed"
+        ],
+        "implicit_tags": [
+            "elemental",
+            "lightning",
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Electromantic",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "cast_speed_for_lightning_skills_+%",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "LightningGemCastSpeedForJewel"
+    },
+    "MaceAttackSpeedJewel": {
+        "adds_tags": [
+            "mace",
+            "specific_weapon",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Beating",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "mace_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "MaceAttackSpeedForJewel"
+    },
+    "MaceDamageJewel": {
+        "adds_tags": [
+            "mace",
+            "specific_weapon",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Brutal",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "mace_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedMaceDamageForJewel"
+    },
+    "ManaLeechPermyriadJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Thirsting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_dex",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "mana_leech_from_physical_attack_damage_permyriad",
+                "max": 40,
+                "min": 20
+            }
+        ],
+        "type": "ManaLeechPermyriadForJewel"
+    },
+    "MineCritChanceJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormCritChance"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Crippling",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mine_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "MineCritChanceForJewel"
+    },
+    "MineCritMultiplier": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Incapacitating",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mine_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "MineCritMultiplierForJewel"
+    },
+    "MineDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageForm"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Sabotage",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mine_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "MineDamageForJewel"
+    },
+    "MineLaySpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MineLaySpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Arming",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "mine_laying_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "MineLaySpeedForJewel"
+    },
+    "MinionDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageForm"
+        ],
+        "implicit_tags": [
+            "damage",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Leadership",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "MinionDamageForJewel"
+    },
+    "MinionLifeJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MinionLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "minion"
+        ],
+        "is_essence_only": false,
+        "name": "Master's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "minion_maximum_life_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "MinionLifeForJewel"
+    },
+    "OneHandCritMultiplierJewel_": {
+        "adds_tags": [
+            "melee_mod",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Piercing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "one_handed_melee_critical_strike_multiplier_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "OneHandCritMultiplierForJewel"
+    },
+    "OneHandedCritChanceJewel": {
+        "adds_tags": [
+            "one_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Harming",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "one_handed_melee_critical_strike_chance_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "OneHandedCritChanceForJewel"
+    },
+    "OneHandedMeleeAttackSpeedJewel": {
+        "adds_tags": [
+            "one_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Bandit's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "one_handed_melee_attack_speed_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "OneHandedMeleeAttackSpeedForJewel"
+    },
+    "OneHandedMeleeDamageJewel": {
+        "adds_tags": [
+            "one_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Soldier's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_with_one_handed_weapons",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "IncreasedOneHandedMeleeDamageForJewel"
+    },
+    "PercentIncreasedLifeAndManaJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PercentageIncreasedLifeAndMana"
+        ],
+        "implicit_tags": [
+            "green_herring",
+            "resource",
+            "life",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Passionate",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": 4,
+                "min": 2
+            },
+            {
+                "id": "maximum_mana_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "PercentageLifeAndManaForJewel"
+    },
+    "PercentIncreasedLifeJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumLifeIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Vivid",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 350
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_life_+%",
+                "max": 7,
+                "min": 5
+            }
+        ],
+        "type": "PercentIncreasedLifeForJewel"
+    },
+    "PercentIncreasedManaJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MaximumManaIncreasePercent"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana"
+        ],
+        "is_essence_only": false,
+        "name": "Enlightened",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 250
+            }
+        ],
+        "stats": [
+            {
+                "id": "maximum_mana_+%",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "PercentIncreasedManaForJewel"
+    },
+    "PhysicalDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "PhysicalDamagePercent"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical"
+        ],
+        "is_essence_only": false,
+        "name": "Sharpened",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "physical_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "PhysicalDamageForJewel"
+    },
+    "PhysicalDamageWhileHoldingAShield": {
+        "adds_tags": [
+            "shield_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Flanking",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_damage_+%_while_holding_a_shield",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "DamageWhileHoldingAShieldForJewel"
+    },
+    "ShieldAttackSpeedJewel": {
+        "adds_tags": [
+            "shield_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Charging",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 400
+            }
+        ],
+        "stats": [
+            {
+                "id": "attack_speed_+%_while_holding_shield",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "AttackSpeedWithAShieldForJewel"
+    },
+    "ShieldCastSpeedJewel": {
+        "adds_tags": [
+            "shield_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Warding",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "cast_speed_+%_while_holding_shield",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "CastSpeedWithAShieldForJewel"
+    },
+    "ShieldCritChanceJewel": {
+        "adds_tags": [
+            "shield_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "critical_strike_chance_while_wielding_shield_+%",
+                "max": 14,
+                "min": 10
+            }
+        ],
+        "type": "ShieldCritChanceForJewel"
+    },
+    "ShieldCritMultiplierJewel": {
+        "adds_tags": [
+            "shield_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "melee_critical_strike_multiplier_+_while_wielding_shield",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "ShieldCritMultiplierForJewel"
+    },
+    "ShieldSpellBlockJewel": {
+        "adds_tags": [
+            "shield_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormSpellBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "Thwarting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "shield_spell_block_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "ShieldSpellBlockForJewel"
+    },
+    "ShieldSpellDamageJewel": {
+        "adds_tags": [
+            "shield_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellTypeDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Battlemage's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_damage_+%_while_holding_shield",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "ShieldSpellDamageForJewel"
+    },
+    "SpellLifeLeechPermyriadJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LifeLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Transfusing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_life_leech_from_spell_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SpellLifeLeechPermyriadForJewel"
+    },
+    "SpellManaLeechPermyriadJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ManaLeech"
+        ],
+        "implicit_tags": [
+            "resource",
+            "mana",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Siphoning",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_mana_leech_from_spell_damage_permyriad",
+                "max": 20,
+                "min": 20
+            }
+        ],
+        "type": "SpellManaLeechPermyriadForJewel"
+    },
+    "StaffAttackSpeedJewel": {
+        "adds_tags": [
+            "staff",
+            "specific_weapon",
+            "two_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Blunt",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "staff_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "StaffAttackSpeedForJewel"
+    },
+    "StaffCastSpeedJewel": {
+        "adds_tags": [
+            "staff",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeSpeed"
+        ],
+        "implicit_tags": [
+            "caster",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Wright's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "cast_speed_+%_while_holding_staff",
+                "max": 5,
+                "min": 3
+            }
+        ],
+        "type": "CastSpeedWithAStaffForJewel"
+    },
+    "StaffDamageJewel": {
+        "adds_tags": [
+            "staff",
+            "specific_weapon",
+            "two_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Judging",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_str",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "staff_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedStaffDamageForJewel"
+    },
+    "StaffSpellBlockJewel": {
+        "adds_tags": [
+            "staff",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormSpellBlock"
+        ],
+        "implicit_tags": [
+            "block"
+        ],
+        "is_essence_only": false,
+        "name": "Halting",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 350
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_dex",
+                "weight": 350
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_block_with_staff_%",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "StaffSpellBlockForJewel"
+    },
+    "StaffSpellDamageJewel": {
+        "adds_tags": [
+            "staff",
+            "specific_weapon",
+            "two_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpellTypeDamage"
+        ],
+        "implicit_tags": [
+            "caster_damage",
+            "damage",
+            "caster"
+        ],
+        "is_essence_only": false,
+        "name": "Wizard's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "staff",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "spell_staff_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "StaffSpellDamageForJewel"
+    },
+    "SwordAttackSpeedJewel": {
+        "adds_tags": [
+            "sword",
+            "specific_weapon",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Fencing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sword_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "SwordAttackSpeedForJewel"
+    },
+    "SwordDamageJewel": {
+        "adds_tags": [
+            "sword",
+            "specific_weapon",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Vicious",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "sword_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedSwordDamageForJewel"
+    },
+    "TotemDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TotemDamage"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Shaman's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_damage_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "TotemDamageForJewel"
+    },
+    "TotemLifeJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "IncreasedTotemLife"
+        ],
+        "implicit_tags": [
+            "resource",
+            "life"
+        ],
+        "is_essence_only": false,
+        "name": "Carved",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 350
+            }
+        ],
+        "stats": [
+            {
+                "id": "totem_life_+%",
+                "max": 12,
+                "min": 8
+            }
+        ],
+        "type": "TotemLifeForJewel"
+    },
+    "TrapCritChanceJewel_": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormCritChance"
+        ],
+        "implicit_tags": [
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Inescapable",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "trap_critical_strike_chance_+%",
+                "max": 16,
+                "min": 12
+            }
+        ],
+        "type": "TrapCritChanceForJewel"
+    },
+    "TrapCritMultiplier": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FormCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Debilitating",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "trap_critical_strike_multiplier_+",
+                "max": 10,
+                "min": 8
+            }
+        ],
+        "type": "TrapCritMultiplierForJewel"
+    },
+    "TrapDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "DamageForm"
+        ],
+        "implicit_tags": [
+            "damage"
+        ],
+        "is_essence_only": false,
+        "name": "Trapping",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "trap_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "TrapDamageForJewel"
+    },
+    "TrapThrowSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "TrapThrowSpeed"
+        ],
+        "implicit_tags": [
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Honed",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_str",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "trap_throwing_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "TrapThrowSpeedForJewel"
+    },
+    "TwoHandCritMultiplierJewel": {
+        "adds_tags": [
+            "two_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeCritMultiplier"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Rupturing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "two_handed_melee_critical_strike_multiplier_+",
+                "max": 18,
+                "min": 15
+            }
+        ],
+        "type": "TwoHandCritMultiplierForJewel"
+    },
+    "TwoHandedCritChanceJewel": {
+        "adds_tags": [
+            "two_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeCritChance"
+        ],
+        "implicit_tags": [
+            "attack",
+            "critical"
+        ],
+        "is_essence_only": false,
+        "name": "Sundering",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 250
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "two_handed_melee_critical_strike_chance_+%",
+                "max": 18,
+                "min": 14
+            }
+        ],
+        "type": "TwoHandedCritChanceForJewel"
+    },
+    "TwoHandedMeleeAttackSpeedJewel": {
+        "adds_tags": [
+            "two_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Warrior's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "two_handed_melee_attack_speed_+%",
+                "max": 6,
+                "min": 4
+            }
+        ],
+        "type": "TwoHandedMeleeAttackSpeedForJewel"
+    },
+    "TwoHandedMeleeDamageJewel": {
+        "adds_tags": [
+            "two_handed_mod",
+            "melee_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Champion's",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 0
+            },
+            {
+                "tag": "one_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "dual_wielding_mod",
+                "weight": 0
+            },
+            {
+                "tag": "shield_mod",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "damage_+%_with_two_handed_weapons",
+                "max": 14,
+                "min": 12
+            }
+        ],
+        "type": "IncreasedTwoHandedMeleeDamageForJewel"
+    },
+    "UnarmedAttackSpeedJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Furious",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "unarmed_melee_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "AttackSpeedWhileUnarmedForJewel"
+    },
+    "UnarmedMeleeDamageJewel": {
+        "adds_tags": [],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "MeleeTypeDamage"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "damage",
+            "physical",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Brawling",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "unarmed_melee_physical_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedUnarmedDamageForJewel"
+    },
+    "WandAttackSpeedJewel": {
+        "adds_tags": [
+            "wand",
+            "specific_weapon",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponSpeed"
+        ],
+        "implicit_tags": [
+            "attack",
+            "speed"
+        ],
+        "is_essence_only": false,
+        "name": "Jinxing",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "melee_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "wand_attack_speed_+%",
+                "max": 8,
+                "min": 6
+            }
+        ],
+        "type": "WandAttackSpeedForJewel"
+    },
+    "WandDamageJewel": {
+        "adds_tags": [
+            "wand",
+            "specific_weapon",
+            "one_handed_mod"
+        ],
+        "domain": "misc",
+        "generation_type": "prefix",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "SpecificWeaponDamage"
+        ],
+        "implicit_tags": [
+            "damage",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "Cruel",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "melee_mod",
+                "weight": 0
+            },
+            {
+                "tag": "two_handed_mod",
+                "weight": 0
+            },
+            {
+                "tag": "wand",
+                "weight": 500
+            },
+            {
+                "tag": "specific_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "not_int",
+                "weight": 0
+            },
+            {
+                "tag": "default",
+                "weight": 500
+            }
+        ],
+        "stats": [
+            {
+                "id": "wand_damage_+%",
+                "max": 16,
+                "min": 14
+            }
+        ],
+        "type": "IncreasedWandDamageForJewel"
+    }
+}

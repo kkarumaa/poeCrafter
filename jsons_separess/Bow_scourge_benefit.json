@@ -1,0 +1,1685 @@
+{
+    "HellscapeUpsideAdditionalArrow1": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "AdditionalArrows"
+        ],
+        "implicit_tags": [
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 50
+            },
+            {
+                "tag": "quiver",
+                "weight": 5
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "base_number_of_additional_arrows",
+                "max": 1,
+                "min": 1
+            }
+        ],
+        "type": "AdditionalArrows"
+    },
+    "HellscapeUpsideBleedingDamageFaster2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_bleed_%",
+                "max": 9,
+                "min": 8
+            }
+        ],
+        "type": "FasterBleedDamage"
+    },
+    "HellscapeUpsideBleedingDamageFaster2h3": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_bleed_%",
+                "max": 11,
+                "min": 10
+            }
+        ],
+        "type": "FasterBleedDamage"
+    },
+    "HellscapeUpsideBleedingDamageFaster2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FasterDamageAilments"
+        ],
+        "implicit_tags": [
+            "physical_damage",
+            "bleed",
+            "damage",
+            "physical",
+            "attack",
+            "ailment"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "one_hand_weapon",
+                "weight": 0
+            },
+            {
+                "tag": "sword",
+                "weight": 500
+            },
+            {
+                "tag": "axe",
+                "weight": 500
+            },
+            {
+                "tag": "mace",
+                "weight": 500
+            },
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "faster_bleed_%",
+                "max": 13,
+                "min": 12
+            }
+        ],
+        "type": "FasterBleedDamage"
+    },
+    "HellscapeUpsideLocalChaosDamage2h1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 11,
+                "min": 10
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 32,
+                "min": 25
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "HellscapeUpsideLocalChaosDamage2h2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 17,
+                "min": 13
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 40,
+                "min": 36
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "HellscapeUpsideLocalChaosDamage2h3_____": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 23,
+                "min": 19
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 51,
+                "min": 44
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "HellscapeUpsideLocalChaosDamage2h4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 29,
+                "min": 25
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 63,
+                "min": 55
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "HellscapeUpsideLocalChaosDamageRanged1_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 9,
+                "min": 7
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 25,
+                "min": 19
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "HellscapeUpsideLocalChaosDamageRanged2": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 14,
+                "min": 10
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 31,
+                "min": 28
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "HellscapeUpsideLocalChaosDamageRanged3_": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 19,
+                "min": 15
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 40,
+                "min": 34
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "HellscapeUpsideLocalChaosDamageRanged4": {
+        "adds_tags": [],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LocalChaosDamage"
+        ],
+        "implicit_tags": [
+            "chaos_damage",
+            "damage",
+            "chaos",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 500
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_chaos_damage",
+                "max": 22,
+                "min": 20
+            },
+            {
+                "id": "local_maximum_added_chaos_damage",
+                "max": 49,
+                "min": 43
+            }
+        ],
+        "type": "LocalChaosDamage"
+    },
+    "HellscapeUpsideLocalColdDamage2h1": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 24,
+                "min": 19
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 39,
+                "min": 35
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "HellscapeUpsideLocalColdDamage2h2_____": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 35,
+                "min": 30
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 61,
+                "min": 53
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "HellscapeUpsideLocalColdDamage2h3__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 48,
+                "min": 41
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 72,
+                "min": 63
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "HellscapeUpsideLocalColdDamage2h4__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 61,
+                "min": 50
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 87,
+                "min": 75
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "HellscapeUpsideLocalColdDamageRanged1_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 20,
+                "min": 16
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 35,
+                "min": 30
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "HellscapeUpsideLocalColdDamageRanged2_____": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 29,
+                "min": 24
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 46,
+                "min": 41
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "HellscapeUpsideLocalColdDamageRanged3___": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 36,
+                "min": 31
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 57,
+                "min": 50
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "HellscapeUpsideLocalColdDamageRanged4": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "ColdDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "cold",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_cold_damage",
+                "max": 45,
+                "min": 37
+            },
+            {
+                "id": "local_maximum_added_cold_damage",
+                "max": 67,
+                "min": 60
+            }
+        ],
+        "type": "LocalColdDamage"
+    },
+    "HellscapeUpsideLocalFireDamage2h1_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 26,
+                "min": 22
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 44,
+                "min": 38
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "HellscapeUpsideLocalFireDamage2h2__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 43,
+                "min": 34
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 67,
+                "min": 59
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "HellscapeUpsideLocalFireDamage2h3______": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 56,
+                "min": 48
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 78,
+                "min": 69
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "HellscapeUpsideLocalFireDamage2h4______": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 72,
+                "min": 59
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 91,
+                "min": 80
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "HellscapeUpsideLocalFireDamageRanged1__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 22,
+                "min": 18
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 39,
+                "min": 35
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "HellscapeUpsideLocalFireDamageRanged2": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 34,
+                "min": 27
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 53,
+                "min": 46
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "HellscapeUpsideLocalFireDamageRanged3_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 41,
+                "min": 36
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 64,
+                "min": 56
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "HellscapeUpsideLocalFireDamageRanged4______": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "FireDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "fire",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_fire_damage",
+                "max": 57,
+                "min": 43
+            },
+            {
+                "id": "local_maximum_added_fire_damage",
+                "max": 72,
+                "min": 66
+            }
+        ],
+        "type": "LocalFireDamage"
+    },
+    "HellscapeUpsideLocalLightningDamage2h1__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 6,
+                "min": 2
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 86,
+                "min": 74
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "HellscapeUpsideLocalLightningDamage2h2_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 8,
+                "min": 4
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 129,
+                "min": 103
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "HellscapeUpsideLocalLightningDamage2h3_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 10,
+                "min": 5
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 170,
+                "min": 145
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "HellscapeUpsideLocalLightningDamage2h4_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 0
+            },
+            {
+                "tag": "two_hand_weapon",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 15,
+                "min": 6
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 211,
+                "min": 186
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "HellscapeUpsideLocalLightningDamageRanged1__": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 1,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 5,
+                "min": 1
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 66,
+                "min": 60
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "HellscapeUpsideLocalLightningDamageRanged2_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 45,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 6,
+                "min": 3
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 102,
+                "min": 81
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "HellscapeUpsideLocalLightningDamageRanged3___": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 9,
+                "min": 4
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 134,
+                "min": 114
+            }
+        ],
+        "type": "LocalLightningDamage"
+    },
+    "HellscapeUpsideLocalLightningDamageRanged4_": {
+        "adds_tags": [
+            "has_attack_mod"
+        ],
+        "domain": "item",
+        "generation_type": "scourge_benefit",
+        "generation_weights": [],
+        "grants_effects": [],
+        "groups": [
+            "LightningDamage"
+        ],
+        "implicit_tags": [
+            "elemental_damage",
+            "damage",
+            "elemental",
+            "lightning",
+            "attack"
+        ],
+        "is_essence_only": false,
+        "name": "",
+        "required_level": 68,
+        "spawn_weights": [
+            {
+                "tag": "bow",
+                "weight": 1000
+            },
+            {
+                "tag": "default",
+                "weight": 0
+            }
+        ],
+        "stats": [
+            {
+                "id": "local_minimum_added_lightning_damage",
+                "max": 12,
+                "min": 5
+            },
+            {
+                "id": "local_maximum_added_lightning_damage",
+                "max": 166,
+                "min": 147
+            }
+        ],
+        "type": "LocalLightningDamage"
+    }
+}
