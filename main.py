@@ -1,3 +1,5 @@
+import random
+import re
 import time
 import tkinter as tk
 from tkinter import ttk
@@ -17,6 +19,16 @@ button_color = "#142131"  # Couleur des boutons
 button_menu_color = "#0d1623"  # Couleur d'arrière-plan des boutons dans le menu
 
 currency_used = 0
+
+
+def safe_copy(old_copy):
+    for _ in range(7):
+        pyautogui.hotkey('ctrl', 'c')
+        time.sleep(0.05)  # petit délai
+        text = pyperclip.paste()
+        if text.strip() != "" and text != old_copy:
+            return text
+    return ""
 
 
 class App:
@@ -58,10 +70,14 @@ class App:
                                      fg=text_color)
         self.expedition_tab = tk.Button(self.nav_frame, text="Expedition", command=self.show_expedition,
                                         bg=button_color, fg=text_color)
+        self.beast_module_tab = tk.Button(self.nav_frame, text="Beast Recuperation",
+                                              command=self.show_beast_module, bg=button_color, fg=text_color)
+        self.divination_card_tab = tk.Button(self.nav_frame, text="Divination Card",
+                                             command=self.show_divination_card_module, bg=button_color, fg=text_color)
 
         # Liste des onglets
         self.tabs = [self.general_tab, self.currency_tab, self.no_mod_craft_tab, self.basic_craft, self.rare_craft,
-                     self.map_craft_tab, self.harvest_exchange_tab, self.sextant_tab, self.expedition_tab]
+                     self.map_craft_tab, self.harvest_exchange_tab, self.sextant_tab, self.expedition_tab, self.beast_module_tab, self.divination_card_tab]
 
         # Positionner les boutons
         for tab in self.tabs:
@@ -328,14 +344,17 @@ class App:
         confirm_button.grid(row=1, column=0, padx=10, pady=10)
 
     def update_button_colors(self):
-        # Mettre à jour les couleurs des boutons en fonction de leur état
-        for button in self.currency_frame.winfo_children():
-            if isinstance(button, tk.Button):
-                button_name = button.cget("text")
-                if self.currency_button_states[button_name] != "":
-                    button.config(bg="#5f918b")
-                else:
-                    button.config(bg="#63748d")
+        """ Mettre à jour les couleurs des boutons en fonction de leur état """
+        # Vérifier si currency_frame existe avant de procéder
+        if hasattr(self, 'currency_frame') and self.currency_frame is not None:
+            for button in self.currency_frame.winfo_children():
+                if isinstance(button, tk.Button):
+                    button_name = button.cget("text")
+                    if self.currency_button_states.get(button_name, "") != "":
+                        button.config(bg="#5f918b")
+                    else:
+                        button.config(bg="#63748d")
+
 
     def create_no_mod_craft_content(self):
         self.no_mod_craft_frame = tk.Frame(self.root, width=800, height=500, bg=background_color)
@@ -542,6 +561,777 @@ class App:
         self.expedition_frame.grid(row=0, column=1, sticky="nsew")
         tk.Label(self.expedition_frame, text="Expedition Tab", bg="#0a0", fg="white").pack(pady=20)
 
+    def show_beast_module(self):
+        """ Afficher l'onglet Beast Module """
+        self.update_tab_color(self.beast_module_tab)
+        self.general_frame.grid_forget()  # Masquer les autres cadres
+        self.create_beast_module_content()  # Créer le contenu de l'onglet Beast Module
+        self.beast_module_frame.grid(row=0, column=1, sticky="nsew")
+        self.load_settings()  # Charger les paramètres pour cet onglet
+
+        # Si des points rouges sont présents, les afficher dans le tableau
+        #if self.chain_beast_points:
+            #self.update_points_table()
+
+    def create_beast_module_content(self):
+        self.beast_module_frame = tk.Frame(self.root, bg=background_color)
+
+        # Variable pour stocker l'état (True pour Yellow Beast, False pour Red Beast)
+        self.beast_switch_var = tk.BooleanVar(value=False)
+
+        # Label pour afficher l'état actuel de la bête
+        self.beast_label = tk.Label(self.beast_module_frame, text="Current Beast: Red Beast",
+                                    foreground=text_color, background=background_color, font=("Arial", 12))
+        self.beast_label.pack(pady=10)
+
+        # Checkbutton pour basculer entre "Red Beast" et "Yellow Beast"
+        self.switch_button = ttk.Checkbutton(self.beast_module_frame, text="Yellow Beast",
+                                             variable=self.beast_switch_var, onvalue=True, offvalue=False,
+                                             command=self.toggle_beast_state)
+        self.switch_button.pack(pady=10)
+
+        # Cadre pour contenir les boutons "Set Inventory" et "Set Beast"
+        self.buttons_frame = tk.Frame(self.beast_module_frame, bg=background_color)
+
+        # Bouton "Set Inventory"
+        self.set_inventory_button = tk.Button(self.buttons_frame, text="Set Inventory",
+                                              command=self.open_chain_beast_popup, bg=button_color, fg=text_color)
+        self.set_inventory_button.pack(side=tk.LEFT, padx=5)
+
+        # Bouton "Set Beast"
+        self.set_beast_button = tk.Button(self.buttons_frame, text="Set Beast",
+                                          command=self.set_beast_action, bg=button_color, fg=text_color)
+        self.set_beast_button.pack(side=tk.LEFT, padx=5)
+
+        # Afficher le cadre des boutons
+        self.buttons_frame.pack_forget()
+
+        # Cadre pour l'intitulé et l'input côte à côte
+        self.bestiary_input_frame = tk.Frame(self.beast_module_frame, bg=background_color)
+
+        # Ajout d'un champ d'entrée pour "nombre de colonnes Bestiary Orb"
+        self.bestiary_columns_label = tk.Label(self.bestiary_input_frame, text="Nombre de colonnes Bestiary Orb : ",
+                                               bg=background_color, fg=text_color)
+        self.bestiary_columns_input = tk.Entry(self.bestiary_input_frame)
+
+        # Placer le label et l'input côte à côte
+        self.bestiary_columns_label.pack(side=tk.LEFT, padx=5)
+        self.bestiary_columns_input.pack(side=tk.LEFT, padx=5)
+
+        # Cacher le champ d'entrée par défaut
+        self.bestiary_input_frame.pack_forget()
+
+        # Ajouter le bouton "Remplir Yellow Beast"
+        self.fill_yellow_beast_button = tk.Button(self.beast_module_frame, text="Remplir Yellow Beast",
+                                                  command=self.fill_yellow_beast, bg="green", fg="white")
+        # Cacher le bouton par défaut
+        self.fill_yellow_beast_button.pack_forget()
+
+        # Bouton pour tester les positions (masqué après création)
+        self.test_position_button = tk.Button(self.beast_module_frame, text="Tester Position",
+                                              command=self.test_positions, bg="blue", fg="white")
+        self.test_position_button.pack(pady=10)
+        self.test_position_button.pack_forget()  # Masqué par défaut
+
+        # Bouton pour appeler la fonction check avec le premier élément de chain_beast_points
+        self.check_button = tk.Button(self.beast_module_frame, text="Check First Beast Position",
+                                      command=self.check_first_beast_position, bg="blue", fg="white")
+        self.check_button.pack(pady=10)
+        self.check_button.pack_forget()  # Masqué par défaut (car un élément de test)
+
+        # Nouveau bouton "Compter Bestiary Orb"
+        self.count_bestiary_orb_button = tk.Button(self.beast_module_frame, text="Compter Bestiary Orb",
+                                                   command=self.count_bestiary_orb, bg="blue", fg="white")
+        self.count_bestiary_orb_button.pack(pady=10)
+        self.count_bestiary_orb_button.pack_forget()  # Masqué par défaut (car un élément de test)
+
+        # Nouveau bouton "Vérifier les emplacements vides"
+        self.check_empty_positions_button = tk.Button(self.beast_module_frame, text="Vérifier les emplacements vides",
+                                                      command=self.check_empty_positions, bg="blue", fg="white")
+        self.check_empty_positions_button.pack(pady=10)
+        self.check_empty_positions_button.pack_forget()  # Masqué par défaut
+
+        # Afficher le cadre du Beast Module
+        self.beast_module_frame.grid(row=0, column=1, sticky="nsew")
+
+
+
+    def toggle_beast_state(self):
+        # Si l'état est True, la bête est "Yellow Beast", sinon "Red Beast"
+        if self.beast_switch_var.get():
+            self.beast_label.config(text="Current Beast: Yellow Beast")
+            self.switch_button.config(text="Red Beast")
+
+            # Créer un cadre pour contenir les deux boutons côte à côte
+            if not hasattr(self, 'buttons_frame'):
+                self.buttons_frame = tk.Frame(self.beast_module_frame, bg=background_color)
+
+            self.buttons_frame.pack(pady=10)
+            # Afficher les boutons côte à côte dans le nouveau cadre
+            self.set_beast_button.pack(in_=self.buttons_frame, side=tk.LEFT, padx=5)
+            self.set_inventory_button.pack(in_=self.buttons_frame, side=tk.LEFT, padx=5)
+
+            self.bestiary_input_frame.pack(pady=5)
+            self.bestiary_columns_label.pack(pady=5)
+            self.bestiary_columns_input.pack(pady=5)
+            self.fill_yellow_beast_button.pack(pady=5)
+
+        else:
+            self.beast_label.config(text="Current Beast: Red Beast")
+            self.switch_button.config(text="Yellow Beast")
+
+            # Masquer le cadre contenant les deux boutons
+            self.buttons_frame.pack_forget()
+            self.bestiary_input_frame.pack_forget()
+            self.fill_yellow_beast_button.pack_forget()
+
+
+    def set_beast_action(self):
+        """ Afficher 'Set Beast' dans la console """
+        self.create_popup("Set Beast")
+
+
+    def update_points_table(self):
+        """ Mettre à jour le tableau avec les coordonnées des points rouges """
+        # Vider le tableau existant
+        for item in self.points_table.get_children():
+            self.points_table.delete(item)
+
+        # Charger les points rouges depuis self.chain_beast_points
+        for point in self.chain_beast_points:
+            self.points_table.insert('', tk.END, values=(point['x'], point['y']))
+
+    def test_positions(self):
+        """ Simuler un clic gauche sur chaque position des points rouges, toutes les 5 secondes """
+        if not self.chain_beast_points:
+            print("Aucune position à tester.")
+            return
+
+        for point in self.chain_beast_points:
+            x = point['x']
+            y = point['y']
+            print(f"Cliquant à la position: ({x}, {y})")
+
+            # Déplacer la souris à la position et effectuer un clic gauche
+            pyautogui.moveTo(x, y)
+            pyautogui.click()
+
+            # Attendre 5 secondes avant de passer au point suivant
+            time.sleep(5)
+
+    def check_first_beast_position(self):
+        """ Appelle la fonction check avec la première position de chain_beast_points et 'beast' comme texte """
+        if self.chain_beast_points:
+            # Extraire la première position
+            first_point = self.chain_beast_points[0]
+            x, y = first_point['x'], first_point['y']
+            # Appeler la fonction check avec les coordonnées et le texte 'beast'
+            self.check(x, y, "beast")
+        else:
+            print("Aucune position de Beast disponible.")
+
+    def count_bestiary_orb(self):
+        """ Parcourt toutes les positions de chain_beast_points et compte combien contiennent 'Bestiary Orb' """
+        if not self.chain_beast_points:
+            print("Aucune position de Beast disponible.")
+            return
+
+        total_orbs = 0
+        pyautogui.PAUSE = 0.001
+
+        # Ramener "Path of Exile" au premier plan
+        poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
+        poe_window.activate()
+
+        # Parcourir toutes les positions et utiliser la fonction check
+        for point in self.chain_beast_points:
+            x, y = point['x'], point['y']
+            is_bestiary_orb, copied_text = self.check(x, y, "Bestiary Orb")
+
+            if is_bestiary_orb:
+                # Rechercher le stack size dans le texte
+                match = re.search(r"Stack Size: (\d+)/10", copied_text)
+                if match:
+                    # Extraire le nombre avant /10
+                    orb_count = int(match.group(1))
+                    total_orbs += orb_count
+                    print(f"Orbes trouvés à la position ({x}, {y}): {orb_count}")
+
+        # Afficher le résultat dans la console
+        print(f"Nombre de 'Bestiary Orb' trouvés : {total_orbs}")
+
+    def check_empty_positions(self):
+        """ Parcourt les positions de chain_beast_points et détermine si un emplacement est vide
+            en comparant avec le texte copié de la position précédente.
+        """
+        if not self.chain_beast_points or len(self.chain_beast_points) < 2:
+            print("Pas assez de positions pour vérifier les emplacements vides.")
+            return
+
+        previous_text = "None"
+        empty_positions = []
+
+        pyautogui.PAUSE = 0.001
+
+        # Ramener "Path of Exile" au premier plan
+        poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
+        poe_window.activate()
+
+        # Parcourir toutes les positions, sauf la première
+        for index, point in enumerate(self.chain_beast_points[1:], start=1):
+            x, y = point['x'], point['y']
+
+            # Vérifier la position actuelle par rapport à la précédente
+            is_empty, copied_text = self.check(x, y, previous_text)
+
+            if is_empty:
+                empty_positions.append(index)
+
+            # Mettre à jour le texte précédent avec le texte actuel copié
+            previous_text = copied_text
+
+        # Afficher les emplacements vides
+        if empty_positions:
+            for pos in empty_positions:
+                print(f"Position {pos} : Emplacement vide")
+        else:
+            print("Aucun emplacement vide trouvé.")
+
+    def fill_yellow_beast(self):
+        """ Vérifie l'input et effectue un check sur la première position si l'input est valide """
+
+        # Charger les paramètres depuis le fichier
+        self.load_settings()
+
+        try:
+
+            # Vérifier la valeur de set_beast_value pour voir si elle contient une position valide
+            if not self.set_beast_value:
+                print("Veuillez définir la position de 'Set Beast'.")
+                return
+
+            try:
+                x, y = map(int, self.set_beast_value.split(';'))
+            except ValueError:
+                print("La position 'Set Beast' n'est pas valide. Veuillez la définir correctement.")
+                return
+
+
+            # Récupérer la valeur de l'input
+            columns_value = int(self.bestiary_columns_input.get())
+
+            # Vérifier si la valeur est comprise entre 1 et 11
+            if 1 <= columns_value <= 11:
+                print(f"Nombre de colonnes validé : {columns_value}")
+
+                # Diviser le tableau 1D en lignes selon le nombre de colonnes (12 colonnes par ligne)
+                total_columns = 12  # Hypothèse : chaque ligne a 12 colonnes
+                grid = [self.chain_beast_points[i:i+total_columns] for i in range(0, len(self.chain_beast_points), total_columns)]
+
+                # Diviser le tableau grid en deux : Bestiary Orb et fill
+                bestiary_orb = []  # Tableau Bestiary Orb
+                fill = []  # Tableau fill
+
+                # Pour chaque ligne dans le grid, diviser selon le nombre de colonnes spécifié
+                for row in grid:
+                    bestiary_orb.append(row[:columns_value])  # Les premières colonnes
+                    fill.append(row[columns_value:])  # Les colonnes restantes
+
+                print(f"Tableau 'Bestiary Orb' : {bestiary_orb}")
+                print(f"Tableau 'fill' : {fill}")
+
+                # Aplatir les tableaux Bestiary Orb et fill en une seule dimension
+                bestiary_orb_flat = [pos for sublist in bestiary_orb for pos in sublist]
+                fill_flat = [pos for sublist in fill for pos in sublist]
+
+                pyautogui.PAUSE = 0.001
+
+                # Ramener "Path of Exile" au premier plan
+                poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
+                poe_window.activate()
+
+                # Boucle sur chaque position de bestiary_orb_flat
+                for first_point in bestiary_orb_flat:
+                    first_x, first_y = first_point['x'], first_point['y']
+
+                    # Appeler la méthode check sur la position actuelle
+                    is_orb_found, copied_text = self.check(first_x, first_y, "Bestiary Orb")
+
+                    if is_orb_found:
+                        # Utiliser une regex pour trouver "Stack Size: X/10"
+                        match = re.search(r"Stack Size: (\d+)/10", copied_text)
+                        if match:
+                            # Extraire le nombre d'orbes avant /10
+                            orb_count = int(match.group(1))
+                            print(f"Orbes trouvés à la position ({first_x}, {first_y}): {orb_count}")
+
+                            # Vérifier si le nombre d'orbes est compris entre 1 et 10
+                            if 1 <= orb_count <= 10:
+                                total_orbs = orb_count
+                                print(f"Nombre d'orbes disponible : {total_orbs}")
+                                # Appeler la fonction verify_and_iterate_positions avec les bons paramètres
+                                self.verify_and_iterate_positions(fill_flat, total_orbs, first_x, first_y)
+                        else:
+                            print("Aucun orbe trouvé à cette position.")
+                    else:
+                        print(f"Check n'a pas trouvé d'orbe à la position ({first_x}, {first_y}).")
+            else:
+                print("Le nombre de colonnes doit être compris entre 1 et 11.")
+        except ValueError:
+            print("Veuillez entrer un nombre valide.")
+
+    def verify_and_iterate_positions(self, tableau, nombre, pos_x, pos_y):
+        """
+        Vérifie si le tableau contient suffisamment de positions pour le nombre passé en paramètre.
+        Si le nombre de positions >= nombre, effectue les actions avec des délais aléatoires entre 0.17 et 0.25 secondes.
+        """
+        if len(tableau) >= nombre:
+            print("ok")
+
+            # Boucle pour effectuer l'action 'nombre' fois
+            for i in range(nombre):
+                if not tableau:
+                    print("Tableau vide, arrêt de la boucle.")
+                    break
+
+                # Positionnement sur la position x;y et clic droit
+                pyautogui.moveTo(pos_x, pos_y)
+                time.sleep(random.uniform(0.17, 0.25))  # Délai aléatoire
+                pyautogui.rightClick()
+                time.sleep(random.uniform(0.17, 0.25))  # Délai aléatoire
+
+                # Aller à la position set_beast_value (extraire x et y de set_beast_value)
+                try:
+                    beast_x, beast_y = map(int, self.set_beast_value.split(';'))
+                    pyautogui.moveTo(beast_x, beast_y)
+                    time.sleep(random.uniform(0.17, 0.25))  # Délai aléatoire
+                    pyautogui.click()
+                    time.sleep(random.uniform(0.17, 0.25))  # Délai aléatoire
+                except ValueError:
+                    print("set_beast_value n'est pas valide.")
+                    return
+
+                # Aller à la première position du tableau fill
+                first_position = tableau[0]
+                pyautogui.moveTo(first_position['x'], first_position['y'])
+                time.sleep(random.uniform(0.17, 0.25))  # Délai aléatoire
+                pyautogui.click()
+                time.sleep(random.uniform(0.17, 0.25))  # Délai aléatoire
+
+                # Retirer la première position du tableau
+                tableau.pop(0)
+                print(f"Position {i+1} effectuée. Restant: {len(tableau)} positions.")
+        else:
+            print(f"Nombre de positions insuffisant. Nombre requis: {nombre}, trouvé: {len(tableau)}")
+
+
+
+    def check(self, x, y, text):
+        """
+        Déplace la souris à la position x, y, effectue un copier,
+        et retourne True si la chaîne text est présente dans le texte copié, False sinon
+        """
+
+        # Déplacer la souris à la position x, y
+        pyautogui.moveTo(x, y)
+
+        # Simuler un clic gauche pour activer la zone
+        #pyautogui.click()
+
+        # Attendre une petite pause pour s'assurer que la zone est activée
+        time.sleep(0.05)
+
+        # Simuler le raccourci clavier Ctrl+C pour copier
+        pyautogui.hotkey('ctrl', 'c')
+
+        # Attendre un moment pour que le texte soit copié
+        time.sleep(0.05)
+
+        # Récupérer le texte copié depuis le presse-papiers
+        copied_text = pyperclip.paste()
+
+        # Afficher le texte copié dans la console
+        #print(f"Texte copié après déplacement à ({x}, {y}): {copied_text}")
+
+        # Vérifier si la chaîne est présente dans le texte copié
+        if text in copied_text:
+            return True, copied_text
+        else:
+            return False, copied_text
+
+
+
+    def open_chain_beast_popup(self):
+        # Créer la fenêtre popup
+        popup = tk.Toplevel(self.root)
+        popup.title("Chain Beast Popup")
+        popup.geometry("600x400")  # Taille initiale de la popup
+        popup.minsize(400, 300)  # Taille minimale pour éviter que le contenu ne disparaisse
+        popup.attributes("-topmost", True)  # Garder la fenêtre toujours au premier plan
+        popup.attributes("-alpha", 0.4)  # Rendre la fenêtre semi-transparente
+        popup.overrideredirect(True)  # Supprimer la barre de titre et la croix de fermeture
+
+        # Configuration de la grille pour le layout
+        popup.grid_rowconfigure(0, weight=1)  # Row 0 pour les points rouges
+        popup.grid_rowconfigure(1, weight=0)  # Row 1 pour le bouton Close
+        popup.grid_columnconfigure(0, weight=1)
+
+        # Créer une frame pour les points rouges
+        points_frame = tk.Frame(popup, bg='white')
+        points_frame.grid(row=0, column=0, sticky="nsew", padx=10, pady=10)
+
+        # Créer une grille de 12x5 points rouges (60 points au total)
+        rows, cols = 5, 12  # Définir la grille de 12 colonnes et 5 rangées
+        self.point_canvases = []  # Liste pour stocker les canvases (pour les redimensionner ensuite)
+
+        for row in range(rows):
+            for col in range(cols):
+                # Canvas pour créer un point rouge
+                canvas = tk.Canvas(points_frame, width=20, height=20, bg='white', highlightthickness=0)
+                canvas.create_oval(5, 5, 15, 15, fill='red')  # Créer un cercle rouge
+                canvas.grid(row=row, column=col, padx=5, pady=5, sticky='nsew')  # Répartir uniformément
+                self.point_canvases.append(canvas)
+
+        # Configuration pour que les colonnes et lignes se redimensionnent
+        for col in range(cols):
+            points_frame.grid_columnconfigure(col, weight=1, uniform="col")
+        for row in range(rows):
+            points_frame.grid_rowconfigure(row, weight=1)
+
+        # Frame séparée pour le bouton "Close"
+        close_button_frame = tk.Frame(popup, bg='white')
+        close_button_frame.grid(row=1, column=0, sticky="ew")
+
+        # Fonction pour récupérer les positions des centres des points rouges et les sauvegarder
+        def save_and_close():
+            print("Positions des centres des points rouges :")
+            self.chain_beast_points = []  # Initialiser une liste pour stocker les coordonnées
+            for canvas in self.point_canvases:
+                # Obtenir la position du canvas sur l'écran
+                x = canvas.winfo_rootx() + canvas.winfo_width() // 2
+                y = canvas.winfo_rooty() + canvas.winfo_height() // 2
+                self.chain_beast_points.append({"x": x, "y": y})  # Stocker les coordonnées
+                print(f"Centre du point rouge: ({x}, {y})")
+
+            # Appeler la fonction save_settings pour sauvegarder les données
+            self.save_settings()
+
+            # Mettre à jour le tableau avec les nouvelles coordonnées
+            #self.update_points_table()
+
+            # Fermer la fenêtre après avoir sauvegardé les positions
+            popup.destroy()
+
+        # Ajouter un bouton de fermeture en bas de la fenêtre
+        close_button = tk.Button(close_button_frame, text="Close", command=save_and_close, bg="green", fg="white")
+        close_button.pack(pady=10)
+
+        # Fonction pour redimensionner les points lors du redimensionnement de la fenêtre
+        def resize_points(event):
+            # Calculer la nouvelle taille des points en fonction de la taille de la fenêtre
+            new_width = event.width // cols - 10  # 10 pixels de marge
+            new_height = event.height // rows - 10  # 10 pixels de marge
+            for canvas in self.point_canvases:
+                canvas.config(width=new_width, height=new_height)
+                canvas.delete("all")  # Effacer l'ancien point
+                canvas.create_oval(5, 5, new_width - 5, new_height - 5, fill='red')
+
+        # Associer l'événement de redimensionnement
+        points_frame.bind("<Configure>", resize_points)
+
+        # Fonction pour déplacer la fenêtre sans barre de titre
+        def start_move(event):
+            popup.x = event.x
+            popup.y = event.y
+
+        def stop_move(event):
+            popup.x = None
+            popup.y = None
+
+        def on_move(event):
+            deltax = event.x - popup.x
+            deltay = event.y - popup.y
+            x = popup.winfo_x() + deltax
+            y = popup.winfo_y() + deltay
+            popup.geometry(f"+{x}+{y}")
+
+        # Liaison des événements de la souris pour déplacer la fenêtre
+        popup.bind("<ButtonPress-1>", start_move)
+        popup.bind("<ButtonRelease-1>", stop_move)
+        popup.bind("<B1-Motion>", on_move)
+
+        # Permettre le redimensionnement via les bords
+        def start_resize(event):
+            popup.resizing = {'x': event.x, 'y': event.y}
+
+        def stop_resize(event):
+            popup.resizing = None
+
+        def on_resize(event):
+            if popup.resizing:
+                deltax = event.x - popup.resizing['x']
+                deltay = event.y - popup.resizing['y']
+                new_width = popup.winfo_width() + deltax
+                new_height = popup.winfo_height() + deltay
+                popup.geometry(f"{new_width}x{new_height}")
+                popup.resizing['x'] = event.x
+                popup.resizing['y'] = event.y
+
+        # Associer l'événement de redimensionnement
+        popup.bind("<ButtonPress-3>", start_resize)  # Utiliser le clic droit pour commencer le redimensionnement
+        popup.bind("<B3-Motion>", on_resize)  # Maintenir le clic droit pour redimensionner
+        popup.bind("<ButtonRelease-3>", stop_resize)  # Relâcher le clic droit pour arrêter le redimensionnement
+
+
+
+
+    def show_divination_card_module(self):
+        self.update_tab_color(self.divination_card_tab)
+        self.create_divination_card_content()
+        self.divination_card_frame.grid(row=0, column=1, sticky="nsew")
+        self.load_settings()
+
+    def create_divination_card_content(self):
+        self.divination_card_frame = tk.Frame(self.root, bg=background_color)
+
+        title = tk.Label(self.divination_card_frame, text="Divination Card Exchange",
+                     font=("Arial", 14), bg=background_color, fg=text_color)
+        title.pack(pady=10)
+
+        btn_frame = tk.Frame(self.divination_card_frame, bg=background_color)
+        btn_frame.pack(pady=10)
+
+        set_btn = tk.Button(btn_frame, text="Set Inventory", command=self.open_div_card_inventory_popup,
+                        bg=button_color, fg=text_color)
+        set_btn.grid(row=0, column=0, padx=5)
+
+        # Bouton "Set Trade"
+        set_trade_button = tk.Button(btn_frame, text="Set Trade",
+                                          command=self.set_trade_action, bg=button_color, fg=text_color)
+        set_trade_button.grid(row=0, column=1, padx=5)
+
+        # Bouton "Set Confirm"
+        set_confirm_button = tk.Button(btn_frame, text="Set Confirm",
+                                     command=self.set_confirm_action, bg=button_color, fg=text_color)
+        set_confirm_button.grid(row=0, column=2, padx=5)
+
+
+        empty_space = tk.Label(btn_frame, text="", bg=background_color, height=1)
+        empty_space.grid(row=1, column=0, columnspan=2)
+
+        exchange_btn = tk.Button(btn_frame, text="Échanger les cartes", command=self.exchange_divination_cards,
+                             bg="green", fg="white")
+        exchange_btn.grid(row=2, column=0, padx=5)
+
+
+    def set_trade_action(self):
+        """ Afficher 'Set Beast' dans la console """
+        self.create_popup("Set Trade")
+
+    def set_confirm_action(self):
+        """ Afficher 'Set Beast' dans la console """
+        self.create_popup("Set Confirm")
+
+    def open_div_card_inventory_popup(self):
+        popup = tk.Toplevel(self.root)
+        popup.title("Set Inventory - Divination Card")
+        popup.geometry("600x400")
+        popup.minsize(400, 300)
+        popup.attributes("-topmost", True)
+        popup.attributes("-alpha", 0.4)
+        popup.overrideredirect(True)
+
+        popup.grid_rowconfigure(0, weight=1)
+        popup.grid_rowconfigure(1, weight=0)
+        popup.grid_columnconfigure(0, weight=1)
+
+        points_frame = tk.Frame(popup, bg='white')
+        points_frame.grid(row=0, column=0, sticky="nsew", padx=10, pady=10)
+
+        rows, cols = 5, 12
+        self.div_card_canvases = []
+
+        for row in range(rows):
+            for col in range(cols):
+                canvas = tk.Canvas(points_frame, width=20, height=20, bg='white', highlightthickness=0)
+                canvas.create_oval(5, 5, 15, 15, fill='red')
+                canvas.grid(row=row, column=col, padx=5, pady=5, sticky='nsew')
+                self.div_card_canvases.append(canvas)
+
+        for col in range(cols):
+            points_frame.grid_columnconfigure(col, weight=1, uniform="col")
+        for row in range(rows):
+            points_frame.grid_rowconfigure(row, weight=1)
+
+        close_button_frame = tk.Frame(popup, bg='white')
+        close_button_frame.grid(row=1, column=0, sticky="ew")
+
+        def save_and_close():
+            print("Positions des centres des cartes divination :")
+            self.div_card_points = []
+            for canvas in self.div_card_canvases:
+                x = canvas.winfo_rootx() + canvas.winfo_width() // 2
+                y = canvas.winfo_rooty() + canvas.winfo_height() // 2
+                self.div_card_points.append({"x": x, "y": y})
+                print(f"Centre du point rouge: ({x}, {y})")
+
+            self.save_settings()
+            popup.destroy()
+
+        close_button = tk.Button(close_button_frame, text="Close", command=save_and_close, bg="green", fg="white")
+        close_button.pack(pady=10)
+
+        # Gestion du redimensionnement
+        def resize_points(event):
+            new_width = event.width // cols - 10
+            new_height = event.height // rows - 10
+            for canvas in self.div_card_canvases:
+                canvas.config(width=new_width, height=new_height)
+                canvas.delete("all")
+                canvas.create_oval(5, 5, new_width - 5, new_height - 5, fill='red')
+
+            points_frame.bind("<Configure>", resize_points)
+
+        # Déplacement de la popup
+        def start_move(event):
+            popup.x = event.x
+            popup.y = event.y
+
+        def stop_move(event):
+            popup.x = None
+            popup.y = None
+
+        def on_move(event):
+            deltax = event.x - popup.x
+            deltay = event.y - popup.y
+            x = popup.winfo_x() + deltax
+            y = popup.winfo_y() + deltay
+            popup.geometry(f"+{x}+{y}")
+
+        popup.bind("<ButtonPress-1>", start_move)
+        popup.bind("<ButtonRelease-1>", stop_move)
+        popup.bind("<B1-Motion>", on_move)
+
+        # Redimensionnement à la souris via clic droit
+        def start_resize(event):
+            popup.resizing = {'x': event.x, 'y': event.y}
+
+        def stop_resize(event):
+            popup.resizing = None
+
+        def on_resize(event):
+            if popup.resizing:
+                deltax = event.x - popup.resizing['x']
+                deltay = event.y - popup.resizing['y']
+                new_width = popup.winfo_width() + deltax
+                new_height = popup.winfo_height() + deltay
+                popup.geometry(f"{new_width}x{new_height}")
+                popup.resizing['x'] = event.x
+                popup.resizing['y'] = event.y
+
+        popup.bind("<ButtonPress-3>", start_resize)
+        popup.bind("<B3-Motion>", on_resize)
+        popup.bind("<ButtonRelease-3>", stop_resize)
+
+    def exchange_divination_cards(self):
+        self.load_settings()
+
+        # Récupération des paramètres
+        div_card_points = getattr(self, 'div_card_points', None)
+        set_trade_str = getattr(self, 'set_trade_value', None)
+        set_confirm_str = getattr(self, 'set_confirm_value', None)
+
+        # Vérification des paramètres manquants
+        missing_settings = []
+        if not div_card_points:
+            missing_settings.append('div_card_points')
+        if not set_trade_str:
+            missing_settings.append('set_trade')
+        if not set_confirm_str:
+            missing_settings.append('set_confirm')
+
+        if missing_settings:
+            print("Les paramètres suivants ne sont pas configurés :", ", ".join(missing_settings))
+            return
+
+        # Vérification du format de div_card_points
+        if not isinstance(div_card_points, list) or not all(
+                isinstance(pos, dict) and 'x' in pos and 'y' in pos for pos in div_card_points):
+            print("Format invalide pour div_card_points. Attendu : liste de dictionnaires {'x': int, 'y': int}")
+            return
+
+        # Vérification du format de set_trade et set_confirm
+        try:
+            trade_x, trade_y = map(int, set_trade_str.split(";"))
+            confirm_x, confirm_y = map(int, set_confirm_str.split(";"))
+        except ValueError:
+            print("Format invalide pour set_trade ou set_confirm. Attendu : chaîne 'x;y'")
+            return
+
+        pyautogui.PAUSE = 0.001
+
+        # Activation de la fenêtre du jeu
+        try:
+            poe_window = gw.getWindowsWithTitle('Path of Exile')[0]
+            poe_window.activate()
+        except IndexError:
+            print("Fenêtre Path of Exile non trouvée.")
+            return
+
+        # Diviser les points en lignes de 12 colonnes
+        total_columns = 12
+        grid = [div_card_points[i:i+total_columns] for i in range(0, len(div_card_points), total_columns)]
+
+        # Parcours colonne par colonne
+        for col in range(total_columns):
+            for row in range(len(grid)):
+                try:
+                    pos = grid[row][col]
+                    pyautogui.moveTo(pos['x'], pos['y'])
+                    time.sleep(0.1)
+                    pyautogui.hotkey('ctrl', 'c')
+                    time.sleep(0.1)
+
+                    copied_text = pyperclip.paste()
+                    print(f"Contenu copié : {copied_text}")
+
+                    if "Item Class: Divination Cards" not in copied_text:
+                        print("L'élément n'est pas une carte de divination. Opération annulée.")
+                        return
+
+                    pyautogui.keyDown('ctrl')
+                    pyautogui.click(button='left')
+                    pyautogui.keyUp('ctrl')
+                    time.sleep(random.uniform(0.17, 0.25))
+
+                    pyautogui.moveTo(trade_x, trade_y)
+                    time.sleep(random.uniform(0.17, 0.25))
+                    pyautogui.click()
+                    time.sleep(random.uniform(0.17, 0.25))
+
+                    pyautogui.moveTo(confirm_x, confirm_y)
+                    new_copied_text = safe_copy(copied_text)
+                    print(f"Contenu après confirm : {new_copied_text}")
+
+                    if "Item Class: Stackable Currency" not in new_copied_text:
+                        print("Erreur : la classe de l'objet n'a pas changé. Opération annulée.")
+                        return
+
+                    if copied_text == new_copied_text or new_copied_text == "":
+                        print("Erreur : le contenu n'a pas changé après la confirmation. Opération annulée.")
+                        return
+
+                    pyautogui.keyDown('ctrl')
+                    pyautogui.click(button='left')
+                    pyautogui.keyUp('ctrl')
+                    time.sleep(0.25)
+
+                except Exception as e:
+                    print(f"Erreur lors du traitement de la position {pos} : {e}")
+                    return
+
+
+
     def create_footer(self):
         # Création d'un Frame pour le footer
         self.footer_frame = tk.Frame(self.root, bg=background_color)
@@ -624,9 +1414,9 @@ class App:
                             distance = ((x_mouse - x) ** 2 + (y_mouse - y) ** 2) ** 0.5
                             if distance > 10:
                                 break
-                            time.sleep(self.craft_delay_var.get()/2)
+                            time.sleep(self.craft_delay_var.get()/3)
                             pyautogui.leftClick()
-                            time.sleep(self.craft_delay_var.get()/2)
+                            time.sleep(self.craft_delay_var.get()/3)
                             # Simulation de la pression des touches Ctrl+C
                             # Presser et relâcher la touche 'Ctrl'
                             pyautogui.keyDown('ctrl')
@@ -634,6 +1424,7 @@ class App:
                             pyautogui.keyUp('ctrl')
                             # Accès au contenu du presse-papier
                             clipboard_content = pyperclip.paste()
+                            time.sleep(self.craft_delay_var.get()/3)
                             g_count, r_count, b_count = self.extract_socket_colors(clipboard_content)
                             socket = g_count + r_count + b_count
                             if socket >= int(self.socket_entry.get()):
@@ -675,9 +1466,9 @@ class App:
                                 distance = ((x_mouse - x) ** 2 + (y_mouse - y) ** 2) ** 0.5
                                 if distance > 10:
                                     break
-                                time.sleep(self.craft_delay_var.get()/2)
+                                time.sleep(self.craft_delay_var.get()/3)
                                 pyautogui.leftClick()
-                                time.sleep(self.craft_delay_var.get()/2)
+                                time.sleep(self.craft_delay_var.get()/3)
                                 # Simulation de la pression des touches Ctrl+C
                                 # Presser et relâcher la touche 'Ctrl'
                                 pyautogui.keyDown('ctrl')
@@ -685,6 +1476,7 @@ class App:
                                 pyautogui.keyUp('ctrl')
                                 # Accès au contenu du presse-papier
                                 clipboard_content = pyperclip.paste()
+                                time.sleep(self.craft_delay_var.get()/3)
                                 link = self.extract_link_count(clipboard_content)
                                 # print(link)
                             print("STOP --------------------------------")
@@ -729,9 +1521,9 @@ class App:
                                 distance = ((x_mouse - x) ** 2 + (y_mouse - y) ** 2) ** 0.5
                                 if distance > 10:
                                     break
-                                time.sleep(self.craft_delay_var.get()/2)
+                                time.sleep(self.craft_delay_var.get()/3)
                                 pyautogui.leftClick()
-                                time.sleep(self.craft_delay_var.get()/2)
+                                time.sleep(self.craft_delay_var.get()/3)
                                 # Simulation de la pression des touches Ctrl+C
                                 # Presser et relâcher la touche 'Ctrl'
                                 pyautogui.keyDown('ctrl')
@@ -739,6 +1531,7 @@ class App:
                                 pyautogui.keyUp('ctrl')
                                 # Accès au contenu du presse-papier
                                 clipboard_content = pyperclip.paste()
+                                time.sleep(self.craft_delay_var.get()/3)
                                 g_count, r_count, b_count = self.extract_socket_colors(clipboard_content)
                                 if g_count >= int(self.green_entry.get()) and r_count >= int(self.red_entry.get()) \
                                         and b_count >= int(self.blue_entry.get()):
@@ -793,6 +1586,16 @@ class App:
             # Ajouter l'état des boutons de currency
             new_settings['currency_button_states'] = {name: var for name, var in self.currency_button_states.items()}
 
+        # Si l'onglet "Beast Recuperation" est actif, ajouter les coordonnées des points rouges
+        if self.get_current_tab() == "Beast Recuperation":
+            new_settings['chain_beast_points'] = self.chain_beast_points
+            new_settings['set_beast'] = self.currency_button_states.get("Set Beast", "")
+
+        if self.get_current_tab() == "Divination Card":
+            new_settings['div_card_points'] = self.div_card_points
+            new_settings['set_trade'] = self.currency_button_states.get("Set Trade", "")
+            new_settings['set_confirm'] = self.currency_button_states.get("Set Confirm", "")
+
             # Charger les paramètres existants
         try:
             with open("settings.json", "r") as file:
@@ -834,6 +1637,16 @@ class App:
                 if self.get_current_tab() == "Currency":
                     self.update_button_colors()
 
+                # Charger les points rouges si l'onglet "Beast Recuperation" est actif
+                if self.get_current_tab() == "Beast Recuperation":
+                    self.chain_beast_points = settings.get("chain_beast_points", [])
+                    self.set_beast_value = settings.get("set_beast", "")
+
+                if self.get_current_tab() == "Divination Card":
+                    self.div_card_points = settings.get("div_card_points", "")
+                    self.set_trade_value = settings.get("set_trade", "")
+                    self.set_confirm_value = settings.get("set_confirm", "")
+
     def update_tab_color(self, selected_tab):
         """ Mettre à jour la couleur de fond du bouton d'onglet sélectionné """
         for tab in self.tabs:
@@ -859,5 +1672,5 @@ class App:
 # Créer la fenêtre principale
 root = tk.Tk()
 app = App(root)
-root.geometry("800x500")  # Définir une taille de fenêtre plus grande
+root.geometry("800x800")  # Définir une taille de fenêtre plus grande
 root.mainloop()
