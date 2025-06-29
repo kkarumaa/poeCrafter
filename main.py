@@ -2,7 +2,7 @@ import random
 import re
 import time
 import tkinter as tk
-from tkinter import ttk
+from tkinter import ttk, messagebox
 import os
 import json
 import pygetwindow as gw
@@ -405,79 +405,53 @@ class App:
     def create_basic_craft(self):
         self.basic_craft_frame = tk.Frame(self.root, bg=background_color)
         self.check_vars = {}
-        self.check_buttons = {}  # Pour stocker les références des boutons Checkbutton
+        self.check_buttons = {}
 
-        # Sous-frame pour les Checkbuttons
-        buttons_frame = tk.Frame(self.basic_craft_frame, bg=background_color)
-        buttons_frame.grid(row=0, column=0, padx=10, pady=10)
+        # Bouton Magic
+        self.check_vars["Magic"] = tk.BooleanVar()
+        self.check_buttons["Magic"] = ttk.Checkbutton(
+            self.basic_craft_frame,
+            text="Magic",
+            variable=self.check_vars["Magic"],
+            command=self.toggle_use_aug
+        )
+        self.check_buttons["Magic"].grid(row=0, column=0, padx=10, pady=10, sticky="w")
 
-        # Définition des options de crafting
-        crafting_options = [
-            "Magic", "Fossil 1", "Rare (chaos)",
-            "Use Aug?", "Fossil 2", "Rare (alchemy)",
-            "Implicit blue", "Fossil 3", "Essence",
-            "Implicit red", "Flask enchant", "Harvest"
-        ]
+        # Bouton Use Aug
+        self.check_vars["Use Aug?"] = tk.BooleanVar()
+        self.check_buttons["Use Aug?"] = ttk.Checkbutton(
+            self.basic_craft_frame,
+            text="Use Aug?",
+            variable=self.check_vars["Use Aug?"],
+        )
+        self.check_buttons["Use Aug?"].grid(row=0, column=1, padx=10, pady=10, sticky="w")
 
-        # Création des Checkbuttons pour les options de crafting
-        for i, option in enumerate(crafting_options):
-            self.check_vars[option] = tk.BooleanVar()
-
-            # Création du Checkbutton et enregistrement de sa référence
-            self.check_buttons[option] = ttk.Checkbutton(buttons_frame, text=option, variable=self.check_vars[option])
-
-            # Configuration de la commande à exécuter sur action
-            if option == "Magic":
-                self.check_buttons[option].config(command=self.toggle_use_aug)
-
-            row = i // 3  # Calcule la rangée actuelle en divisant l'index par 3 (le nombre de colonnes)
-            column = i % 3  # Calcule la colonne actuelle en utilisant le modulo de 3
-            self.check_buttons[option].grid(row=row, column=column, padx=5, pady=5, sticky="w")
-
-        # Initialisation de "Use Aug?" comme désactivé si "Magic" n'est pas coché
+        # Désactiver Use Aug? si Magic non coché
         self.toggle_use_aug()
 
-        # Barre de recherche
-        search_frame = tk.Frame(self.basic_craft_frame, bg=background_color)
-        search_frame.grid(row=1, column=0, padx=10, pady=(0, 10), sticky="ew")
+        # Champ regex
+        regex_label = tk.Label(
+            self.basic_craft_frame,
+            text="Regex:",
+            foreground=text_color,
+            background=background_color
+        )
+        regex_label.grid(row=1, column=0, padx=10, pady=10, sticky="w")
 
-        # Champ de saisie pour la recherche
-        self.search_var = tk.StringVar()
-        search_entry = tk.Entry(search_frame, textvariable=self.search_var, fg='white', bg='#142131',
-                                insertbackground='white')
-        search_entry.grid(row=0, column=0, padx=(10, 0), pady=10, sticky="ew")
-        search_entry.insert(0, "Search something...")
+        self.regex_var = tk.StringVar()
+        vcmd = self.root.register(lambda P: len(P) <= 250)
+        self.regex_entry = tk.Entry(
+            self.basic_craft_frame,
+            textvariable=self.regex_var,
+            validate="key",
+            validatecommand=(vcmd, "%P"),
+            fg="white",
+            bg="#142131",
+            insertbackground="white"
+        )
+        self.regex_entry.grid(row=1, column=1, padx=10, pady=10, sticky="ew")
 
-        # Fonction pour vider le texte du champ de recherche lorsqu'il est cliqué
-        def clear_search_entry(event):
-            search_entry.delete(0, tk.END)
-
-        # Fonction pour restaurer le texte du champ de recherche si vide lorsque le champ perd le focus
-        def restore_search_entry(event):
-            if not search_entry.get():
-                search_entry.insert(0, "Search something...")
-
-        # Liaison de la fonction au clic gauche sur le champ de recherche
-        search_entry.bind("<Button-1>", clear_search_entry)
-        search_entry.bind("<FocusOut>", restore_search_entry)
-
-        # Combobox pour les options de recherche avec les éléments de la capture d'écran
-        combobox_options = [
-            "abyss_p", "abyss_s", "cluster_p", "cluster_s", "flask_p", "flask_s",
-            "implicit", "item_p", "item_s", "jewel_p", "jewel_s"
-        ]
-
-        # Combobox pour les options de recherche
-        self.search_options = tk.StringVar()
-        search_combobox = ttk.Combobox(search_frame, textvariable=self.search_options, values=combobox_options,
-                                       state='readonly')
-        search_combobox.grid(row=0, column=1, padx=(5, 10), pady=10, sticky="ew")
-        search_combobox.set('abyss_p')
-
-        # Configuration de la sous-frame pour étendre le champ de saisie en fonction de l'espace disponible
-        search_frame.grid_columnconfigure(0, weight=1)
-
-        # Afficher le cadre de crafting de base
+        self.basic_craft_frame.grid_columnconfigure(1, weight=1)
         self.basic_craft_frame.grid(row=0, column=1, sticky="nsew", padx=10, pady=10)
 
     def toggle_use_aug(self):
@@ -1371,6 +1345,10 @@ class App:
         poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
         poe_window.activate()
 
+        if self.get_current_tab() == "Basic Craft":
+            self.run_basic_craft()
+            return
+
         print("Start Craft " + str(currency_used))
         print(self.set_item_var)
         # Extraction des coordonnées x et y à partir de self.set_item_var
@@ -1540,6 +1518,57 @@ class App:
                             print("STOP --------------------------------")
                             # Relâcher la touche Shift
                             pyautogui.keyUp('shift')
+
+    def run_basic_craft(self):
+        """Loop crafting for the Basic Craft tab."""
+        # Vérifications des positions nécessaires
+        alteration_pos = self.currency_button_states.get("Alteration", "")
+        augment_pos = self.currency_button_states.get("Augment", "")
+
+        if not self.set_item_var or alteration_pos == "":
+            messagebox.showinfo("Info", "Veuillez définir Set item et Alteration")
+            return
+
+        if self.check_vars["Use Aug?"].get() and augment_pos == "":
+            messagebox.showinfo("Info", "Veuillez définir Augment")
+            return
+
+        pattern = self.regex_var.get()
+        if not pattern:
+            messagebox.showinfo("Info", "Regex manquante")
+            return
+
+        regex = re.compile(pattern)
+
+        item_x, item_y = map(int, self.set_item_var.split(';'))
+        alt_x, alt_y = map(int, alteration_pos.split(';'))
+        if self.check_vars["Use Aug?"].get():
+            aug_x, aug_y = map(int, augment_pos.split(';'))
+
+        while True:
+            _, item_text = self.check(item_x, item_y, "")
+            if regex.search(item_text):
+                messagebox.showinfo("Info", "craft finis")
+                break
+
+            same, _ = self.check(alt_x, alt_y, item_text)
+            if same:
+                messagebox.showinfo("Info", "craft finis")
+                break
+            pyautogui.rightClick()
+            pyautogui.moveTo(item_x, item_y, duration=self.mouse_move_time_var.get())
+            pyautogui.click()
+            time.sleep(self.craft_delay_var.get())
+
+            if self.check_vars["Use Aug?"].get():
+                same, _ = self.check(aug_x, aug_y, item_text)
+                if same:
+                    messagebox.showinfo("Info", "craft finis")
+                    break
+                pyautogui.rightClick()
+                pyautogui.moveTo(item_x, item_y, duration=self.mouse_move_time_var.get())
+                pyautogui.click()
+                time.sleep(self.craft_delay_var.get())
 
     def extract_socket_colors(self, clipboard_content):
         lines = clipboard_content.split('\n')
