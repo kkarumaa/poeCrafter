@@ -124,8 +124,14 @@ def run_basic_craft(app):
 
     item_x, item_y = map(int, app.set_item_var.split(';'))
     alt_x, alt_y = map(int, alteration_pos.split(';'))
-    if app.check_vars["Use Aug?"].get():
+    use_aug = app.check_vars["Use Aug?"].get()
+    if use_aug:
         aug_x, aug_y = map(int, augment_pos.split(';'))
+    else:
+        pyautogui.moveTo(alt_x, alt_y)
+        pyautogui.rightClick()
+        pyautogui.moveTo(item_x, item_y)
+        pyautogui.keyDown('shift')
 
     while True:
         _, item_text = check(item_x, item_y, "")
@@ -133,20 +139,26 @@ def run_basic_craft(app):
             messagebox.showinfo("Info", "craft finis")
             break
 
-        same, _ = check(alt_x, alt_y, item_text)
-        if same:
-            messagebox.showinfo("Info", "craft finis")
-            break
-        pyautogui.rightClick()
-        move_and_click(app, item_x, item_y)
+        if use_aug:
+            same, _ = check(alt_x, alt_y, item_text)
+            if same:
+                messagebox.showinfo("Info", "craft finis")
+                break
+            pyautogui.rightClick()
+            move_and_click(app, item_x, item_y)
 
-        if app.check_vars["Use Aug?"].get():
             same, _ = check(aug_x, aug_y, item_text)
             if same:
                 messagebox.showinfo("Info", "craft finis")
                 break
             pyautogui.rightClick()
             move_and_click(app, item_x, item_y)
+        else:
+            move_and_click(app, item_x, item_y)
+        time.sleep(app.craft_delay_var.get())
+
+    if not use_aug:
+        pyautogui.keyUp('shift')
 
 
 def run_basic_craft_test(app):
@@ -175,8 +187,14 @@ def run_basic_craft_test(app):
 
     item_x, item_y = map(int, app.set_item_var.split(';'))
     alt_x, alt_y = map(int, alteration_pos.split(';'))
-    if app.check_vars["Use Aug?"].get():
+    use_aug = app.check_vars["Use Aug?"].get()
+    if use_aug:
         aug_x, aug_y = map(int, augment_pos.split(';'))
+    else:
+        pyautogui.moveTo(alt_x, alt_y)
+        pyautogui.rightClick()
+        pyautogui.moveTo(item_x, item_y)
+        pyautogui.keyDown('shift')
 
     for i in range(10):
         _, item_text = check(item_x, item_y, "")
@@ -185,17 +203,17 @@ def run_basic_craft_test(app):
             print("Regex found or contained, stopping craft")
             break
 
-        same, _ = check(alt_x, alt_y, item_text)
-        print(f"Step {i+1}: alteration same -> {same}")
-        if same:
-            print("Alteration check failed, stopping craft")
-            break
-        pyautogui.rightClick()
-        move_and_click(app, item_x, item_y)
-        print(f"Applied Alteration at step {i+1}")
-        time.sleep(app.craft_delay_var.get())
+        if use_aug:
+            same, _ = check(alt_x, alt_y, item_text)
+            print(f"Step {i+1}: alteration same -> {same}")
+            if same:
+                print("Alteration check failed, stopping craft")
+                break
+            pyautogui.rightClick()
+            move_and_click(app, item_x, item_y)
+            print(f"Applied Alteration at step {i+1}")
+            time.sleep(app.craft_delay_var.get())
 
-        if app.check_vars["Use Aug?"].get():
             same, _ = check(aug_x, aug_y, item_text)
             print(f"Step {i+1}: augment same -> {same}")
             if same:
@@ -205,4 +223,11 @@ def run_basic_craft_test(app):
             move_and_click(app, item_x, item_y)
             print(f"Applied Augment at step {i+1}")
             time.sleep(app.craft_delay_var.get())
+        else:
+            move_and_click(app, item_x, item_y)
+            print(f"Applied Alteration at step {i+1}")
+            time.sleep(app.craft_delay_var.get())
+
+    if not use_aug:
+        pyautogui.keyUp('shift')
 
