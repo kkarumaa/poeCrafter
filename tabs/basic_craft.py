@@ -139,7 +139,6 @@ def run_basic_craft(app):
             break
         pyautogui.rightClick()
         move_and_click(app, item_x, item_y)
-        time.sleep(app.craft_delay_var.get())
 
         if app.check_vars["Use Aug?"].get():
             same, _ = check(aug_x, aug_y, item_text)
@@ -147,6 +146,7 @@ def run_basic_craft(app):
                 messagebox.showinfo("Info", "craft finis")
                 break
             pyautogui.rightClick()
+            move_and_click(app, item_x, item_y)
 
 
 def run_basic_craft_test(app):
