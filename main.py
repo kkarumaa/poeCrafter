@@ -819,6 +819,10 @@ class App:
             messagebox.showinfo("Info", "Regex manquante")
             return
 
+        # Ramener "Path of Exile" au premier plan
+        poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
+        poe_window.activate()
+
         regex = re.compile(pattern)
 
         item_x, item_y = map(int, self.set_item_var.split(';'))
@@ -865,6 +869,10 @@ class App:
         if not pattern:
             messagebox.showinfo("Info", "Regex manquante")
             return
+
+        # Ramener "Path of Exile" au premier plan
+        poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
+        poe_window.activate()
 
         regex = re.compile(pattern)
 
