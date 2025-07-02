@@ -12,6 +12,7 @@ from global_functions import (
     extract_socket_colors,
     move_mouse,
     check,
+    move_and_click,
 )
 
 
@@ -137,8 +138,7 @@ def run_basic_craft(app):
             messagebox.showinfo("Info", "craft finis")
             break
         pyautogui.rightClick()
-        move_mouse(app, item_x, item_y)
-        pyautogui.click()
+        move_and_click(app, item_x, item_y)
         time.sleep(app.craft_delay_var.get())
 
         if app.check_vars["Use Aug?"].get():
@@ -191,8 +191,7 @@ def run_basic_craft_test(app):
             print("Alteration check failed, stopping craft")
             break
         pyautogui.rightClick()
-        move_mouse(app, item_x, item_y)
-        pyautogui.click()
+        move_and_click(app, item_x, item_y)
         print(f"Applied Alteration at step {i+1}")
         time.sleep(app.craft_delay_var.get())
 
@@ -203,8 +202,7 @@ def run_basic_craft_test(app):
                 print("Augment check failed, stopping craft")
                 break
             pyautogui.rightClick()
-            move_mouse(app, item_x, item_y)
-            pyautogui.click()
+            move_and_click(app, item_x, item_y)
             print(f"Applied Augment at step {i+1}")
             time.sleep(app.craft_delay_var.get())
 

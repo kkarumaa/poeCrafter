@@ -18,6 +18,19 @@ def move_mouse(app, x, y):
     """Move the mouse according to global settings."""
     duration = app.mouse_move_time_var.get() if app.disable_mouse_teleport_var.get() else 0
     pyautogui.moveTo(x, y, duration=duration)
+    if app.random_delay_var.get():
+        time.sleep(random.uniform(0.17, 0.25))
+
+
+def move_and_click(app, x, y, button="left"):
+    """Move the mouse then perform a click using the given button."""
+    move_mouse(app, x, y)
+    if button == "right":
+        pyautogui.rightClick()
+    else:
+        pyautogui.click()
+    if app.random_delay_var.get():
+        time.sleep(random.uniform(0.17, 0.25))
 
 
 def safe_copy(old_copy: str) -> str:
