@@ -196,7 +196,7 @@ def run_basic_craft_test(app):
         pyautogui.moveTo(item_x, item_y)
         pyautogui.keyDown('shift')
 
-    for i in range(10):
+    for i in range(100):
         _, item_text = check(item_x, item_y, "")
         print(f"Step {i+1}: item text -> {item_text}")
         if regex.search(item_text) or pattern_lower in item_text.lower():
@@ -224,9 +224,8 @@ def run_basic_craft_test(app):
             print(f"Applied Augment at step {i+1}")
             time.sleep(app.craft_delay_var.get())
         else:
-            move_and_click(app, item_x, item_y)
+            pyautogui.click()
             print(f"Applied Alteration at step {i+1}")
-            time.sleep(app.craft_delay_var.get())
 
     if not use_aug:
         pyautogui.keyUp('shift')
