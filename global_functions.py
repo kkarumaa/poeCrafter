@@ -14,6 +14,12 @@ button_menu_color = "#0d1623"  # Couleur d'arrière-plan des boutons dans le men
 currency_used = 0
 
 
+def move_mouse(app, x, y):
+    """Move the mouse according to global settings."""
+    duration = app.mouse_move_time_var.get() if app.disable_mouse_teleport_var.get() else 0
+    pyautogui.moveTo(x, y, duration=duration)
+
+
 def safe_copy(old_copy: str) -> str:
     for _ in range(7):
         pyautogui.hotkey('ctrl', 'c')

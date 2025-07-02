@@ -4,7 +4,13 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import pyautogui
 import pyperclip
-from global_functions import background_color, text_color, button_color, extract_socket_colors
+from global_functions import (
+    background_color,
+    text_color,
+    button_color,
+    extract_socket_colors,
+    move_mouse,
+)
 
 
 def create_basic_craft(app):
@@ -114,7 +120,7 @@ def run_basic_craft(app):
             messagebox.showinfo("Info", "craft finis")
             break
         pyautogui.rightClick()
-        pyautogui.moveTo(item_x, item_y, duration=app.mouse_move_time_var.get())
+        move_mouse(app, item_x, item_y)
         pyautogui.click()
         time.sleep(app.craft_delay_var.get())
 
@@ -124,7 +130,7 @@ def run_basic_craft(app):
                 messagebox.showinfo("Info", "craft finis")
                 break
             pyautogui.rightClick()
-            pyautogui.moveTo(item_x, item_y, duration=app.mouse_move_time_var.get())
+            move_mouse(app, item_x, item_y)
             pyautogui.click()
             time.sleep(app.craft_delay_var.get())
 
