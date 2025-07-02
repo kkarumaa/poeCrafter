@@ -22,6 +22,7 @@ from global_functions import (
     safe_copy,
     extract_socket_colors,
     extract_link_count,
+    move_mouse,
 )
 
 from tabs import general, currency, no_mod_craft, basic_craft, beast_module, divination_card
@@ -837,7 +838,7 @@ class App:
                 messagebox.showinfo("Info", "craft finis")
                 break
             pyautogui.rightClick()
-            pyautogui.moveTo(item_x, item_y, duration=self.mouse_move_time_var.get())
+            move_mouse(self, item_x, item_y)
             pyautogui.click()
             time.sleep(self.craft_delay_var.get())
 
@@ -886,7 +887,7 @@ class App:
                 print("Alteration check failed, stopping craft")
                 break
             pyautogui.rightClick()
-            pyautogui.moveTo(item_x, item_y, duration=self.mouse_move_time_var.get())
+            move_mouse(self, item_x, item_y)
             pyautogui.click()
             print(f"Applied Alteration at step {i+1}")
             time.sleep(self.craft_delay_var.get())
@@ -898,7 +899,7 @@ class App:
                     print("Augment check failed, stopping craft")
                     break
                 pyautogui.rightClick()
-                pyautogui.moveTo(item_x, item_y, duration=self.mouse_move_time_var.get())
+                move_mouse(self, item_x, item_y)
                 pyautogui.click()
                 print(f"Applied Augment at step {i+1}")
                 time.sleep(self.craft_delay_var.get())
