@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import pyautogui
 import pyperclip
+import pygetwindow as gw
 from global_functions import (
     background_color,
     text_color,
@@ -61,11 +62,20 @@ def create_basic_craft(app):
     app.test_basic_button = tk.Button(
         app.basic_craft_frame,
         text="Test Basic Craft",
-        command=lambda: app.run_basic_craft_test(),
+        command=lambda: run_basic_craft_test(app),
         bg=button_color,
         fg=text_color
     )
     app.test_basic_button.grid(row=2, column=0, columnspan=2, pady=10)
+
+    app.start_basic_button = tk.Button(
+        app.basic_craft_frame,
+        text="Start",
+        command=lambda: run_basic_craft(app),
+        bg=button_color,
+        fg=text_color
+    )
+    app.start_basic_button.grid(row=3, column=0, columnspan=2, pady=10)
 
     app.basic_craft_frame.grid_columnconfigure(1, weight=1)
     app.basic_craft_frame.grid(row=0, column=1, sticky="nsew", padx=10, pady=10)
@@ -84,3 +94,116 @@ def show_basic_craft(app):
     create_basic_craft(app)
     app.basic_craft_frame.grid(row=0, column=1, sticky="nsew")
     app.load_settings()
+
+
+def run_basic_craft(app):
+    """Loop crafting for the Basic Craft tab."""
+    alteration_pos = app.currency_button_states.get("Alteration", "")
+    augment_pos = app.currency_button_states.get("Augment", "")
+
+    if not app.set_item_var or alteration_pos == "":
+        messagebox.showinfo("Info", "Veuillez définir Set item et Alteration")
+        return
+
+    if app.check_vars["Use Aug?"].get() and augment_pos == "":
+        messagebox.showinfo("Info", "Veuillez définir Augment")
+        return
+
+    pattern = app.regex_var.get()
+    if not pattern:
+        messagebox.showinfo("Info", "Regex manquante")
+        return
+
+    poe_window = gw.getWindowsWithTitle('Path of Exile')[0]
+    poe_window.activate()
+
+    regex = re.compile(pattern, re.IGNORECASE)
+    pattern_lower = pattern.lower()
+
+    item_x, item_y = map(int, app.set_item_var.split(';'))
+    alt_x, alt_y = map(int, alteration_pos.split(';'))
+    if app.check_vars["Use Aug?"].get():
+        aug_x, aug_y = map(int, augment_pos.split(';'))
+
+    while True:
+        _, item_text = app.check(item_x, item_y, "")
+        if regex.search(item_text) or pattern_lower in item_text.lower():
+            messagebox.showinfo("Info", "craft finis")
+            break
+
+        same, _ = app.check(alt_x, alt_y, item_text)
+        if same:
+            messagebox.showinfo("Info", "craft finis")
+            break
+        pyautogui.rightClick()
+        move_mouse(app, item_x, item_y)
+        pyautogui.click()
+        time.sleep(app.craft_delay_var.get())
+
+        if app.check_vars["Use Aug?"].get():
+            same, _ = app.check(aug_x, aug_y, item_text)
+            if same:
+                messagebox.showinfo("Info", "craft finis")
+                break
+            pyautogui.rightClick()
+
+
+def run_basic_craft_test(app):
+    """Run basic craft 10 times and log info each step."""
+    alteration_pos = app.currency_button_states.get("Alteration", "")
+    augment_pos = app.currency_button_states.get("Augment", "")
+
+    if not app.set_item_var or alteration_pos == "":
+        messagebox.showinfo("Info", "Veuillez définir Set item et Alteration")
+        return
+
+    if app.check_vars["Use Aug?"].get() and augment_pos == "":
+        messagebox.showinfo("Info", "Veuillez définir Augment")
+        return
+
+    pattern = app.regex_var.get()
+    if not pattern:
+        messagebox.showinfo("Info", "Regex manquante")
+        return
+
+    poe_window = gw.getWindowsWithTitle('Path of Exile')[0]
+    poe_window.activate()
+
+    regex = re.compile(pattern, re.IGNORECASE)
+    pattern_lower = pattern.lower()
+
+    item_x, item_y = map(int, app.set_item_var.split(';'))
+    alt_x, alt_y = map(int, alteration_pos.split(';'))
+    if app.check_vars["Use Aug?"].get():
+        aug_x, aug_y = map(int, augment_pos.split(';'))
+
+    for i in range(10):
+        _, item_text = app.check(item_x, item_y, "")
+        print(f"Step {i+1}: item text -> {item_text}")
+        if regex.search(item_text) or pattern_lower in item_text.lower():
+            print("Regex found or contained, stopping craft")
+            break
+
+        same, _ = app.check(alt_x, alt_y, item_text)
+        print(f"Step {i+1}: alteration same -> {same}")
+        if same:
+            print("Alteration check failed, stopping craft")
+            break
+        pyautogui.rightClick()
+        move_mouse(app, item_x, item_y)
+        pyautogui.click()
+        print(f"Applied Alteration at step {i+1}")
+        time.sleep(app.craft_delay_var.get())
+
+        if app.check_vars["Use Aug?"].get():
+            same, _ = app.check(aug_x, aug_y, item_text)
+            print(f"Step {i+1}: augment same -> {same}")
+            if same:
+                print("Augment check failed, stopping craft")
+                break
+            pyautogui.rightClick()
+            move_mouse(app, item_x, item_y)
+            pyautogui.click()
+            print(f"Applied Augment at step {i+1}")
+            time.sleep(app.craft_delay_var.get())
+
