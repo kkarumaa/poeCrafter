@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import pyautogui
 import pyperclip
-from global_functions import background_color, text_color, extract_socket_colors
+from global_functions import background_color, text_color, button_color, extract_socket_colors
 
 
 def create_basic_craft(app):
@@ -51,6 +51,15 @@ def create_basic_craft(app):
         insertbackground="white"
     )
     app.regex_entry.grid(row=1, column=1, padx=10, pady=10, sticky="ew")
+
+    app.test_basic_button = tk.Button(
+        app.basic_craft_frame,
+        text="Test Basic Craft",
+        command=lambda: app.run_basic_craft_test(),
+        bg=button_color,
+        fg=text_color
+    )
+    app.test_basic_button.grid(row=2, column=0, columnspan=2, pady=10)
 
     app.basic_craft_frame.grid_columnconfigure(1, weight=1)
     app.basic_craft_frame.grid(row=0, column=1, sticky="nsew", padx=10, pady=10)
