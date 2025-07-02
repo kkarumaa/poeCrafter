@@ -847,6 +847,62 @@ class App:
                     messagebox.showinfo("Info", "craft finis")
                     break
                 pyautogui.rightClick()
+
+    def run_basic_craft_test(self):
+        """Run basic craft 10 times and log info each step."""
+        alteration_pos = self.currency_button_states.get("Alteration", "")
+        augment_pos = self.currency_button_states.get("Augment", "")
+
+        if not self.set_item_var or alteration_pos == "":
+            messagebox.showinfo("Info", "Veuillez définir Set item et Alteration")
+            return
+
+        if self.check_vars["Use Aug?"].get() and augment_pos == "":
+            messagebox.showinfo("Info", "Veuillez définir Augment")
+            return
+
+        pattern = self.regex_var.get()
+        if not pattern:
+            messagebox.showinfo("Info", "Regex manquante")
+            return
+
+        regex = re.compile(pattern)
+
+        item_x, item_y = map(int, self.set_item_var.split(';'))
+        alt_x, alt_y = map(int, alteration_pos.split(';'))
+        if self.check_vars["Use Aug?"].get():
+            aug_x, aug_y = map(int, augment_pos.split(';'))
+
+        for i in range(10):
+            _, item_text = self.check(item_x, item_y, "")
+            print(f"Step {i+1}: item text -> {item_text}")
+            if regex.search(item_text):
+                print("Regex found, stopping craft")
+                break
+
+            same, _ = self.check(alt_x, alt_y, item_text)
+            print(f"Step {i+1}: alteration same -> {same}")
+            if same:
+                print("Alteration check failed, stopping craft")
+                break
+            pyautogui.rightClick()
+            pyautogui.moveTo(item_x, item_y, duration=self.mouse_move_time_var.get())
+            pyautogui.click()
+            print(f"Applied Alteration at step {i+1}")
+            time.sleep(self.craft_delay_var.get())
+
+            if self.check_vars["Use Aug?"].get():
+                same, _ = self.check(aug_x, aug_y, item_text)
+                print(f"Step {i+1}: augment same -> {same}")
+                if same:
+                    print("Augment check failed, stopping craft")
+                    break
+                pyautogui.rightClick()
+                pyautogui.moveTo(item_x, item_y, duration=self.mouse_move_time_var.get())
+                pyautogui.click()
+                print(f"Applied Augment at step {i+1}")
+                time.sleep(self.craft_delay_var.get())
+
     def save_settings(self):
         new_settings = {
             "random_delay": self.random_delay_var.get(),
