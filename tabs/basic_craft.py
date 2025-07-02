@@ -103,7 +103,8 @@ def run_basic_craft(app):
         messagebox.showinfo("Info", "Regex manquante")
         return
 
-    regex = re.compile(pattern)
+    regex = re.compile(pattern, re.IGNORECASE)
+    pattern_lower = pattern.lower()
     item_x, item_y = map(int, app.set_item_var.split(';'))
     alt_x, alt_y = map(int, alteration_pos.split(';'))
     if app.check_vars["Use Aug?"].get():
@@ -111,7 +112,7 @@ def run_basic_craft(app):
 
     while True:
         _, item_text = app.check(item_x, item_y, "")
-        if regex.search(item_text):
+        if regex.search(item_text) or pattern_lower in item_text.lower():
             messagebox.showinfo("Info", "craft finis")
             break
 
