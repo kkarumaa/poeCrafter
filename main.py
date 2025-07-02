@@ -603,14 +603,12 @@ class App:
         buttons_frame.pack(pady=10, fill=tk.X, expand=True)  # Le Frame se développe horizontalement
 
         # Création et positionnement des boutons avec la méthode grid
-        buttons_text = ["Start", "Set item", "Chain craft", "Chain area"]
+        buttons_text = ["Set item", "Chain craft", "Chain area"]
         for i, text in enumerate(buttons_text):
             button = tk.Button(buttons_frame, text=text, bg="#567eab",
                                fg=text_color)  # Utilisation d'une lambda fonction pour appeler on_currency_button_click avec le nom du bouton
             if text == "Set item":
                 button.config(command=lambda t=text: self.on_currency_button_click(t))
-            elif text == "Start":
-                button.config(command=lambda t=text: self.craft_item())
 
             button.grid(row=0, column=i, sticky="ew",
                         padx=10)  # Les boutons sont alignés horizontalement avec de l'espace entre eux
@@ -628,7 +626,7 @@ class App:
         poe_window.activate()
 
         if self.get_current_tab() == "Basic Craft":
-            self.run_basic_craft()
+            basic_craft.run_basic_craft(self)
             return
 
         print("Start Craft " + str(currency_used))
@@ -801,118 +799,6 @@ class App:
                             # Relâcher la touche Shift
                             pyautogui.keyUp('shift')
 
-    def run_basic_craft(self):
-        """Loop crafting for the Basic Craft tab."""
-        # Vérifications des positions nécessaires
-        alteration_pos = self.currency_button_states.get("Alteration", "")
-        augment_pos = self.currency_button_states.get("Augment", "")
-
-        if not self.set_item_var or alteration_pos == "":
-            messagebox.showinfo("Info", "Veuillez définir Set item et Alteration")
-            return
-
-        if self.check_vars["Use Aug?"].get() and augment_pos == "":
-            messagebox.showinfo("Info", "Veuillez définir Augment")
-            return
-
-        pattern = self.regex_var.get()
-        if not pattern:
-            messagebox.showinfo("Info", "Regex manquante")
-            return
-
-        # Ramener "Path of Exile" au premier plan
-        poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
-        poe_window.activate()
-
-        regex = re.compile(pattern, re.IGNORECASE)
-        pattern_lower = pattern.lower()
-
-        item_x, item_y = map(int, self.set_item_var.split(';'))
-        alt_x, alt_y = map(int, alteration_pos.split(';'))
-        if self.check_vars["Use Aug?"].get():
-            aug_x, aug_y = map(int, augment_pos.split(';'))
-
-        while True:
-            _, item_text = self.check(item_x, item_y, "")
-            if regex.search(item_text) or pattern_lower in item_text.lower():
-                messagebox.showinfo("Info", "craft finis")
-                break
-
-            same, _ = self.check(alt_x, alt_y, item_text)
-            if same:
-                messagebox.showinfo("Info", "craft finis")
-                break
-            pyautogui.rightClick()
-            move_mouse(self, item_x, item_y)
-            pyautogui.click()
-            time.sleep(self.craft_delay_var.get())
-
-            if self.check_vars["Use Aug?"].get():
-                same, _ = self.check(aug_x, aug_y, item_text)
-                if same:
-                    messagebox.showinfo("Info", "craft finis")
-                    break
-                pyautogui.rightClick()
-
-    def run_basic_craft_test(self):
-        """Run basic craft 10 times and log info each step."""
-        alteration_pos = self.currency_button_states.get("Alteration", "")
-        augment_pos = self.currency_button_states.get("Augment", "")
-
-        if not self.set_item_var or alteration_pos == "":
-            messagebox.showinfo("Info", "Veuillez définir Set item et Alteration")
-            return
-
-        if self.check_vars["Use Aug?"].get() and augment_pos == "":
-            messagebox.showinfo("Info", "Veuillez définir Augment")
-            return
-
-        pattern = self.regex_var.get()
-        if not pattern:
-            messagebox.showinfo("Info", "Regex manquante")
-            return
-
-        # Ramener "Path of Exile" au premier plan
-        poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
-        poe_window.activate()
-
-        regex = re.compile(pattern, re.IGNORECASE)
-        pattern_lower = pattern.lower()
-
-        item_x, item_y = map(int, self.set_item_var.split(';'))
-        alt_x, alt_y = map(int, alteration_pos.split(';'))
-        if self.check_vars["Use Aug?"].get():
-            aug_x, aug_y = map(int, augment_pos.split(';'))
-
-        for i in range(10):
-            _, item_text = self.check(item_x, item_y, "")
-            print(f"Step {i+1}: item text -> {item_text}")
-            if regex.search(item_text) or pattern_lower in item_text.lower():
-                print("Regex found or contained, stopping craft")
-                break
-
-            same, _ = self.check(alt_x, alt_y, item_text)
-            print(f"Step {i+1}: alteration same -> {same}")
-            if same:
-                print("Alteration check failed, stopping craft")
-                break
-            pyautogui.rightClick()
-            move_mouse(self, item_x, item_y)
-            pyautogui.click()
-            print(f"Applied Alteration at step {i+1}")
-            time.sleep(self.craft_delay_var.get())
-
-            if self.check_vars["Use Aug?"].get():
-                same, _ = self.check(aug_x, aug_y, item_text)
-                print(f"Step {i+1}: augment same -> {same}")
-                if same:
-                    print("Augment check failed, stopping craft")
-                    break
-                pyautogui.rightClick()
-                move_mouse(self, item_x, item_y)
-                pyautogui.click()
-                print(f"Applied Augment at step {i+1}")
-                time.sleep(self.craft_delay_var.get())
 
     def save_settings(self):
         new_settings = {
