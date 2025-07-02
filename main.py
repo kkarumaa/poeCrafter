@@ -824,7 +824,8 @@ class App:
         poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
         poe_window.activate()
 
-        regex = re.compile(pattern)
+        regex = re.compile(pattern, re.IGNORECASE)
+        pattern_lower = pattern.lower()
 
         item_x, item_y = map(int, self.set_item_var.split(';'))
         alt_x, alt_y = map(int, alteration_pos.split(';'))
@@ -833,7 +834,7 @@ class App:
 
         while True:
             _, item_text = self.check(item_x, item_y, "")
-            if regex.search(item_text):
+            if regex.search(item_text) or pattern_lower in item_text.lower():
                 messagebox.showinfo("Info", "craft finis")
                 break
 
@@ -875,7 +876,8 @@ class App:
         poe_window = gw.getWindowsWithTitle('Path of Exile')[0]  # Remplacez par le titre exact de la fenêtre
         poe_window.activate()
 
-        regex = re.compile(pattern)
+        regex = re.compile(pattern, re.IGNORECASE)
+        pattern_lower = pattern.lower()
 
         item_x, item_y = map(int, self.set_item_var.split(';'))
         alt_x, alt_y = map(int, alteration_pos.split(';'))
@@ -885,8 +887,8 @@ class App:
         for i in range(10):
             _, item_text = self.check(item_x, item_y, "")
             print(f"Step {i+1}: item text -> {item_text}")
-            if regex.search(item_text):
-                print("Regex found, stopping craft")
+            if regex.search(item_text) or pattern_lower in item_text.lower():
+                print("Regex found or contained, stopping craft")
                 break
 
             same, _ = self.check(alt_x, alt_y, item_text)
