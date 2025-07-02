@@ -10,6 +10,8 @@ from global_functions import (
     text_color,
     button_color,
     extract_socket_colors,
+    move_mouse,
+    check,
     move_and_click,
 )
 
@@ -126,12 +128,12 @@ def run_basic_craft(app):
         aug_x, aug_y = map(int, augment_pos.split(';'))
 
     while True:
-        _, item_text = app.check(item_x, item_y, "")
+        _, item_text = check(item_x, item_y, "")
         if regex.search(item_text) or pattern_lower in item_text.lower():
             messagebox.showinfo("Info", "craft finis")
             break
 
-        same, _ = app.check(alt_x, alt_y, item_text)
+        same, _ = check(alt_x, alt_y, item_text)
         if same:
             messagebox.showinfo("Info", "craft finis")
             break
@@ -140,7 +142,7 @@ def run_basic_craft(app):
         time.sleep(app.craft_delay_var.get())
 
         if app.check_vars["Use Aug?"].get():
-            same, _ = app.check(aug_x, aug_y, item_text)
+            same, _ = check(aug_x, aug_y, item_text)
             if same:
                 messagebox.showinfo("Info", "craft finis")
                 break
@@ -177,13 +179,13 @@ def run_basic_craft_test(app):
         aug_x, aug_y = map(int, augment_pos.split(';'))
 
     for i in range(10):
-        _, item_text = app.check(item_x, item_y, "")
+        _, item_text = check(item_x, item_y, "")
         print(f"Step {i+1}: item text -> {item_text}")
         if regex.search(item_text) or pattern_lower in item_text.lower():
             print("Regex found or contained, stopping craft")
             break
 
-        same, _ = app.check(alt_x, alt_y, item_text)
+        same, _ = check(alt_x, alt_y, item_text)
         print(f"Step {i+1}: alteration same -> {same}")
         if same:
             print("Alteration check failed, stopping craft")
@@ -194,7 +196,7 @@ def run_basic_craft_test(app):
         time.sleep(app.craft_delay_var.get())
 
         if app.check_vars["Use Aug?"].get():
-            same, _ = app.check(aug_x, aug_y, item_text)
+            same, _ = check(aug_x, aug_y, item_text)
             print(f"Step {i+1}: augment same -> {same}")
             if same:
                 print("Augment check failed, stopping craft")
