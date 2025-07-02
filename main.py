@@ -241,7 +241,7 @@ class App:
             first_point = self.chain_beast_points[0]
             x, y = first_point['x'], first_point['y']
             # Appeler la fonction check avec les coordonnées et le texte 'beast'
-            self.check(x, y, "beast")
+            check(x, y, "beast")
         else:
             print("Aucune position de Beast disponible.")
 
@@ -261,7 +261,7 @@ class App:
         # Parcourir toutes les positions et utiliser la fonction check
         for point in self.chain_beast_points:
             x, y = point['x'], point['y']
-            is_bestiary_orb, copied_text = self.check(x, y, "Bestiary Orb")
+            is_bestiary_orb, copied_text = check(x, y, "Bestiary Orb")
 
             if is_bestiary_orb:
                 # Rechercher le stack size dans le texte
@@ -297,7 +297,7 @@ class App:
             x, y = point['x'], point['y']
 
             # Vérifier la position actuelle par rapport à la précédente
-            is_empty, copied_text = self.check(x, y, previous_text)
+            is_empty, copied_text = check(x, y, previous_text)
 
             if is_empty:
                 empty_positions.append(index)
@@ -370,7 +370,7 @@ class App:
                     first_x, first_y = first_point['x'], first_point['y']
 
                     # Appeler la méthode check sur la position actuelle
-                    is_orb_found, copied_text = self.check(first_x, first_y, "Bestiary Orb")
+                    is_orb_found, copied_text = check(first_x, first_y, "Bestiary Orb")
 
                     if is_orb_found:
                         # Utiliser une regex pour trouver "Stack Size: X/10"
@@ -441,9 +441,6 @@ class App:
 
 
 
-    def check(self, x, y, text):
-        """Wrapper autour de la fonction globale check."""
-        return check(x, y, text)
 
 
 
