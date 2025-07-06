@@ -154,8 +154,8 @@ def run_basic_craft(app):
             pyautogui.rightClick()
             move_and_click(app, item_x, item_y)
         else:
-            move_and_click(app, item_x, item_y)
-        time.sleep(app.craft_delay_var.get())
+            pyautogui.click()
+
 
     if not use_aug:
         pyautogui.keyUp('shift')
