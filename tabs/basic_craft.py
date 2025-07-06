@@ -111,7 +111,7 @@ def run_basic_craft(app):
         messagebox.showinfo("Info", "Veuillez définir Augment")
         return
 
-    pattern = app.regex_var.get()
+    pattern = app.regex_var.get().strip()
     if not pattern:
         messagebox.showinfo("Info", "Regex manquante")
         return
@@ -174,7 +174,7 @@ def run_basic_craft_test(app):
         messagebox.showinfo("Info", "Veuillez définir Augment")
         return
 
-    pattern = app.regex_var.get()
+    pattern = app.regex_var.get().strip()
     if not pattern:
         messagebox.showinfo("Info", "Regex manquante")
         return
