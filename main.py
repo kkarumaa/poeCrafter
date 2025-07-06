@@ -9,6 +9,8 @@ import pygetwindow as gw
 
 import pyautogui
 import pyperclip
+import threading
+import keyboard
 
 from global_functions import (
     background_color,
@@ -893,4 +895,15 @@ class App:
 root = tk.Tk()
 app = App(root)
 root.geometry("800x800")  # Définir une taille de fenêtre plus grande
+
+
+def listen_for_exit():
+    """Stop the application when F12 is pressed."""
+    keyboard.wait('f12')
+    os._exit(0)
+
+
+# Start a background thread listening for the F12 key
+threading.Thread(target=listen_for_exit, daemon=True).start()
+
 root.mainloop()
