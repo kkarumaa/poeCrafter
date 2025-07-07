@@ -900,6 +900,8 @@ root.geometry("800x800")  # Définir une taille de fenêtre plus grande
 def listen_for_exit(key):
     """Stop the application when F12 is pressed."""
     if key == keyboard.Key.f12:
+        # release shift in case it was held down during crafting
+        pyautogui.keyUp('shift')
         os._exit(0)
 
 

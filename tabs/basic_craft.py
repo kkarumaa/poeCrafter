@@ -1,3 +1,4 @@
+import random
 import re
 import time
 import tkinter as tk
@@ -128,10 +129,10 @@ def run_basic_craft(app):
     if use_aug:
         aug_x, aug_y = map(int, augment_pos.split(';'))
     else:
-        pyautogui.moveTo(alt_x, alt_y)
-        pyautogui.rightClick()
+        move_and_click(app,alt_x, alt_y, "right")
         pyautogui.moveTo(item_x, item_y)
         pyautogui.keyDown('shift')
+        pyautogui.PAUSE = 0.010
 
     while True:
         _, item_text = check(item_x, item_y, "")
@@ -155,6 +156,7 @@ def run_basic_craft(app):
             move_and_click(app, item_x, item_y)
         else:
             pyautogui.click()
+            time.sleep(random.uniform(0.05, 0.17))
 
 
     if not use_aug:
@@ -191,10 +193,10 @@ def run_basic_craft_test(app):
     if use_aug:
         aug_x, aug_y = map(int, augment_pos.split(';'))
     else:
-        pyautogui.moveTo(alt_x, alt_y)
-        pyautogui.rightClick()
+        move_and_click(app,alt_x, alt_y, "right")
         pyautogui.moveTo(item_x, item_y)
         pyautogui.keyDown('shift')
+        pyautogui.PAUSE = 0.010
 
     for i in range(100):
         _, item_text = check(item_x, item_y, "")
@@ -225,6 +227,7 @@ def run_basic_craft_test(app):
             time.sleep(app.craft_delay_var.get())
         else:
             pyautogui.click()
+            time.sleep(random.uniform(0.05, 0.17))
             print(f"Applied Alteration at step {i+1}")
 
     if not use_aug:
