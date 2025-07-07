@@ -10,8 +10,6 @@ import pygetwindow as gw
 import pyautogui
 import pyperclip
 from pynput import keyboard
-import threading
-import keyboard
 
 
 from global_functions import (
