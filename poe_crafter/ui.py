@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import copy
+from functools import partial
 from typing import Any
 
 from pynput import keyboard
@@ -59,6 +60,7 @@ TEXT = {
         "coming": "Cette section est prévue, mais ses automatismes ne sont pas encore disponibles.",
         "status_ready": "Prêt", "stop": "Arrêter", "running": "Automatisme en cours…", "stop_requested": "Arrêt demandé…",
         "topmost": "La fenêtre reste toujours au premier plan", "migration_warning": "Les anciens réglages n’ont pas pu être lus.",
+        "position": "Position", "not_set": "non définie",
     },
     "en": {
         "general": "General", "currency": "Currency", "no_mod": "No Mod Craft", "basic": "Basic Craft",
@@ -83,6 +85,7 @@ TEXT = {
         "coming": "This section is planned, but its automation is not available yet.", "status_ready": "Ready",
         "stop": "Stop", "running": "Automation running…", "stop_requested": "Stop requested…",
         "topmost": "Keep the window always on top", "migration_warning": "The previous settings could not be read.",
+        "position": "Position", "not_set": "not set",
     },
 }
 
@@ -107,6 +110,7 @@ class CoordinateDialog(QDialog):
         self.rows = rows
         self.columns = columns
         self.points: list[QWidget] = []
+        self.saved_points: list[dict[str, int]] = []
         self.setWindowTitle(TEXT[language]["inventory_grid"] if rows else TEXT[language]["target"])
         self.setWindowOpacity(0.88)
         self.setMinimumSize(260, 180)
@@ -126,9 +130,10 @@ class CoordinateDialog(QDialog):
                     self.points.append(dot)
             layout.addWidget(grid_host, 1)
         else:
-            target = QLabel("●")
+            target = QLabel()
             target.setAlignment(Qt.AlignmentFlag.AlignCenter)
-            target.setStyleSheet("color:#e34d58; font-size:36px; background:#eef1f6; border-radius:12px;")
+            target.setFixedSize(20, 20)
+            target.setStyleSheet("background:#e34d58; border-radius:10px;")
             layout.addWidget(target, 1)
             self.points.append(target)
         actions = QHBoxLayout()
@@ -137,7 +142,7 @@ class CoordinateDialog(QDialog):
         cancel.clicked.connect(self.reject)
         save = QPushButton(TEXT[language]["save_positions"])
         save.setObjectName("primaryButton")
-        save.clicked.connect(self.accept)
+        save.clicked.connect(self._save_positions)
         actions.addWidget(cancel)
         actions.addWidget(save)
         layout.addLayout(actions)
@@ -151,8 +156,14 @@ class CoordinateDialog(QDialog):
         result = []
         for widget in self.points:
             center = widget.mapToGlobal(widget.rect().center())
-            result.append({"x": center.x(), "y": center.y()})
+            screen = QApplication.screenAt(center) or widget.screen() or QApplication.primaryScreen()
+            scale = screen.devicePixelRatio() if screen else 1.0
+            result.append({"x": round(center.x() * scale), "y": round(center.y() * scale)})
         return result
+
+    def _save_positions(self) -> None:
+        self.saved_points = self.global_points()
+        self.accept()
 
 
 class MainWindow(QMainWindow):
@@ -400,8 +411,10 @@ class MainWindow(QMainWindow):
                 if not name:
                     continue
                 button = QPushButton(name)
-                self._style_coordinate_button(button, bool(self.settings.get("currency_button_states", {}).get(name)))
-                button.clicked.connect(lambda checked=False, value=name: self._set_single_point("currency_button_states", value))
+                coordinate = self.settings.get("currency_button_states", {}).get(name, "")
+                self._style_coordinate_button(button, bool(coordinate))
+                button.setToolTip(f"{self.tr('position')} : {coordinate or self.tr('not_set')}")
+                button.clicked.connect(partial(self._set_currency_point, name))
                 grid.addWidget(button, row, column)
         layout.addStretch(1)
         return self._scroll(page)
@@ -534,11 +547,13 @@ class MainWindow(QMainWindow):
         group_values[key] = value
         self._set_setting(group, group_values)
 
-    def _save_settings(self) -> None:
+    def _save_settings(self) -> bool:
         try:
             self.store.save(self.settings)
         except OSError as exc:
             self.statusBar().showMessage(f"Impossible d’enregistrer les réglages : {exc}", 10000)
+            return False
+        return True
 
     def _change_language(self, language: str) -> None:
         if language not in TEXT or language == self.language:
@@ -553,23 +568,32 @@ class MainWindow(QMainWindow):
         dialog = CoordinateDialog(self, self.language)
         if dialog.exec() != QDialog.DialogCode.Accepted:
             return
-        point = dialog.global_points()[0]
+        point = dialog.saved_points[0]
         if key == "currency_button_states":
             currencies = dict(self.settings.get(key, {}))
             currencies[label] = f"{point['x']};{point['y']}"
             self.settings[key] = currencies
+            saved_value = currencies[label]
         else:
             self.settings[key] = f"{point['x']};{point['y']}"
-        self._save_settings()
+            saved_value = self.settings[key]
+        saved = self._save_settings()
+        if saved and key == "currency_button_states":
+            self.statusBar().showMessage(
+                f"{label} — {self.tr('position').lower()} : {saved_value}", 8000
+            )
         if self.current_page == "currency":
             self._build_pages()
             self._show_page("currency")
+
+    def _set_currency_point(self, name: str, _checked: bool = False) -> None:
+        self._set_single_point("currency_button_states", name)
 
     def _set_grid(self, key: str) -> None:
         dialog = CoordinateDialog(self, self.language, rows=5, columns=12)
         if dialog.exec() != QDialog.DialogCode.Accepted:
             return
-        self.settings[key] = dialog.global_points()
+        self.settings[key] = dialog.saved_points
         self._save_settings()
 
     def start_automation(self, action: str) -> None:
