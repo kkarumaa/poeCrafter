@@ -289,3 +289,6 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,python
+
+# Local Codex instructions
+AGENTS.md
