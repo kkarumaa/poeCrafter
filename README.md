@@ -43,7 +43,7 @@ L’exécutable est généré dans `dist/PoECrafter.exe`. La compilation doit se
 
 ## Envoyer les changements sur Git
 
-Après les vérifications, relire les changements et ne préparer que les fichiers concernés :
+Après les vérifications, relire le diff et ne préparer explicitement que les fichiers concernés :
 
 ```powershell
 git status --short
@@ -51,12 +51,18 @@ git diff --check
 git diff
 git add chemin/du/fichier
 git diff --cached
-git commit -m "Décrire le changement"
-git push origin HEAD
+git diff --cached --check
+git commit -m "Décrire le changement" -m "Expliquer en français ce qui change et son impact pour l’utilisateur."
+git push origin main
+git fetch origin
 git status --short --branch
 ```
 
-Remplacer `chemin/du/fichier` par les fichiers réellement concernés et répéter `git add` pour chacun. Ne pas utiliser `git add .` : les réglages locaux et autres fichiers sans rapport ne doivent pas être envoyés. `git push origin HEAD` pousse la branche courante.
+Remplacer `chemin/du/fichier` par les fichiers réellement concernés et répéter `git add` pour chacun. Ne pas utiliser `git add .` : les réglages locaux et autres fichiers sans rapport ne doivent pas être envoyés. Chaque commit doit avoir un titre court et un corps en français qui résume le changement et son impact utilisateur.
+
+Quand une demande de modification est claire et terminée, effectuer les vérifications, créer le commit et pousser directement sur `origin main`, sans demander de confirmation supplémentaire. Si la modification est incomplète, si une vérification échoue de manière bloquante ou si le diff contient des changements étrangers, suspendre le push et expliquer le problème.
+
+Après le push, vérifier que `main` est propre et synchronisée avec `origin/main` : `git status --short --branch` doit indiquer `main...origin/main` sans fichiers modifiés ni commits en avance ou en retard.
 
 ## Réglages
 
