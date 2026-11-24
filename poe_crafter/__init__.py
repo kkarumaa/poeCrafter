@@ -1,0 +1,1 @@
+"""PoE Crafter application package."""

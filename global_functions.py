@@ -1,76 +1,17 @@
-import random
-import time
-import pyautogui
-import pyperclip
+"""Pure helpers for parsing copied Path of Exile item text."""
 
-# Configuration des couleurs et styles
-background_color = "#242f3d"
-nav_bar_color = "#142131"
-general_tab_color = "#2395e0"
-text_color = "white"
-button_color = "#142131"  # Couleur des boutons
-button_menu_color = "#0d1623"  # Couleur d'arrière-plan des boutons dans le menu
-
-currency_used = 0
+from __future__ import annotations
 
 
-def move_mouse(app, x, y):
-    """Move the mouse according to global settings."""
-    duration = app.mouse_move_time_var.get() if app.disable_mouse_teleport_var.get() else 0
-    pyautogui.moveTo(x, y, duration=duration)
-    if app.random_delay_var.get():
-        time.sleep(random.uniform(0.10, 0.17))
-
-
-def move_and_click(app, x, y, button="left"):
-    """Move the mouse then perform a click using the given button."""
-    move_mouse(app, x, y)
-    if button == "right":
-        pyautogui.rightClick()
-    else:
-        pyautogui.click()
-    if app.random_delay_var.get():
-        time.sleep(random.uniform(0.10, 0.17))
-
-
-def safe_copy(old_copy: str) -> str:
-    for _ in range(7):
-        pyautogui.hotkey('ctrl', 'c')
-        time.sleep(0.05)
-        text = pyperclip.paste()
-        if text.strip() != "" and text != old_copy:
-            return text
-    return ""
-
-
-def check(x: int, y: int, text: str):
-    pyautogui.moveTo(x, y)
-    time.sleep(0.05)
-    pyautogui.hotkey('ctrl', 'c')
-    time.sleep(0.05)
-    copied_text = pyperclip.paste()
-    return (text in copied_text), copied_text
-
-
-def extract_socket_colors(clipboard_content: str):
-    lines = clipboard_content.split('\n')
-    for line in lines:
+def extract_socket_colors(clipboard_content: str) -> tuple[int, int, int]:
+    for line in clipboard_content.splitlines():
         if line.startswith("Sockets:"):
-            g_count = line.count('G')
-            r_count = line.count('R')
-            b_count = line.count('B')
-            return g_count, r_count, b_count
+            return line.count("G"), line.count("R"), line.count("B")
     return 0, 0, 0
 
 
-def extract_link_count(clipboard_content: str):
-    lines = clipboard_content.split('\n')
-    max_links = 0
-    for line in lines:
+def extract_link_count(clipboard_content: str) -> int:
+    for line in clipboard_content.splitlines():
         if line.startswith("Sockets:"):
-            socket_groups = line.split()[1:]
-            for group in socket_groups:
-                link_count = group.count('-')
-                max_links = max(max_links, link_count)
-            return max_links
+            return max((group.count("-") for group in line.split()[1:]), default=0)
     return 0

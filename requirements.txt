@@ -1,0 +1,7 @@
+# Runtime and Windows executable build dependencies (Python 3.12+).
+PySide6==6.12.0
+PyAutoGUI==0.9.54
+pyperclip==1.11.0
+PyGetWindow==0.0.9
+pynput==1.8.2
+pyinstaller==6.22.3
